@@ -1,11 +1,8 @@
-from math import sqrt
-
-class Section():
-    def __init__(self, CRN, course, professor, building, times):
+class Agenda():
+    def __init__(self, start, end):
         #Course.__init__(self, subject, numID) #should maybe use super() instead of Course
-        self.CRN = CRN #int, the CRN of the section
-        self.course = course #Course object
-        self.professor = professor #Professor object
-        self.GPA = professor.avgCourseGPA.get(course.ID,sqrt(professor.avgGPA*course.avgGPA)) #float, expected GPA of this section
-        self.building = building #string, building the section is in
-        self.times = times #Times Object
+        self.start = start
+        self.end = end
+        '''
+        plan here is to have start/end be ticks from 12:00 AM Monday
+        '''

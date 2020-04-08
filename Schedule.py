@@ -1,6 +1,7 @@
 class Schedule:
     def __init__(self):
         self.GPA = 0
+        self.sections = []
     def addSection(section):
         '''Adds a section of a course into this schedule
 
