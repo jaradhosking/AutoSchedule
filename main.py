@@ -1,7 +1,8 @@
+from Agenda import Agenda
 from Course import Course
-from Section import Section
 from Professor import Professor
-#from Schedule import Schedule
+from Schedule import Schedule
+from Section import Section
 
 chau = Professor("Duen Chao", 3.97, {"CX4x242":3.97},1.00,1)
 CX4242 = Course("CX",4242,3.79)

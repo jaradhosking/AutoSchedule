@@ -1,3 +1,6 @@
+from Agenda import Agenda
+from Section import Section
+
 class Schedule:
     def __init__(self):
         self.GPA = 0 #expected GPA of this schedule
