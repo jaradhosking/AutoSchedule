@@ -1,4 +1,5 @@
 from Agenda import Agenda
+from CustomErrors import *
 from Section import Section
 
 class Schedule:
@@ -19,6 +20,12 @@ class Schedule:
         Boolean: 1 if successful
 
         '''
+        for occupiedSlot in self.occupied:
+            for timeSlot in section.timeSlots:
+                if timeSlot.start in occupiedSlot.timeRange:
+                    raise ScheduleError("Something is already scheduled here!")
+                if timeSlot.end-1 in occupiedSlot.timeRange:
+                    raise ScheduleError("Something is already scheduled here!")
         self.sections.append(section)
         self.GPA = (self.GPA * self.creditHours + section.course.creditHours * section.GPA) / (self.creditHours + section.course.creditHours)
         for timeSlot in section.timeSlots:

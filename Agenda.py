@@ -17,6 +17,7 @@ class Agenda():
         print(start[0:2],'pls')
         self.start = (days*24*60+int(start[0:2])*60+int(start[2:]))
         self.end = (days*24*60+int(end[0:2])*60+int(end[2:]))
+        self.timeRange = range(self.start,self.end)
         '''
         start/end are minutes from 12:00 AM Sunday
         '''
