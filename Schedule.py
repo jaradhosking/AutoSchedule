@@ -21,3 +21,5 @@ class Schedule:
         '''
         self.sections.append(section)
         self.GPA = (self.GPA * self.creditHours + section.course.creditHours * section.GPA) / (self.creditHours + section.course.creditHours)
+        for timeSlot in section.timeSlots:
+            self.occupied.append(timeSlot)
