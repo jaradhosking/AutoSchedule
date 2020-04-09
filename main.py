@@ -47,20 +47,31 @@ def find_valid_schedules(course_list, valid_schedules):
 
 
 
-def find_credit_hour_options(rc,oc,ch_min,ch_max):
+def find_credit_hour_options(rcl,ocl,ch_range):
     '''Finds all possible course combinations of the optional courses
 
     Parameters:
-    rc (Course[]): list of the required courses
-    oc (Course[]): list of the optional courses
-    ch_min (int): minimum number of credit hours
-    ch_max (int): maximum number of chredit hours
+    rcl (Course[]): list of the required courses
+    ocl (Course[]): list of the optional courses
+    ch_range (list): Range(minimum,maximum+1) of number of credit hours to be taken
 
     Returns:
-    Course[][]: list of lists with possibile optional course combinations
+    Course[][]: list of lists with possible optional course combinations
 
     '''
-    #notimplemented
+    combinations_left = False
+    for oc in ocl:
+        if oc.creditHours in ch_range:
+            combinations_left = True
+    if !combinations_left:
+        return []
+    rc_ch = 0
+    for required_course in rcl:
+        rc_ch += required_course.creditHours
+    add_min = ch_min - rc_ch
+    add_max = ch_max - rc_ch
+    valid_combinations = []
+
 
 
 
@@ -94,6 +105,28 @@ def merge_schedules(*argv):
     #notimplemented
 
 
+
+
+def main():
+    '''
+    not implemented
+    '''
+    return 1
+
+
+
+
+if __name__ == "__main__":
+    main()
+
+
+
+
+##############################################################################
+##############################################################################
+################################   TESTING    ################################
+##############################################################################
+##############################################################################
 
 chau = Professor("Duen Chao", 3.97, {"CX4242":3.97},1.00,1)
 CX4242 = Course("CX",4242,3,3.79)
