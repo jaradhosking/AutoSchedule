@@ -9,5 +9,9 @@ class Section():
         self.GPA = professor.avgCourseGPA.get(course.ID,sqrt(professor.avgGPA*course.avgGPA)) #float, expected GPA of this section
         self.building = building #string, building the section is in
         self.timeSlots = timeSlots #list of Agenda objects
+
+
+
+
     def __eq__(self,obj):
         return isinstance(obj,Section) and self.CRN == obj.CRN
