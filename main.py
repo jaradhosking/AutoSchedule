@@ -33,7 +33,6 @@ def find_valid_schedules(course_list, valid_schedules):
     else:
         for schedule in valid_schedules:
             for section in course.sections:
-                print(schedule)
                 new_schedule = copy.deepcopy(schedule)
                 try:
                     new_schedule.addSection(section)
@@ -44,7 +43,6 @@ def find_valid_schedules(course_list, valid_schedules):
                     print("Error in find_rc_options()")
     if len(new_schedules) == 0:
         raise NoSolutionsError
-    print(new_schedules)
     return find_valid_schedules(course_list, new_schedules)
 
 
@@ -171,9 +169,14 @@ for shed in yeet:
         print(section.timeSlots)
 print(find_credit_hour_options([],[CX4242],range(0,5)))
 '''
-rc = [ISYE2027,CX4242]
-oc = []
+rcl = []
+ocl = [ISYE2027,CX4242]
 
-vs = find_valid_schedules(rc,[])
+vs = find_valid_schedules(rcl,[])
+vcl = find_credit_hour_options(rcl,ocl,range(0,15))
+print(vcl)
+for vc in vcl:
+    print(vc)
+    new_vs = find_valid_schedules(vc,vs)
 print(vs)
 print(len(vs))
