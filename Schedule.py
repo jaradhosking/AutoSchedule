@@ -18,6 +18,18 @@ class Schedule:
 
 
 
+    def __str__(self):
+        return str(self.sections)
+
+
+
+
+    def __repr__(self):
+        return self.__str__()
+
+
+
+
     def addSection(self,section):
         '''Adds a section of a course into this schedule
 
