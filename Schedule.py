@@ -2,6 +2,9 @@ from Agenda import Agenda
 from CustomErrors import *
 from Section import Section
 
+
+
+
 class Schedule:
     def __init__(self):
         self.GPA = 0 #float, expected GPA of this Schedule

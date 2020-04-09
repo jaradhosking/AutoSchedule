@@ -1,5 +1,8 @@
 from math import sqrt
 
+
+
+
 class Section():
     def __init__(self, CRN, course, professor, building, timeSlots):
         #Course.__init__(self, subject, numID)

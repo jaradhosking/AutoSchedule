@@ -6,27 +6,6 @@ from Schedule import Schedule
 from Section import Section
 
 
-chau = Professor("Duen Chao", 3.97, {"CX4242":3.97},1.00,1)
-CX4242 = Course("CX",4242,3,3.79)
-c123456 = Section(123456,CX4242,chau,"Klaus",[Agenda("T","1630","1745")])
-c123457 = Section(123457,CX4242,chau,"Klaus",[Agenda("T","1748","1749")])
-c123458 = Section(123458,CX4242,chau,"Klaus",[Agenda("T","1600","1631")])
-'''some testing cases
-print(c123456.course.ID)
-print(c123456.professor.name)
-print(c123456.GPA)
-shed = Schedule()
-shed.addSection(c123456)
-shed.addSection(c123457)
-shed.addSection(c123458)
-for sec in shed.sections:
-    print(sec.CRN)
-print(shed.GPA)
-print(shed.occupied[0].start)
-print(shed.occupied[0].end)
-'''
-
-
 
 
 def find_valid_schedules(course_list, valid_schedules):
@@ -85,6 +64,7 @@ def find_credit_hour_options(rc,oc,ch_min,ch_max):
 
 
 
+
 def find_oc_options(schedules,oc_comb):
     '''Finds all possible schedule combinations of the required and optional courses
 
@@ -115,7 +95,25 @@ def merge_schedules(*argv):
 
 
 
-
+chau = Professor("Duen Chao", 3.97, {"CX4242":3.97},1.00,1)
+CX4242 = Course("CX",4242,3,3.79)
+c123456 = Section(123456,CX4242,chau,"Klaus",[Agenda("T","1630","1745")])
+c123457 = Section(123457,CX4242,chau,"Klaus",[Agenda("T","1748","1749")])
+c123458 = Section(123458,CX4242,chau,"Klaus",[Agenda("T","1600","1631")])
+'''some testing cases
+print(c123456.course.ID)
+print(c123456.professor.name)
+print(c123456.GPA)
+shed = Schedule()
+shed.addSection(c123456)
+shed.addSection(c123457)
+shed.addSection(c123458)
+for sec in shed.sections:
+    print(sec.CRN)
+print(shed.GPA)
+print(shed.occupied[0].start)
+print(shed.occupied[0].end)
+'''
 print(CX4242.sections)
 yeet = find_valid_schedules([CX4242],[])
 print(yeet)
