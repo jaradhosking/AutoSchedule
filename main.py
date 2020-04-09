@@ -4,6 +4,7 @@ from CustomErrors import *
 from Professor import Professor
 from Schedule import Schedule
 from Section import Section
+import copy
 
 
 
@@ -30,17 +31,20 @@ def find_valid_schedules(course_list, valid_schedules):
             new_schedule.addSection(section)
             new_schedules.append(new_schedule)
     else:
-        for section in course.sections:
-            for schedule in valid_schedules:
+        for schedule in valid_schedules:
+            for section in course.sections:
+                print(schedule)
+                new_schedule = copy.deepcopy(schedule)
                 try:
-                    schedule.addSection(section)
-                    new_schedules.append(schedule)
+                    new_schedule.addSection(section)
+                    new_schedules.append(new_schedule)
                 except ScheduleError:
                     pass
                 except:
                     print("Error in find_rc_options()")
     if len(new_schedules) == 0:
         raise NoSolutionsError
+    print(new_schedules)
     return find_valid_schedules(course_list, new_schedules)
 
 
@@ -64,28 +68,20 @@ def find_credit_hour_options(rcl,ocl,ch_range):
         rc_ch += rc.creditHours
     combinations_left = False
     for oc in ocl:
-        print(ch_range)
-        print(oc.creditHours)
         if oc.creditHours + rc_ch in ch_range:
             combinations_left = True
-            print(combinations_left)
 
     if not combinations_left:
-        print(rcl,'hey')
         return rcl
     
-    #add_min = ch_min - rc_ch
-    #add_max = ch_max - rc_ch
     valid_combinations = []
     for oc in ocl:
-        rcl.append(oc) #need to pop instead of add/rem -> rem/add
-        ocl.remove(oc)
-        print(rcl)
-        print(ocl)
-        valid_combinations.append(find_credit_hour_options(rcl,ocl,ch_range))
-    print(valid_combinations,'f')
+        new_rcl = rcl[:]
+        new_rcl.append(oc)
+        new_ocl = ocl[:]
+        new_ocl.remove(oc)
+        valid_combinations.append(find_credit_hour_options(new_rcl,new_ocl,ch_range))
     return valid_combinations
-
 
 
 
@@ -143,18 +139,23 @@ if __name__ == "__main__":
 ##############################################################################
 
 chau = Professor("Duen Chao", 3.97, {"CX4242":3.97},1.00,1)
+foley = Professor("Robert Foley",3.33, {"ISYE2027":2.89},3.8,36)
 CX4242 = Course("CX",4242,3,3.79)
-c123456 = Section(123456,CX4242,chau,"Klaus",[Agenda("T","1630","1745")])
-c123457 = Section(123457,CX4242,chau,"Klaus",[Agenda("T","1748","1749")])
-c123458 = Section(123458,CX4242,chau,"Klaus",[Agenda("T","1600","1631")])
+ISYE2027 = Course("ISYE",2027,3,2.86)
+s12345 = Section(12345,CX4242,chau,"Klaus",[Agenda("T","1630","1745")])
+s12346 = Section(12346,CX4242,chau,"Klaus",[Agenda("T","1748","1749")])
+s12347 = Section(12347,CX4242,chau,"Klaus",[Agenda("T","1600","1631")])
+s31564 = Section(31564,ISYE2027,foley,"MRDC",[Agenda("T","0800","0915"),Agenda("R","0800","0915")])
+s80430 = Section(80430,ISYE2027,foley,"IC",[Agenda("T","0800","0915"),Agenda("R","0800","0915")])
+s83339 = Section(83339,ISYE2027,foley,"IC",[Agenda("M","1230","1345"),Agenda("W","1230","1345")])
 '''some testing cases
-print(c123456.course.ID)
-print(c123456.professor.name)
-print(c123456.GPA)
+print(s12345.course.ID)
+print(s12346.professor.name)
+print(s12347.GPA)
 shed = Schedule()
-shed.addSection(c123456)
-shed.addSection(c123457)
-shed.addSection(c123458)
+shed.addSection(s12345)
+shed.addSection(s12346)
+shed.addSection(s12347)
 for sec in shed.sections:
     print(sec.CRN)
 print(shed.GPA)
@@ -168,5 +169,11 @@ for shed in yeet:
     for section in shed.sections:
         print(section.course.ID)
         print(section.timeSlots)
-'''
 print(find_credit_hour_options([],[CX4242],range(0,5)))
+'''
+rc = [ISYE2027,CX4242]
+oc = []
+
+vs = find_valid_schedules(rc,[])
+print(vs)
+print(len(vs))
