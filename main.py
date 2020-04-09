@@ -53,24 +53,38 @@ def find_credit_hour_options(rcl,ocl,ch_range):
     Parameters:
     rcl (Course[]): list of the required courses
     ocl (Course[]): list of the optional courses
-    ch_range (list): Range(minimum,maximum+1) of number of credit hours to be taken
+    ch_range (list): range(minimum,maximum+1) of number of credit hours to be taken
 
     Returns:
     Course[][]: list of lists with possible optional course combinations
 
     '''
+    rc_ch = 0
+    for rc in rcl:
+        rc_ch += rc.creditHours
     combinations_left = False
     for oc in ocl:
-        if oc.creditHours in ch_range:
+        print(ch_range)
+        print(oc.creditHours)
+        if oc.creditHours + rc_ch in ch_range:
             combinations_left = True
-    if !combinations_left:
-        return []
-    rc_ch = 0
-    for required_course in rcl:
-        rc_ch += required_course.creditHours
-    add_min = ch_min - rc_ch
-    add_max = ch_max - rc_ch
+            print(combinations_left)
+
+    if not combinations_left:
+        print(rcl,'hey')
+        return rcl
+    
+    #add_min = ch_min - rc_ch
+    #add_max = ch_max - rc_ch
     valid_combinations = []
+    for oc in ocl:
+        rcl.append(oc) #need to pop instead of add/rem -> rem/add
+        ocl.remove(oc)
+        print(rcl)
+        print(ocl)
+        valid_combinations.append(find_credit_hour_options(rcl,ocl,ch_range))
+    print(valid_combinations,'f')
+    return valid_combinations
 
 
 
@@ -146,7 +160,6 @@ for sec in shed.sections:
 print(shed.GPA)
 print(shed.occupied[0].start)
 print(shed.occupied[0].end)
-'''
 print(CX4242.sections)
 yeet = find_valid_schedules([CX4242],[])
 print(yeet)
@@ -155,3 +168,5 @@ for shed in yeet:
     for section in shed.sections:
         print(section.course.ID)
         print(section.timeSlots)
+'''
+print(find_credit_hour_options([],[CX4242],range(0,5)))
