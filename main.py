@@ -4,6 +4,7 @@ from CustomErrors import *
 from Professor import Professor
 from Schedule import Schedule
 from Section import Section
+from itertools import combinations
 import copy
 
 
@@ -64,21 +65,16 @@ def find_credit_hour_options(rcl,ocl,ch_range):
     rc_ch = 0
     for rc in rcl:
         rc_ch += rc.creditHours
-    combinations_left = False
-    for oc in ocl:
-        if oc.creditHours + rc_ch in ch_range:
-            combinations_left = True
 
-    if not combinations_left:
-        return rcl
-    
     valid_combinations = []
-    for oc in ocl:
-        new_rcl = rcl[:]
-        new_rcl.append(oc)
-        new_ocl = ocl[:]
-        new_ocl.remove(oc)
-        valid_combinations.append(find_credit_hour_options(new_rcl,new_ocl,ch_range))
+    for i in range(len(ocl)):
+        combs = combinations(ocl,i + 1)
+        for comb in combs:
+            creditHours = 0
+            for course in comb:
+                creditHours += course.creditHours
+            if creditHours + rc_ch in ch_range:
+                valid_combinations.append(list(comb))
     return valid_combinations
 
 
@@ -173,8 +169,7 @@ rcl = []
 ocl = [ISYE2027,CX4242]
 
 vs = find_valid_schedules(rcl,[])
-vcl = find_credit_hour_options(rcl,ocl,range(0,15))
-print(vcl)
+vcl = find_credit_hour_options(rcl,ocl,range(0,9))
 for vc in vcl:
     print(vc)
     new_vs = find_valid_schedules(vc,vs)
