@@ -11,6 +11,7 @@ class Section():
         self.professor = professor #Professor object
         self.GPA = professor.avgCourseGPA.get(course.ID,sqrt(professor.avgGPA*course.avgGPA)) #float, expected GPA of this section
         self.building = building #string, building the section is in
+        self.campus = campus #campus the section is in
         self.timeSlots = timeSlots #list of Agenda objects
         course.sections.append(self)
 
