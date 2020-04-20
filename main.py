@@ -79,23 +79,6 @@ def find_credit_hour_options(rcl,ocl,ch_range):
 
 
 
-
-def find_oc_options(schedules,oc_comb):
-    '''Finds all possible schedule combinations of the required and optional courses
-
-    Parameters:
-    schedules (Schedule[]): list of valid schedules
-    oc_comb (Course[]): list of courses
-
-    Returns:
-    Schedule[]: list of schedules with the required and optional courses
-
-    '''
-    #notimplemented
-
-
-
-
 def merge_schedules(*argv):
     '''Merges lists of schedules into one list of schedules, removing duplicates
 
@@ -103,7 +86,22 @@ def merge_schedules(*argv):
     *argv (Schedule[]): list of valid schedules
 
     Returns:
-    Schedule[]: list of valids schedules
+    Schedule[]: list of valid schedules
+
+    '''
+    #notimplemented
+
+
+
+
+def rank_schedules(*argv):
+    '''Ranks lists of schedules into one list of schedules, removing duplicates
+
+    Parameters:
+    *argv (Schedule[]): list of valid schedules
+
+    Returns:
+    Schedule[]: list of valid schedules
 
     '''
     #notimplemented
