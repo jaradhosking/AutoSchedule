@@ -163,8 +163,8 @@ for shed in yeet:
         print(section.timeSlots)
 print(find_credit_hour_options([],[CX4242],range(0,5)))
 '''
-rcl = []
-ocl = [ISYE2027,CX4242]
+rcl = [ISYE2027]
+ocl = [CX4242]
 
 vs = find_valid_schedules(rcl,[])
 vcl = find_credit_hour_options(rcl,ocl,range(0,9))
@@ -174,3 +174,4 @@ for vc in vcl:
     print(new_vs)
 print(vs)
 print(len(vs))
+
