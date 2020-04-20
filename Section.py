@@ -4,7 +4,7 @@ from math import sqrt
 
 
 class Section():
-    def __init__(self, CRN, course, professor, building, timeSlots):
+    def __init__(self, CRN, course, professor, campus, building, timeSlots):
         #Course.__init__(self, subject, numID)
         self.CRN = CRN #int, the CRN of the section
         self.course = course #Course object

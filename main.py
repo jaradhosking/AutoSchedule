@@ -134,12 +134,12 @@ chau = Professor("Duen Chao", 3.97, {"CX4242":3.97},1.00,1)
 foley = Professor("Robert Foley",3.33, {"ISYE2027":2.89},3.8,36)
 CX4242 = Course("CX",4242,3,3.79)
 ISYE2027 = Course("ISYE",2027,3,2.86)
-s12345 = Section(12345,CX4242,chau,"Klaus",[Agenda("T","1630","1745")])
-s12346 = Section(12346,CX4242,chau,"Klaus",[Agenda("T","1748","1749")])
-s12347 = Section(12347,CX4242,chau,"Klaus",[Agenda("T","1600","1631")])
-s31564 = Section(31564,ISYE2027,foley,"MRDC",[Agenda("T","0800","0915"),Agenda("R","0800","0915")])
-s80430 = Section(80430,ISYE2027,foley,"IC",[Agenda("T","0800","0915"),Agenda("R","0800","0915")])
-s83339 = Section(83339,ISYE2027,foley,"IC",[Agenda("T","1230","1745"),Agenda("W","1230","1345")])
+s12345 = Section(12345,CX4242,chau,'atlanta',"Klaus",[Agenda("T","1630","1745")])
+s12346 = Section(12346,CX4242,chau,'atlanta',"Klaus",[Agenda("T","1748","1749")])
+s12347 = Section(12347,CX4242,chau,'atlanta',"Klaus",[Agenda("T","1600","1631")])
+s31564 = Section(31564,ISYE2027,foley,'atlanta',"MRDC",[Agenda("T","0800","0915"),Agenda("R","0800","0915")])
+s80430 = Section(80430,ISYE2027,foley,'atlanta',"IC",[Agenda("T","0800","0915"),Agenda("R","0800","0915")])
+s83339 = Section(83339,ISYE2027,foley,'atlanta',"IC",[Agenda("T","1230","1745"),Agenda("W","1230","1345")])
 '''some testing cases
 print(s12345.course.ID)
 print(s12346.professor.name)
@@ -166,12 +166,8 @@ print(find_credit_hour_options([],[CX4242],range(0,5)))
 rcl = [ISYE2027]
 ocl = [CX4242]
 
-vs = find_valid_schedules(rcl,[])
-vcl = find_credit_hour_options(rcl,ocl,range(0,9))
-for vc in vcl:
-    print(vc)
-    new_vs = find_valid_schedules(vc,vs)
-    print(new_vs)
-print(vs)
-print(len(vs))
-
+valid_schedules = find_valid_schedules(rcl,[])
+valid_combinations_list = find_credit_hour_options(rcl,ocl,range(0,9))
+for valid_combination in valid_combinations_list:
+    new_vs = find_valid_schedules(valid_combination,valid_schedules)
+print(new_vs)
