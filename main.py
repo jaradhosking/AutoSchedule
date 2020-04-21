@@ -49,7 +49,6 @@ def find_valid_schedules(course_list, valid_schedules):
 
 
 
-
 def find_credit_hour_options(rcl,ocl,ch_range):
     '''Finds all possible course combinations of the optional courses
 
