@@ -8,6 +8,8 @@ from Section import Section
 class Schedule:
     def __init__(self):
         self.GPA = 0 #float, expected GPA of this Schedule
+        self.rmpRanking = 0 #float, average rate my professor ranking of the professors in this Schedule
+        self.score = 0 #float, score of the Schedule
         self.creditHours = 0 #int, number of credit hours in this Schedule
         self.sections = [] #list of Sections in this schedule
         self.occupied = [] #list of Agendas (times) occupied in this Schedule

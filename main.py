@@ -89,6 +89,7 @@ def merge_schedules(*argv):
     Schedule[]: list of valid schedules
 
     '''
+    #NOTE--PROBABLY DO NOT HAVE  TO IMPLEMENT THIS.  WILL FIND OUT IN TESTING
     #notimplemented
 
 
@@ -105,6 +106,29 @@ def rank_schedules(*argv):
 
     '''
     #notimplemented
+
+
+
+
+def schedulize(rcl,ocl,ch_range):
+    '''Finds all possible course combinations of the optional courses
+
+    Parameters:
+    rcl (Course[]): list of the required courses
+    ocl (Course[]): list of the optional courses
+    ch_range (list): range(minimum,maximum+1) of number of credit hours to be taken
+
+    Returns:
+    Course[][]: list of lists with possible optional course combinations
+
+    '''
+    vs = find_valid_schedules(rcl,[])
+    vcl = find_credit_hour_options(rcl,ocl,ch_range)
+    new_vs = []
+    for vc in vcl:
+        for new_sched in find_valid_schedules(vc,vs):
+            new_vs.append(new_sched)
+    return new_vs
 
 
 
@@ -163,13 +187,8 @@ for shed in yeet:
         print(section.timeSlots)
 print(find_credit_hour_options([],[CX4242],range(0,5)))
 '''
-rcl = [ISYE2027]
-ocl = [CX4242]
+rcl = []
+ocl = [CX4242,ISYE2027]
 ch_range = range(0,9)
 
-valid_schedules = find_valid_schedules(rcl,[])
-valid_combinations_list = find_credit_hour_options(rcl,ocl,ch_range)
-new_vs = []
-for valid_combination in valid_combinations_list:
-    new_vs.append(find_valid_schedules(valid_combination,valid_schedules))
-print(new_vs)
+print(schedulize(rcl,ocl,ch_range))
