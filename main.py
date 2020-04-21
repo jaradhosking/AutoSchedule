@@ -165,9 +165,11 @@ print(find_credit_hour_options([],[CX4242],range(0,5)))
 '''
 rcl = [ISYE2027]
 ocl = [CX4242]
+ch_range = range(0,9)
 
 valid_schedules = find_valid_schedules(rcl,[])
-valid_combinations_list = find_credit_hour_options(rcl,ocl,range(0,9))
+valid_combinations_list = find_credit_hour_options(rcl,ocl,ch_range)
+new_vs = []
 for valid_combination in valid_combinations_list:
-    new_vs = find_valid_schedules(valid_combination,valid_schedules)
+    new_vs.append(find_valid_schedules(valid_combination,valid_schedules))
 print(new_vs)
