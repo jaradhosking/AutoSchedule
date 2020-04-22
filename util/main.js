@@ -4,45 +4,12 @@ import * from 'CustomErrors.js'
 import Professor from 'Professor.js'
 import Schedule from 'Schedule.js'
 import Section from 'Section.js'
-
-function find_valid_schedules(course_list, valid_schedules) {
-    /*Finds all possible schedule combinations of the courses in course_list
-    All courses in the list will be in each schedule
-
-    Parameters:
-    course_list (Course[]): list of the Courses to be put into the schedules
-    valid_schedules (Sections[]): list of valid Schedules
-
-    Returns:
-    Schedule[]: list of schedules with the required courses
-    */
-    new_schedules = []
-    if course_list.length == 0:
-        return valid_schedules
-    course = course_list.pop()
-    if valid_schedules.length == 0:
-        course.sections.forEach(section =>
-            new_schedule = new Schedule
-            new_schedule.addSection(section)
-            new_schedules.append(new_schedule)
-        )
-    else:
-        valid_schedules.forEach(schedule =>
-            course.sections.foreach(section =>
-                new_schedule = copy.deepcopy(schedule)
-                try:
-                    new_schedule.addSection(section)
-                    new_schedules.append(new_schedule)
-                except ScheduleError:
-                    pass
-                except:
-                    print("Error in find_rc_options()")
-            )
-        )
-}
+import combinations from 'https://raw.githubusercontent.com/abozhilov/ES-Iter/master/src/Iter.js'
 
 
 
+
+/*
 def find_valid_schedules(course_list, valid_schedules):
     '''Finds all possible schedule combinations of the courses in course_list
     All courses in the list will be in each schedule
@@ -78,7 +45,6 @@ def find_valid_schedules(course_list, valid_schedules):
     if len(new_schedules) == 0:
         raise NoSolutionsError
     return find_valid_schedules(course_list, new_schedules)
-
 
 
 
@@ -140,7 +106,106 @@ def rank_schedules(*argv):
     #notimplemented
 
 
+*/
 
+function find_valid_schedules(course_list, valid_schedules) {
+    /*Finds all possible schedule combinations of the courses in course_list
+    All courses in the list will be in each schedule
+
+    Parameters:
+    course_list (Course[]): list of the Courses to be put into the schedules
+    valid_schedules (Sections[]): list of valid Schedules
+
+    Returns:
+    Schedule[]: list of schedules with the required courses
+    */
+    new_schedules = []
+    if (course_list.length == 0) {
+        return valid_schedules
+    }
+    course = course_list.pop()
+    if (valid_schedules.length == 0) {
+        course.sections.forEach(section =>
+            new_schedule = new Schedule()
+            new_schedule.addSection(section)
+            new_schedules.push(new_schedule)
+        )
+    } else {
+        valid_schedules.forEach(schedule =>
+            course.sections.forEach(section =>
+                new_schedule = _.cloneDeep(schedule)
+                try {
+                    new_schedule.addSection(section)
+                    new_schedules.push(new_schedule)
+                }
+                catch (ScheduleError) {
+                    // ignore and try the next section
+                }
+                throw "Error in find_rc_options()"
+            )
+        )
+    }
+    if (new_schedules.length == 0):
+        throw new NoSolutionsError()
+    return find_valid_schedules(course_list, new_schedules)
+}
+
+function find_credit_hour_options(rcl,ocl,ch_range) {
+    /*
+    Finds all possible course combinations of the optional courses
+
+    Parameters:
+    rcl (Course[]): list of the required courses
+    ocl (Course[]): list of the optional courses
+    ch_range (list): range(minimum,maximum+1) of number of credit hours to be taken
+
+    Returns:
+    Course[][]: list of lists with possible optional course combinations
+    */
+    rc_ch = 0
+    rcl.forEach(rc =>
+        rc_ch += rc.creditHours
+    )
+
+    valid_combinations = []
+    (d3.range(ocl.length)).forEach (i =>
+        combs = combinations(ocl,i + 1)
+        combs.forEach (comb =>
+            creditHours = 0
+            comb.forEach(course =>
+                creditHours += course.creditHours
+            if (ch_range.includes(creditHours + rc_ch)) {
+                valid_combinations.push(comb)
+            }
+            )
+        )
+    )
+    return valid_combinations
+}
+
+function schedulize(rcl,ocl,ch_range) {
+    /*
+    Finds all possible course combinations of the optional courses
+
+    Parameters:
+    rcl (Course[]): list of the required courses
+    ocl (Course[]): list of the optional courses
+    ch_range (list): range(minimum,maximum+1) of number of credit hours to be taken
+
+    Returns:
+    Course[][]: list of lists with possible optional course combinations
+    */
+    vs = find_valid_schedules(rcl,[])
+    vcl = find_credit_hour_options(rcl,ocl,ch_range)
+    new_vs = []
+    vcl.forEach( vc =>
+        find_valid_schedules(vc,vs).forEach(new_sched=>
+            new_vs.push(new_sched)
+        )
+    )
+    return new_vs
+}
+/*
 
 def schedulize(rcl,ocl,ch_range):
     '''Finds all possible course combinations of the optional courses
@@ -224,3 +289,4 @@ ocl = [CX4242,ISYE2027]
 ch_range = range(0,9)
 
 print(schedulize(rcl,ocl,ch_range))
+*/
