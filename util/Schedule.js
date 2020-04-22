@@ -22,8 +22,6 @@ class Schedule {
         return this.sections;
     }
 
-
-
     addSection(section) {
         // '''Adds a section of a course into this schedule
 
