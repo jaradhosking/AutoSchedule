@@ -1,4 +1,4 @@
-class Course{
+class Course {
     constructor(subject, numID, creditHours, avgGPA) {
         this.subject = subject
         this.numID = numID

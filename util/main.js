@@ -200,9 +200,9 @@ function schedulize(rcl,ocl,ch_range) {
     vcl = find_credit_hour_options(rcl,ocl,ch_range)
     new_vs = []
     vcl.forEach( vc =>
-        find_valid_schedules(vc,vs).forEach(new_sched=>
+        find_valid_schedules(vc,vs).forEach(new_sched=>{
             new_vs.push(new_sched)
-        )
+        })
     )
     return new_vs
 }
@@ -252,18 +252,17 @@ if __name__ == "__main__":
 ##############################################################################
 ##############################################################################
 
-chau = Professor("Duen Chao", 3.97, {"CX4242":3.97},1.00,1)
-foley = Professor("Robert Foley",3.33, {"ISYE2027":2.89},3.8,36)
-CX4242 = Course("CX",4242,3,3.79)
-ISYE2027 = Course("ISYE",2027,3,2.86)
-s12345 = Section(12345,CX4242,chau,'atlanta',"Klaus",[Agenda("T","1630","1745")])
-s12346 = Section(12346,CX4242,chau,'atlanta',"Klaus",[Agenda("T","1748","1749")])
-s12347 = Section(12347,CX4242,chau,'atlanta',"Klaus",[Agenda("T","1600","1631")])
-s31564 = Section(31564,ISYE2027,foley,'atlanta',"MRDC",[Agenda("T","0800","0915"),Agenda("R","0800","0915")])
-s80430 = Section(80430,ISYE2027,foley,'atlanta',"IC",[Agenda("T","0800","0915"),Agenda("R","0800","0915")])
-s83339 = Section(83339,ISYE2027,foley,'atlanta',"IC",[Agenda("T","1230","1745"),Agenda("W","1230","1345")])
-'''some testing cases
-print(s12345.course.ID)
+chau = new Professor("Duen Chao", 3.97, {"CX4242":3.97},1.00,1)
+foley = new Professor("Robert Foley",3.33, {"ISYE2027":2.89},3.8,36)
+CX4242 = new Course("CX",4242,3,3.79)
+ISYE2027 = new Course("ISYE",2027,3,2.86)
+s12345 = new Section(12345,CX4242,chau,'atlanta',"Klaus",[Agenda("T","1630","1745")])
+s12346 = new Section(12346,CX4242,chau,'atlanta',"Klaus",[Agenda("T","1748","1749")])
+s12347 = new Section(12347,CX4242,chau,'atlanta',"Klaus",[Agenda("T","1600","1631")])
+s31564 = new Section(31564,ISYE2027,foley,'atlanta',"MRDC",[Agenda("T","0800","0915"),Agenda("R","0800","0915")])
+s80430 = new Section(80430,ISYE2027,foley,'atlanta',"IC",[Agenda("T","0800","0915"),Agenda("R","0800","0915")])
+s83339 = new Section(83339,ISYE2027,foley,'atlanta',"IC",[Agenda("T","1230","1745"),Agenda("W","1230","1345")])
+/*print(s12345.course.ID)
 print(s12346.professor.name)
 print(s12347.GPA)
 shed = Schedule()
@@ -284,7 +283,8 @@ for shed in yeet:
         print(section.course.ID)
         print(section.timeSlots)
 print(find_credit_hour_options([],[CX4242],range(0,5)))
-'''
+*/
+/*
 rcl = []
 ocl = [CX4242,ISYE2027]
 ch_range = range(0,9)

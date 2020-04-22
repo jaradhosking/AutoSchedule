@@ -5,7 +5,7 @@ function toPositiveInteger (n) {
     return Math.floor(n);
 }
 
-module.exports = class Iter {
+class Iter {
     constructor (iterable) {
         let iterator = Iter.getIterator(typeof iterable === 'function' ? iterable() : iterable);
         

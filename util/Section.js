@@ -1,5 +1,4 @@
-// from math import sqrt
-import Professor from "Professor";
+
 
 class Section {
     constructor (CRN, course, professor, campus, building, timeSlots) {
@@ -15,7 +14,7 @@ class Section {
     }
 
     equals (o) {
-        return (o isinstance Section) && (this.CRN == o.CRN);
+        return (o instanceof Section) && (this.CRN == o.CRN);
     }
 
     toString (o) {

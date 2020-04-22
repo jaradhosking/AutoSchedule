@@ -1,5 +1,6 @@
 class Agenda {
     constructor(dow, start, end) {
+        var days = 0
         if (dow == 'U') {
             days = 0
         } else if (dow == 'M') {
