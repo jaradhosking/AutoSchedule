@@ -1,40 +1,30 @@
-class Agenda():
-    def __init__(self, dow, start, end):
-        if dow == 'U':
+class Agenda {
+    constructor(dow, start, end):
+        if (dow == 'U') {
             days = 0
-        elif dow == 'M':
-            days = 1
-        elif dow == 'T':
+        } else if (dow == 'M') {
+            days = 1 
+        } else if (dow == 'T') {
             days = 2
-        elif dow == 'W':
+        } else if (dow == 'W') {
             days = 3
-        elif dow == 'R':
+        } else if (dow == 'R') {
             days = 4
-        elif dow == 'F':
+        } else if (dow == 'F') {
             days = 5
-        elif dow == 'S':
+        } else if (dow == 'S') {
             days = 6
-        self.start = (days*24*60+int(start[0:2])*60+int(start[2:]))
-        self.end = (days*24*60+int(end[0:2])*60+int(end[2:]))
-        self.timeRange = range(self.start,self.end)
-        '''
-        start/end are minutes from 12:00 AM Sunday
-        '''
+        }
+        this.start = (days*24*60+parseInt(start[0:2],10)*60+parseInt(start[2:],10))
+        this.end = (days*24*60+parseInt(end[0:2],10)*60+parseInt(end[2:],10))
+        this.timeRange = d3.range(this.start,this.end)
+        // start/end are minutes from 12:00 AM Sunday
 
+    equals(o) {
+        return o instanceof Agenda and this.timeRange == o.timeRange
+    }
 
-
-
-    def __eq__(self,obj):
-        return isinstance(obj,Agenda) and self.timeRange == obj.timeRange
-
-
-
-
-    def __str__(self):
-        return "({},{})".format(self.start,self.end)
-
-
-
-
-    def __repr__(self):
-        return self.__str__()
+    toString(o) {
+        return "(" + this.start.toString() + "," + this.end.toString() + ")"
+    }
+}
