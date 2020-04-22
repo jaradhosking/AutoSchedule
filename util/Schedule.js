@@ -19,7 +19,7 @@ class Schedule {
 
 
     toString() {
-        return str(this.sections);
+        return this.sections;
     }
 
 
