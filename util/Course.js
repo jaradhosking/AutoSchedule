@@ -1,26 +1,18 @@
-class Course:
-    def __init__(self, subject, numID, creditHours, avgGPA):
-        self.subject = subject
-        self.numID = numID
-        self.ID = subject + str(numID)
-        self.creditHours = creditHours
-        self.avgGPA = avgGPA
-        self.sections = []
+class Course{
+    constructor(subject, numID, creditHours, avgGPA) {
+        this.subject = subject
+        this.numID = numID
+        this.ID = subject + numID.toString()
+        this.creditHours = creditHours
+        this.avgGPA = avgGPA
+        this.sections = []
+    }
 
+    equals(o) {
+        return o instanceof Course and this.ID == o.ID
+    }
 
-
-
-    def __eq__(self,obj):
-        return isinstance(obj,Course) and self.ID == obj.ID
-
-
-
-
-    def __str__(self):
-        return self.ID
-
-
-
-
-    def __repr__(self):
-        return self.__str__()
+    toString() {
+        return this.ID
+    }
+}

@@ -1,5 +1,5 @@
 class Agenda {
-    constructor(dow, start, end):
+    constructor(dow, start, end) {
         if (dow == 'U') {
             days = 0
         } else if (dow == 'M') {
@@ -19,12 +19,13 @@ class Agenda {
         this.end = (days*24*60+parseInt(end[0:2],10)*60+parseInt(end[2:],10))
         this.timeRange = d3.range(this.start,this.end)
         // start/end are minutes from 12:00 AM Sunday
+    }
 
     equals(o) {
         return o instanceof Agenda and this.timeRange == o.timeRange
     }
 
-    toString(o) {
+    toString() {
         return "(" + this.start.toString() + "," + this.end.toString() + ")"
     }
 }
