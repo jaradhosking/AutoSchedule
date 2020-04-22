@@ -9,7 +9,7 @@ class Course{
     }
 
     equals(o) {
-        return o instanceof Course and this.ID == o.ID
+        return o instanceof Course && this.ID == o.ID
     }
 
     toString() {

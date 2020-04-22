@@ -1,10 +1,10 @@
-import Agenda from './Agenda.js'
+/*import Agenda from './Agenda.js'
 import Course from './Course.js'
 import {ScheduleError,NoSolutionsError} from './CustomErrors.js'
 import Professor from './Professor.js'
 import Schedule from './Schedule.js'
 import Section from './Section.js'
-import combinations from 'https://raw.githubusercontent.com/abozhilov/ES-Iter/master/src/Iter.js'
+import Iter from './Iter.js'*/
 
 
 

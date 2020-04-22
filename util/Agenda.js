@@ -15,14 +15,14 @@ class Agenda {
         } else if (dow == 'S') {
             days = 6
         }
-        this.start = (days*24*60+parseInt(start[0:2],10)*60+parseInt(start[2:],10))
-        this.end = (days*24*60+parseInt(end[0:2],10)*60+parseInt(end[2:],10))
+        this.start = (days*24*60+parseInt(start.substring(0,2),10)*60+parseInt(start.substring(2),10))
+        this.end = (days*24*60+parseInt(end.substring(0,2),10)*60+parseInt(end.substring(2),10))
         this.timeRange = d3.range(this.start,this.end)
         // start/end are minutes from 12:00 AM Sunday
     }
 
     equals(o) {
-        return o instanceof Agenda and this.timeRange == o.timeRange
+        return o instanceof Agenda && this.timeRange == o.timeRange
     }
 
     toString() {

@@ -1,6 +1,5 @@
-import Agenda from "Agenda";
-import * from "CustomerErrors";
-import Section from "Section";
+/*import Agenda from "Agenda.js";
+import Section from "Section";*/
 
 
 class Schedule {
