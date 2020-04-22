@@ -1,9 +1,9 @@
-import Agenda from 'Agenda.js'
-import Course from 'Course.js'
-import * from 'CustomErrors.js'
-import Professor from 'Professor.js'
-import Schedule from 'Schedule.js'
-import Section from 'Section.js'
+import Agenda from './Agenda.js'
+import Course from './Course.js'
+import {ScheduleError,NoSolutionsError} from './CustomErrors.js'
+import Professor from './Professor.js'
+import Schedule from './Schedule.js'
+import Section from './Section.js'
 import combinations from 'https://raw.githubusercontent.com/abozhilov/ES-Iter/master/src/Iter.js'
 
 
@@ -125,14 +125,14 @@ function find_valid_schedules(course_list, valid_schedules) {
     }
     course = course_list.pop()
     if (valid_schedules.length == 0) {
-        course.sections.forEach(section =>
+        course.sections.forEach(section => {
             new_schedule = new Schedule()
             new_schedule.addSection(section)
             new_schedules.push(new_schedule)
-        )
+        })
     } else {
-        valid_schedules.forEach(schedule =>
-            course.sections.forEach(section =>
+        valid_schedules.forEach(schedule => {
+            course.sections.forEach(section => {
                 new_schedule = _.cloneDeep(schedule)
                 try {
                     new_schedule.addSection(section)
@@ -142,11 +142,12 @@ function find_valid_schedules(course_list, valid_schedules) {
                     // ignore and try the next section
                 }
                 throw "Error in find_rc_options()"
-            )
-        )
+            })
+        })
     }
-    if (new_schedules.length == 0):
+    if (new_schedules.length == 0) {
         throw new NoSolutionsError()
+    }
     return find_valid_schedules(course_list, new_schedules)
 }
 
@@ -168,18 +169,18 @@ function find_credit_hour_options(rcl,ocl,ch_range) {
     )
 
     valid_combinations = []
-    (d3.range(ocl.length)).forEach (i =>
+    (d3.range(ocl.length)).forEach (i => {
         combs = combinations(ocl,i + 1)
-        combs.forEach (comb =>
+        combs.forEach (comb => {
             creditHours = 0
-            comb.forEach(course =>
+            comb.forEach(course => {
                 creditHours += course.creditHours
+            })
             if (ch_range.includes(creditHours + rc_ch)) {
                 valid_combinations.push(comb)
             }
-            )
-        )
-    )
+        })
+    })
     return valid_combinations
 }
 

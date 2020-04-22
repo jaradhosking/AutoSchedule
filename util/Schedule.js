@@ -4,7 +4,7 @@ import Section from "Section";
 
 
 class Schedule {
-    custructor () {
+    constructor () {
         this.GPA = 0 // float, expected GPA of this Schedule
         this.rmpRanking = 0 // float, average rate my professor ranking of the professors in this Schedule
         this.score = 0 // float, score of the Schedule
