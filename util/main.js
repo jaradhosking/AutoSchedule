@@ -4,10 +4,42 @@ import * from 'CustomErrors.js'
 import Professor from 'Professor.js'
 import Schedule from 'Schedule.js'
 import Section from 'Section.js'
-import itertools from 'combinations.js'
-import copy
 
+function find_valid_schedules(course_list, valid_schedules) {
+    /*Finds all possible schedule combinations of the courses in course_list
+    All courses in the list will be in each schedule
 
+    Parameters:
+    course_list (Course[]): list of the Courses to be put into the schedules
+    valid_schedules (Sections[]): list of valid Schedules
+
+    Returns:
+    Schedule[]: list of schedules with the required courses
+    */
+    new_schedules = []
+    if course_list.length == 0:
+        return valid_schedules
+    course = course_list.pop()
+    if valid_schedules.length == 0:
+        course.sections.forEach(section =>
+            new_schedule = new Schedule
+            new_schedule.addSection(section)
+            new_schedules.append(new_schedule)
+        )
+    else:
+        valid_schedules.forEach(schedule =>
+            course.sections.foreach(section =>
+                new_schedule = copy.deepcopy(schedule)
+                try:
+                    new_schedule.addSection(section)
+                    new_schedules.append(new_schedule)
+                except ScheduleError:
+                    pass
+                except:
+                    print("Error in find_rc_options()")
+            )
+        )
+}
 
 
 
