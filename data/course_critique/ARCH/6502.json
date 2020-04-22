@@ -1,0 +1,29 @@
+[
+    {
+        "GPA":3.73,
+        "A%":65,
+        "B%":17,
+        "C%":2,
+        "D%":1,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.7,
+        "A%":64,
+        "B%":14,
+        "C%":0,
+        "D%":4,
+        "F%":0,
+        "Professor":"Baerlecken, Daniel"
+    },
+    {
+        "GPA":3.73,
+        "A%":65,
+        "B%":17,
+        "C%":2,
+        "D%":1,
+        "F%":0,
+        "Professor":"Swarts, Matthew"
+    }
+]

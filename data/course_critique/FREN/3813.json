@@ -1,0 +1,128 @@
+[
+    {
+        "GPA":3.73,
+        "A%":79,
+        "B%":10,
+        "C%":3,
+        "D%":0,
+        "F%":2,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.92,
+        "A%":90,
+        "B%":9,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Blackbourn-Jansma, Barbara"
+    },
+    {
+        "GPA":3.62,
+        "A%":71,
+        "B%":13,
+        "C%":4,
+        "D%":1,
+        "F%":2,
+        "Professor":"Boulard, Stephanie"
+    },
+    {
+        "GPA":3.84,
+        "A%":67,
+        "B%":10,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Caille, Antoine"
+    },
+    {
+        "GPA":3.92,
+        "A%":92,
+        "B%":2,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"Cottille-Foley, Nora"
+    },
+    {
+        "GPA":3.37,
+        "A%":55,
+        "B%":20,
+        "C%":20,
+        "D%":0,
+        "F%":0,
+        "Professor":"Gall, Lionel"
+    },
+    {
+        "GPA":3.89,
+        "A%":89,
+        "B%":12,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Ippolito, Christophe"
+    },
+    {
+        "GPA":3.8,
+        "A%":94,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":5,
+        "Professor":"Ippolito, Jean"
+    },
+    {
+        "GPA":3.58,
+        "A%":74,
+        "B%":8,
+        "C%":12,
+        "D%":2,
+        "F%":0,
+        "Professor":"Lemarchand, Lionel"
+    },
+    {
+        "GPA":3.44,
+        "A%":53,
+        "B%":29,
+        "C%":12,
+        "D%":0,
+        "F%":0,
+        "Professor":"Marin, Catherine"
+    },
+    {
+        "GPA":3.93,
+        "A%":93,
+        "B%":7,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Serafin, Sonia"
+    },
+    {
+        "GPA":3.88,
+        "A%":80,
+        "B%":10,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Sy, Samba"
+    },
+    {
+        "GPA":3.47,
+        "A%":67,
+        "B%":17,
+        "C%":6,
+        "D%":0,
+        "F%":5,
+        "Professor":"Wiedorn, Michael"
+    },
+    {
+        "GPA":3.29,
+        "A%":22,
+        "B%":56,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Wilkens, Cybelle"
+    }
+]

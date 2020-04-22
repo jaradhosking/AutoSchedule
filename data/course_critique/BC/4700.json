@@ -1,0 +1,47 @@
+[
+    {
+        "GPA":3.64,
+        "A%":65,
+        "B%":33,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.36,
+        "A%":40,
+        "B%":47,
+        "C%":7,
+        "D%":0,
+        "F%":0,
+        "Professor":"Marinaccio, Joseph"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Song, Xinyi"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Tijo, Silvia"
+    },
+    {
+        "GPA":3.5,
+        "A%":50,
+        "B%":50,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Wexler, Jack"
+    }
+]

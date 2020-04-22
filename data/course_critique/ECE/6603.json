@@ -1,0 +1,56 @@
+[
+    {
+        "GPA":3.66,
+        "A%":71,
+        "B%":20,
+        "C%":5,
+        "D%":1,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.6,
+        "A%":62,
+        "B%":34,
+        "C%":2,
+        "D%":0,
+        "F%":0,
+        "Professor":"Barry, John"
+    },
+    {
+        "GPA":3.9,
+        "A%":94,
+        "B%":4,
+        "C%":4,
+        "D%":0,
+        "F%":0,
+        "Professor":"Li, Geoffrey"
+    },
+    {
+        "GPA":3.64,
+        "A%":72,
+        "B%":13,
+        "C%":7,
+        "D%":1,
+        "F%":1,
+        "Professor":"Li, Ye"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Rhodes, William"
+    },
+    {
+        "GPA":3.5,
+        "A%":50,
+        "B%":50,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Walkenhorst, Brett"
+    }
+]

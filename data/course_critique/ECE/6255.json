@@ -1,0 +1,47 @@
+[
+    {
+        "GPA":3.41,
+        "A%":45,
+        "B%":39,
+        "C%":5,
+        "D%":0,
+        "F%":1,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.33,
+        "A%":46,
+        "B%":33,
+        "C%":9,
+        "D%":0,
+        "F%":3,
+        "Professor":"Clements, Mark"
+    },
+    {
+        "GPA":3.41,
+        "A%":53,
+        "B%":35,
+        "C%":4,
+        "D%":2,
+        "F%":2,
+        "Professor":"Juang, Biing"
+    },
+    {
+        "GPA":3.44,
+        "A%":41,
+        "B%":43,
+        "C%":4,
+        "D%":0,
+        "F%":0,
+        "Professor":"Lee, Chin-Hui"
+    },
+    {
+        "GPA":3.41,
+        "A%":43,
+        "B%":50,
+        "C%":4,
+        "D%":0,
+        "F%":0,
+        "Professor":"Schafer, Ronald"
+    }
+]

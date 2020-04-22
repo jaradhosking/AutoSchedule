@@ -1,0 +1,110 @@
+[
+    {
+        "GPA":3.07,
+        "A%":38,
+        "B%":24,
+        "C%":22,
+        "D%":3,
+        "F%":2,
+        "Professor":"All"
+    },
+    {
+        "GPA":2.55,
+        "A%":16,
+        "B%":14,
+        "C%":58,
+        "D%":2,
+        "F%":0,
+        "Professor":"Bernstein, Megan"
+    },
+    {
+        "GPA":2.53,
+        "A%":11,
+        "B%":39,
+        "C%":22,
+        "D%":6,
+        "F%":6,
+        "Professor":"Duke, Richard"
+    },
+    {
+        "GPA":3.0,
+        "A%":40,
+        "B%":30,
+        "C%":10,
+        "D%":0,
+        "F%":10,
+        "Professor":"Loebl, Martin"
+    },
+    {
+        "GPA":3.4,
+        "A%":41,
+        "B%":41,
+        "C%":6,
+        "D%":0,
+        "F%":0,
+        "Professor":"Nagle, Brendan"
+    },
+    {
+        "GPA":3.28,
+        "A%":64,
+        "B%":4,
+        "C%":17,
+        "D%":2,
+        "F%":4,
+        "Professor":"Poznanovikj, Svetlana"
+    },
+    {
+        "GPA":2.8,
+        "A%":44,
+        "B%":9,
+        "C%":31,
+        "D%":4,
+        "F%":7,
+        "Professor":"Shapira, Asaf"
+    },
+    {
+        "GPA":3.38,
+        "A%":39,
+        "B%":34,
+        "C%":7,
+        "D%":1,
+        "F%":1,
+        "Professor":"Tetali, Prasad"
+    },
+    {
+        "GPA":3.56,
+        "A%":45,
+        "B%":36,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"Trotter, William"
+    },
+    {
+        "GPA":3.18,
+        "A%":38,
+        "B%":38,
+        "C%":6,
+        "D%":3,
+        "F%":3,
+        "Professor":"van der Holst, Hendricus"
+    },
+    {
+        "GPA":3.06,
+        "A%":29,
+        "B%":43,
+        "C%":20,
+        "D%":2,
+        "F%":0,
+        "Professor":"Yu, Josephine"
+    },
+    {
+        "GPA":2.96,
+        "A%":36,
+        "B%":17,
+        "C%":30,
+        "D%":5,
+        "F%":1,
+        "Professor":"Yu, Xing"
+    }
+]

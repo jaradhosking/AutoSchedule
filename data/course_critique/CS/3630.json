@@ -1,0 +1,65 @@
+[
+    {
+        "GPA":3.56,
+        "A%":62,
+        "B%":26,
+        "C%":7,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.59,
+        "A%":68,
+        "B%":19,
+        "C%":9,
+        "D%":1,
+        "F%":0,
+        "Professor":"Ahmadzadeh Esmaeilabadi, Seyed"
+    },
+    {
+        "GPA":3.78,
+        "A%":80,
+        "B%":15,
+        "C%":3,
+        "D%":0,
+        "F%":0,
+        "Professor":"Chernova, Sonia"
+    },
+    {
+        "GPA":3.54,
+        "A%":60,
+        "B%":27,
+        "C%":8,
+        "D%":0,
+        "F%":0,
+        "Professor":"Christensen, Henrik"
+    },
+    {
+        "GPA":3.56,
+        "A%":61,
+        "B%":26,
+        "C%":6,
+        "D%":1,
+        "F%":0,
+        "Professor":"Dellaert, Frank"
+    },
+    {
+        "GPA":3.56,
+        "A%":65,
+        "B%":24,
+        "C%":7,
+        "D%":2,
+        "F%":0,
+        "Professor":"Hutchinson, Seth"
+    },
+    {
+        "GPA":3.27,
+        "A%":37,
+        "B%":40,
+        "C%":13,
+        "D%":0,
+        "F%":0,
+        "Professor":"Stilman, Michael"
+    }
+]

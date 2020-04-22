@@ -1,0 +1,65 @@
+[
+    {
+        "GPA":3.83,
+        "A%":78,
+        "B%":11,
+        "C%":1,
+        "D%":0,
+        "F%":1,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.75,
+        "A%":60,
+        "B%":20,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Lyons, Russell"
+    },
+    {
+        "GPA":3.83,
+        "A%":80,
+        "B%":8,
+        "C%":4,
+        "D%":0,
+        "F%":0,
+        "Professor":"Shapira, Asaf"
+    },
+    {
+        "GPA":3.83,
+        "A%":77,
+        "B%":13,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"Tetali, Prasad"
+    },
+    {
+        "GPA":3.5,
+        "A%":78,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":11,
+        "Professor":"Trotter, William"
+    },
+    {
+        "GPA":3.92,
+        "A%":82,
+        "B%":7,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Warnke, Lutz"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Yu, Xing"
+    }
+]

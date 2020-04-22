@@ -1,0 +1,65 @@
+[
+    {
+        "GPA":3.65,
+        "A%":73,
+        "B%":20,
+        "C%":5,
+        "D%":1,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":2.83,
+        "A%":26,
+        "B%":43,
+        "C%":17,
+        "D%":13,
+        "F%":0,
+        "Professor":"Keel, Thomas"
+    },
+    {
+        "GPA":3.64,
+        "A%":67,
+        "B%":25,
+        "C%":4,
+        "D%":1,
+        "F%":0,
+        "Professor":"Oberle, Rita"
+    },
+    {
+        "GPA":3.95,
+        "A%":95,
+        "B%":5,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Rodgers, Charner"
+    },
+    {
+        "GPA":3.82,
+        "A%":87,
+        "B%":11,
+        "C%":1,
+        "D%":2,
+        "F%":0,
+        "Professor":"Song, Xinyi"
+    },
+    {
+        "GPA":3.8,
+        "A%":84,
+        "B%":12,
+        "C%":2,
+        "D%":0,
+        "F%":1,
+        "Professor":"Thomas-Mobley, Linda"
+    },
+    {
+        "GPA":3.38,
+        "A%":50,
+        "B%":36,
+        "C%":11,
+        "D%":1,
+        "F%":0,
+        "Professor":"Wexler, Jack"
+    }
+]

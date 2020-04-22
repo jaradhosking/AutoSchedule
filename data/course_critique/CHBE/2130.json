@@ -1,0 +1,119 @@
+[
+    {
+        "GPA":2.9,
+        "A%":30,
+        "B%":35,
+        "C%":27,
+        "D%":3,
+        "F%":2,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.0,
+        "A%":41,
+        "B%":27,
+        "C%":22,
+        "D%":2,
+        "F%":5,
+        "Professor":"Banerjee, Sujit"
+    },
+    {
+        "GPA":3.04,
+        "A%":32,
+        "B%":41,
+        "C%":17,
+        "D%":5,
+        "F%":0,
+        "Professor":"Bhamla, Mohammed"
+    },
+    {
+        "GPA":2.85,
+        "A%":26,
+        "B%":36,
+        "C%":31,
+        "D%":4,
+        "F%":1,
+        "Professor":"Deng, Yulin"
+    },
+    {
+        "GPA":2.7,
+        "A%":21,
+        "B%":32,
+        "C%":36,
+        "D%":6,
+        "F%":1,
+        "Professor":"Grover, Martha"
+    },
+    {
+        "GPA":2.89,
+        "A%":28,
+        "B%":38,
+        "C%":26,
+        "D%":0,
+        "F%":4,
+        "Professor":"Hess, Dennis"
+    },
+    {
+        "GPA":3.1,
+        "A%":37,
+        "B%":34,
+        "C%":25,
+        "D%":1,
+        "F%":0,
+        "Professor":"Kohl, Paul"
+    },
+    {
+        "GPA":3.02,
+        "A%":29,
+        "B%":39,
+        "C%":24,
+        "D%":1,
+        "F%":0,
+        "Professor":"Liu, Nian"
+    },
+    {
+        "GPA":2.66,
+        "A%":15,
+        "B%":42,
+        "C%":37,
+        "D%":3,
+        "F%":2,
+        "Professor":"Paravastu, Anant"
+    },
+    {
+        "GPA":3.17,
+        "A%":43,
+        "B%":32,
+        "C%":21,
+        "D%":3,
+        "F%":0,
+        "Professor":"Pettit, Sandra"
+    },
+    {
+        "GPA":2.74,
+        "A%":26,
+        "B%":35,
+        "C%":25,
+        "D%":7,
+        "F%":4,
+        "Professor":"Reichmanis, Elsa"
+    },
+    {
+        "GPA":2.89,
+        "A%":28,
+        "B%":33,
+        "C%":30,
+        "D%":4,
+        "F%":0,
+        "Professor":"Thio, Yonathan"
+    },
+    {
+        "GPA":2.8,
+        "A%":23,
+        "B%":37,
+        "C%":36,
+        "D%":2,
+        "F%":1,
+        "Professor":"Wilson, Corey"
+    }
+]

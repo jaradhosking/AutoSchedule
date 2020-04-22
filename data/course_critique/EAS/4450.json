@@ -1,0 +1,38 @@
+[
+    {
+        "GPA":3.55,
+        "A%":60,
+        "B%":29,
+        "C%":7,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.29,
+        "A%":29,
+        "B%":71,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Handlos, Zachary"
+    },
+    {
+        "GPA":3.5,
+        "A%":33,
+        "B%":33,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Jelinek, Mark"
+    },
+    {
+        "GPA":3.58,
+        "A%":66,
+        "B%":24,
+        "C%":9,
+        "D%":0,
+        "F%":0,
+        "Professor":"St John, James"
+    }
+]

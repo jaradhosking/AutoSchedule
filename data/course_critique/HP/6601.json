@@ -1,0 +1,29 @@
+[
+    {
+        "GPA":3.94,
+        "A%":94,
+        "B%":7,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.86,
+        "A%":87,
+        "B%":14,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Middendorf, Paul"
+    },
+    {
+        "GPA":3.97,
+        "A%":97,
+        "B%":3,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Wickman, Arthur"
+    }
+]

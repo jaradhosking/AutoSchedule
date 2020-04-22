@@ -1,0 +1,74 @@
+[
+    {
+        "GPA":2.93,
+        "A%":33,
+        "B%":31,
+        "C%":18,
+        "D%":5,
+        "F%":3,
+        "Professor":"All"
+    },
+    {
+        "GPA":2.78,
+        "A%":28,
+        "B%":30,
+        "C%":24,
+        "D%":6,
+        "F%":5,
+        "Professor":"Baron, William"
+    },
+    {
+        "GPA":3.51,
+        "A%":56,
+        "B%":26,
+        "C%":6,
+        "D%":1,
+        "F%":1,
+        "Professor":"Finn, MG"
+    },
+    {
+        "GPA":3.01,
+        "A%":39,
+        "B%":24,
+        "C%":20,
+        "D%":4,
+        "F%":4,
+        "Professor":"Kubanek, Julia"
+    },
+    {
+        "GPA":3.24,
+        "A%":49,
+        "B%":25,
+        "C%":10,
+        "D%":4,
+        "F%":3,
+        "Professor":"Morgan Jr, Michael"
+    },
+    {
+        "GPA":3.07,
+        "A%":36,
+        "B%":37,
+        "C%":10,
+        "D%":5,
+        "F%":3,
+        "Professor":"Pollet, Pamela"
+    },
+    {
+        "GPA":2.88,
+        "A%":29,
+        "B%":41,
+        "C%":15,
+        "D%":7,
+        "F%":4,
+        "Professor":"Tyson, J"
+    },
+    {
+        "GPA":2.54,
+        "A%":15,
+        "B%":33,
+        "C%":30,
+        "D%":8,
+        "F%":3,
+        "Professor":"Weck, Marcus"
+    }
+]

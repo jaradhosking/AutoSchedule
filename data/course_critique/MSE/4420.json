@@ -1,0 +1,56 @@
+[
+    {
+        "GPA":3.72,
+        "A%":73,
+        "B%":24,
+        "C%":2,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.67,
+        "A%":73,
+        "B%":21,
+        "C%":6,
+        "D%":0,
+        "F%":0,
+        "Professor":"Brettmann, Blair"
+    },
+    {
+        "GPA":3.92,
+        "A%":92,
+        "B%":8,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Parachuru, Radhakrishnaiah"
+    },
+    {
+        "GPA":3.82,
+        "A%":83,
+        "B%":16,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"Realff, Mary"
+    },
+    {
+        "GPA":3.67,
+        "A%":66,
+        "B%":33,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Shofner, Meisha"
+    },
+    {
+        "GPA":3.69,
+        "A%":76,
+        "B%":17,
+        "C%":7,
+        "D%":0,
+        "F%":0,
+        "Professor":"Yushin, Gleb"
+    }
+]

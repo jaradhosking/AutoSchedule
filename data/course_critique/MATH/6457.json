@@ -1,0 +1,47 @@
+[
+    {
+        "GPA":3.83,
+        "A%":67,
+        "B%":4,
+        "C%":3,
+        "D%":1,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.73,
+        "A%":50,
+        "B%":18,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Belegradek, Igor"
+    },
+    {
+        "GPA":3.95,
+        "A%":90,
+        "B%":5,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Etnyre, John"
+    },
+    {
+        "GPA":3.66,
+        "A%":58,
+        "B%":10,
+        "C%":3,
+        "D%":5,
+        "F%":0,
+        "Professor":"Ghomi, Mohammad"
+    },
+    {
+        "GPA":3.88,
+        "A%":69,
+        "B%":0,
+        "C%":4,
+        "D%":0,
+        "F%":0,
+        "Professor":"Le, Thang"
+    }
+]

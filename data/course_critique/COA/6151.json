@@ -1,0 +1,29 @@
+[
+    {
+        "GPA":3.27,
+        "A%":40,
+        "B%":48,
+        "C%":8,
+        "D%":1,
+        "F%":1,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.14,
+        "A%":34,
+        "B%":49,
+        "C%":12,
+        "D%":2,
+        "F%":2,
+        "Professor":"Allen, Douglas"
+    },
+    {
+        "GPA":3.48,
+        "A%":50,
+        "B%":47,
+        "C%":2,
+        "D%":0,
+        "F%":0,
+        "Professor":"Dagenhart, Richard"
+    }
+]

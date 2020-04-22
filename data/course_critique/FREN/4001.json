@@ -1,0 +1,47 @@
+[
+    {
+        "GPA":3.39,
+        "A%":61,
+        "B%":16,
+        "C%":9,
+        "D%":0,
+        "F%":5,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.9,
+        "A%":82,
+        "B%":9,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Caille, Antoine"
+    },
+    {
+        "GPA":3.22,
+        "A%":58,
+        "B%":13,
+        "C%":14,
+        "D%":0,
+        "F%":8,
+        "Professor":"Cottille-Foley, Nora"
+    },
+    {
+        "GPA":3.3,
+        "A%":50,
+        "B%":25,
+        "C%":0,
+        "D%":0,
+        "F%":8,
+        "Professor":"Lemarchand, Lionel"
+    },
+    {
+        "GPA":3.5,
+        "A%":57,
+        "B%":25,
+        "C%":11,
+        "D%":0,
+        "F%":0,
+        "Professor":"Marin, Catherine"
+    }
+]

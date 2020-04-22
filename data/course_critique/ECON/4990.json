@@ -1,0 +1,110 @@
+[
+    {
+        "GPA":3.98,
+        "A%":97,
+        "B%":2,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Banerjee, Samiran"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Belton, Willie"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Birchfield, Vicki"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Chung, Chul"
+    },
+    {
+        "GPA":3.89,
+        "A%":89,
+        "B%":11,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Gallego, Anthony"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Kilic, Rehim"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"McLeod Jr, John"
+    },
+    {
+        "GPA":3.98,
+        "A%":98,
+        "B%":2,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Nair-Reichert, Usha"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Schaffer, William"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Song, Minjae"
+    },
+    {
+        "GPA":3.75,
+        "A%":60,
+        "B%":20,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Tittle, Derek"
+    }
+]

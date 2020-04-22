@@ -1,0 +1,56 @@
+[
+    {
+        "GPA":3.11,
+        "A%":38,
+        "B%":33,
+        "C%":18,
+        "D%":4,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.86,
+        "A%":86,
+        "B%":14,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Brown, Samuel"
+    },
+    {
+        "GPA":3.78,
+        "A%":87,
+        "B%":5,
+        "C%":9,
+        "D%":0,
+        "F%":0,
+        "Professor":"Diggle, Stephen"
+    },
+    {
+        "GPA":3.03,
+        "A%":25,
+        "B%":53,
+        "C%":16,
+        "D%":1,
+        "F%":1,
+        "Professor":"Edmonds, Paul"
+    },
+    {
+        "GPA":3.06,
+        "A%":31,
+        "B%":49,
+        "C%":9,
+        "D%":9,
+        "F%":0,
+        "Professor":"Kudravi, Steven"
+    },
+    {
+        "GPA":3.0,
+        "A%":33,
+        "B%":31,
+        "C%":21,
+        "D%":6,
+        "F%":0,
+        "Professor":"Winchell, Jonas"
+    }
+]

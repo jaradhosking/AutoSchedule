@@ -1,0 +1,65 @@
+[
+    {
+        "GPA":3.58,
+        "A%":65,
+        "B%":25,
+        "C%":3,
+        "D%":2,
+        "F%":1,
+        "Professor":"All"
+    },
+    {
+        "GPA":2.5,
+        "A%":22,
+        "B%":34,
+        "C%":20,
+        "D%":15,
+        "F%":7,
+        "Professor":"Craig, Robert"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Cramer, James"
+    },
+    {
+        "GPA":3.36,
+        "A%":34,
+        "B%":63,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Gamble, Michael"
+    },
+    {
+        "GPA":4.0,
+        "A%":82,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Roark, Haney"
+    },
+    {
+        "GPA":3.85,
+        "A%":85,
+        "B%":15,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Rudolph, Charles"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Sharp, Leslie"
+    }
+]

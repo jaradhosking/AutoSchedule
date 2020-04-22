@@ -1,0 +1,29 @@
+[
+    {
+        "GPA":4.0,
+        "A%":92,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Bauchspies, Wenda"
+    },
+    {
+        "GPA":4.0,
+        "A%":83,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Pearson Jr, Willie"
+    }
+]

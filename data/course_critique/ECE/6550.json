@@ -1,0 +1,119 @@
+[
+    {
+        "GPA":3.3,
+        "A%":43,
+        "B%":38,
+        "C%":11,
+        "D%":1,
+        "F%":1,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.6,
+        "A%":58,
+        "B%":36,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Boussert, Bertrand"
+    },
+    {
+        "GPA":3.42,
+        "A%":44,
+        "B%":47,
+        "C%":4,
+        "D%":0,
+        "F%":0,
+        "Professor":"Coogan, Samuel"
+    },
+    {
+        "GPA":3.39,
+        "A%":42,
+        "B%":53,
+        "C%":3,
+        "D%":0,
+        "F%":0,
+        "Professor":"Egerstedt, Magnus"
+    },
+    {
+        "GPA":3.6,
+        "A%":46,
+        "B%":35,
+        "C%":3,
+        "D%":0,
+        "F%":0,
+        "Professor":"Ferri, Bonnie"
+    },
+    {
+        "GPA":3.88,
+        "A%":88,
+        "B%":13,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Jarzynski, Jacek"
+    },
+    {
+        "GPA":3.75,
+        "A%":75,
+        "B%":25,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Rhodes, William"
+    },
+    {
+        "GPA":3.5,
+        "A%":67,
+        "B%":17,
+        "C%":17,
+        "D%":0,
+        "F%":0,
+        "Professor":"Sadegh, Nader"
+    },
+    {
+        "GPA":3.17,
+        "A%":33,
+        "B%":50,
+        "C%":17,
+        "D%":0,
+        "F%":0,
+        "Professor":"Singhose, William"
+    },
+    {
+        "GPA":2.44,
+        "A%":18,
+        "B%":38,
+        "C%":21,
+        "D%":13,
+        "F%":10,
+        "Professor":"Tannenbaum, Allen"
+    },
+    {
+        "GPA":3.03,
+        "A%":31,
+        "B%":37,
+        "C%":22,
+        "D%":1,
+        "F%":1,
+        "Professor":"Verriest, Erik"
+    },
+    {
+        "GPA":3.49,
+        "A%":51,
+        "B%":37,
+        "C%":4,
+        "D%":0,
+        "F%":1,
+        "Professor":"Wardi, Yorai"
+    },
+    {
+        "GPA":3.14,
+        "A%":39,
+        "B%":32,
+        "C%":22,
+        "D%":0,
+        "F%":1,
+        "Professor":"Yezzi, Anthony"
+    }
+]

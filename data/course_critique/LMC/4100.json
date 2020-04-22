@@ -1,0 +1,47 @@
+[
+    {
+        "GPA":3.66,
+        "A%":68,
+        "B%":31,
+        "C%":0,
+        "D%":0,
+        "F%":1,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.0,
+        "A%":0,
+        "B%":100,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Auslander, Philip"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Crawford, Thomas"
+    },
+    {
+        "GPA":3.4,
+        "A%":49,
+        "B%":48,
+        "C%":0,
+        "D%":0,
+        "F%":3,
+        "Professor":"Santesso, Aaron"
+    },
+    {
+        "GPA":3.8,
+        "A%":80,
+        "B%":20,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Yaszek, Lisa"
+    }
+]

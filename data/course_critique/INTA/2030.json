@@ -1,0 +1,101 @@
+[
+    {
+        "GPA":3.24,
+        "A%":40,
+        "B%":34,
+        "C%":10,
+        "D%":2,
+        "F%":2,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.16,
+        "A%":33,
+        "B%":38,
+        "C%":10,
+        "D%":1,
+        "F%":2,
+        "Professor":"Cochran, Molly"
+    },
+    {
+        "GPA":3.21,
+        "A%":35,
+        "B%":36,
+        "C%":11,
+        "D%":2,
+        "F%":0,
+        "Professor":"Fabry, Mikulas"
+    },
+    {
+        "GPA":2.94,
+        "A%":21,
+        "B%":36,
+        "C%":14,
+        "D%":6,
+        "F%":0,
+        "Professor":"Fukuoka, Kazuya"
+    },
+    {
+        "GPA":3.39,
+        "A%":42,
+        "B%":32,
+        "C%":7,
+        "D%":1,
+        "F%":1,
+        "Professor":"Graybill, Lyn"
+    },
+    {
+        "GPA":3.16,
+        "A%":42,
+        "B%":31,
+        "C%":12,
+        "D%":4,
+        "F%":3,
+        "Professor":"Kazi, Tahseen"
+    },
+    {
+        "GPA":3.25,
+        "A%":35,
+        "B%":53,
+        "C%":8,
+        "D%":0,
+        "F%":1,
+        "Professor":"Keene, Edward"
+    },
+    {
+        "GPA":3.08,
+        "A%":28,
+        "B%":37,
+        "C%":13,
+        "D%":1,
+        "F%":1,
+        "Professor":"Maier, Sylvia"
+    },
+    {
+        "GPA":3.58,
+        "A%":62,
+        "B%":24,
+        "C%":4,
+        "D%":2,
+        "F%":0,
+        "Professor":"Markley, Eliza"
+    },
+    {
+        "GPA":3.38,
+        "A%":44,
+        "B%":33,
+        "C%":7,
+        "D%":2,
+        "F%":0,
+        "Professor":"Rich, Jason"
+    },
+    {
+        "GPA":3.66,
+        "A%":68,
+        "B%":20,
+        "C%":4,
+        "D%":1,
+        "F%":0,
+        "Professor":"Salomone, Michael"
+    }
+]

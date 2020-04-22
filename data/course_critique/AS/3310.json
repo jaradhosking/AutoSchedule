@@ -1,0 +1,92 @@
+[
+    {
+        "GPA":3.64,
+        "A%":72,
+        "B%":19,
+        "C%":4,
+        "D%":1,
+        "F%":1,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.81,
+        "A%":82,
+        "B%":13,
+        "C%":0,
+        "D%":0,
+        "F%":2,
+        "Professor":"Adrian, John-Paul"
+    },
+    {
+        "GPA":3.72,
+        "A%":75,
+        "B%":21,
+        "C%":0,
+        "D%":2,
+        "F%":0,
+        "Professor":"Azar, Maurice"
+    },
+    {
+        "GPA":3.9,
+        "A%":94,
+        "B%":4,
+        "C%":0,
+        "D%":2,
+        "F%":0,
+        "Professor":"Brand, Daniel"
+    },
+    {
+        "GPA":3.88,
+        "A%":88,
+        "B%":12,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Coker, Calvin"
+    },
+    {
+        "GPA":3.71,
+        "A%":75,
+        "B%":22,
+        "C%":1,
+        "D%":0,
+        "F%":1,
+        "Professor":"Hood, Mi"
+    },
+    {
+        "GPA":3.21,
+        "A%":53,
+        "B%":21,
+        "C%":18,
+        "D%":1,
+        "F%":4,
+        "Professor":"Shivelhood, Paul"
+    },
+    {
+        "GPA":3.4,
+        "A%":44,
+        "B%":44,
+        "C%":6,
+        "D%":0,
+        "F%":0,
+        "Professor":"Wade, Trevor"
+    },
+    {
+        "GPA":3.07,
+        "A%":33,
+        "B%":47,
+        "C%":13,
+        "D%":7,
+        "F%":0,
+        "Professor":"Watson, John"
+    },
+    {
+        "GPA":3.83,
+        "A%":77,
+        "B%":16,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Woods, Pamela"
+    }
+]

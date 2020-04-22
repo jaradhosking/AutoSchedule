@@ -1,0 +1,92 @@
+[
+    {
+        "GPA":3.76,
+        "A%":69,
+        "B%":12,
+        "C%":2,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":4.0,
+        "A%":96,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Gall, Kenneth"
+    },
+    {
+        "GPA":3.79,
+        "A%":76,
+        "B%":20,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Kumar, Satish"
+    },
+    {
+        "GPA":3.56,
+        "A%":66,
+        "B%":19,
+        "C%":11,
+        "D%":0,
+        "F%":0,
+        "Professor":"Liu, Meilin"
+    },
+    {
+        "GPA":4.0,
+        "A%":1,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Losego, Mark"
+    },
+    {
+        "GPA":4.0,
+        "A%":91,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Narayan, Roger"
+    },
+    {
+        "GPA":4.0,
+        "A%":79,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Russo, Paul"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Safranski, David"
+    },
+    {
+        "GPA":3.0,
+        "A%":0,
+        "B%":100,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Tannenbaum, Rina"
+    },
+    {
+        "GPA":3.0,
+        "A%":2,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":1,
+        "Professor":"Vogel, Eric"
+    }
+]

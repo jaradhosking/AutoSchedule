@@ -1,0 +1,38 @@
+[
+    {
+        "GPA":3.44,
+        "A%":42,
+        "B%":38,
+        "C%":3,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.45,
+        "A%":48,
+        "B%":44,
+        "C%":4,
+        "D%":0,
+        "F%":0,
+        "Professor":"Dusenbery, David"
+    },
+    {
+        "GPA":3.78,
+        "A%":78,
+        "B%":22,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Schoeppner, Nancy"
+    },
+    {
+        "GPA":3.26,
+        "A%":18,
+        "B%":41,
+        "C%":5,
+        "D%":0,
+        "F%":0,
+        "Professor":"Yen, Jeannette"
+    }
+]

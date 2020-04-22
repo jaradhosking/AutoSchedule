@@ -1,0 +1,83 @@
+[
+    {
+        "GPA":3.29,
+        "A%":56,
+        "B%":22,
+        "C%":15,
+        "D%":2,
+        "F%":2,
+        "Professor":"All"
+    },
+    {
+        "GPA":2.75,
+        "A%":13,
+        "B%":50,
+        "C%":38,
+        "D%":0,
+        "F%":0,
+        "Professor":"Dieci, Luca"
+    },
+    {
+        "GPA":3.63,
+        "A%":88,
+        "B%":0,
+        "C%":0,
+        "D%":13,
+        "F%":0,
+        "Professor":"Etnyre, John"
+    },
+    {
+        "GPA":3.71,
+        "A%":77,
+        "B%":18,
+        "C%":6,
+        "D%":0,
+        "F%":0,
+        "Professor":"Kang, Sung"
+    },
+    {
+        "GPA":3.39,
+        "A%":62,
+        "B%":16,
+        "C%":11,
+        "D%":2,
+        "F%":2,
+        "Professor":"McCuan, John"
+    },
+    {
+        "GPA":2.76,
+        "A%":26,
+        "B%":37,
+        "C%":16,
+        "D%":0,
+        "F%":11,
+        "Professor":"Mischaikow, Konstantin"
+    },
+    {
+        "GPA":3.3,
+        "A%":50,
+        "B%":30,
+        "C%":20,
+        "D%":0,
+        "F%":0,
+        "Professor":"Swiech, Andrzej"
+    },
+    {
+        "GPA":3.0,
+        "A%":43,
+        "B%":14,
+        "C%":43,
+        "D%":0,
+        "F%":0,
+        "Professor":"Yi, Yingfei"
+    },
+    {
+        "GPA":3.0,
+        "A%":40,
+        "B%":40,
+        "C%":10,
+        "D%":0,
+        "F%":10,
+        "Professor":"Zhou, Haomin"
+    }
+]

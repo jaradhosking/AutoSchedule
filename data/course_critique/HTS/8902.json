@@ -1,0 +1,254 @@
+[
+    {
+        "GPA":3.78,
+        "A%":84,
+        "B%":11,
+        "C%":5,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.75,
+        "A%":75,
+        "B%":25,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Bauchspies, Wenda"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Bayor, Ronald"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Bier, Laura"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Bullard, Alice"
+    },
+    {
+        "GPA":3.67,
+        "A%":92,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":8,
+        "Professor":"Damarin, Amanda"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"DUnger, Amy V"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Flamming, Douglas"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Foster, Lawrence"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Giebelhaus Jr, August"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Klawiter, Maren"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Knoespel, Kenneth"
+    },
+    {
+        "GPA":3.55,
+        "A%":54,
+        "B%":44,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Krige, Gerhard"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Lu, Hanchao"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Macrakis, Kristie"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"McDonald, Mary"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Nobles, Gregory"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Pearson Jr, Willie"
+    },
+    {
+        "GPA":3.33,
+        "A%":33,
+        "B%":67,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Schneer, Jonathan"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Singh, Jennifer"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Smith, Jennifer"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Smith, John"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Tone, Andrea"
+    },
+    {
+        "GPA":2.89,
+        "A%":44,
+        "B%":0,
+        "C%":56,
+        "D%":0,
+        "F%":0,
+        "Professor":"Tone, John"
+    },
+    {
+        "GPA":3.87,
+        "A%":87,
+        "B%":13,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Usselman, Steven"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Vallas, Steven"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Vergara, German"
+    },
+    {
+        "GPA":3.5,
+        "A%":50,
+        "B%":50,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Winders, William"
+    }
+]

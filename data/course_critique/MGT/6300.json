@@ -1,0 +1,65 @@
+[
+    {
+        "GPA":3.51,
+        "A%":52,
+        "B%":46,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.58,
+        "A%":59,
+        "B%":41,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Bond, Samuel"
+    },
+    {
+        "GPA":3.35,
+        "A%":37,
+        "B%":59,
+        "C%":2,
+        "D%":0,
+        "F%":0,
+        "Professor":"Challagalla, Goutam"
+    },
+    {
+        "GPA":3.34,
+        "A%":35,
+        "B%":62,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"Kohli, Ajay"
+    },
+    {
+        "GPA":3.45,
+        "A%":44,
+        "B%":53,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"Parsons, Leonard"
+    },
+    {
+        "GPA":3.77,
+        "A%":76,
+        "B%":23,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Rodriguez Vila, Omar"
+    },
+    {
+        "GPA":3.5,
+        "A%":51,
+        "B%":48,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"Vantine, Peter"
+    }
+]

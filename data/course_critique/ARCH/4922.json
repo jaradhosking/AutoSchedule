@@ -1,0 +1,47 @@
+[
+    {
+        "GPA":3.69,
+        "A%":73,
+        "B%":24,
+        "C%":1,
+        "D%":0,
+        "F%":1,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.58,
+        "A%":63,
+        "B%":33,
+        "C%":1,
+        "D%":0,
+        "F%":1,
+        "Professor":"Dowling, Elizabeth"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Green, David"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Jarrett, Christopher"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Sharp, Leslie"
+    }
+]

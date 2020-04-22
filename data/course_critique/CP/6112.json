@@ -1,0 +1,47 @@
+[
+    {
+        "GPA":3.52,
+        "A%":50,
+        "B%":44,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.69,
+        "A%":69,
+        "B%":31,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Alhadeff, Heather"
+    },
+    {
+        "GPA":3.71,
+        "A%":65,
+        "B%":26,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Cornell, Gary"
+    },
+    {
+        "GPA":3.42,
+        "A%":40,
+        "B%":51,
+        "C%":0,
+        "D%":1,
+        "F%":0,
+        "Professor":"French, Steven"
+    },
+    {
+        "GPA":3.67,
+        "A%":64,
+        "B%":31,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Guhathakurta, Subhrajit"
+    }
+]

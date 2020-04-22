@@ -1,0 +1,74 @@
+[
+    {
+        "GPA":3.79,
+        "A%":82,
+        "B%":11,
+        "C%":5,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":4.0,
+        "A%":75,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Botchwey, Nisha"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Dagenhart, Richard"
+    },
+    {
+        "GPA":3.0,
+        "A%":50,
+        "B%":0,
+        "C%":50,
+        "D%":0,
+        "F%":0,
+        "Professor":"Dunham-Jones, Ellen"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Juergensmeyer, Julian"
+    },
+    {
+        "GPA":3.75,
+        "A%":75,
+        "B%":25,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Leone de Nie, Karen"
+    },
+    {
+        "GPA":3.84,
+        "A%":78,
+        "B%":17,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Vargo, Jason"
+    },
+    {
+        "GPA":3.87,
+        "A%":87,
+        "B%":13,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Yang, Perry"
+    }
+]

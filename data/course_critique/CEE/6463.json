@@ -1,0 +1,29 @@
+[
+    {
+        "GPA":3.53,
+        "A%":46,
+        "B%":17,
+        "C%":9,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.33,
+        "A%":33,
+        "B%":22,
+        "C%":11,
+        "D%":0,
+        "F%":0,
+        "Professor":"Asimaki, Domniki"
+    },
+    {
+        "GPA":3.62,
+        "A%":53,
+        "B%":15,
+        "C%":9,
+        "D%":0,
+        "F%":0,
+        "Professor":"Puzrin, Alexander"
+    }
+]

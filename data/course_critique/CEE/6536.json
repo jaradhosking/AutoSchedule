@@ -1,0 +1,47 @@
+[
+    {
+        "GPA":3.71,
+        "A%":70,
+        "B%":28,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.89,
+        "A%":85,
+        "B%":11,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Kahn, Lawrence"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Scott, David"
+    },
+    {
+        "GPA":3.62,
+        "A%":66,
+        "B%":30,
+        "C%":2,
+        "D%":0,
+        "F%":1,
+        "Professor":"Zureick, Abdul-Hamid"
+    },
+    {
+        "GPA":3.67,
+        "A%":66,
+        "B%":32,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Zureick, Abdulhamid"
+    }
+]

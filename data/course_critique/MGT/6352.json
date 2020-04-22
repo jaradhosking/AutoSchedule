@@ -1,0 +1,110 @@
+[
+    {
+        "GPA":3.92,
+        "A%":91,
+        "B%":8,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Citrin, Alka"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Ferguson, Mark"
+    },
+    {
+        "GPA":3.92,
+        "A%":97,
+        "B%":0,
+        "C%":2,
+        "D%":2,
+        "F%":0,
+        "Professor":"Harris, Joyelle"
+    },
+    {
+        "GPA":3.91,
+        "A%":90,
+        "B%":9,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Hoadley, James"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Kebede, Joseph"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Leibovitch, Abraham"
+    },
+    {
+        "GPA":3.87,
+        "A%":87,
+        "B%":13,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Parkerson, John"
+    },
+    {
+        "GPA":3.85,
+        "A%":86,
+        "B%":14,
+        "C%":0,
+        "D%":1,
+        "F%":0,
+        "Professor":"Rogers, Joy"
+    },
+    {
+        "GPA":4.0,
+        "A%":86,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Ulgado, Francis"
+    },
+    {
+        "GPA":4.0,
+        "A%":98,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Voigt, Nicholas"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Zeng, Bing"
+    }
+]

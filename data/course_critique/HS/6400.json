@@ -1,0 +1,56 @@
+[
+    {
+        "GPA":3.92,
+        "A%":92,
+        "B%":7,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.75,
+        "A%":75,
+        "B%":25,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Ayer, Turgay"
+    },
+    {
+        "GPA":3.92,
+        "A%":90,
+        "B%":8,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Keskinocak, Pinar"
+    },
+    {
+        "GPA":3.85,
+        "A%":86,
+        "B%":5,
+        "C%":5,
+        "D%":0,
+        "F%":0,
+        "Professor":"Lee, Eva"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Myrick, Justin"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Sainfort, Francois"
+    }
+]

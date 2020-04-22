@@ -1,0 +1,29 @@
+[
+    {
+        "GPA":3.62,
+        "A%":59,
+        "B%":36,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.5,
+        "A%":50,
+        "B%":50,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Hassan, Narin"
+    },
+    {
+        "GPA":3.75,
+        "A%":67,
+        "B%":22,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Le Dantec, Christopher"
+    }
+]

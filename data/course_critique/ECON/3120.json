@@ -1,0 +1,65 @@
+[
+    {
+        "GPA":2.91,
+        "A%":27,
+        "B%":37,
+        "C%":20,
+        "D%":2,
+        "F%":3,
+        "Professor":"All"
+    },
+    {
+        "GPA":2.87,
+        "A%":25,
+        "B%":38,
+        "C%":21,
+        "D%":2,
+        "F%":3,
+        "Professor":"Belton, Willie"
+    },
+    {
+        "GPA":3.44,
+        "A%":52,
+        "B%":33,
+        "C%":8,
+        "D%":0,
+        "F%":1,
+        "Professor":"Boston, Thomas"
+    },
+    {
+        "GPA":3.14,
+        "A%":43,
+        "B%":23,
+        "C%":19,
+        "D%":2,
+        "F%":4,
+        "Professor":"Fritz, Richard"
+    },
+    {
+        "GPA":2.72,
+        "A%":19,
+        "B%":38,
+        "C%":25,
+        "D%":4,
+        "F%":4,
+        "Professor":"Iacopetta, Maurizio"
+    },
+    {
+        "GPA":3.22,
+        "A%":42,
+        "B%":42,
+        "C%":8,
+        "D%":0,
+        "F%":4,
+        "Professor":"Mallick, Naresh"
+    },
+    {
+        "GPA":2.5,
+        "A%":13,
+        "B%":22,
+        "C%":35,
+        "D%":9,
+        "F%":0,
+        "Professor":"Tittle, Derek"
+    }
+]

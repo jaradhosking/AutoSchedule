@@ -1,0 +1,65 @@
+[
+    {
+        "GPA":3.59,
+        "A%":58,
+        "B%":37,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.61,
+        "A%":59,
+        "B%":36,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Adibi, Ali"
+    },
+    {
+        "GPA":3.42,
+        "A%":47,
+        "B%":39,
+        "C%":8,
+        "D%":0,
+        "F%":0,
+        "Professor":"Boussert, Bertrand"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Citrin, David"
+    },
+    {
+        "GPA":3.75,
+        "A%":75,
+        "B%":25,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Geddis, Demetris"
+    },
+    {
+        "GPA":3.52,
+        "A%":56,
+        "B%":37,
+        "C%":2,
+        "D%":0,
+        "F%":1,
+        "Professor":"Glytsis, Elias"
+    },
+    {
+        "GPA":3.36,
+        "A%":32,
+        "B%":63,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Ralph, Stephen"
+    }
+]

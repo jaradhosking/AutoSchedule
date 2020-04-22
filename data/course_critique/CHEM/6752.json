@@ -1,0 +1,47 @@
+[
+    {
+        "GPA":3.55,
+        "A%":56,
+        "B%":24,
+        "C%":9,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.58,
+        "A%":62,
+        "B%":23,
+        "C%":10,
+        "D%":0,
+        "F%":0,
+        "Professor":"Bucknall, David"
+    },
+    {
+        "GPA":3.33,
+        "A%":22,
+        "B%":22,
+        "C%":11,
+        "D%":0,
+        "F%":0,
+        "Professor":"Kumar, Satish"
+    },
+    {
+        "GPA":3.83,
+        "A%":83,
+        "B%":17,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Russo, Paul"
+    },
+    {
+        "GPA":3.5,
+        "A%":50,
+        "B%":50,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Tsukruk, Vladimir"
+    }
+]

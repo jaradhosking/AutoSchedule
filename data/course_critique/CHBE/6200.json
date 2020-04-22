@@ -1,0 +1,38 @@
+[
+    {
+        "GPA":3.32,
+        "A%":40,
+        "B%":51,
+        "C%":7,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":2.96,
+        "A%":5,
+        "B%":89,
+        "C%":6,
+        "D%":0,
+        "F%":1,
+        "Professor":"Bhamla, Mohammed"
+    },
+    {
+        "GPA":3.36,
+        "A%":46,
+        "B%":44,
+        "C%":9,
+        "D%":1,
+        "F%":0,
+        "Professor":"Breedveld, Laurens"
+    },
+    {
+        "GPA":3.37,
+        "A%":44,
+        "B%":48,
+        "C%":7,
+        "D%":0,
+        "F%":0,
+        "Professor":"Nenes, Athanasios"
+    }
+]

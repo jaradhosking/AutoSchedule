@@ -1,0 +1,119 @@
+[
+    {
+        "GPA":3.36,
+        "A%":44,
+        "B%":49,
+        "C%":6,
+        "D%":1,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.39,
+        "A%":45,
+        "B%":48,
+        "C%":6,
+        "D%":0,
+        "F%":0,
+        "Professor":"Baldwin, Michael"
+    },
+    {
+        "GPA":3.18,
+        "A%":23,
+        "B%":72,
+        "C%":5,
+        "D%":0,
+        "F%":0,
+        "Professor":"Degertekin, F"
+    },
+    {
+        "GPA":3.62,
+        "A%":62,
+        "B%":37,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Ferri, Aldo"
+    },
+    {
+        "GPA":3.63,
+        "A%":64,
+        "B%":35,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"Graham Jr, Samuel"
+    },
+    {
+        "GPA":3.22,
+        "A%":31,
+        "B%":61,
+        "C%":7,
+        "D%":1,
+        "F%":0,
+        "Professor":"Joshi, Yogendra"
+    },
+    {
+        "GPA":3.62,
+        "A%":62,
+        "B%":37,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Perrella, Matthew"
+    },
+    {
+        "GPA":3.24,
+        "A%":37,
+        "B%":52,
+        "C%":10,
+        "D%":2,
+        "F%":0,
+        "Professor":"Rogers, Peter"
+    },
+    {
+        "GPA":3.38,
+        "A%":48,
+        "B%":40,
+        "C%":9,
+        "D%":1,
+        "F%":0,
+        "Professor":"Smith, David"
+    },
+    {
+        "GPA":3.69,
+        "A%":69,
+        "B%":31,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Tjandra Leksana, Caitlin"
+    },
+    {
+        "GPA":3.44,
+        "A%":49,
+        "B%":46,
+        "C%":5,
+        "D%":0,
+        "F%":0,
+        "Professor":"Torello, David"
+    },
+    {
+        "GPA":3.41,
+        "A%":48,
+        "B%":46,
+        "C%":5,
+        "D%":0,
+        "F%":1,
+        "Professor":"Varney, Philip"
+    },
+    {
+        "GPA":3.24,
+        "A%":35,
+        "B%":57,
+        "C%":7,
+        "D%":0,
+        "F%":1,
+        "Professor":"Zhang, Zhuomin"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "GPA":3.18,
+        "A%":40,
+        "B%":34,
+        "C%":10,
+        "D%":4,
+        "F%":2,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.26,
+        "A%":45,
+        "B%":32,
+        "C%":8,
+        "D%":4,
+        "F%":2,
+        "Professor":"Alexander, Eleanor"
+    },
+    {
+        "GPA":2.68,
+        "A%":13,
+        "B%":43,
+        "C%":20,
+        "D%":9,
+        "F%":2,
+        "Professor":"Scriven, Olivia"
+    },
+    {
+        "GPA":3.25,
+        "A%":38,
+        "B%":50,
+        "C%":13,
+        "D%":0,
+        "F%":0,
+        "Professor":"Williams, Naomi"
+    }
+]

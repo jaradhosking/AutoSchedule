@@ -1,0 +1,83 @@
+[
+    {
+        "GPA":3.89,
+        "A%":87,
+        "B%":11,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.88,
+        "A%":85,
+        "B%":12,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"DiSalvo, Carl"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Jafarinaimi, Nassim"
+    },
+    {
+        "GPA":3.74,
+        "A%":70,
+        "B%":25,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Le Dantec, Christopher"
+    },
+    {
+        "GPA":4.0,
+        "A%":90,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Loukissas, Yanni"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Magerko, Brian"
+    },
+    {
+        "GPA":3.86,
+        "A%":86,
+        "B%":14,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Murray, Janet"
+    },
+    {
+        "GPA":3.7,
+        "A%":70,
+        "B%":31,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Nitsche, Michael"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Nooney, Erica"
+    }
+]

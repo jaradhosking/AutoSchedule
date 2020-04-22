@@ -1,0 +1,47 @@
+[
+    {
+        "GPA":3.83,
+        "A%":82,
+        "B%":16,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.92,
+        "A%":92,
+        "B%":8,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Guzdial, Mark"
+    },
+    {
+        "GPA":3.81,
+        "A%":81,
+        "B%":19,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Omojokun, Olufisayo"
+    },
+    {
+        "GPA":3.72,
+        "A%":68,
+        "B%":26,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Rutledge, Richard"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Simpkins, Christopher"
+    }
+]

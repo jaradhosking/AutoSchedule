@@ -1,0 +1,173 @@
+[
+    {
+        "GPA":3.16,
+        "A%":38,
+        "B%":35,
+        "C%":13,
+        "D%":3,
+        "F%":1,
+        "Professor":"All"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Al-Regib, Ghassan"
+    },
+    {
+        "GPA":3.19,
+        "A%":47,
+        "B%":28,
+        "C%":14,
+        "D%":5,
+        "F%":2,
+        "Professor":"Anderson, David"
+    },
+    {
+        "GPA":3.8,
+        "A%":84,
+        "B%":10,
+        "C%":2,
+        "D%":2,
+        "F%":1,
+        "Professor":"Barnes, Christopher"
+    },
+    {
+        "GPA":3.0,
+        "A%":0,
+        "B%":100,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Beck, Brian"
+    },
+    {
+        "GPA":3.12,
+        "A%":32,
+        "B%":36,
+        "C%":16,
+        "D%":1,
+        "F%":1,
+        "Professor":"Clements, Mark"
+    },
+    {
+        "GPA":3.25,
+        "A%":38,
+        "B%":41,
+        "C%":8,
+        "D%":1,
+        "F%":2,
+        "Professor":"Fekri, Faramarz"
+    },
+    {
+        "GPA":3.41,
+        "A%":52,
+        "B%":33,
+        "C%":9,
+        "D%":2,
+        "F%":0,
+        "Professor":"Harper, Andrew"
+    },
+    {
+        "GPA":2.92,
+        "A%":18,
+        "B%":50,
+        "C%":28,
+        "D%":0,
+        "F%":0,
+        "Professor":"Jackson, Joel"
+    },
+    {
+        "GPA":3.04,
+        "A%":35,
+        "B%":29,
+        "C%":14,
+        "D%":7,
+        "F%":2,
+        "Professor":"Juang, Biing"
+    },
+    {
+        "GPA":2.91,
+        "A%":34,
+        "B%":26,
+        "C%":29,
+        "D%":5,
+        "F%":2,
+        "Professor":"McClellan, James"
+    },
+    {
+        "GPA":3.18,
+        "A%":40,
+        "B%":41,
+        "C%":7,
+        "D%":5,
+        "F%":2,
+        "Professor":"Mersereau, Russell"
+    },
+    {
+        "GPA":2.68,
+        "A%":19,
+        "B%":35,
+        "C%":17,
+        "D%":15,
+        "F%":1,
+        "Professor":"Moore II, Elliot"
+    },
+    {
+        "GPA":3.43,
+        "A%":43,
+        "B%":57,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Rhodes, William"
+    },
+    {
+        "GPA":3.09,
+        "A%":41,
+        "B%":21,
+        "C%":24,
+        "D%":1,
+        "F%":0,
+        "Professor":"Richards, Mark"
+    },
+    {
+        "GPA":3.18,
+        "A%":31,
+        "B%":40,
+        "C%":10,
+        "D%":1,
+        "F%":1,
+        "Professor":"Schafer, Ronald"
+    },
+    {
+        "GPA":2.93,
+        "A%":21,
+        "B%":32,
+        "C%":16,
+        "D%":5,
+        "F%":0,
+        "Professor":"Verriest, Erik"
+    },
+    {
+        "GPA":3.07,
+        "A%":35,
+        "B%":29,
+        "C%":18,
+        "D%":6,
+        "F%":0,
+        "Professor":"Williams, Douglas"
+    },
+    {
+        "GPA":3.36,
+        "A%":51,
+        "B%":31,
+        "C%":9,
+        "D%":4,
+        "F%":0,
+        "Professor":"Zhou, Guotong"
+    }
+]

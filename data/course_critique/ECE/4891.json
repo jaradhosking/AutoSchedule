@@ -1,0 +1,29 @@
+[
+    {
+        "GPA":3.7,
+        "A%":72,
+        "B%":21,
+        "C%":1,
+        "D%":0,
+        "F%":1,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.75,
+        "A%":78,
+        "B%":20,
+        "C%":0,
+        "D%":0,
+        "F%":1,
+        "Professor":"Durgin, Gregory"
+    },
+    {
+        "GPA":3.3,
+        "A%":27,
+        "B%":33,
+        "C%":7,
+        "D%":0,
+        "F%":0,
+        "Professor":"Valenta, Christopher"
+    }
+]

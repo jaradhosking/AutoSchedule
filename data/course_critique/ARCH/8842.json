@@ -1,0 +1,56 @@
+[
+    {
+        "GPA":3.72,
+        "A%":72,
+        "B%":12,
+        "C%":2,
+        "D%":0,
+        "F%":2,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.12,
+        "A%":22,
+        "B%":35,
+        "C%":13,
+        "D%":0,
+        "F%":0,
+        "Professor":"Hsu, Frances"
+    },
+    {
+        "GPA":3.69,
+        "A%":71,
+        "B%":15,
+        "C%":3,
+        "D%":0,
+        "F%":3,
+        "Professor":"Khan, Sabir"
+    },
+    {
+        "GPA":3.83,
+        "A%":79,
+        "B%":13,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Leary, Brian"
+    },
+    {
+        "GPA":3.81,
+        "A%":87,
+        "B%":4,
+        "C%":0,
+        "D%":0,
+        "F%":4,
+        "Professor":"Rodgers, Richard"
+    },
+    {
+        "GPA":3.75,
+        "A%":42,
+        "B%":25,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Zimring, Craig"
+    }
+]

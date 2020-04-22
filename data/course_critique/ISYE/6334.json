@@ -1,0 +1,47 @@
+[
+    {
+        "GPA":3.54,
+        "A%":55,
+        "B%":42,
+        "C%":2,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.47,
+        "A%":49,
+        "B%":49,
+        "C%":2,
+        "D%":0,
+        "F%":0,
+        "Professor":"Erera, Alan"
+    },
+    {
+        "GPA":3.65,
+        "A%":63,
+        "B%":33,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Foley, Robert"
+    },
+    {
+        "GPA":3.59,
+        "A%":60,
+        "B%":36,
+        "C%":2,
+        "D%":0,
+        "F%":0,
+        "Professor":"Kim, Seong-Hee"
+    },
+    {
+        "GPA":3.67,
+        "A%":67,
+        "B%":33,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"White III, Chelsea"
+    }
+]

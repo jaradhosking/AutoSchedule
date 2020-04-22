@@ -1,0 +1,38 @@
+[
+    {
+        "GPA":3.62,
+        "A%":62,
+        "B%":38,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.62,
+        "A%":62,
+        "B%":39,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Cothran, Bettina"
+    },
+    {
+        "GPA":3.93,
+        "A%":93,
+        "B%":7,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Kallin, Britta"
+    },
+    {
+        "GPA":3.36,
+        "A%":34,
+        "B%":64,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Uelzmann, Jan"
+    }
+]

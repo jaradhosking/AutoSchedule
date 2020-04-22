@@ -1,0 +1,47 @@
+[
+    {
+        "GPA":3.36,
+        "A%":41,
+        "B%":43,
+        "C%":6,
+        "D%":0,
+        "F%":1,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.22,
+        "A%":34,
+        "B%":40,
+        "C%":9,
+        "D%":1,
+        "F%":2,
+        "Professor":"Divan, Deepakraj"
+    },
+    {
+        "GPA":3.42,
+        "A%":44,
+        "B%":49,
+        "C%":4,
+        "D%":0,
+        "F%":0,
+        "Professor":"Habetler, Thomas"
+    },
+    {
+        "GPA":3.43,
+        "A%":45,
+        "B%":53,
+        "C%":1,
+        "D%":1,
+        "F%":0,
+        "Professor":"Harley, Ronald"
+    },
+    {
+        "GPA":3.49,
+        "A%":48,
+        "B%":32,
+        "C%":6,
+        "D%":0,
+        "F%":0,
+        "Professor":"Saeedifard, Maryam"
+    }
+]

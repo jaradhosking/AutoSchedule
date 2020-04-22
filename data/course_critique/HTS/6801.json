@@ -1,0 +1,38 @@
+[
+    {
+        "GPA":3.38,
+        "A%":63,
+        "B%":13,
+        "C%":25,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":2.75,
+        "A%":25,
+        "B%":25,
+        "C%":50,
+        "D%":0,
+        "F%":0,
+        "Professor":"Macrakis, Kristie"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"McDonald, Mary"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Singh, Jennifer"
+    }
+]

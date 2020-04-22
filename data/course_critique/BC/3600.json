@@ -1,0 +1,65 @@
+[
+    {
+        "GPA":3.22,
+        "A%":39,
+        "B%":44,
+        "C%":14,
+        "D%":1,
+        "F%":1,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.06,
+        "A%":27,
+        "B%":51,
+        "C%":19,
+        "D%":1,
+        "F%":0,
+        "Professor":"Castro-Lacouture, Daniel"
+    },
+    {
+        "GPA":3.25,
+        "A%":60,
+        "B%":0,
+        "C%":10,
+        "D%":0,
+        "F%":10,
+        "Professor":"Dreger, Garvin"
+    },
+    {
+        "GPA":3.24,
+        "A%":32,
+        "B%":55,
+        "C%":9,
+        "D%":0,
+        "F%":0,
+        "Professor":"Hunt, William"
+    },
+    {
+        "GPA":3.49,
+        "A%":54,
+        "B%":40,
+        "C%":6,
+        "D%":0,
+        "F%":0,
+        "Professor":"Rodgers, Charner"
+    },
+    {
+        "GPA":3.86,
+        "A%":90,
+        "B%":3,
+        "C%":0,
+        "D%":3,
+        "F%":0,
+        "Professor":"Thomas-Mobley, Linda"
+    },
+    {
+        "GPA":3.45,
+        "A%":52,
+        "B%":40,
+        "C%":7,
+        "D%":0,
+        "F%":0,
+        "Professor":"Weidner, Maureen"
+    }
+]

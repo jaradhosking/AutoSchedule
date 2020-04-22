@@ -1,0 +1,83 @@
+[
+    {
+        "GPA":3.94,
+        "A%":90,
+        "B%":1,
+        "C%":1,
+        "D%":0,
+        "F%":1,
+        "Professor":"All"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Bonetto, Federico"
+    },
+    {
+        "GPA":3.0,
+        "A%":67,
+        "B%":0,
+        "C%":17,
+        "D%":0,
+        "F%":17,
+        "Professor":"Chen, Xu-Yan"
+    },
+    {
+        "GPA":4.0,
+        "A%":94,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Chow, Shui-Nee"
+    },
+    {
+        "GPA":3.99,
+        "A%":97,
+        "B%":1,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"De La Llave, Rafael"
+    },
+    {
+        "GPA":4.0,
+        "A%":78,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Tao, Molei"
+    },
+    {
+        "GPA":4.0,
+        "A%":60,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Westdickenberg, Michael"
+    },
+    {
+        "GPA":4.0,
+        "A%":94,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Yi, Yingfei"
+    },
+    {
+        "GPA":3.88,
+        "A%":73,
+        "B%":13,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Zeng, Chongchun"
+    }
+]

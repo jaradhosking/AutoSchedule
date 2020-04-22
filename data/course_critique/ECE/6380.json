@@ -1,0 +1,65 @@
+[
+    {
+        "GPA":3.75,
+        "A%":72,
+        "B%":22,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":4.0,
+        "A%":93,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Citrin, David"
+    },
+    {
+        "GPA":3.64,
+        "A%":66,
+        "B%":29,
+        "C%":4,
+        "D%":0,
+        "F%":0,
+        "Professor":"Davis, Jeffrey"
+    },
+    {
+        "GPA":3.71,
+        "A%":53,
+        "B%":22,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Peterson, Andrew"
+    },
+    {
+        "GPA":3.38,
+        "A%":34,
+        "B%":56,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Swaminathan, Madhavan"
+    },
+    {
+        "GPA":3.84,
+        "A%":80,
+        "B%":15,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Tentzeris, Emmanouil"
+    },
+    {
+        "GPA":3.75,
+        "A%":73,
+        "B%":21,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"Voss, Paul"
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "GPA":3.36,
+        "A%":51,
+        "B%":32,
+        "C%":11,
+        "D%":2,
+        "F%":1,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.33,
+        "A%":49,
+        "B%":44,
+        "C%":2,
+        "D%":0,
+        "F%":5,
+        "Professor":"Datta, Anindya"
+    },
+    {
+        "GPA":3.05,
+        "A%":33,
+        "B%":39,
+        "C%":19,
+        "D%":4,
+        "F%":1,
+        "Professor":"Flury, Alan"
+    },
+    {
+        "GPA":3.45,
+        "A%":48,
+        "B%":48,
+        "C%":3,
+        "D%":0,
+        "F%":0,
+        "Professor":"Malhotra, Naresh"
+    },
+    {
+        "GPA":3.44,
+        "A%":57,
+        "B%":29,
+        "C%":11,
+        "D%":1,
+        "F%":0,
+        "Professor":"Narasimhan, Sridhar"
+    },
+    {
+        "GPA":2.9,
+        "A%":25,
+        "B%":43,
+        "C%":24,
+        "D%":5,
+        "F%":1,
+        "Professor":"Riggins, Frederick"
+    },
+    {
+        "GPA":3.46,
+        "A%":50,
+        "B%":36,
+        "C%":5,
+        "D%":0,
+        "F%":0,
+        "Professor":"Voigt, Nicholas"
+    },
+    {
+        "GPA":3.45,
+        "A%":58,
+        "B%":22,
+        "C%":9,
+        "D%":2,
+        "F%":1,
+        "Professor":"Wu, Dongjun"
+    },
+    {
+        "GPA":3.45,
+        "A%":56,
+        "B%":31,
+        "C%":8,
+        "D%":1,
+        "F%":0,
+        "Professor":"Zhang, Han"
+    },
+    {
+        "GPA":2.95,
+        "A%":31,
+        "B%":23,
+        "C%":23,
+        "D%":0,
+        "F%":4,
+        "Professor":"Zhong, Fang"
+    }
+]

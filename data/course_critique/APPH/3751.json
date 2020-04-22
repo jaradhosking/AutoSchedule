@@ -1,0 +1,38 @@
+[
+    {
+        "GPA":2.66,
+        "A%":20,
+        "B%":28,
+        "C%":23,
+        "D%":11,
+        "F%":1,
+        "Professor":"All"
+    },
+    {
+        "GPA":2.48,
+        "A%":7,
+        "B%":41,
+        "C%":45,
+        "D%":7,
+        "F%":0,
+        "Professor":"Abelew, Thomas"
+    },
+    {
+        "GPA":3.04,
+        "A%":36,
+        "B%":25,
+        "C%":22,
+        "D%":5,
+        "F%":0,
+        "Professor":"Millard-Stafford, Melinda"
+    },
+    {
+        "GPA":2.59,
+        "A%":18,
+        "B%":28,
+        "C%":21,
+        "D%":13,
+        "F%":2,
+        "Professor":"Rosskopf, Linda"
+    }
+]

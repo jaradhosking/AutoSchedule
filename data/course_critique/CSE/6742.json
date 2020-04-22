@@ -1,0 +1,29 @@
+[
+    {
+        "GPA":3.99,
+        "A%":87,
+        "B%":1,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.94,
+        "A%":78,
+        "B%":7,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"McLean, Angus"
+    },
+    {
+        "GPA":4.0,
+        "A%":88,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Salomone, Michael"
+    }
+]

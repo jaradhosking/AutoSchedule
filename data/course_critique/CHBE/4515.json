@@ -1,0 +1,65 @@
+[
+    {
+        "GPA":3.06,
+        "A%":37,
+        "B%":39,
+        "C%":17,
+        "D%":4,
+        "F%":2,
+        "Professor":"All"
+    },
+    {
+        "GPA":2.77,
+        "A%":31,
+        "B%":36,
+        "C%":19,
+        "D%":8,
+        "F%":7,
+        "Professor":"Agrawal, Pradeep"
+    },
+    {
+        "GPA":3.36,
+        "A%":57,
+        "B%":26,
+        "C%":16,
+        "D%":2,
+        "F%":0,
+        "Professor":"Galfond, Benjamin"
+    },
+    {
+        "GPA":3.13,
+        "A%":33,
+        "B%":48,
+        "C%":15,
+        "D%":2,
+        "F%":1,
+        "Professor":"Hess, Dennis"
+    },
+    {
+        "GPA":3.09,
+        "A%":41,
+        "B%":33,
+        "C%":21,
+        "D%":4,
+        "F%":1,
+        "Professor":"Jones, Christopher"
+    },
+    {
+        "GPA":3.3,
+        "A%":48,
+        "B%":34,
+        "C%":14,
+        "D%":1,
+        "F%":1,
+        "Professor":"Kawajiri, Yoshiaki"
+    },
+    {
+        "GPA":3.19,
+        "A%":41,
+        "B%":42,
+        "C%":13,
+        "D%":4,
+        "F%":0,
+        "Professor":"Nair, Sankar"
+    }
+]

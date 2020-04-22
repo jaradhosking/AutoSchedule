@@ -1,0 +1,119 @@
+[
+    {
+        "GPA":3.31,
+        "A%":39,
+        "B%":34,
+        "C%":10,
+        "D%":2,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.32,
+        "A%":44,
+        "B%":34,
+        "C%":10,
+        "D%":2,
+        "F%":0,
+        "Professor":"Andradottir, Sigrun"
+    },
+    {
+        "GPA":3.0,
+        "A%":33,
+        "B%":28,
+        "C%":19,
+        "D%":6,
+        "F%":1,
+        "Professor":"Ayhan, Hayriye"
+    },
+    {
+        "GPA":3.06,
+        "A%":30,
+        "B%":20,
+        "C%":21,
+        "D%":0,
+        "F%":1,
+        "Professor":"Dai, Jiangang"
+    },
+    {
+        "GPA":3.08,
+        "A%":33,
+        "B%":37,
+        "C%":12,
+        "D%":7,
+        "F%":0,
+        "Professor":"Dieker, Antonius"
+    },
+    {
+        "GPA":3.56,
+        "A%":45,
+        "B%":36,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Foley, Robert"
+    },
+    {
+        "GPA":3.43,
+        "A%":42,
+        "B%":48,
+        "C%":2,
+        "D%":0,
+        "F%":0,
+        "Professor":"Goldsman, David"
+    },
+    {
+        "GPA":2.85,
+        "A%":23,
+        "B%":27,
+        "C%":36,
+        "D%":0,
+        "F%":0,
+        "Professor":"Kleywegt, Anton"
+    },
+    {
+        "GPA":3.19,
+        "A%":28,
+        "B%":44,
+        "C%":6,
+        "D%":3,
+        "F%":0,
+        "Professor":"Lyons, Russell"
+    },
+    {
+        "GPA":3.29,
+        "A%":30,
+        "B%":60,
+        "C%":3,
+        "D%":0,
+        "F%":0,
+        "Professor":"Maguluri, Siva"
+    },
+    {
+        "GPA":3.95,
+        "A%":93,
+        "B%":5,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Matzinger, Heinrich"
+    },
+    {
+        "GPA":3.25,
+        "A%":49,
+        "B%":27,
+        "C%":20,
+        "D%":2,
+        "F%":0,
+        "Professor":"Ward, Amy"
+    },
+    {
+        "GPA":3.42,
+        "A%":50,
+        "B%":13,
+        "C%":6,
+        "D%":6,
+        "F%":0,
+        "Professor":"Wu, Tsz"
+    }
+]

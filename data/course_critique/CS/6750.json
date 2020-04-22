@@ -1,0 +1,155 @@
+[
+    {
+        "GPA":3.59,
+        "A%":61,
+        "B%":27,
+        "C%":4,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.41,
+        "A%":50,
+        "B%":32,
+        "C%":8,
+        "D%":2,
+        "F%":1,
+        "Professor":"Abowd, Gregory"
+    },
+    {
+        "GPA":3.5,
+        "A%":50,
+        "B%":50,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Badre, Albert"
+    },
+    {
+        "GPA":3.88,
+        "A%":86,
+        "B%":11,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"DiSalvo, Carl"
+    },
+    {
+        "GPA":3.75,
+        "A%":75,
+        "B%":25,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Edwards, Warren"
+    },
+    {
+        "GPA":3.54,
+        "A%":55,
+        "B%":45,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"Foley, James"
+    },
+    {
+        "GPA":3.73,
+        "A%":65,
+        "B%":24,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"HutchingsII, Dugald"
+    },
+    {
+        "GPA":3.72,
+        "A%":68,
+        "B%":24,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"Jackson, Melody"
+    },
+    {
+        "GPA":3.7,
+        "A%":68,
+        "B%":16,
+        "C%":3,
+        "D%":0,
+        "F%":1,
+        "Professor":"Joyner, David"
+    },
+    {
+        "GPA":3.44,
+        "A%":50,
+        "B%":30,
+        "C%":10,
+        "D%":0,
+        "F%":0,
+        "Professor":"Landry, Brian"
+    },
+    {
+        "GPA":3.95,
+        "A%":90,
+        "B%":5,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Moore, Melody"
+    },
+    {
+        "GPA":3.49,
+        "A%":53,
+        "B%":29,
+        "C%":7,
+        "D%":0,
+        "F%":1,
+        "Professor":"Mynatt, Elizabeth"
+    },
+    {
+        "GPA":3.03,
+        "A%":34,
+        "B%":41,
+        "C%":21,
+        "D%":0,
+        "F%":3,
+        "Professor":"Pierce, Jeffrey"
+    },
+    {
+        "GPA":3.44,
+        "A%":52,
+        "B%":34,
+        "C%":6,
+        "D%":0,
+        "F%":2,
+        "Professor":"Potts, Colin"
+    },
+    {
+        "GPA":3.29,
+        "A%":38,
+        "B%":44,
+        "C%":7,
+        "D%":2,
+        "F%":0,
+        "Professor":"Stasko, John"
+    },
+    {
+        "GPA":3.57,
+        "A%":60,
+        "B%":33,
+        "C%":2,
+        "D%":0,
+        "F%":1,
+        "Professor":"Walker, Bruce"
+    },
+    {
+        "GPA":3.69,
+        "A%":72,
+        "B%":18,
+        "C%":5,
+        "D%":1,
+        "F%":0,
+        "Professor":"Wilcox, Lauren"
+    }
+]

@@ -1,0 +1,137 @@
+[
+    {
+        "GPA":3.59,
+        "A%":68,
+        "B%":21,
+        "C%":5,
+        "D%":2,
+        "F%":1,
+        "Professor":"All"
+    },
+    {
+        "GPA":2.93,
+        "A%":25,
+        "B%":48,
+        "C%":11,
+        "D%":9,
+        "F%":0,
+        "Professor":"Andrew, Alfred"
+    },
+    {
+        "GPA":3.56,
+        "A%":67,
+        "B%":22,
+        "C%":6,
+        "D%":0,
+        "F%":2,
+        "Professor":"Biswas, Saikat"
+    },
+    {
+        "GPA":3.2,
+        "A%":46,
+        "B%":36,
+        "C%":12,
+        "D%":3,
+        "F%":3,
+        "Professor":"Chafee, Nathaniel"
+    },
+    {
+        "GPA":3.44,
+        "A%":56,
+        "B%":30,
+        "C%":7,
+        "D%":2,
+        "F%":0,
+        "Professor":"Chen, Xu-Yan"
+    },
+    {
+        "GPA":3.39,
+        "A%":52,
+        "B%":29,
+        "C%":9,
+        "D%":4,
+        "F%":0,
+        "Professor":"Dieci, Luca"
+    },
+    {
+        "GPA":3.88,
+        "A%":87,
+        "B%":11,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Goldsztein, Guillermo"
+    },
+    {
+        "GPA":2.67,
+        "A%":18,
+        "B%":38,
+        "C%":24,
+        "D%":7,
+        "F%":3,
+        "Professor":"Harrell II, Evans"
+    },
+    {
+        "GPA":3.47,
+        "A%":50,
+        "B%":47,
+        "C%":3,
+        "D%":0,
+        "F%":0,
+        "Professor":"Liu, Yingjie"
+    },
+    {
+        "GPA":3.6,
+        "A%":65,
+        "B%":24,
+        "C%":0,
+        "D%":5,
+        "F%":0,
+        "Professor":"McCuan, John"
+    },
+    {
+        "GPA":2.78,
+        "A%":25,
+        "B%":36,
+        "C%":9,
+        "D%":8,
+        "F%":7,
+        "Professor":"Meyer, Gunter"
+    },
+    {
+        "GPA":3.97,
+        "A%":91,
+        "B%":3,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Morley, Thomas"
+    },
+    {
+        "GPA":3.29,
+        "A%":35,
+        "B%":35,
+        "C%":12,
+        "D%":0,
+        "F%":0,
+        "Professor":"Nitzan, Sigal"
+    },
+    {
+        "GPA":3.57,
+        "A%":56,
+        "B%":34,
+        "C%":3,
+        "D%":0,
+        "F%":0,
+        "Professor":"Northington, Michael"
+    },
+    {
+        "GPA":3.38,
+        "A%":50,
+        "B%":30,
+        "C%":14,
+        "D%":0,
+        "F%":0,
+        "Professor":"Pan, Ronghua"
+    }
+]

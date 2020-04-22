@@ -1,0 +1,65 @@
+[
+    {
+        "GPA":3.62,
+        "A%":70,
+        "B%":23,
+        "C%":7,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.89,
+        "A%":89,
+        "B%":12,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Kanno, Masako"
+    },
+    {
+        "GPA":3.42,
+        "A%":46,
+        "B%":47,
+        "C%":6,
+        "D%":0,
+        "F%":0,
+        "Professor":"Masuda, Kyoko"
+    },
+    {
+        "GPA":3.71,
+        "A%":77,
+        "B%":17,
+        "C%":6,
+        "D%":0,
+        "F%":0,
+        "Professor":"Matsushima, Aki"
+    },
+    {
+        "GPA":3.59,
+        "A%":71,
+        "B%":18,
+        "C%":12,
+        "D%":0,
+        "F%":0,
+        "Professor":"Simonds, Rumiko"
+    },
+    {
+        "GPA":3.94,
+        "A%":94,
+        "B%":6,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Tsai, Aurora"
+    },
+    {
+        "GPA":3.35,
+        "A%":49,
+        "B%":36,
+        "C%":15,
+        "D%":0,
+        "F%":0,
+        "Professor":"Yamaguchi, Kimiaki"
+    }
+]

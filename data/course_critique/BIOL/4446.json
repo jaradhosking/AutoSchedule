@@ -1,0 +1,38 @@
+[
+    {
+        "GPA":2.98,
+        "A%":27,
+        "B%":44,
+        "C%":20,
+        "D%":2,
+        "F%":1,
+        "Professor":"All"
+    },
+    {
+        "GPA":2.92,
+        "A%":43,
+        "B%":21,
+        "C%":14,
+        "D%":7,
+        "F%":7,
+        "Professor":"Dusenbery, David"
+    },
+    {
+        "GPA":3.09,
+        "A%":30,
+        "B%":48,
+        "C%":17,
+        "D%":2,
+        "F%":1,
+        "Professor":"Garton, David"
+    },
+    {
+        "GPA":2.78,
+        "A%":17,
+        "B%":40,
+        "C%":27,
+        "D%":1,
+        "F%":2,
+        "Professor":"Weissburg, Marc"
+    }
+]

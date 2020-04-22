@@ -1,0 +1,56 @@
+[
+    {
+        "GPA":3.89,
+        "A%":85,
+        "B%":10,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Citrin, Alka"
+    },
+    {
+        "GPA":3.97,
+        "A%":91,
+        "B%":3,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Datta, Anindya"
+    },
+    {
+        "GPA":3.8,
+        "A%":79,
+        "B%":18,
+        "C%":0,
+        "D%":0,
+        "F%":1,
+        "Professor":"Riggins, Frederick"
+    },
+    {
+        "GPA":3.62,
+        "A%":59,
+        "B%":33,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"Voigt, Nicholas"
+    },
+    {
+        "GPA":3.91,
+        "A%":87,
+        "B%":9,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Wu, Dongjun"
+    }
+]

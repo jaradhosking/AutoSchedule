@@ -1,0 +1,74 @@
+[
+    {
+        "GPA":3.6,
+        "A%":64,
+        "B%":28,
+        "C%":4,
+        "D%":1,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.46,
+        "A%":49,
+        "B%":46,
+        "C%":3,
+        "D%":0,
+        "F%":0,
+        "Professor":"Demko, Stephen"
+    },
+    {
+        "GPA":3.69,
+        "A%":76,
+        "B%":13,
+        "C%":9,
+        "D%":0,
+        "F%":0,
+        "Professor":"Dieci, Luca"
+    },
+    {
+        "GPA":3.96,
+        "A%":96,
+        "B%":4,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Goldsztein, Guillermo"
+    },
+    {
+        "GPA":3.92,
+        "A%":88,
+        "B%":7,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Liu, Yingjie"
+    },
+    {
+        "GPA":3.13,
+        "A%":32,
+        "B%":28,
+        "C%":15,
+        "D%":4,
+        "F%":0,
+        "Professor":"Meyer, Gunter"
+    },
+    {
+        "GPA":3.6,
+        "A%":66,
+        "B%":30,
+        "C%":0,
+        "D%":1,
+        "F%":1,
+        "Professor":"Short, Martin"
+    },
+    {
+        "GPA":3.93,
+        "A%":93,
+        "B%":7,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Zhou, Haomin"
+    }
+]

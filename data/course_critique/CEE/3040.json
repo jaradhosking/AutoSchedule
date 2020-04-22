@@ -1,0 +1,137 @@
+[
+    {
+        "GPA":2.85,
+        "A%":31,
+        "B%":31,
+        "C%":27,
+        "D%":6,
+        "F%":2,
+        "Professor":"All"
+    },
+    {
+        "GPA":2.51,
+        "A%":14,
+        "B%":38,
+        "C%":24,
+        "D%":14,
+        "F%":2,
+        "Professor":"Aral, Mustafa"
+    },
+    {
+        "GPA":3.97,
+        "A%":98,
+        "B%":1,
+        "C%":0,
+        "D%":0,
+        "F%":1,
+        "Professor":"Fedele, Francesco"
+    },
+    {
+        "GPA":3.35,
+        "A%":49,
+        "B%":39,
+        "C%":11,
+        "D%":1,
+        "F%":0,
+        "Professor":"Fritz, Hermann"
+    },
+    {
+        "GPA":2.75,
+        "A%":25,
+        "B%":25,
+        "C%":50,
+        "D%":0,
+        "F%":0,
+        "Professor":"Ghiaasiaan, Seyed"
+    },
+    {
+        "GPA":2.91,
+        "A%":35,
+        "B%":30,
+        "C%":22,
+        "D%":9,
+        "F%":1,
+        "Professor":"Haas, Kevin"
+    },
+    {
+        "GPA":2.5,
+        "A%":33,
+        "B%":17,
+        "C%":34,
+        "D%":0,
+        "F%":17,
+        "Professor":"Layton, Astrid"
+    },
+    {
+        "GPA":2.84,
+        "A%":27,
+        "B%":32,
+        "C%":37,
+        "D%":2,
+        "F%":1,
+        "Professor":"Luo, Jian"
+    },
+    {
+        "GPA":2.77,
+        "A%":40,
+        "B%":36,
+        "C%":0,
+        "D%":13,
+        "F%":13,
+        "Professor":"Muhanna, Rafi"
+    },
+    {
+        "GPA":2.64,
+        "A%":25,
+        "B%":19,
+        "C%":48,
+        "D%":4,
+        "F%":1,
+        "Professor":"Roberts, Philip"
+    },
+    {
+        "GPA":2.6,
+        "A%":23,
+        "B%":32,
+        "C%":23,
+        "D%":11,
+        "F%":5,
+        "Professor":"Sotiropoulos, Fotis"
+    },
+    {
+        "GPA":2.74,
+        "A%":28,
+        "B%":30,
+        "C%":25,
+        "D%":12,
+        "F%":1,
+        "Professor":"Stoesser, Thorsten"
+    },
+    {
+        "GPA":2.7,
+        "A%":29,
+        "B%":22,
+        "C%":33,
+        "D%":8,
+        "F%":2,
+        "Professor":"Sturm, Terry"
+    },
+    {
+        "GPA":2.76,
+        "A%":22,
+        "B%":43,
+        "C%":22,
+        "D%":8,
+        "F%":2,
+        "Professor":"Webster, Donald"
+    },
+    {
+        "GPA":2.55,
+        "A%":16,
+        "B%":37,
+        "C%":36,
+        "D%":6,
+        "F%":4,
+        "Professor":"Work, Paul"
+    }
+]

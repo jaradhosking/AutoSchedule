@@ -1,0 +1,47 @@
+[
+    {
+        "GPA":3.72,
+        "A%":71,
+        "B%":28,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.98,
+        "A%":98,
+        "B%":3,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Do, Yi-Luen"
+    },
+    {
+        "GPA":4.0,
+        "A%":80,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Eastman, Charles"
+    },
+    {
+        "GPA":3.64,
+        "A%":64,
+        "B%":36,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Sanford, Jon"
+    },
+    {
+        "GPA":3.67,
+        "A%":67,
+        "B%":33,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Swarts, Matthew"
+    }
+]

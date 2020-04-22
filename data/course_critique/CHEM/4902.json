@@ -1,0 +1,137 @@
+[
+    {
+        "GPA":3.79,
+        "A%":90,
+        "B%":3,
+        "C%":4,
+        "D%":0,
+        "F%":3,
+        "Professor":"All"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Beckham, Suzanne"
+    },
+    {
+        "GPA":3.4,
+        "A%":65,
+        "B%":10,
+        "C%":25,
+        "D%":0,
+        "F%":0,
+        "Professor":"Bottomley, Lawrence"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Doyle, Donald"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"El-Sayed, Mostafa"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Fahrni, Christoph"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Kubanek, Julia"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Lyon, Louis"
+    },
+    {
+        "GPA":3.4,
+        "A%":78,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":15,
+        "Professor":"Moran, Thomas"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Orlando, Thomas"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Seley, Katherine"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Sherrill, Charles"
+    },
+    {
+        "GPA":3.86,
+        "A%":86,
+        "B%":15,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Tolbert, Laren"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Williams, Loren"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Zhang, Z"
+    }
+]

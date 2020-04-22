@@ -1,0 +1,38 @@
+[
+    {
+        "GPA":3.84,
+        "A%":82,
+        "B%":13,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.97,
+        "A%":97,
+        "B%":3,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Birchfield, Vicki"
+    },
+    {
+        "GPA":3.82,
+        "A%":73,
+        "B%":10,
+        "C%":3,
+        "D%":0,
+        "F%":0,
+        "Professor":"Pedicino, Joseph"
+    },
+    {
+        "GPA":3.48,
+        "A%":47,
+        "B%":46,
+        "C%":2,
+        "D%":0,
+        "F%":0,
+        "Professor":"Young, Alasdair"
+    }
+]

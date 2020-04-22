@@ -1,0 +1,92 @@
+[
+    {
+        "GPA":3.11,
+        "A%":35,
+        "B%":42,
+        "C%":16,
+        "D%":3,
+        "F%":1,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.15,
+        "A%":34,
+        "B%":46,
+        "C%":14,
+        "D%":2,
+        "F%":1,
+        "Professor":"Barker, Shannon"
+    },
+    {
+        "GPA":2.76,
+        "A%":15,
+        "B%":52,
+        "C%":26,
+        "D%":4,
+        "F%":2,
+        "Professor":"Barker, Thomas"
+    },
+    {
+        "GPA":3.54,
+        "A%":62,
+        "B%":30,
+        "C%":6,
+        "D%":1,
+        "F%":1,
+        "Professor":"Dahlman, James"
+    },
+    {
+        "GPA":2.95,
+        "A%":30,
+        "B%":37,
+        "C%":17,
+        "D%":6,
+        "F%":2,
+        "Professor":"Platt, Manu"
+    },
+    {
+        "GPA":3.76,
+        "A%":76,
+        "B%":24,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Rooney, Brian"
+    },
+    {
+        "GPA":3.0,
+        "A%":29,
+        "B%":44,
+        "C%":22,
+        "D%":3,
+        "F%":0,
+        "Professor":"Santangelo, Philip"
+    },
+    {
+        "GPA":3.41,
+        "A%":50,
+        "B%":31,
+        "C%":7,
+        "D%":2,
+        "F%":0,
+        "Professor":"Song, Hannah"
+    },
+    {
+        "GPA":3.23,
+        "A%":36,
+        "B%":43,
+        "C%":14,
+        "D%":0,
+        "F%":0,
+        "Professor":"Takayama, Shuichi"
+    },
+    {
+        "GPA":2.6,
+        "A%":20,
+        "B%":35,
+        "C%":29,
+        "D%":6,
+        "F%":6,
+        "Professor":"Zurla, Chiara"
+    }
+]

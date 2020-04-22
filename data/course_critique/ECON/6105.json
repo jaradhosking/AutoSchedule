@@ -1,0 +1,56 @@
+[
+    {
+        "GPA":3.28,
+        "A%":40,
+        "B%":33,
+        "C%":12,
+        "D%":1,
+        "F%":1,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.79,
+        "A%":66,
+        "B%":11,
+        "C%":4,
+        "D%":0,
+        "F%":0,
+        "Professor":"Boston, Thomas"
+    },
+    {
+        "GPA":3.34,
+        "A%":45,
+        "B%":42,
+        "C%":11,
+        "D%":0,
+        "F%":0,
+        "Professor":"Dhongde, Shatakshee"
+    },
+    {
+        "GPA":3.53,
+        "A%":54,
+        "B%":27,
+        "C%":3,
+        "D%":3,
+        "F%":0,
+        "Professor":"Gick, Wolfgang"
+    },
+    {
+        "GPA":3.02,
+        "A%":26,
+        "B%":39,
+        "C%":15,
+        "D%":2,
+        "F%":2,
+        "Professor":"Iacopetta, Maurizio"
+    },
+    {
+        "GPA":3.01,
+        "A%":25,
+        "B%":45,
+        "C%":21,
+        "D%":1,
+        "F%":0,
+        "Professor":"Oliver, Matthew"
+    }
+]

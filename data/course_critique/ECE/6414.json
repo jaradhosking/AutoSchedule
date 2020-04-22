@@ -1,0 +1,47 @@
+[
+    {
+        "GPA":3.5,
+        "A%":49,
+        "B%":39,
+        "C%":3,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.26,
+        "A%":39,
+        "B%":41,
+        "C%":11,
+        "D%":2,
+        "F%":0,
+        "Professor":"Allen, Phillip"
+    },
+    {
+        "GPA":3.56,
+        "A%":54,
+        "B%":36,
+        "C%":3,
+        "D%":0,
+        "F%":0,
+        "Professor":"Ghovanloo, Maysam"
+    },
+    {
+        "GPA":3.45,
+        "A%":39,
+        "B%":48,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Hasler, Paul"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Kornegay, Kevin"
+    }
+]

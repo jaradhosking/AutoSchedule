@@ -1,0 +1,38 @@
+[
+    {
+        "GPA":3.58,
+        "A%":70,
+        "B%":11,
+        "C%":8,
+        "D%":4,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.6,
+        "A%":71,
+        "B%":12,
+        "C%":11,
+        "D%":1,
+        "F%":0,
+        "Professor":"Abdelfattah, Heba"
+    },
+    {
+        "GPA":3.9,
+        "A%":90,
+        "B%":10,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Iqbal, Roshan"
+    },
+    {
+        "GPA":3.49,
+        "A%":64,
+        "B%":10,
+        "C%":8,
+        "D%":6,
+        "F%":0,
+        "Professor":"Nassereddine, Ragheda"
+    }
+]

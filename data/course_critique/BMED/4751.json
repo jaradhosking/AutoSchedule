@@ -1,0 +1,47 @@
+[
+    {
+        "GPA":2.86,
+        "A%":29,
+        "B%":35,
+        "C%":19,
+        "D%":8,
+        "F%":3,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.58,
+        "A%":60,
+        "B%":39,
+        "C%":2,
+        "D%":0,
+        "F%":0,
+        "Professor":"Botchwey, Edward"
+    },
+    {
+        "GPA":2.4,
+        "A%":16,
+        "B%":28,
+        "C%":30,
+        "D%":14,
+        "F%":5,
+        "Professor":"Milam, Valeria"
+    },
+    {
+        "GPA":3.42,
+        "A%":50,
+        "B%":35,
+        "C%":6,
+        "D%":2,
+        "F%":0,
+        "Professor":"Roy, Krishnendu"
+    },
+    {
+        "GPA":2.91,
+        "A%":28,
+        "B%":41,
+        "C%":17,
+        "D%":6,
+        "F%":3,
+        "Professor":"Temenoff, Johnna"
+    }
+]

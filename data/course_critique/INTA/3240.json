@@ -1,0 +1,38 @@
+[
+    {
+        "GPA":3.33,
+        "A%":48,
+        "B%":29,
+        "C%":12,
+        "D%":2,
+        "F%":1,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.24,
+        "A%":46,
+        "B%":27,
+        "C%":13,
+        "D%":3,
+        "F%":1,
+        "Professor":"Graybill, Lyn"
+    },
+    {
+        "GPA":3.64,
+        "A%":64,
+        "B%":18,
+        "C%":7,
+        "D%":0,
+        "F%":0,
+        "Professor":"Lefebvre, Rebecca"
+    },
+    {
+        "GPA":3.29,
+        "A%":39,
+        "B%":44,
+        "C%":11,
+        "D%":0,
+        "F%":0,
+        "Professor":"Richmond, Edmun"
+    }
+]

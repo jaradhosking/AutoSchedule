@@ -1,0 +1,173 @@
+[
+    {
+        "GPA":3.33,
+        "A%":55,
+        "B%":18,
+        "C%":7,
+        "D%":1,
+        "F%":4,
+        "Professor":"All"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Bier, Laura"
+    },
+    {
+        "GPA":3.35,
+        "A%":34,
+        "B%":51,
+        "C%":3,
+        "D%":0,
+        "F%":0,
+        "Professor":"DUnger, Amy V"
+    },
+    {
+        "GPA":3.36,
+        "A%":52,
+        "B%":40,
+        "C%":4,
+        "D%":0,
+        "F%":4,
+        "Professor":"Houska, Richard"
+    },
+    {
+        "GPA":3.83,
+        "A%":77,
+        "B%":15,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Klawiter, Maren"
+    },
+    {
+        "GPA":3.9,
+        "A%":71,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":3,
+        "Professor":"Knoespel, Kenneth"
+    },
+    {
+        "GPA":3.63,
+        "A%":68,
+        "B%":21,
+        "C%":7,
+        "D%":0,
+        "F%":0,
+        "Professor":"Krige, Gerhard"
+    },
+    {
+        "GPA":3.38,
+        "A%":47,
+        "B%":41,
+        "C%":0,
+        "D%":6,
+        "F%":0,
+        "Professor":"Lu, Hanchao"
+    },
+    {
+        "GPA":3.36,
+        "A%":33,
+        "B%":58,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Macrakis, Kristie"
+    },
+    {
+        "GPA":3.18,
+        "A%":42,
+        "B%":25,
+        "C%":25,
+        "D%":0,
+        "F%":0,
+        "Professor":"McDonald, Mary"
+    },
+    {
+        "GPA":3.25,
+        "A%":39,
+        "B%":47,
+        "C%":14,
+        "D%":0,
+        "F%":0,
+        "Professor":"Nobles, Gregory"
+    },
+    {
+        "GPA":1.25,
+        "A%":8,
+        "B%":8,
+        "C%":8,
+        "D%":8,
+        "F%":31,
+        "Professor":"Pearson Jr, Willie"
+    },
+    {
+        "GPA":3.25,
+        "A%":32,
+        "B%":38,
+        "C%":12,
+        "D%":0,
+        "F%":0,
+        "Professor":"Pilsch, Thomas"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Quartermain, Thomas"
+    },
+    {
+        "GPA":2.78,
+        "A%":30,
+        "B%":29,
+        "C%":21,
+        "D%":10,
+        "F%":3,
+        "Professor":"Smith, Jennifer"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Stoneman, Timothy"
+    },
+    {
+        "GPA":3.75,
+        "A%":75,
+        "B%":25,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Tone, John"
+    },
+    {
+        "GPA":3.93,
+        "A%":87,
+        "B%":7,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Welcher, Adria"
+    },
+    {
+        "GPA":3.43,
+        "A%":44,
+        "B%":22,
+        "C%":11,
+        "D%":0,
+        "F%":0,
+        "Professor":"Winders, William"
+    }
+]

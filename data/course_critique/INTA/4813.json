@@ -1,0 +1,101 @@
+[
+    {
+        "GPA":3.81,
+        "A%":80,
+        "B%":12,
+        "C%":0,
+        "D%":0,
+        "F%":2,
+        "Professor":"All"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Birchfield, Vicki"
+    },
+    {
+        "GPA":3.61,
+        "A%":59,
+        "B%":24,
+        "C%":0,
+        "D%":0,
+        "F%":4,
+        "Professor":"Bowman, Kirk"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Brecke, Peter"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Cochran, Molly"
+    },
+    {
+        "GPA":3.67,
+        "A%":67,
+        "B%":33,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Dion, Michelle"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Lincoln, Jennie"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Maier, Sylvia"
+    },
+    {
+        "GPA":3.67,
+        "A%":70,
+        "B%":10,
+        "C%":10,
+        "D%":0,
+        "F%":0,
+        "Professor":"Pedicino, Joseph"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Salomone, Michael"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Woodall, Brian"
+    }
+]

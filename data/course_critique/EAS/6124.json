@@ -1,0 +1,47 @@
+[
+    {
+        "GPA":3.8,
+        "A%":83,
+        "B%":15,
+        "C%":3,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.82,
+        "A%":87,
+        "B%":9,
+        "C%":5,
+        "D%":0,
+        "F%":0,
+        "Professor":"Di Lorenzo, Emanuele"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Froelich, Philip"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"King, Stagg"
+    },
+    {
+        "GPA":3.33,
+        "A%":33,
+        "B%":67,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Mason, Stephany"
+    }
+]

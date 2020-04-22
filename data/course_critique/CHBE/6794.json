@@ -1,0 +1,29 @@
+[
+    {
+        "GPA":3.51,
+        "A%":51,
+        "B%":49,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Babensee, Julia"
+    },
+    {
+        "GPA":3.44,
+        "A%":44,
+        "B%":56,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Sambanis, Athanassios"
+    }
+]

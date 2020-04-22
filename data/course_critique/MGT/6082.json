@@ -1,0 +1,29 @@
+[
+    {
+        "GPA":3.86,
+        "A%":85,
+        "B%":14,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.92,
+        "A%":90,
+        "B%":8,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Branch SR, Barrington"
+    },
+    {
+        "GPA":3.68,
+        "A%":67,
+        "B%":32,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Branch, Barry"
+    }
+]

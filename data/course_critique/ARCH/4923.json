@@ -1,0 +1,65 @@
+[
+    {
+        "GPA":3.69,
+        "A%":72,
+        "B%":24,
+        "C%":4,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Cottle, Mark"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Dowling, Elizabeth"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Jarrett, Christopher"
+    },
+    {
+        "GPA":3.17,
+        "A%":50,
+        "B%":17,
+        "C%":33,
+        "D%":0,
+        "F%":0,
+        "Professor":"Khan, Sabir"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Lewcock, Ronald"
+    },
+    {
+        "GPA":3.33,
+        "A%":33,
+        "B%":67,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Sledge, David"
+    }
+]

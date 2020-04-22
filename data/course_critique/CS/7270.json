@@ -1,0 +1,47 @@
+[
+    {
+        "GPA":3.72,
+        "A%":73,
+        "B%":17,
+        "C%":1,
+        "D%":0,
+        "F%":2,
+        "Professor":"All"
+    },
+    {
+        "GPA":4.0,
+        "A%":97,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Ammar, Mostafa"
+    },
+    {
+        "GPA":3.69,
+        "A%":75,
+        "B%":17,
+        "C%":0,
+        "D%":0,
+        "F%":3,
+        "Professor":"Dovrolis, Konstantinos"
+    },
+    {
+        "GPA":4.0,
+        "A%":67,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Xu, Jun"
+    },
+    {
+        "GPA":3.56,
+        "A%":57,
+        "B%":37,
+        "C%":3,
+        "D%":0,
+        "F%":0,
+        "Professor":"Zegura, Ellen"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "GPA":3.79,
+        "A%":77,
+        "B%":20,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.85,
+        "A%":83,
+        "B%":15,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Cook, William"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Dey, Santanu"
+    },
+    {
+        "GPA":3.7,
+        "A%":68,
+        "B%":30,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Pokutta, Sebastian"
+    },
+    {
+        "GPA":3.64,
+        "A%":58,
+        "B%":33,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Singh, Mohit"
+    }
+]

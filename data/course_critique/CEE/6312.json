@@ -1,0 +1,29 @@
+[
+    {
+        "GPA":3.35,
+        "A%":47,
+        "B%":40,
+        "C%":7,
+        "D%":2,
+        "F%":1,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.36,
+        "A%":47,
+        "B%":39,
+        "C%":7,
+        "D%":2,
+        "F%":1,
+        "Professor":"Huang, Ching-Hua"
+    },
+    {
+        "GPA":3.08,
+        "A%":32,
+        "B%":52,
+        "C%":8,
+        "D%":8,
+        "F%":0,
+        "Professor":"Mulholland, James"
+    }
+]

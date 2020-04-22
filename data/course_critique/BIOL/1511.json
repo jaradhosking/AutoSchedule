@@ -1,0 +1,47 @@
+[
+    {
+        "GPA":3.28,
+        "A%":41,
+        "B%":45,
+        "C%":10,
+        "D%":1,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.16,
+        "A%":38,
+        "B%":33,
+        "C%":23,
+        "D%":0,
+        "F%":0,
+        "Professor":"Choi, Jung"
+    },
+    {
+        "GPA":3.28,
+        "A%":39,
+        "B%":48,
+        "C%":9,
+        "D%":1,
+        "F%":0,
+        "Professor":"Montoya, Joseph"
+    },
+    {
+        "GPA":3.31,
+        "A%":58,
+        "B%":23,
+        "C%":12,
+        "D%":2,
+        "F%":4,
+        "Professor":"Spencer, Christine"
+    },
+    {
+        "GPA":3.3,
+        "A%":44,
+        "B%":41,
+        "C%":15,
+        "D%":0,
+        "F%":0,
+        "Professor":"Thazhath, Rupal"
+    }
+]

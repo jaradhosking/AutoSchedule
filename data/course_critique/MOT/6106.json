@@ -1,0 +1,56 @@
+[
+    {
+        "GPA":3.75,
+        "A%":78,
+        "B%":20,
+        "C%":2,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.59,
+        "A%":64,
+        "B%":30,
+        "C%":5,
+        "D%":0,
+        "F%":0,
+        "Professor":"Herold, David"
+    },
+    {
+        "GPA":3.78,
+        "A%":78,
+        "B%":22,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Kavadias, Stylianos"
+    },
+    {
+        "GPA":3.66,
+        "A%":71,
+        "B%":24,
+        "C%":6,
+        "D%":0,
+        "F%":0,
+        "Professor":"Martins, Luis"
+    },
+    {
+        "GPA":3.9,
+        "A%":90,
+        "B%":10,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Ramachandran, Karthik"
+    },
+    {
+        "GPA":3.81,
+        "A%":81,
+        "B%":19,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Zahra, Shaker"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "GPA":3.49,
+        "A%":56,
+        "B%":30,
+        "C%":6,
+        "D%":1,
+        "F%":1,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.5,
+        "A%":63,
+        "B%":25,
+        "C%":13,
+        "D%":0,
+        "F%":0,
+        "Professor":"Eagan, James"
+    },
+    {
+        "GPA":3.77,
+        "A%":75,
+        "B%":16,
+        "C%":0,
+        "D%":0,
+        "F%":1,
+        "Professor":"Endert, Alexander"
+    },
+    {
+        "GPA":3.65,
+        "A%":63,
+        "B%":30,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"Foley, James"
+    },
+    {
+        "GPA":3.46,
+        "A%":54,
+        "B%":31,
+        "C%":6,
+        "D%":1,
+        "F%":1,
+        "Professor":"Stasko, John"
+    }
+]

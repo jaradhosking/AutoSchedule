@@ -1,0 +1,47 @@
+[
+    {
+        "GPA":3.92,
+        "A%":92,
+        "B%":8,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Herrin, Kinsey"
+    },
+    {
+        "GPA":3.92,
+        "A%":92,
+        "B%":8,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Hovorka, Christopher"
+    },
+    {
+        "GPA":3.84,
+        "A%":84,
+        "B%":17,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Kogler, Geza"
+    },
+    {
+        "GPA":3.93,
+        "A%":93,
+        "B%":7,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Stark, Gerald"
+    }
+]

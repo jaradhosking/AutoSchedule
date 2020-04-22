@@ -1,0 +1,29 @@
+[
+    {
+        "GPA":3.89,
+        "A%":89,
+        "B%":11,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.5,
+        "A%":49,
+        "B%":49,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Bazaraa, Mokhtar"
+    },
+    {
+        "GPA":4.0,
+        "A%":99,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Vande Vate, John"
+    }
+]

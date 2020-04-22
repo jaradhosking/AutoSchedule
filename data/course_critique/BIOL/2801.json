@@ -1,0 +1,56 @@
+[
+    {
+        "GPA":3.52,
+        "A%":54,
+        "B%":42,
+        "C%":0,
+        "D%":0,
+        "F%":1,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.0,
+        "A%":0,
+        "B%":100,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Choi, Jung"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Garton, David"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Hall, Dwight"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Leavey, Jennifer"
+    },
+    {
+        "GPA":3.73,
+        "A%":84,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":6,
+        "Professor":"Yen, Jeannette"
+    }
+]

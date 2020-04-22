@@ -1,0 +1,38 @@
+[
+    {
+        "GPA":3.36,
+        "A%":42,
+        "B%":38,
+        "C%":7,
+        "D%":1,
+        "F%":1,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.32,
+        "A%":37,
+        "B%":50,
+        "C%":3,
+        "D%":2,
+        "F%":0,
+        "Professor":"Bongiorno, Angelo"
+    },
+    {
+        "GPA":3.41,
+        "A%":42,
+        "B%":42,
+        "C%":5,
+        "D%":0,
+        "F%":0,
+        "Professor":"Hernandez, Rigoberto"
+    },
+    {
+        "GPA":3.36,
+        "A%":43,
+        "B%":35,
+        "C%":7,
+        "D%":1,
+        "F%":1,
+        "Professor":"Sherrill, Charles"
+    }
+]

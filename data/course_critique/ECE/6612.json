@@ -1,0 +1,38 @@
+[
+    {
+        "GPA":3.74,
+        "A%":75,
+        "B%":23,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.89,
+        "A%":91,
+        "B%":8,
+        "C%":1,
+        "D%":1,
+        "F%":0,
+        "Professor":"Antonakakis, Emmanouil"
+    },
+    {
+        "GPA":3.71,
+        "A%":72,
+        "B%":26,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"Copeland, John"
+    },
+    {
+        "GPA":3.87,
+        "A%":89,
+        "B%":9,
+        "C%":2,
+        "D%":0,
+        "F%":0,
+        "Professor":"Voss, Paul"
+    }
+]

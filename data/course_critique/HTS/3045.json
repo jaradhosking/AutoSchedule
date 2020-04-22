@@ -1,0 +1,38 @@
+[
+    {
+        "GPA":3.3,
+        "A%":40,
+        "B%":37,
+        "C%":8,
+        "D%":0,
+        "F%":2,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.36,
+        "A%":44,
+        "B%":42,
+        "C%":6,
+        "D%":0,
+        "F%":2,
+        "Professor":"Allen, Michael"
+    },
+    {
+        "GPA":3.33,
+        "A%":39,
+        "B%":39,
+        "C%":10,
+        "D%":0,
+        "F%":0,
+        "Professor":"Starostina, Natalia"
+    },
+    {
+        "GPA":3.18,
+        "A%":33,
+        "B%":27,
+        "C%":10,
+        "D%":0,
+        "F%":3,
+        "Professor":"Zeller, Thomas"
+    }
+]

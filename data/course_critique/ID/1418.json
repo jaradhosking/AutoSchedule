@@ -1,0 +1,56 @@
+[
+    {
+        "GPA":3.76,
+        "A%":76,
+        "B%":20,
+        "C%":1,
+        "D%":0,
+        "F%":1,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.85,
+        "A%":82,
+        "B%":14,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Arsenault, Justin"
+    },
+    {
+        "GPA":3.92,
+        "A%":88,
+        "B%":8,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Carroll, Maureen"
+    },
+    {
+        "GPA":3.6,
+        "A%":61,
+        "B%":32,
+        "C%":1,
+        "D%":0,
+        "F%":1,
+        "Professor":"Li, Wayne"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"White, John"
+    },
+    {
+        "GPA":3.92,
+        "A%":92,
+        "B%":8,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Wilson, Wendell"
+    }
+]

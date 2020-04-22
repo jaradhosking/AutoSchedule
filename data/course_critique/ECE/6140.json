@@ -1,0 +1,29 @@
+[
+    {
+        "GPA":3.69,
+        "A%":70,
+        "B%":26,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.71,
+        "A%":70,
+        "B%":24,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"Chatterjee, Abhijit"
+    },
+    {
+        "GPA":3.68,
+        "A%":69,
+        "B%":28,
+        "C%":1,
+        "D%":0,
+        "F%":1,
+        "Professor":"Keezer, David"
+    }
+]

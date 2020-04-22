@@ -1,0 +1,38 @@
+[
+    {
+        "GPA":3.71,
+        "A%":75,
+        "B%":15,
+        "C%":0,
+        "D%":0,
+        "F%":1,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.66,
+        "A%":84,
+        "B%":11,
+        "C%":0,
+        "D%":0,
+        "F%":6,
+        "Professor":"Germanovich, Leonid"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Huang, Haiying"
+    },
+    {
+        "GPA":3.67,
+        "A%":67,
+        "B%":20,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Lowell, Robert"
+    }
+]

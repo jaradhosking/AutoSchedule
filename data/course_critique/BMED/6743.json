@@ -1,0 +1,38 @@
+[
+    {
+        "GPA":3.64,
+        "A%":68,
+        "B%":27,
+        "C%":2,
+        "D%":2,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.68,
+        "A%":68,
+        "B%":29,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"Gleason Jr, Rudolph"
+    },
+    {
+        "GPA":3.33,
+        "A%":56,
+        "B%":30,
+        "C%":6,
+        "D%":8,
+        "F%":0,
+        "Professor":"Guldberg, Robert"
+    },
+    {
+        "GPA":3.82,
+        "A%":78,
+        "B%":18,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Sun, Wei"
+    }
+]

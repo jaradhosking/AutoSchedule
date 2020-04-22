@@ -1,0 +1,65 @@
+[
+    {
+        "GPA":3.73,
+        "A%":68,
+        "B%":17,
+        "C%":2,
+        "D%":0,
+        "F%":1,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.0,
+        "A%":20,
+        "B%":27,
+        "C%":0,
+        "D%":0,
+        "F%":7,
+        "Professor":"Billman, Dorrit"
+    },
+    {
+        "GPA":3.69,
+        "A%":66,
+        "B%":24,
+        "C%":2,
+        "D%":0,
+        "F%":0,
+        "Professor":"Goel, Ashok"
+    },
+    {
+        "GPA":3.32,
+        "A%":53,
+        "B%":7,
+        "C%":14,
+        "D%":0,
+        "F%":7,
+        "Professor":"Griffin, Zenzi"
+    },
+    {
+        "GPA":3.9,
+        "A%":75,
+        "B%":6,
+        "C%":0,
+        "D%":1,
+        "F%":0,
+        "Professor":"Helms, Michael"
+    },
+    {
+        "GPA":3.33,
+        "A%":31,
+        "B%":63,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Kirlik, Alexander"
+    },
+    {
+        "GPA":3.88,
+        "A%":80,
+        "B%":9,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"Kunda, Maithilee"
+    }
+]

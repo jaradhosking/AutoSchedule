@@ -1,0 +1,74 @@
+[
+    {
+        "GPA":3.89,
+        "A%":86,
+        "B%":11,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Arriaga, Rosa"
+    },
+    {
+        "GPA":4.0,
+        "A%":89,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Basole, Rahul"
+    },
+    {
+        "GPA":3.93,
+        "A%":93,
+        "B%":7,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Bruckman, Amy"
+    },
+    {
+        "GPA":3.94,
+        "A%":91,
+        "B%":6,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Grinter, Rebecca"
+    },
+    {
+        "GPA":3.9,
+        "A%":90,
+        "B%":10,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Guzdial, Mark"
+    },
+    {
+        "GPA":3.58,
+        "A%":51,
+        "B%":42,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Mynatt, Elizabeth"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Potts, Colin"
+    }
+]

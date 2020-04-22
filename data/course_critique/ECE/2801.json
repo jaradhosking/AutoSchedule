@@ -1,0 +1,47 @@
+[
+    {
+        "GPA":3.78,
+        "A%":76,
+        "B%":22,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.97,
+        "A%":95,
+        "B%":3,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Auerbach, Jill"
+    },
+    {
+        "GPA":3.35,
+        "A%":35,
+        "B%":65,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Beck, Brian"
+    },
+    {
+        "GPA":3.94,
+        "A%":94,
+        "B%":6,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Harris, Joyelle"
+    },
+    {
+        "GPA":3.48,
+        "A%":48,
+        "B%":52,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Owen, Henry"
+    }
+]

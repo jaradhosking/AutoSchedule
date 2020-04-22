@@ -1,0 +1,1719 @@
+tDept,tFname,tMiddlename,tLname,tid,tNumRatings,rating_class,overall_rating
+Nuclear Engineering,Said,,Abdel-Khalik,1624308,1,average,3.0
+Computer Science,Gregory,,Abowd,486880,8,good,4.1
+Management,Deborah,,Abrams,2543822,0,zero,N/A
+Mathematics,Omar,,Abuzzahab,1865658,4,poor,1.4
+Psychology,Phillip,,Ackerman,10621,4,good,3.5
+Psychology,Anne,E,Adams,1866279,3,average,2.7
+English,James,Stephen,Addcox,2319846,1,good,4.0
+Psychology,Andrew,,Adelman,2489869,1,good,5.0
+Electrical Engineering,Ali,,Adibi,644478,5,good,4.4
+Literature,Matthew,,Adkins,1446193,7,good,4.1
+ROTC,John-Paul,,Adrian,1615965,1,good,5.0
+English,Ian,,Afflerbach,2188410,7,good,5.0
+Industrial Design,Leila,,Aflatoony,2482571,2,average,3.0
+Chemical Engineering,Pradeep,,Agrawal,1916030,3,good,3.7
+Management,Shanti,,Agung,1738423,1,good,4.0
+Computer Science,Mustaq,,Ahamad,146559,9,poor,2.4
+Economics,Mishal,,Ahmed,2178724,7,good,3.8
+Aerospace Engineering,Krishan,K,Ahuja,1871192,3,good,3.8
+Mechanical Engineering,Cyrus,,Aidun,2393281,3,average,2.7
+Electrical Engineering,Ian,,Akiyldiz,1373896,0,zero,N/A
+Electrical Engineering,Ian,F.,Akyildiz,2010033,3,poor,2.3
+Materials Engineering,Faisal,,Alamgir,1440997,33,good,3.7
+Mathematics,Silas,,Alben,1470372,6,good,3.6
+"Literature, Media, & Communication",Joseph,,Aldinger,2354190,4,poor,2.3
+Music,Donald,,Allen,1248013,2,good,4.0
+English,Kristin,,Allukian,2024538,8,good,4.5
+Mathematics,Sergio,,Almada,1497212,2,good,4.0
+English,Maria,,Almanza,2314023,6,average,3.3
+Spanish,Paul,,Alonso,2005929,3,average,3.0
+Electrical Engineering,Ghassan,,Alregib,2058018,3,average,3.4
+Technology,Andrew,,Altizer,1304817,2,good,4.8
+Engineering,Yucel,,Altunbasak,287971,7,good,3.6
+English,Alok,,Amatya,2467364,7,good,4.3
+Civil Engineering,Adjo,,Amekudzi,1709580,9,good,4.0
+Mathematics,Gagik,M,Amirkhanyan,1885717,2,good,5.0
+History,Daniel,,Amsterdam,2524962,10,good,4.8
+Computer Science,Timothy,,Andersen,2354673,1,poor,1.0
+Electrical Engineering,David,,Anderson,845682,6,good,3.6
+Computer Science,Aaron,,Anderson,2518086,0,zero,N/A
+Industrial Engineering,Sigrun,,Andradottir,2275803,5,good,4.4
+Mathematics,Alfred,,Andrew,588638,26,average,3.0
+Biology,Aakanksha,,Angra,2257768,3,average,2.7
+Electrical Engineering,Azadeh,,Ansari,2368953,5,average,2.8
+Chemistry,Harrison,,Ansley,2133608,0,zero,N/A
+Russian,Natasha,,Anthony,2234596,0,zero,N/A
+Computer Science,Manos,,Antonakakis,2144308,0,zero,N/A
+Mechanical Engineering,Antonia,,Antoniou,1973437,6,good,3.6
+Environmental Engineering,Mustafa,,Aral,1678489,4,average,3.2
+Mathematics,Luz-Vela,,Arevalo,990545,25,poor,1.9
+Psychology,Rosa,,Arriaga,1191657,3,good,3.5
+Computer Science,Rosa,,Arriaga,2100674,1,good,5.0
+Civil Engineering,Chloe,Fanny,Arson,2217722,6,good,4.3
+Mechanical Engineering,Konstantinos,,Arvanitis,2222573,1,good,4.0
+Civil Engineering,Baabak,,Ashuri,2141621,1,good,3.5
+Management,Atalay,,Atasu,2307072,1,good,5.0
+International Politics,Marisa,,Atencio,2349586,0,zero,N/A
+Psychology,Kaila,,Atkins,2466991,0,zero,N/A
+Mathematics,Hassan,,Attarchi,2297373,7,average,3.0
+Sociology,Sybrina,,Atwaters,1456720,6,average,2.6
+English,Philip,,Auslander,1018804,8,poor,2.2
+Sociology,Dustin,,Avent-Holt,1605513,3,good,4.3
+Industrial Engineering,Hayriye,,Ayhan,2047265,7,good,4.7
+Industrial Design,Lisa,,Babb,2381005,3,average,3.3
+Psychology,Meghan,J,Babcock,2357602,8,good,5.0
+Biomedical Engineering,Julia,Elizabeth,Babensee,2276290,2,poor,1.0
+Mathematics,Matt,,Baker,2503379,1,good,5.0
+Mathematics,Yuri,,Bakhtin,1340203,3,poor,1.8
+Computer Science,Tucker,,Balch,1939465,7,good,4.8
+Mechanical Engineering,Michael,,Baldwin,2376509,0,zero,N/A
+Civil Engineering,Martina,,Balic,2256284,15,average,2.7
+Physics,David,,Ballantyne,1825520,3,average,3.2
+Mathematics,Hector,Daniel,Banos Cervantes,2529941,0,zero,N/A
+Biomedical Engineering,Gilda,,Barabino,1823780,0,zero,N/A
+Health Science,Lesley,,Baradel,2265952,9,good,4.7
+Management,Matthew,,Barcaskey,2051330,7,average,3.0
+Architecture,Camille,,Barchers,2273619,4,good,4.0
+Biology,Patrick,,Bardill,1972456,1,average,3.0
+Chemistry,Kent,,Barefield,555600,15,good,3.5
+Political Science,Richard,,Barke,274737,10,good,3.8
+Biomedical Engineering,Shannon,,Barker,1671466,7,average,2.6
+Chemistry,William,,Baron,231363,33,good,4.6
+Mathematics,Salvador,P,Barone,1841430,69,good,4.0
+Mathematics,Fidel,,Barrera Cruz,2050202,7,average,2.6
+Electrical Engineering,John,,Barry,1798732,8,good,3.8
+Industrial Engineering,Beste,,Basciftci,2484424,0,zero,N/A
+Engineering,Nazanin,,Bassiri Gharb,1132943,8,average,2.6
+English,Bianca,,Batti,2529595,2,good,5.0
+Economics,Ibrahiim,,Bayaan,1043953,5,good,4.6
+Electrical Engineering,Brian,,Beck,2259685,3,good,3.6
+Mathematics,Erna,,Begovic Kovac,2523996,1,good,5.0
+Biomedical Engineering,Esfandiar,,Behravesh,2540219,1,poor,2.0
+Chemical Engineering,Sven,Holger,Behrens,2402585,4,good,4.8
+English,Mary,,Behrman,979824,2,good,5.0
+Mathematics,Igor,,Belegradek,818632,25,average,2.5
+English,Kurt,,Belgum,2540756,1,good,5.0
+Mathematics,Johan,,Belinfante,26046,34,poor,1.8
+Biomedical Engineering,Ravi,,Bellamkonda,1190597,2,good,5.0
+Physics,Jean,,Bellissard,435733,37,poor,1.9
+Economics,Willie,,Belton,201657,19,good,3.8
+Mathematics,Philip,,Benge,1866698,11,good,3.9
+Biomedical,Paul,,Benkeser,759725,4,average,2.5
+Management,Nathan,,Bennett,1607792,3,good,4.3
+Physics,Claire,,Berger,2468547,2,average,2.5
+English,Benjamin,,Bergholtz,2419092,9,good,4.4
+Mathematics,Megan,,Bernstein,2104373,11,poor,1.5
+Public Policy,Roberta,,Berry,1341267,4,good,4.9
+Economics,Tibor,,Besedes,1458303,14,good,3.5
+Mathematics,Amnon,,Besser,2360398,2,average,2.5
+Computer Science,Michael,,Best,2408441,0,zero,N/A
+Mathematics,Prateek,,Bhakta,2107057,1,good,5.0
+Chemical Engineering,Saad,,Bhamla,2292642,1,poor,2.0
+Materials Engineering,Swapan,K,Bhattacharya,2187000,0,zero,N/A
+Public Policy,Justin,,Biddle,2331957,4,good,4.3
+Nuclear Engineering,Steven,,Biegalski,2356569,7,good,4.8
+History,Laura,,Bier,1589558,7,good,3.8
+Electrical Engineering,Juang,,Biing,1122863,3,average,3.0
+Mathematics,Dmitriy,,Bilyk,877462,0,zero,N/A
+Political Science,Vicki,,Birchfield,263632,9,average,2.7
+Mathematics,Saikat,,Biswas,1774286,3,good,3.8
+English,Olin,,Bjork,1466845,0,zero,N/A
+English,Brandy,,Blake,1675379,2,good,3.8
+English,Robert,,Blaskiewicz,1347900,10,good,3.8
+Chemical Engineering,John,,Blazeck,2488186,5,good,5.0
+Mathematics,Greg,,Blekherman,1635936,35,good,4.4
+Mathematics,Wade,,Bloomquist,2543035,2,average,2.5
+Electrical Engineering,Doug,,Blough,1610010,3,average,2.8
+Accounting,Ryan,,Blunck,2511722,1,good,5.0
+Computer Science,Aaron,,Bobick,540063,6,good,4.0
+Industrial Engineering,Doug,,Bodner,2318093,3,good,4.0
+Computer Science,Greg,,Bodwin,2468447,2,good,5.0
+Physics,Tamara,,Bogdanovic,1788852,11,good,4.4
+Computer Science,Ian,,Bogost,1862021,6,poor,1.3
+Technology,Ian,,Bogost,2352484,0,zero,N/A
+Political Science,Anjali,Thomas,Bohlken,2359622,0,zero,N/A
+Industrial Engineering,Natashia,,Boland,2489860,2,good,4.0
+Mathematics,Mark,,Bolding,2225601,2,good,5.0
+Computer Science,Sasha,,Boldyreva,1250840,6,average,2.5
+Literature,Jay,,Bolter,22150,2,good,3.8
+Mathematics,Federico,,Bonetto,554218,24,poor,1.6
+Chemistry,Angelo,,Bongiorno,1130740,3,average,3.2
+Mathematics,Justin,B,Boone,2288504,1,good,5.0
+Civil Engineering,Tracy,,Boothe-Miller,2525060,0,zero,N/A
+Computer Science,Byron,,Boots,2409467,2,average,3.0
+Public Policy,Jason,,Borenstein,1048549,5,good,4.7
+International Politics,Mariel,John,Borowitz,2491709,0,zero,N/A
+Biomedical Engineering,Edward,A,Botchwey,1816466,8,poor,1.8
+Chemistry,Lawrence,,Bottomley,865857,3,average,2.5
+Engineering,Christina,,Bourgeois,508301,4,good,4.1
+Building Construction,Brian,,Bowen,1633386,0,zero,N/A
+Political Science,Kirk,,Bowman,97098,10,good,4.4
+English,Andrew,,Bozio,1842787,3,good,4.8
+Building Construction,Arash,,Bozorgmehr,1450727,2,average,2.8
+English,Joy,,Bracewell,1942025,1,average,2.5
+Building Construction,Scott,W,Braley,2421432,1,good,5.0
+Management,Barry,,Branch,1954445,0,zero,N/A
+Aerospace Engineering,Robert,,Braun,1336427,2,good,5.0
+Political Science,Peter,,Brecke,10636,11,average,3.5
+Chemistry,Jean-Luc,,Bredas,712943,5,average,3.3
+Chemical Engineering,Victor,,Breedveld,2240251,2,good,4.0
+Management,Amy,,Breidenthal,2467616,2,good,4.5
+Engineering,Kevin,,Brenner,1614882,4,good,5.0
+Electrical Engineering,Thomas,,Brewer,1182658,6,poor,1.9
+Mathematics,Gerandy,,Brito,2329204,18,good,4.3
+Psychology,James,,Broadway,1347234,0,zero,N/A
+Biology,Mirjana,,Brockett,784492,11,good,3.6
+English,Ron,,Broglio,10633,9,good,3.9
+English,Phoebe,,Bronstein,1974338,7,good,3.6
+Psychology,Charles,,Brooks,1610732,3,average,2.7
+Chemistry,Ken,,Brown,889091,6,good,3.8
+English,David,,Brown,1348793,2,average,3.2
+English,Lyndsay,,Brown,2102137,3,good,4.3
+English,John,Edgar,Browning,2006027,24,good,4.2
+Computer Science,Charlie,,Brubaker,2135543,0,zero,N/A
+Management,Michael,,Buchanan,1887885,9,good,4.4
+Electrical Engineering,John,,Buck,2257549,1,good,4.0
+English,Chelsea,,Bullock,2007084,8,average,2.9
+Mathematics,Leonid,,Bunimovich,626457,5,poor,1.7
+Engineering,George,,Burdell,527118,106,good,5.0
+English,George,P.,Burdell,2054707,2,good,5.0
+Business,Robert,,Burgess,202767,9,good,4.6
+Economics,Justin,,Burkett,2524858,1,good,4.0
+Literature Media amp Communication,Rebecca,,Burnett,2417474,1,good,4.0
+Engineering,Susan,,Burns,1447512,2,good,5.0
+Civil Engineering,Susan,,Burns,2470187,0,zero,N/A
+Mathematics,Albert,,Bush,1816782,3,good,3.8
+Mathematics,Adrian,,Bustamente,2406572,2,average,2.5
+Management,Seletha,,Butler,1673156,9,good,4.5
+Computer Science,Charles,David,Byrd,2393870,2,good,5.0
+English,Lindsay,,Byron,1886140,0,zero,N/A
+Electrical Engineering,Wenshan,,Cai,1900645,3,good,4.0
+French,Antoine,,Caille,2163470,6,good,4.8
+Computer Science,James,,Cannady,2525770,0,zero,N/A
+English,Owen,,Cantrell,2186296,11,good,4.0
+Industrial Engineering,Yufeng,,Cao,2477483,0,zero,N/A
+Mechanical Engineering,Laurent,,Capolungo,2210950,1,good,5.0
+English,Mauro,,Carassai,1928179,4,average,2.5
+Industrial Engineering,Jose,Antonio,Carbajal,2439278,0,zero,N/A
+Mechanical Engineering,Peter,,Carnell,914968,9,good,3.7
+Engineering,Brent,,Carter,394513,7,average,2.6
+Building Construction,Daniel,,Castro-Lacouture,2315230,1,poor,2.0
+Physics,Michael,,Cathcart,1679025,1,good,5.0
+Psychology,Richard,,Catrambone,10617,11,good,4.0
+Electrical Engineering,Richard,,Causey,2397334,2,average,3.0
+Mathematics,Marcel,,Celaya,2174237,4,average,2.8
+English,Dongho,,Cha,2396595,8,good,5.0
+Management,Yih Long,,Chang,775888,9,average,3.3
+Electrical Engineering,Gee-Kung,,Chang,1070438,5,poor,2.3
+Korean,Seung,Eun,Chang,2418092,4,good,5.0
+English,Maria,,Chappell,2411244,3,poor,2.3
+Electrical Engineering,Abhijit,,Chatterjee,436211,15,average,2.7
+Computer Science,Polo,,Chau,2346481,1,poor,1.0
+Management,Sudheer,,Chava,2280096,0,zero,N/A
+Science,Soy,,Chen,450667,0,zero,N/A
+Mathematics,Geng,,Chen,1848155,23,average,3.2
+Management,Zoey,,Chen,1883216,2,good,5.0
+Mathematics,Jiangning,,Chen,2181568,21,good,4.4
+Chemical Engineering,Ruizhen,Rachel,Chen,2250061,0,zero,N/A
+Industrial Engineering,Junzhuo,,Chen,2374812,0,zero,N/A
+Engineering,Hailong,,Chen,2389208,4,good,4.0
+Mechanical Engineering,Ye-Hwa,,Chen,1790585,11,average,3.0
+Mathematics,Xu Yan,,Chen,10920,66,average,2.9
+Mathematics,Justin,,Chen,2527088,9,poor,2.3
+Japanese,Satomi,Suzuki,Chenoweth,2164033,2,good,5.0
+Industrial Engineering,Vinod,,Cheriyan,1592198,2,average,3.0
+Biology,Yury,,Chernoff,1103584,7,poor,2.2
+Computer Science,Sonia,,Chernova,2251818,1,average,3.0
+Leadership Studies,Jerry,Don,Cherry,2053986,1,good,4.5
+Computer Science,Zachay,,Cheshire,2157057,0,zero,N/A
+Chemical Engineering,Lily,,Cheung,2562541,0,zero,N/A
+Chemistry,San-Hui,,Chi,2349589,0,zero,N/A
+Industrial Design,Stephen,,Chininis,2381718,2,good,4.0
+Civil Engineering,Yong,Kwon,Cho,2469745,1,good,4.0
+Industrial Design,Young Mi,,Choi,2171540,1,poor,1.0
+Industrial Design,Christina,,Choi,2381719,1,average,3.0
+Biology,Jung,,Choi,940111,40,average,3.5
+Architecture,Ruchi,,Choudhary,881265,0,zero,N/A
+Mathematics,Shui-Nee,,Chow,1746949,8,good,3.6
+Economics,Ries,,Christine,1618814,3,poor,2.0
+CommunicationJournalism,Jean Ho,,Chu,2081599,0,zero,N/A
+Business,Wade,,Chumney,659616,96,good,4.6
+Mathematics,Antonio,,Cicone,1817764,5,good,4.3
+Management,Alka,,Citrin,656437,8,average,3.1
+Electrical Engineering,David,,Citrin,2291487,2,good,4.5
+Music,Frank,,Clark,2505262,0,zero,N/A
+Business,Jonathan,,Clarke,139640,12,good,4.3
+Aerospace Studies,John-Paul,B,Clarke,1818127,4,average,3.4
+Psychology,Andrea,,Clay,1390306,4,good,3.5
+Spanish,Osvaldo,,Cleger,1632036,9,good,4.2
+Electrical Engineering,Mark,,Clements,1305041,3,good,3.8
+Earth Science,Kim,,Cobb,1112096,4,average,2.8
+English,Dorothea,,Coblentz,2531325,1,good,5.0
+Urban Planning,Jamie,,Cochran,2432353,1,poor,2.0
+English,Joshua,,Cohen,2526223,4,good,5.0
+Electrical Engineering,Morris,,Cohen,2555434,0,zero,N/A
+Mechanical Engineering,Baratunde,,Cola,1567939,4,good,3.7
+Management,Saba,,Colakoglu,2564565,0,zero,N/A
+English,Carol,,Colatrella,10917,5,good,3.9
+Mathematics,Peter,Lambert,Cole,2295802,8,poor,2.4
+Architecture,Jeffrey,,Collins,2394657,0,zero,N/A
+Engineering,Thomas,,Collins,200408,12,average,2.9
+English,Aaron,,Colton,2450565,3,good,4.0
+Engineering,Jonathan,,Colton,374038,7,average,3.2
+English,Christina,,Colvin,2184862,15,good,4.8
+Modern Languages,Kelly,,Comfort,1972737,2,good,5.0
+Accounting,Eric,,Condie,2316669,1,average,3.0
+Psychology,Mary,,Conklin,2438136,1,poor,1.0
+Physics,Edward,,Conrad,997472,11,poor,2.4
+Computer Science,Thomas,,Conte,1888021,8,good,4.6
+Mathematics,James,,Conway,1790874,0,zero,N/A
+Civil Engineering,Sam,,Coogan,2531804,1,good,4.0
+Engineering,Fred,,Cook,1468357,2,average,2.8
+Biology,Tim,,Cope,2522162,1,good,4.0
+International Politics,Hunter,,Copp,2420529,2,good,5.0
+Mathematics,Livia,,Corsi,2214117,11,average,2.7
+Aerospace Engineering,Alexandra,E,Coso,1988609,0,zero,N/A
+Languages,Bettina,,Cothran,272813,3,average,3.0
+Modern Languages,Nora,,Cottille-Foley,2452769,1,good,5.0
+CommunicationJournalism,Amanda,,Coulter,2524669,4,good,4.0
+Management,Harold,,Covert,2421413,3,average,2.7
+Mechanical Engineering,Richard,,Cowan,2318101,3,good,5.0
+Chemistry,Charlie,,Cox,1029611,21,good,4.7
+Aerospace Engineering,Jim,,Craig,904584,11,average,2.5
+English,Emma,,Crandall,1248010,4,good,3.9
+Psychology,Malia,Asteria,Crane,2206315,3,good,5.0
+English,Thomas,Hugh,Crawford,1913564,3,good,5.0
+Electrical Engineering,John,,Cressler,1308665,5,good,4.6
+Psychology,Courtney,,Crooks,2533259,4,good,4.3
+Mathematics,Ernest,,Croot,608703,14,poor,2.2
+Music,Cameron,Lynn,Crotts,2240088,4,good,4.8
+Computer Science,Sean,,Crowley,2518087,1,good,5.0
+English,Kathryn,,Crowther,1523888,3,good,4.0
+Modern Languages,Ana,,Cruz,977002,10,good,3.9
+Chemical Engineering,Christian,Martin,Cuba-Torrez,2288705,8,good,4.5
+Mathematics,Jianbo,,Cui,2518587,5,good,3.6
+Mathematics,Amalia,,Culiuc,2220322,9,good,4.8
+Industrial Engineering,Rachel,,Cummings,2555969,0,zero,N/A
+Management,J. Michael,,Cummins,1343515,10,good,4.7
+Mechanical Engineering,Ken,,Cunefare,977182,5,average,3.1
+Physics,Jennifer,,Curtis,1463896,9,good,3.8
+English,Lauren,,Curtright,1559535,1,good,4.0
+Sociology,Amy,,D'Unger,864880,11,good,4.9
+Architecture,Richard,,Dagenhart,2090782,2,average,3.3
+Systems Engineering,Jiangang,,Dai,1143924,2,average,2.5
+Civil Engineering,Sheng,,Dai,2398310,0,zero,N/A
+International Politics,Liz,A,Dallas,1777408,2,good,5.0
+Literature,Angela,,Dalle Vacche,1079738,4,average,3.0
+Mathematics,Michael,,Damron,2557275,1,good,5.0
+Management,Andras,,Danis,2492252,0,zero,N/A
+Physics,Nicholas,,Darnton,2082041,17,good,4.0
+Mechanical Engineering,Suman,,Das,1958273,4,average,3.3
+Management,Nishant,,Dass,2360534,1,poor,1.0
+Electrical Engineering,Mark,,Davenport,2466855,1,poor,2.0
+Physics,Dragomir,,Davidovic,865856,4,average,3.0
+Electrical Engineering,Jeffery,,Davis,2272157,7,good,4.6
+Management,Karie,,Davis-Nozemack,1897997,15,good,4.6
+Computer Science,Munmun,,De Choudhury,2427431,3,average,3.3
+Physics,Walter,,De Heer,1880362,2,average,3.2
+Mathematics,Rafael,,de la Llave,2012443,2,poor,2.3
+English,Rachel,,Dean-Ruzicka,2332466,3,good,4.3
+Civil Engineering,Ben,,Deaton,1464316,3,good,4.8
+Aerospace Engineering,John,,Dec,2555569,2,good,4.0
+Health Science,Adam,,Decker,1661971,32,good,4.5
+Electrical Engineering,Levent,,Degertekin,2468302,1,poor,2.0
+Mathematics,Yoan,,Delchev,2180201,11,good,4.8
+Computer Science,Richard,,DeMillo,1995184,1,poor,1.0
+Chemical Engineering,Yulin,,Deng,1615176,2,poor,1.3
+Nuclear Engineering,Chaitanya,,Deo,1624304,4,average,2.9
+Management,Deven,Rohit,Desai,2010186,8,good,4.7
+Management,Justin,,Desimone,1789422,1,good,5.0
+French,Francoise,,Desy,1636351,1,good,3.5
+Mathematics,John,,Dever,2131668,7,average,3.1
+Industrial Engineering,Santanu,,Dey,1702519,8,good,4.3
+Management,Lucien,,Dhooge,1274601,16,good,4.5
+Aerospace Engineering,Claudio,,Di Leo,2310009,3,good,3.7
+Chemistry,Robert,,Dickson,200376,13,average,3.0
+Music,Benjamin,,Diden,1279167,6,good,4.8
+Mathematics,Luca,,Dieci,750983,15,average,3.4
+Industrial Engineering,Antonius,,Dieker,1445247,2,average,3.0
+Mathematics,Fabio,,Difonzo,1898032,6,average,2.5
+Biology,Stephen,,Diggle,2396619,2,good,5.0
+Literature,Michelle,,Dimeo,1724248,1,good,5.0
+Mechanical Engineering,Mahmoud,,Dinar,2445343,2,poor,1.0
+Computer Science,Fei,,Ding,2538679,5,good,5.0
+English,Matthew,,Dischinger,2169638,19,good,4.3
+Mechanical Engineering,Akash,,Dixit,1710912,9,good,3.9
+Mechanical Engineering,J. Brandon,,Dixon,1734905,4,good,4.3
+Mathematics,Giang,,DO,1489801,0,zero,N/A
+Economics,Parks,,Dodd,238959,18,poor,2.2
+Management,Sara,,Dommer,1883219,2,good,5.0
+Mechanical Engineering,Jeffrey,A.,Donnell,2010149,0,zero,N/A
+Chemistry,Amanda,,Doody,1913600,2,average,3.2
+Electrical Engineering,William,Alan,Doolittle,2296265,1,good,5.0
+Mechanical Engineering,Denis,,Dorozhkin,2082034,32,good,4.5
+Modern Languages,Adele,,Douglin,2334040,7,average,3.1
+Computer Science,Constantine,,Dovrolis,1306716,0,zero,N/A
+Architecture,Elizabeth,,Dowling,893528,4,average,3.2
+Chemistry,Donald,,Doyle,1604835,53,average,2.6
+Civil Engineering,Mulalo,,Doyoyo,1269726,4,good,3.9
+Public Policy,Matej,,Drev,2033461,1,good,4.0
+History,Wayne,,Drews,1815599,3,good,4.3
+Civil Engineering,Jon,,Drysdale,2393268,1,good,5.0
+Mathematics,JunTao,,Duan,2425260,0,zero,N/A
+Psychology,Audrey,,Duarte,2360483,0,zero,N/A
+Biology,Meghan,,Duffy,1538723,2,good,3.8
+Architecture,Lane,,Duncan,1468246,3,good,4.7
+Management,Michael,,Dutcher,2553091,1,good,5.0
+Chemical Engineering,Charles,,Eckert,1302318,1,good,3.5
+English,Annalee,,Edmondson,1860118,4,good,4.1
+English,Alexandra,,Edwards,2439199,4,good,3.8
+Computer Science,Keith,,Edwards,795369,3,average,3.0
+Electrical Engineering,Magnus,,Egerstedt,1683577,9,good,4.7
+LiteratureMedia amp Com,Andrew,,Eichel,2291935,3,good,5.0
+Mathematics,Amit,,Einav,1406900,6,poor,2.2
+Computer Science,Kurt,,Eiselt,455723,0,zero,N/A
+Computer Science,Jacob,,Eisenstein,2332318,1,good,5.0
+Chemistry,Mostafa,,El-Sayed,712939,20,average,2.9
+Mathematics,Andrew,,Elhabr,2173509,0,zero,N/A
+Mathematics,Cinzia,,Elia,1718039,1,average,2.5
+English amp Liberal Studies,Patrick,,Ellis,2354201,0,zero,N/A
+English,Patrick,,Ellis,2332090,13,good,4.5
+English,Jason,,Embry,920292,6,good,4.5
+Civil Engineering,Leroy,Z,Emkin,1834231,0,zero,N/A
+Computer Science,Alex,,Endert,2473558,1,good,5.0
+Psychology,Randy,,Engle,10616,6,good,4.5
+Psychology,Randall,,Engle,2292657,0,zero,N/A
+Mathematics,Martin,,Engman,1889844,14,average,2.5
+English,Mimi,,Ensley,2511417,3,good,5.0
+Physics,Ahmet,,Erbil,265003,11,good,4.0
+Mathematics,Laura,C.,Eslava,2288471,14,poor,2.4
+Computer Science,Hadi,,Esmaeilzadeh,1936104,0,zero,N/A
+Biomedical Engineering,Christopher,Ross,Ethier,1756091,3,good,4.2
+Mathematics,John,,Etnyre,2270862,1,good,5.0
+Management,Cheol,,Eun,2430220,1,poor,1.0
+Mathematics,Michael,,Evans,172938,28,good,3.6
+Computer Science,Hayley,,Evans,2319805,1,good,5.0
+Chemistry,Michael,James,Evans,2525622,1,good,4.0
+Mathematics,Esther,,Ezra,2047260,3,poor,2.2
+International Politics,Mikulas,,Fabry,2512705,0,zero,N/A
+Chemistry,Christoph,,Fahrni,581447,11,average,3.4
+English,Jeffrey,,Fallis,2217277,19,good,3.5
+English,Andrew,,Famiglietti,1309536,5,good,3.8
+Chinese,Zhewei,,Fan,1831805,2,average,3.0
+Organizational Behavior,Yifeng,,Fan,2251537,2,good,4.5
+Engineering,Fariborz,,Farahmand,2445264,6,poor,1.7
+Management,Reza,,Farhadi,2556728,0,zero,N/A
+English,Nihad,,Farooq,1018805,6,good,3.9
+Electrical Engineering,Nabid,,Farvez,2532560,6,good,5.0
+Mathematics,Albert,,Fathi,2279114,7,poor,1.5
+Sociology,Alison,,Faupel,1004385,0,zero,N/A
+Public Policy,Alice,,Favero,2509827,1,good,5.0
+Computer Science,Nick,,Feamster,1840312,2,good,5.0
+Civil Engineering,Francesco,,Fedele,2217728,4,average,3.0
+Engineering,Andrei,,Fedorov,174866,9,good,4.4
+Aerospace Studies,Karen,,Feigh,1378475,4,good,4.0
+Electrical Engineering,Faramarz,,Fekri,1469190,2,average,3.0
+Psychology,Jack,,Feldman,209025,8,average,2.8
+Physics,Flavio,H,Fenton,1778774,7,good,4.8
+Electrical Engineering,Ian,,Ferguson,1011917,0,zero,N/A
+Mathematics,Sebastian,,Fernandez,2483822,4,good,5.0
+Chemistry,Facundo,M,Fernandez,2039070,5,good,5.0
+Physics,Alberto,,Fernandez-Nieves,1197601,8,good,3.6
+Aerospace Studies,Eric,M.J.,Feron,1790858,7,average,3.2
+Mechanical Engineering,Aldo,,Ferri,1544584,5,good,5.0
+Electrical Engineering,Bonnie,,Ferri,1544583,3,average,2.5
+Earth Science,Ken,,Ferrier,2289851,7,good,4.3
+Chemical Engineering,Michael,,Filler,2161882,6,average,3.0
+English,Marty,,Fink,1954558,5,good,4.9
+Chemistry,M G,,Finn,1856445,12,good,3.8
+Physics,Phillip,,First,945204,3,average,3.2
+"Literature, Media, & Communication",Joshua,Adler,Fisher,2319808,2,good,3.5
+English,Rebekah,E,Fitzsimmons,2186097,14,poor,2.4
+History,Doug,,Flamming,257515,47,good,4.8
+Psychology,Keaton,,Fletcher,2404568,10,good,5.0
+Mathematics,Alexander,,Flood,2050345,2,average,2.5
+Architecture,Benjamin,,Flowers,2141609,13,good,4.8
+Management,Alan,,Flury,1248982,7,average,2.9
+Industrial Engineering,Robert,,Foley,750970,36,good,3.8
+English,Peter,,Fontaine,1788566,4,good,5.0
+English,Jennifer,,Forsthoefel,2167693,7,good,4.1
+Computer Science,Daniel,,Forsyth,2150658,7,average,3.1
+History,Lawrence,,Foster,200385,45,good,4.0
+History,Lawerence,,Foster,2083636,1,good,3.5
+Chinese,Paul,,Foster,2512145,0,zero,N/A
+Mathematics,Adam,M,Fox,1846235,0,zero,N/A
+Public Policy,Mary,Frank,Fox,2441360,3,average,3.3
+Chemistry,Stefan,,France,1223224,8,average,3.2
+Earth Science,Kurt,,Frankel,1281090,3,good,4.5
+Electrical Engineering,Albert,Bruno,Frazier,2273817,1,average,3.0
+Mathematics,Christina,,Frederick,1990071,8,poor,2.0
+Music,Jason,,Freeman,2324665,2,average,3.0
+Psychology,Kimberly,,French,2489167,0,zero,N/A
+English,Elizabeth F,,Freudenthal,1312659,2,good,3.5
+Civil Engineering,Hermann,,Fritz,2347549,2,good,5.0
+Economics,Richard,,Fritz,1602460,23,average,3.1
+Electrical Engineering,Jenna,,FU,1733501,1,good,5.0
+Mechanical Engineering,Katherine,,Fu,2180710,10,good,4.1
+International Politics,Alberto,,Fuentes,2360399,0,zero,N/A
+Computer Science,Richard,,Fujimoto,2410268,1,good,4.0
+Management,Anne,,Fuller,2524660,4,poor,2.0
+Psychology,Erika,,Fulton,1837612,4,good,4.5
+Aerospace Studies,Robert,,Funk,1845084,1,average,2.5
+Aerospace Engineering,Robert,,Funk,1987738,2,average,3.2
+Computer Science,Merrick,,Furst,1634007,3,good,4.7
+Public Policy,Garry,,Gabison,2167273,0,zero,N/A
+Health Science,Angela,,Gaboardi,1787199,4,average,2.5
+Materials Engineering,Ken,,Gall,1049605,9,good,5.0
+French,Lionel,,Gall,1783228,20,good,4.8
+Spanish,Vicki,,Galloway,1490451,6,average,2.8
+Management,Rohan,,Ganduri,1843113,2,good,4.8
+Computer Science,Maribeth,,Gandy,2505018,0,zero,N/A
+Mathematics,Wilfred,,Gangbo,1088914,18,average,3.2
+Chinese,Yan,,Gao,2420678,1,good,5.0
+Aerospace Engineering,Elena,,Garcia,2385563,0,zero,N/A
+Information Technology Management,Adrian,,Gardiner,2521404,1,average,3.0
+Chemistry,Neha,,Garg,2555052,2,good,3.5
+Mechanical Engineering,Srinivas,,Garimella,1857285,3,good,4.0
+Engineering,Hamid,,Garmestani,453737,42,good,4.0
+Management,Jacqueline,,Garner,2274754,10,good,5.0
+Mathematics,Stavros,,Garoufalidis,1610011,6,average,3.0
+Biology,David,,Garton,467511,30,average,3.0
+Political Science,John,,Garver,1049411,3,average,3.3
+Physics,Ian,,Gatland,1523369,2,good,5.0
+Computer Science,Ada,,Gavrilovska,2317744,2,average,3.0
+Electrical Engineering,Thomas,,Gaylord,1311804,3,average,3.3
+Civil Engineering,Franklin,,Gbologah,1789607,1,average,3.0
+Civil Engineering,Georgene,,Geary,2441209,1,good,4.0
+Spanish,Danielle,,Geary,1670438,3,good,4.7
+Industrial Engineering,Nagi,,Gebraeel,1229064,5,average,2.9
+Mathematics,Nathan,,Geer,547870,6,average,3.0
+Mechanical Engineering,Caroline,,Genzale,1703436,5,good,4.3
+Computer Science,Aris,,Georgiokakos,1174764,0,zero,N/A
+Materials Engineering,Rosario,,Gerhardt,1606560,10,poor,1.8
+Aerospace Studies,Brian,,German,1378461,3,good,4.7
+Engineering,Leonid,,Germanovich,1128213,4,average,3.1
+History,Carla,,Gerona,1191660,18,good,3.7
+Architecture,Ann,,Gerondelis,1762593,2,average,2.8
+Mathematics,Jeff,,Geronimo,26045,45,poor,2.4
+Mathematics,Osama,Mohammad,Ghani,2185195,1,good,5.0
+Mathematics,Rohan,,Ghanta,2018314,5,good,3.6
+Engineering,Nazanin,,Gharb,1132944,0,zero,N/A
+Psychology & Sociology,Zachary,,Ghezzi,2433957,1,good,5.0
+Mechanical Engineering,Seyed,,Ghiaasiaan,1553041,8,good,3.7
+Economics,Vivek,,Ghosal,399556,16,average,3.0
+Computer Science,Sucheta,,Ghoshal,2525772,0,zero,N/A
+Mathematics,Christina,,Giannitsi,2564725,0,zero,N/A
+Biology,Greg,,Gibson,2441694,1,good,4.0
+Computer Science,Jonathan,,Giffin,1346284,1,average,3.0
+Mathematics,William,,Gignac,1963996,10,good,4.2
+"Literature, Media, & Communication",Amanda,,Girard,2325015,7,poor,1.0
+Chemistry,Steven,,Girardot,931237,4,good,4.8
+Earth Science,Jennifer,B,Glass,2294479,3,good,4.0
+Biomedical Engineering,Rudolph,,Gleason,2216138,5,poor,2.2
+Mechanical Engineering,Ari,,Glezer,2327003,2,good,4.0
+Computer Science,Ashok,,Goel,656210,5,good,4.4
+English,Corey,,Goergen,2455656,10,average,3.3
+Industrial Engineering,Marc,,Goetschalckx,1880210,0,zero,N/A
+Materials Engineering,Arun,,Gokhale,2464233,2,average,3.0
+Industrial Engineering,David,,Goldberg,1747922,11,average,2.8
+Russian,Stuart,Harris,Goldberg,2023594,4,good,4.2
+English,Amanda,,Golden,1811797,13,good,4.8
+Physics,Daniel,,Goldman,1287209,9,poor,2.1
+Mathematics,Guillermo,,Goldsztein,905052,20,good,3.5
+Physics,James,,Gole,641550,8,average,2.5
+Chemical Engineering,Jan,,Gooch,1710056,0,zero,N/A
+Biology,Michael,,Goodisman,1860123,1,good,3.5
+International Studies,Sy,,Goodman,1237471,4,average,2.5
+Engineering,Barry,,Goodno,1553040,13,average,3.4
+Sociology,Kristin,,Gordon,2123834,1,good,3.5
+Electrical Engineering,Lukas,,Graber,2056465,1,good,5.0
+Management,Stuart,,Graham,515663,7,good,4.8
+Mechanical Engineering,Samuel,,Graham,2010147,0,zero,N/A
+English,Jurgen,,Grandt,1068471,5,good,4.2
+Earth Science,Meg,,Grantham,1576616,17,good,3.8
+Physics,Edwin,,Greco,1308363,58,good,3.8
+Biology,Linda,,Green,1469174,9,good,3.7
+Mechanical Engineering,Itzhak,,Green,1867096,3,poor,1.3
+Urban Planning,Nancey,,Green Leigh,1839553,0,zero,N/A
+LiteratureMedia  Com,Rebekah,,Greene,2276782,2,good,4.5
+Computer Science,Jim,,Greenlee,8896,40,average,3.3
+Civil Engineering,Aaron,,Greenwood,1822723,3,good,4.2
+Mathematics,Torin,,Greenwood,2131669,8,good,4.0
+Aerospace Engineering,Kelly,,Griendling,2531969,1,good,5.0
+English,Michael,,Griffin,2052198,9,average,3.1
+Physics,Roman,O,Grigoriev,2122150,1,good,5.0
+Electrical Engineering,Santiago,,Grijalva,2262019,2,average,3.0
+Computer Science,Rebecca Beki,,Grinter,2100677,0,zero,N/A
+Mathematics,Klara,,Grodzinsky,272905,59,good,4.8
+Physics,Galina,,Grom,880559,3,good,4.5
+Chemical Engineering,Martha,,Grover,2347369,1,poor,2.0
+Chemistry,Berkley,,Gryder,1655341,1,good,4.5
+Civil Engineering,Randall,L.,Guensler,2469746,2,good,4.0
+Mechanical Engineering,Francois,M,Guillot,2132865,17,good,4.7
+Physics,James (JC),,Gumbart,2089753,3,good,3.7
+Aerospace Engineering,Brian,,Gunter,2506805,0,zero,N/A
+Mathematics,Neha,,Gupta,2405581,26,good,4.6
+Chemistry,Will,,Gutekunst,2371865,2,good,5.0
+Industrial Engineering,Ben,,Haaland,2047264,5,average,3.1
+Civil Engineering,Kevin,,Haas,2145112,1,good,5.0
+Electrical Engineering,Thomas,,Habetler,975352,3,good,4.2
+Management,Aaron,,Hackett,2346079,3,good,5.0
+Industrial Engineering,Steve,,Hackman,944146,5,average,3.2
+Aerospace Engineering,Wassim,,Haddad,1623412,3,average,3.2
+Accounting,Jeffrey,,Hales,2199733,9,good,4.4
+Physics,Monica,,Halka,2124534,3,good,5.0
+Psychology,Tracy,,Halverson,1640473,0,zero,N/A
+Organizational Behavior,Dana,,Hamam,2441030,1,good,4.0
+Electrical Engineering,James,O,Hamblen,1829300,2,good,5.0
+Biology,Liang,,Han,2436354,2,good,4.0
+Mathematics,Rui,,Han,2413543,14,good,4.9
+Aerospace Engineering,Sathyanaraya,,Hanagud,1740796,4,poor,1.8
+Earth Science,Zachary,,Handlos,2323920,3,good,4.7
+Literature,Kathleen,,Hanggi,1623735,4,average,3.4
+Mathematics,Zaher,,Hani,1931705,19,good,3.6
+Computer Science,Aaron,,Hansen,2489949,2,good,4.5
+Mathematics,Jack,,Hanson,2090931,1,good,4.0
+Mathematics,Jing,,Hao,2515322,8,poor,1.9
+Organizational Behavior,Dana,,Harari,2447199,2,good,5.0
+Economics,Anthony,R,Harding,2553867,2,good,5.0
+English,John,,Harkey,1631445,15,good,4.2
+Health Science,Linda,,Harley,1653065,8,average,2.8
+Computer Science,Kyle,,Harrigan,2354671,1,average,3.0
+English,Jo Anne,,Harris,1313695,4,poor,1.5
+Mechanical Engineering,Tequila,,Harris,1488706,6,average,3.2
+Electrical Engineering,Theodore,Robert,Harris,2378279,1,average,3.0
+Electrical Engineering,Joyelle,,Harris,2171219,7,good,3.5
+English,Kathryn,Huie,Harrison,2188239,3,average,3.0
+Psychology,Tyler,,Harrison,2222261,2,good,5.0
+Biology,Colin,,Harrison,2353120,4,good,4.3
+Electrical Engineering,Jennifer,,Hasler,1880482,3,poor,1.5
+Literature,Narin,,Hassan,1191653,3,good,5.0
+Computer Science,Hamid,,Hassanzadeh,2055420,0,zero,N/A
+Mechanical Engineering,Mardi,,Hastings,1681257,0,zero,N/A
+Mechanical Engineering,Marta,,Hatzell,2472357,5,good,4.2
+Literature,Leah,,Haught,1885823,2,good,5.0
+Biology,Mark,,Hay,1845362,1,good,4.5
+Computer Science,Gillian,,Hayes,714571,0,zero,N/A
+Electrical Engineering,Monson,,Hayes,1504750,0,zero,N/A
+International Politics,Jarrod,,Hayes,1691062,5,good,4.6
+Computer Science,James,,Hays,2082898,2,good,5.0
+Mathematics,Yuchen,,He,2431267,4,good,5.0
+Health Science,Laura,,Heflin,2158522,1,good,5.0
+Mathematics,Christopher,,Heil,485192,9,good,4.3
+Mathematics,Christine E,,Heitsch,1192237,3,average,2.8
+Economics,Ian,,Helfrich,2303900,0,zero,N/A
+Computer Science,Michael,,Helms,2418017,2,average,3.0
+Chemical Engineering,Clifford,,Henderson,1469994,3,poor,1.9
+English,Bridget,,Heneghan,828805,6,good,4.5
+English,Tyanna,,Herrington,764626,6,average,2.9
+Nuclear Engineering,Nolan,,Hertel,1624301,0,zero,N/A
+Mechanical Engineering,Peter,,Hesketh,649604,4,good,3.7
+Chemical Engineering,Dennis,W.,Hess,1916868,1,poor,2.0
+English,Sarah,,Higinbotham,2155784,9,good,5.0
+History,Matthew,,Hild,462349,43,good,4.2
+Mechanical Engineering,Ethan,,Hilton,2322345,4,good,4.8
+Psychology,Jarrod,,Hines,1406002,9,good,3.6
+Aerospace Engineering,Koki,,Ho,2514988,0,zero,N/A
+Management,James,,Hoadley,1717403,5,good,3.9
+Engineering,Dewey,,Hodges,745391,9,poor,2.4
+English,Anthony,,Hoefer,1238542,8,good,4.6
+Public Policy,Michael,,Hoffman,1122535,3,average,3.3
+English,Christine,,Hoffmann,1671017,5,good,4.7
+Organizational Behavior,Toschia,,Hogan,2250328,3,poor,1.0
+Mathematics,Christel,,Hohenegger,634281,4,good,4.8
+Psychology,Margarita,,Holder,2332724,0,zero,N/A
+Psychology,Mary,,Holder,2351136,2,poor,2.0
+Architecture,Laura Holden,,Hollengreen,1736090,4,poor,2.4
+Electrical Engineering,Hal,,Hollis,1593523,0,zero,N/A
+Management,Timothy,,Holloway,2550283,0,zero,N/A
+Mathematics,Irina,,Holmes,1983157,12,good,4.9
+English,Kate,,Holterhoff,2214763,12,good,4.5
+Aerospace Engineering,Marcus,,Holzinger,1925030,4,average,2.9
+Mathematics,Jennifer,,Hom,2194480,2,good,5.0
+English,Katie,,Homar,2292420,5,poor,2.2
+Aerospace Engineering,Hanif,,Hoseini,2469137,3,good,3.7
+Mathematics,Christian,,Houdre,1563826,6,poor,2.0
+Music,Brandon,,Houghtalen,1830745,0,zero,N/A
+Mathematics,David,,Howard,874169,7,average,3.2
+English,Jeffrey,,Howard,2419678,2,good,4.5
+Mechanical Engineering,Aaron,,Howell,2008247,1,good,5.0
+Mathematics,Alexander,,Hoyer,2186100,10,good,5.0
+Mathematics,Surena,,Hozoori,2484537,4,average,3.0
+Computer Science,Brian,,Hrolenok,2491472,3,good,3.7
+Accounting,Wenqian,,Hu,2411599,2,good,4.0
+Mechanical Engineering,Yuhang,,Hu,2492928,1,good,4.0
+Mathematics,David,,Hu,1168545,9,poor,2.2
+Industrial Engineering,Junqui,,Hu,2564456,1,poor,1.0
+Industrial Engineering,Junqi,,Hu,2570698,1,poor,1.0
+Computer Science,Elaine,,Huang,661392,0,zero,N/A
+Management,Natalie,,Huang,1893447,2,good,4.8
+Civil Engineering,Haiying,,Huang,1539434,9,good,4.0
+Computer Science,Mary,,Hudachek-Buswell,1931623,49,average,2.7
+Science,Greg,,Huey,465167,38,good,3.5
+Electrical Engineering,Joseph,,Hughes,2291108,4,good,3.7
+Economics,Brian,,Hunt,1390098,14,good,4.0
+Electrical Engineering,William,,Hunt,2321121,2,good,3.5
+English,Leeann,,Hunter,1491622,5,good,4.0
+Engineering,Xiaoming,,Huo,394515,3,poor,2.3
+Management,Yun,,Hur,2536336,0,zero,N/A
+Electrical Engineering,Jeffery,Dale,Hurley,2515858,0,zero,N/A
+Mathematics,Tobias,,Hurth,1869510,2,average,2.8
+English,Joshua,,Hussey,2078029,9,average,2.8
+Computer Science,Seth,,Hutchinson,2456303,2,good,5.0
+English,Liz,,Hutter,1910866,2,poor,2.0
+Mathematics,Huy,,Huynh,1149397,14,good,3.9
+English,Hyeryung,,Hwang,2453353,6,good,5.0
+Sociology,Allen,,Hyde,2395643,2,good,5.0
+Mathematics,Benjamin,,Ide,2267045,8,good,3.9
+Mathematics,Plamen,,Iliev,649561,24,good,3.8
+Psychology,Malgorzata,(Maggie),Ilkowska,1811794,11,poor,1.6
+Electrical Engineering,Omer,,Inan,2257556,2,good,5.0
+Earth Science,Ellery,D.,Ingall,1766003,12,good,4.3
+Electrical Engineering,Mary,,Ingram,1469426,2,average,3.0
+English,Anna,,Ioanes,2142560,4,good,5.0
+French,Christophe,,Ippolito,1680607,10,good,4.3
+Computer Science,Charles,,Isbell,962024,6,poor,2.4
+Mathematics,Umit,,Islak,2095753,3,good,3.5
+Engineering,Karl,,Jacob,1049604,22,good,4.3
+English,Bethany,,Jacobs,2212875,19,average,3.4
+Engineering,Larry,,Jacobs,35584,16,good,4.8
+Computer Science,Nassim ,,JafariNaimi,2009906,1,average,2.5
+Aerospace Engineering,Jechiel,,Jagoda,2141664,2,average,2.8
+Psychology,Shivangi,,Jain,2221209,2,good,4.5
+English,Diane,,Jakacki,1569565,6,good,4.4
+Materials Engineering,Seung,,Jang,1122140,7,good,3.5
+Korean,Seok Bae,,Jang,1719800,3,good,5.0
+Materials Engineering,Seung Soon,,Jang,2398395,2,good,5.0
+Mathematics,Christopher,,Jankowski,2250367,24,good,4.5
+Modern Languages,Barbara,,Jansma,1740589,0,zero,N/A
+Physics,Martin,,Jarrio,1422389,89,good,3.9
+Engineering,Sundaresan,,Jayaraman,1697980,0,zero,N/A
+Electrical Engineering,Davis,Allan,Jeffrey,2372952,1,poor,2.0
+Chemistry,David,,Jenson,1728262,2,good,5.0
+Mechanical Engineering,Sheldon,M,Jeter,2370249,3,good,3.7
+Electrical Engineering,Chuanyi,,Ji,2240550,0,zero,N/A
+Physics,Zhigang,,Jiang,1992413,0,zero,N/A
+Biology,Lin,,Jiang,2214239,1,poor,2.0
+Mathematics,Jiayin,,Jin,2050343,33,good,4.4
+Biomedical Engineering,Hajoong,,Jo,2554060,0,zero,N/A
+English,Jared,,Johnson,1068461,5,good,4.2
+Mechanical Engineering,W. Steven,,Johnson,1130244,3,good,3.5
+English,Valerie,,Johnson,2044670,9,average,2.7
+Aerospace Engineering,Carl,,Johnson,2132351,0,zero,N/A
+Economics,Erik,,Johnson,2173500,0,zero,N/A
+Industrial Engineering,Ron,,Johnson,1842415,13,good,4.1
+Electrical Engineering,Kevin,,Johnson,1972712,8,average,3.2
+Management,Tiffany,,Johnson,2558524,1,good,4.0
+Management,Gary,,Jones,1954439,1,good,4.0
+Psychology,Benjamin,Reivich,Jones,2296449,5,good,4.6
+International Politics,Jenna,,Jordan,1795940,18,good,4.5
+Biology,King,,Jordan,2468308,0,zero,N/A
+Mechanical Engineering,Yogendra,K,Joshi,2373102,1,good,5.0
+Computer Science,David,,Joyner,2267953,26,good,4.3
+Materials Engineering,Joshua,,Kacher,2101970,5,good,3.7
+Economics,Johnson,,Kakeu,1744237,2,good,4.8
+Management,Basak,,Kalkanci,2331966,1,good,4.0
+Languages,Britta,,Kallin,272805,6,good,3.8
+Mathematics,Amey,,Kaloti,1901648,5,poor,2.1
+Management,Vitor,,Kamada,2252062,3,good,4.7
+Mathematics,Sung,,Kang,1348481,25,good,3.6
+Management,Donna,,Kantak,2267852,6,good,3.7
+Engineering,George,,Kardomateas,1379369,4,average,2.9
+Mechanical Engineering,Jens,,Karlsson,957761,0,zero,N/A
+Civil Engineering,Alexander,,Karner,2223032,1,average,3.0
+Aerospace Engineering,Aharon,,Karon,2412822,1,poor,2.0
+Architecture,Keith,,Kaseman,2162860,0,zero,N/A
+English,Aaron,,Kashtan,1739815,7,good,3.5
+International Politics,Tahseen,,Kazi,1509215,16,average,2.5
+Management,Sejin,,Keem,2121872,3,average,3.3
+International Studies,Edward,,Keene,467509,6,good,4.4
+Electrical Engineering,David,,Keezer,595306,15,average,2.8
+Management,Lawrence,,Keller,1532532,7,good,5.0
+Psychology,Andrew,,Kelly,1599149,1,good,4.5
+Cognitive Science,rachel,,kelly,2042743,0,zero,N/A
+Chemistry,Wendy,,Kelly,2240283,5,poor,1.6
+International Politics,Robert,,Kennedy,944954,9,good,4.4
+Physics,Brian,,Kennedy,2357772,1,average,3.0
+Electrical Engineering,James,Stevenson,Kenney,2557013,1,good,4.0
+Mathematics,George,,Kerchev,2014522,14,average,3.0
+Biology,Shana,,Kerr,1972459,11,average,3.1
+Mathematics,Robert,,Kesler,2217935,4,average,3.0
+Mathematics,Robert,,Kessler,2227929,2,average,3.0
+Industrial Engineering,Tuba,,Ketenci,2482891,10,poor,1.6
+Architecture,Sabir,,Khan,1157118,10,average,2.9
+Electrical Engineering,Moazzam,,Khan,1450260,1,good,5.0
+Electrical Engineering,Asif,Islam,Khan,2488459,1,poor,1.0
+Literature,Dina,,Khapaeva,1993707,2,average,3.0
+Mathematics,Timothy,David,Kierzkowski,2413030,0,zero,N/A
+Mathematics,Cassandra,,Kierzkowski,2434994,2,average,3.0
+Management,Mike,,Kilgore,1103580,6,average,2.7
+Accounting,M.,,Kilgore,1932350,0,zero,N/A
+Economics,Byung-Cheol,,Kim,1323426,5,average,3.2
+Psychology,Min,,Kim,1374467,3,average,2.5
+Computer Science,Hyesoon,,Kim,1471888,1,good,3.5
+Industrial Engineering,Seunghee,,Kim,1481943,10,good,3.8
+Mathematics,Seong ,Jun,Kim,1965211,9,poor,2.4
+Physics,Harold,,Kim,2022869,1,good,3.5
+Management,Eugene,,Kim,2158524,4,good,3.5
+Korean,Yongtaek,,Kim,2296282,2,good,3.5
+Korean,Taek,Yong,Kim,2366466,1,good,5.0
+Computer Science,Joonho,,Kim,2389150,0,zero,N/A
+Mechanical Engineering,YongTae (Tony),,Kim,2127836,3,good,3.9
+Systems Engineering,Larry,,Kimm,2306993,0,zero,N/A
+Physics,Marcus,,Kindermann,1050117,3,average,3.2
+English,Amy,,King,2051713,19,poor,1.3
+English,Joshua,,King,2054877,12,good,4.5
+Public Policy,Gordon,,Kingsley,440670,3,good,5.0
+Mathematics,Daniel,,Kinnaird,2075587,0,zero,N/A
+Mathematics,Tige,,Kinsey,2514103,1,good,5.0
+Electrical Engineering,Bernard,J,Kippelen,2473491,1,good,5.0
+Computer Science,Zsolt,,Kira,2354675,1,average,3.0
+Public Policy,Robert,,Kirkman,608136,5,average,2.7
+Electrical Engineering,Benjamin,,Klein,2056466,4,good,4.8
+Public Policy,Hans,,Klein,1281098,8,good,4.7
+Industrial Engineering,Anton,,Kleywegt,2032693,2,poor,2.3
+Health Science,Michele,,Kliem,480792,18,average,3.3
+Economics,Michael,,Klimenco,2564321,0,zero,N/A
+Economics,Mikhail,,Klimenko,1089073,24,good,3.8
+Engineering,Tonia,,Knobf,2089763,1,average,3.0
+Chemical Engineering,Paul,,Kohl,1313296,1,good,5.0
+English,Melanie,,Kohnen,1348627,9,average,3.1
+Mathematics,Sudipta,,Kolay,2415606,5,poor,2.2
+Aerospace Engineering,Narayanan,,Komerath,806311,12,poor,1.5
+Mechanical Engineering,Sampath,,Kommandur,2367328,2,good,4.5
+Environmental Engineering,Konstantinos,,Konstantinidis,1671518,1,poor,2.0
+Civil Engineering,Kostas,,Konstantinidis,1949757,4,poor,2.0
+Computer Science,Maria,,Konte,2529942,0,zero,N/A
+German,Katherine,,Koppe,1634109,4,good,4.8
+Mathematics,Kevin,,Kordek,2278982,9,average,3.0
+Chemical Engineering,William,,Koros,145998,5,good,5.0
+Internation Service,Margaret,,Kosal,1316075,6,good,3.9
+Biology,Joel,E,Kostka,2404666,0,zero,N/A
+French,Tatiana,,Kozhanova,2349590,1,good,5.0
+English,Andrea,,Krafft,2224255,3,poor,2.3
+Mathematics,Svetlana,,Krat,872182,3,poor,1.0
+History,John,,Krige,1834364,1,good,4.0
+Electrical Engineering,Tushar,,Krishna,2350065,1,good,5.0
+Mechanical Engineering,Daniel,,Kromer,2332535,0,zero,N/A
+Mathematics,Andras,,Kroo,1636700,2,good,3.5
+Accounting,Xi Jason,,Kuang,1790766,2,good,4.3
+Accounting,XI,,Kuang,1634162,4,good,4.3
+Biology,Julia,,Kubanek,893889,2,good,4.5
+French,Anne-Marie,,Kuhne,1816685,1,good,5.0
+Materials Engineering,Satish,,Kumar,1895584,11,good,3.5
+International Politics,Neha,,Kumar,2084382,4,good,4.3
+Economics,Michael,,Kummer,2256819,0,zero,N/A
+Mathematics,Ishwari,,Kunwar,1842840,8,good,4.9
+Mechanical Engineering,Thomas,R,Kurfess,2008238,2,good,4.3
+Mathematics,Miriam,,Kuzbary,2522814,1,good,5.0
+Industrial Engineering,Paul,,Kvam,1872637,0,zero,N/A
+Chemistry,Henry,,La Pierre,2527110,10,average,3.4
+Economics,David,,Laband,2096841,2,good,4.0
+Modern Languages,Angela,,Labarca,1130141,3,good,4.2
+Mathematics,Michael,,Lacey,864992,30,average,2.5
+Biology,Joseph,,Lachance,2529679,0,zero,N/A
+Civil Engineering,Austin,,Ladshaw,2309601,7,good,5.0
+Industrial Engineering,Geet,,Lahoti,2467773,0,zero,N/A
+English,Crystal,,Lake,1320732,11,good,4.1
+Computer Science,Amelia,,Lambeth,2484532,1,good,5.0
+Leadership Studies,Verene,,Lancaster,2446338,0,zero,N/A
+Physics,Uzi,,Landman,588082,0,zero,N/A
+Engineering,Aaron,,Lanterman,134486,10,good,4.1
+Biomedical,Michelle,C,LaPlaca,2183914,1,average,3.0
+Biomedical Engineering,Michelle,,Laplaca,956777,13,poor,2.0
+Mechanical Engineering,Gregg,D,Larson,1867622,3,good,3.7
+Electrical Engineering,Joy,,Laskar,871574,4,average,3.0
+Aerospace Engineering,Ralph,L,Latham,2415335,2,poor,1.5
+English,Michael,,Laughter,203003,5,poor,2.3
+Statistics,Jorge,,Laval,1131192,9,average,2.8
+English,Stacy,,Lavin,1167337,7,average,2.8
+English & Liberal Studies,Danielle,,Lawson,1095520,4,average,3.1
+Science,Regan,,Lawson,2444877,2,good,4.0
+Management,Brandon,,Lay,2514465,0,zero,N/A
+Mathematics,Thang,,Le,865858,14,average,3.3
+"Literature, Media, & Communication",Christopher,,Le Dantec,2365367,2,poor,2.0
+Biomedical Engineering,Joseph,,Le doux,1607008,9,good,3.6
+German,Anne-Francoise,,Le Lostec,2495756,3,good,3.7
+Psychology,Dianne,,Leader,26040,64,good,3.8
+Computer Science,Bill,,Leahy,10482,70,good,4.0
+Mechanical Engineering,Michael,,Leamy,1112165,14,good,4.1
+Biology,Jennifer,,Leavey,1475904,11,average,2.5
+Mechanical Engineering,Kok-Meng,,Lee,796492,3,good,3.5
+Electrical Engineering,Hsien-Hsin,,Lee,811780,6,good,4.3
+Architecture,Hyun,,Lee,1103079,1,poor,2.0
+Biomedical Engineering,Robert,,Lee,1195566,4,poor,2.4
+Psychology,Hye Joo,,Lee,1667972,1,good,5.0
+Electrical Engineering,Chin-Hui,,Lee,2130452,5,poor,2.2
+Korean,Jong,Hyun,Lee,2310214,1,good,5.0
+Industrial Engineering,Eva,K,Lee,2328302,2,poor,1.5
+Computer Science,Wenke,,Lee,2405731,0,zero,N/A
+Mathematics,Kisun,,Lee,2543791,1,good,5.0
+Industrial Engineering,I-Hsiang,,Lee,2034176,8,good,4.1
+Mechanical Engineering,Seung,Woo,Lee,2481468,1,good,4.0
+Management,Suzanne,,Lee,1893445,2,average,3.3
+Computer Science,Stephen,,Lee-Urban,2472666,0,zero,N/A
+Biomedical Engineering,Johannes,,Leisen,2250752,5,average,3.0
+Literature,Blake,,Leland,463776,8,good,4.2
+Management,Jim,,Lemoine,1834680,1,good,5.0
+Mathematics,Yoav,,Len,2516383,4,poor,1.8
+Mathematics,Caitlin,,Leverson,2174946,10,average,2.8
+Public Policy,Aaron,,Levine,1490593,3,good,4.5
+Mathematics,Anton,,Leykin,1446196,8,poor,1.8
+Electrical Engineering,YE,,Li,882314,2,good,3.5
+Mathematics,Wing,,LI,1331441,13,average,2.7
+Materials Engineering,MO,,LI,1542322,11,poor,2.5
+Engineering,Leihong,,LI,1919862,2,poor,1.3
+Mathematics,Wuchen,,Li,2008646,3,good,4.3
+Modern Languages,Chao Charlie,,Li,2097081,4,good,4.5
+Physics,Gongjie,,Li,2344782,0,zero,N/A
+Chinese,Chao,,Li,2353115,1,good,5.0
+Modern Languages,Xiaoliang,,Li,2390355,1,good,5.0
+Chinese,Xiaoliang,,Li,2395699,1,good,4.0
+Electrical Engineering,Geoffrey,Ye,Li,2034183,3,average,3.0
+Industrial Design,Wayne,,Li,2237968,4,average,3.3
+Mechanical Engineering,Steven,,Liang,1744205,13,average,2.5
+Chemistry,Raquel,,Lieberman,1799810,2,average,3.0
+Aerospace Engineering,Edgar,Glenn,Lightsey,2353264,2,good,5.0
+Computer Science,Dave,,Lillethun,2094137,4,average,3.0
+Civil Engineering,Edwin,,Lim,2023399,2,good,4.2
+Aerospace Engineering,Dongwook,,Lim,2401582,1,good,5.0
+Engineering,Sung Kyu,,Lim,434436,18,good,4.3
+Mathematics,Zhiwu,,Lin,1238183,19,poor,2.2
+Materials Engineering,Zhiqun,,Lin,2279021,2,good,4.0
+International Politics,Dalton,,Lin,2290386,2,good,4.0
+Mathematics,Bo,,Lin,2516808,6,poor,2.0
+Internation Service,Jennie,,Lincoln,826453,7,poor,2.1
+Engineering,Julie,,Linsey,1935315,7,average,3.2
+Mechanical Engineering,Julie,,Linsey,2533376,0,zero,N/A
+English,Kent,,Linthicum,2419402,4,good,4.0
+Chemistry,Charles,,Liotta,1343428,14,good,4.7
+Mechanical Engineering,Harvey,,Lipkin,2141675,1,good,4.0
+Computer Science,Richard,,Lipton,2131671,2,average,3.3
+Computer Science,Ling,,Liu,1651694,2,average,2.8
+Management,Dong,,Liu,1673179,5,good,4.6
+Chinese,Jin,,Liu,1881212,3,good,5.0
+Management,Joseph,,Liu,1885684,1,good,4.5
+Computer Science,Karen,,Liu,1962312,1,good,4.0
+Mathematics,Qingqing,,Liu,2114136,5,good,4.0
+Chemical Engineering,Nian,,Liu,2351074,1,poor,2.0
+Biomedical Engineering,Jingfei,,Liu,2439259,3,good,3.7
+Mathematics,Yingjie,,Liu,797693,19,poor,1.9
+Mathematics,Hao,,Liu,2524711,3,average,2.7
+Chemical Engineering,Ryan,,Lively,1948904,6,good,4.9
+Mathematics,Galyna,,Livshyts,2452344,6,poor,1.5
+Biology,Kirill,,Lobachev,2334018,0,zero,N/A
+English,Nicole,,Lobdell ,2045528,5,good,4.0
+English,Mirja,,Lobnik,1927470,10,good,4.6
+Mathematics,Alexandre,,Locquet,2480788,4,average,2.5
+Aerospace Studies,Robert,,Loewy,1612542,1,average,3.0
+English,Thomas,,Lolis,1531481,4,good,4.8
+Materials Engineering,Mark,D.,Losego,2123841,8,good,4.7
+Mathematics,Michael,,Loss,1320731,27,good,3.8
+Literature,Yanni,,Loukissas,1993063,7,average,2.8
+Mechanical Engineering,Peter,,Loutzenhiser,2159527,2,average,2.5
+English,Gabriel,,Lovatt,2169533,1,good,4.0
+Management,Michael,,Lowe,2238582,6,good,4.7
+Physics,Byron,,Lowry,1896170,0,zero,N/A
+History,Hanchao,,Lu,1049415,10,good,3.9
+Mathematics,Nan,,LU,1386304,1,good,4.0
+Chemical Engineering,Hang,,Lu,1905819,5,average,3.0
+Mathematics,Doron,,Lubinski,1660200,1,average,3.0
+Mathematics,Doron,,Lubinsky,233689,73,good,4.6
+Chemical Engineering,Peter,,Ludovice,2181926,9,average,2.9
+Chemical Engineering,Christopher,,Luettgen,2437631,1,good,4.0
+Civil Engineering,John,Z,Luh,2499968,1,poor,1.0
+Civil Engineering,Jian,,Luo,1416955,6,good,3.7
+English,Jennifer,,Lux,1786227,2,good,5.0
+International Politics,Barbara,,Lynch,1816687,1,average,3.0
+Earth Science,Jean,,Lynch-Stieglitz,1727402,4,good,4.1
+Chemistry,Louis,,Lyon,991942,4,good,4.8
+Computer Science,Blair,,Macintyre,2521260,4,poor,1.8
+Accounting,Nikki,,MacKenzie,2542528,3,good,4.3
+History,Kristie,,MacRakis,1450726,4,good,4.3
+Computer Science,Vivek,,Madan,2555948,1,good,5.0
+English,Amanda,,Madden,1708849,7,good,3.5
+English  Liberal Studies,Krystina,,Madej,1924249,3,poor,2.0
+Electrical Engineering,Vijay,,Madisetti,1309769,2,average,3.0
+Industrial Engineering,Siva,Theja,Maguluri,2252071,7,good,3.5
+Mathematics,Kit Ho,,Mak,1837086,1,good,5.0
+Economics,Naresh,,Mallick,1672478,1,good,4.5
+Mathematics,Manuela,,Manetta,2014463,4,good,3.6
+Mathematics,Madhusudan,,Manjunath,1757630,2,poor,1.0
+Health Science,Kelly,,Manning-Massey,1248012,8,good,4.4
+Economics,Xi,,Mao,2363298,6,good,4.8
+Physics,Alexei,,Marchenkov,235386,3,good,4.5
+Management,Barry,,Marchman,1570752,13,average,2.8
+Economics,Alan,,Marco,2533446,0,zero,N/A
+Arabic,David,,Marcus,2065083,8,average,2.6
+Chemistry,Seth,,Marder,1603051,2,average,2.5
+Mathematics,Dan,,Margalit,2096460,24,good,4.6
+Computer Science,Leo,,Mark,1422812,3,good,3.7
+International Politics,Eliza,maria,Markley,2100427,27,good,3.8
+English,Hannah,,Markley,2454074,9,good,4.6
+Civil Engineering,Eric,,Marks,2479905,3,good,5.0
+Psychology,Jack,,Marr,10619,8,average,2.5
+Management,Gregory,,Marr,2068985,1,good,5.0
+Architecture,Marisabel,,Marratt,2489135,1,poor,1.0
+Computer Science,Kristin,,Marsicano,1223231,30,good,3.8
+English,Regina,,Martin,1637227,3,good,4.3
+Management,Tim,,Martin,2553086,1,good,5.0
+Psychology,David,,Martinez,2249280,2,good,4.0
+"Literature, Media, & Communication",Andrew,Peter,Marzoni,2051027,10,good,3.6
+English,Andrew,,Marzoni,2233090,0,zero,N/A
+English,Noah ,,Mass,1960524,1,good,5.0
+Public Policy,Emanuele,,Massetti,2509828,1,good,5.0
+Linguistics,Kyoko,,Masuda,2240096,2,average,3.0
+Political Science,Daniel,,Matisoff,1509256,10,average,3.2
+Physics,Elisabetta,,Matsumoto,2217274,12,poor,2.2
+Japanese,Aki,,Matsushima,946200,11,good,4.7
+Mathematics,Heinrich,,Matzinger,353556,27,good,4.1
+Aerospace Studies,Dimitri,,Mavris,868858,5,poor,2.2
+Electrical Engineering,Erick,,Maxwell,2139531,3,good,4.0
+Mathematics,Gregory,,Mayer,2030556,30,good,4.0
+Civil Engineering,Paul,,Mayne,2527480,0,zero,N/A
+Mechanical Engineering,James,R.,Mayor,1888023,2,good,5.0
+Economics,Mark,,McCabe,435465,0,zero,N/A
+Economics,Patrick,,McCarthy,1969746,15,poor,1.5
+Engineering,Jim,,McClellan,588639,8,good,3.6
+Modern Languages,Candace,,McCollough,2108306,1,good,4.0
+Mechanical Engineering,Barbara,,McCord,1930521,2,average,3.2
+Literature,Karissa,,McCoy,1198037,3,good,5.0
+Computer Science,Michael,,McCracken,2272496,0,zero,N/A
+Mathematics,John,,McCuan,13317,27,poor,2.4
+Mathematics,Andrew,,McCullough,2095755,10,poor,2.3
+Computer Science,Melinda,,McDaniel,2051964,78,average,3.3
+Chemistry,Jesse,,McDaniel,2566442,1,poor,1.0
+Biomedical Engineering,Todd,,McDevitt,1515287,1,good,4.5
+Sociology,Mary,,McDonald,2249910,0,zero,N/A
+Industrial Engineering,Joshua,Lyle,McDonald,2531071,0,zero,N/A
+Biology,John F.,,McDonald,1580343,5,good,3.5
+Mechanical Engineering,David,,McDowell,1385046,1,good,4.5
+Biology,Patrick,,McGrath,2406538,1,good,5.0
+Computer Science,Brian,,McGreggor,2470921,0,zero,N/A
+Computer Science,Keith,,McGreggor,2512045,3,good,4.0
+Biology,Jenny,,McGuire,2345722,2,good,3.5
+Mathematics,Stephen,,McKean,2522159,1,good,5.0
+Psychology,Brian,,McMahon,1300750,1,good,5.0
+Electrical Engineering,Laura,,McPheters,466891,0,zero,N/A
+Mechanical Engineering,Julien,,Meaud,2153161,4,average,3.0
+Architecture,Joyce,,Medina,330973,24,good,3.6
+English,Melissa,,Meeks,1254189,5,average,3.1
+Mechanical Engineering,Kristi,,Mehaffey,2448090,3,good,4.0
+Industrial Engineering,Yajun,,Mei,2354677,5,poor,2.4
+Political Science,Julia,,Melkers,2072926,15,average,3.3
+Mathematics,Dario,,Mena,1972763,5,good,4.0
+Mathematics,Pere,,Menal-Ferrer,1852534,10,average,2.7
+Music,Ron,,Mendola,116962,6,good,4.7
+Aerospace Engineering,Suresh,,Menon,1823078,4,average,2.9
+Chemical Engineering,Carson,,Meredith,2229571,1,good,4.0
+Science,Al,,Merrill,124880,6,good,4.0
+French,Roya,,Mesbah,2101861,4,good,3.5
+Civil Engineering,Michael,,Meyer,1703874,1,good,4.0
+Psychology,Rustin,,Meyer,1988263,1,good,5.0
+Mathematics,Gunter,,Meyers,850839,2,poor,1.0
+English,Kellie,,Meyers,1661964,4,average,3.4
+Management,Robert,,Meyers,2222014,2,good,5.0
+History,Todd,,Michney,2044831,6,average,3.3
+English,Irene J,,Middleton,1340444,2,average,2.5
+Computer Science,Milena,,Mihail,467508,5,good,4.8
+Materials Engineering,Valeria,,Milam,760458,13,good,3.9
+English,Michelle,,Miles,1602461,2,good,4.8
+Computer Science,Andrew,,Miller,1724955,1,good,5.0
+English,Monica,,Miller,2270956,1,average,3.0
+Aerospace Engineering,Michael,,Miller,2310013,1,good,4.0
+Management,Stuart,,Milne,775885,6,good,4.0
+English,Leah,,Misemer,2290979,6,good,4.5
+Technology,Saby,,Mitra,1294776,0,zero,N/A
+Psychology,Scott,,Moffat,2561020,0,zero,N/A
+Industrial Engineering,Renato,,Monteiro,1574454,5,poor,2.2
+Modern Languages,Cecilia,,Montes-Alcala,1283154,7,good,4.9
+Biology,Joseph,,Montoya,520207,24,average,3.5
+Industrial Engineering,Benoit,,Montreuil,2165552,0,zero,N/A
+History,Nathan,,Moon,2054034,3,good,4.7
+Management,James,Robbie,Moon,2447424,3,good,5.0
+Music,Chris,,Moore,10630,9,good,4.9
+Mathematics,James,,Moore,1968885,1,poor,1.0
+Computer Science,Melody,,Moore,2360675,0,zero,N/A
+Electrical Engineering,Elliot,,Moore,1976606,5,good,4.2
+Economics,Juan,,Moreno-Cruz,2098961,0,zero,N/A
+Mathematics,Tom,,Morley,446492,54,poor,2.3
+Chemistry,James,,Morris,1311246,5,poor,1.8
+Psychology,Kristin,,Morrison,2119862,4,good,4.8
+Computer Science,Mark,,Moss,2352927,9,good,4.4
+Mathematics,Chenchen,,Mou,1921844,7,poor,1.7
+Physics,Martin,,Mourigal,2013890,6,good,5.0
+Civil & Environ Engineering,Rafi,,Muhanna,1271344,10,good,4.0
+Materials Engineering,Christopher,,Muhlstein,2051579,4,good,5.0
+Industrial Engineering,Debankur,,Mukherjee,2555032,3,good,5.0
+Electrical Engineering,Saibal,,Mukhopadhyay,1575051,3,good,3.7
+Accounting,Charles,,Mulford,1036753,2,good,5.0
+Civil Engineering,James,,Mulholland,1835505,4,average,2.8
+English,Darcy,,Mullen,2334097,17,poor,1.2
+English,Julia,,Munro,1816991,2,average,2.8
+English,Chelsea,,Murdock,2306792,9,good,5.0
+Physics,Eric,,Murray,1998895,6,good,3.6
+Science,Eric,,Murray,25613,43,average,3.4
+Computer Science,Aibek,,Musaev,2571456,1,poor,1.0
+Modern Languages,Natalia,,Myshkin,1875015,7,good,4.5
+Industrial Engineering,Mohammed,,Nabhan,2396356,3,good,4.3
+Materials Engineering,Jason,,Nadler,1816573,0,zero,N/A
+Electrical Engineering,Azad,,Naeemi,1682534,5,good,4.6
+Management,Dennis,,Nagao,1673176,6,average,2.9
+Economics,Usha,,Nair-Reichert,2367168,4,good,3.5
+Arabic,Ragheda,,Nassereddine,1482906,1,good,4.5
+Literature,Vinicius,,Navarro,1516760,2,good,5.0
+Computer Science,Shamkant,,Navathe,1679669,5,average,2.8
+Industrial Engineering,Dima,,Nazzal,2471788,1,poor,1.0
+English,Lauren,,Neefe,2391188,0,zero,N/A
+Mechanical Engineering,Paul,,Neitzel,1687075,4,good,4.8
+Mechanical Engineering,Richard,,Neu,817708,4,good,4.5
+Earth Science,Andrew,,Newman,1841325,9,poor,2.4
+Biomedical Engineering,Wendy,,Newstetter,1189516,5,good,3.5
+Psychology,Sunni,,Newton,1671875,5,good,3.6
+Biomedical Engineering,Maysam,,Nezafati,2249909,10,good,4.5
+Chemical Engineering,Nga Lee,,Ng,2217300,1,good,4.0
+Mathematics,Shuenn Siang,,Ng,2405115,30,average,3.4
+Engineering,Fawad,,Niazi,1663346,2,good,4.2
+Information Technology Management,Marius Florin,,Niculescu,1343516,9,good,4.7
+Biology,Shuyi,,Nie,2474122,3,poor,1.7
+Engineering,Jared,,Nisbett,2142577,1,good,5.0
+Mathematics,Shahaf,,Nitzan,2222596,12,good,3.5
+History,Gregory,,Nobles,608130,5,good,4.6
+Mathematics,Michael,,Northington,2172835,15,good,4.5
+Public Policy,Bryan,,Norton,1730622,1,poor,1.5
+English,Sarah,J.,O'Brien,2099787,1,good,4.0
+Aerospace Engineering,Joseph,,Oefelein,2363420,3,good,5.0
+Management,Alex,,Oettl,1417605,4,poor,2.4
+Korean,Lee,,Oh,2053684,7,good,5.0
+Industrial Engineering,Adaora,,Okwo,1791082,1,poor,1.0
+Economics,Matthew,,Oliver,1992599,25,good,4.2
+Computer Science,Ed,,Omiecinski,1913467,1,good,3.5
+Computer Science,Olufisayo,,Omojokun,1347181,23,good,3.9
+German,Annika,,Orich,2469028,2,good,5.0
+Mechanical Engineering,David,,Orloff,787227,6,average,3.2
+Computer Science,Alex,,Orso,2393218,0,zero,N/A
+English,Jennifer,,Orth-Veillon,1740336,5,good,4.8
+German,Angelika,,Oswalt,860520,13,good,4.5
+Physics,Adam,,Otte,1853380,5,good,4.1
+Management,Eric,,Overby,2447442,2,good,4.5
+Electrical Engineering,Henry,,Owen,1634239,2,good,5.0
+Chemistry,Adegboyega,K,Oyelere,2083218,1,good,3.5
+Architecture,Ayse,,Ozbil,1166591,2,good,4.2
+Public Policy,Joseph,Windsor,Ozmer,2120758,0,zero,N/A
+Biology,Annalise,,Paaby,2346105,2,good,4.0
+Aerospace Engineering,Raj,Kumar,Pal,2237560,1,poor,1.0
+Mathematics,Ronghua,,Pan,845679,23,average,3.0
+Computer Science,Santosh,,Pande,1667862,2,good,4.0
+Leadership Studies,Dori,,Pap,2484531,1,average,3.0
+Mechanical Engineering,John,,Papastavridis,1600262,10,poor,1.6
+Mathematics,Jonathan,,Paprocki,2349588,4,poor,2.0
+English,Matt,,Paproth,1224753,8,good,4.3
+Materials Engineering,Radhakrishnaiah,,Parachuru,2245010,3,good,4.7
+Chemical Engineering,Anant,,Paravastu,2182693,7,average,3.3
+Engineering,Chris,,Paredis,154352,9,average,3.0
+Materials Engineering,Jung,,Park,1964670,8,poor,2.2
+Architecture,James,,Park,2394061,0,zero,N/A
+Mathematics,JungHwan,,Park,2545431,1,good,4.0
+Building Construction,Ennis,,Parker,2044480,0,zero,N/A
+Physics,Colin,,Parker,2322438,28,average,2.8
+Biology,Samantha,,Parks,1575033,8,good,3.6
+English,Jennifer,,Parrott,1202244,6,good,4.2
+Business,Charles,,Parsons,134320,8,average,3.0
+Materials Engineering,Gokul,,Pathikonda,2447337,0,zero,N/A
+Earth Science,Carol,,Paty,1565723,3,good,5.0
+Health Science,James,Pantel,Paul,2287240,5,poor,2.2
+Engineering,Spyros,,Pavlostathis,290289,15,good,3.5
+Industrial Engineering,Kamran,,Paynabar,1759389,8,good,4.6
+Chemistry,Christine,,Payne,921640,14,average,2.5
+Psychology,Ann,,Pearman,2396617,0,zero,N/A
+Architecture,Frederick,,Pearsall,2121647,10,average,3.3
+Sociology,Willie,,Pearson,2352871,2,good,3.5
+English,Aaron,,Pease,1802338,1,poor,1.5
+Electrical Engineering,John,,Peatman,961504,3,good,3.9
+International Politics,Vince,,Pedicino,2350084,3,good,5.0
+Chemistry,Mary,,Peek,947318,6,good,3.7
+Mathematics,Liang,,Peng,394507,3,poor,2.2
+Computer Science,Richard,,Peng,2473257,0,zero,N/A
+Engineering,Kurt,,Pennell,148884,6,good,4.8
+Psychology,Bonnie,,Perdue,1492060,4,average,3.2
+English,Manuel,,Perez Tejada,1203766,4,good,3.5
+Industrial Engineering,Ross,Hilton,Permar,2034367,0,zero,N/A
+Chemistry,Joseph,,Perry,944955,10,average,2.7
+Political Science,Georgia,,Persons,1006263,8,poor,1.7
+Public Policy,Georgia,,Persons,2054677,0,zero,N/A
+Mathematics,Samantha,Nicole,Petti,2564100,0,zero,N/A
+Chemical Engineering,Sandra,,Pettit,2062952,2,good,5.0
+"Literature, Media, & Communication",Daniel,,Phelps,2549123,1,good,4.0
+Computer Science,Charles,E,Philips Jr,1793425,1,poor,1.0
+Computer Science,Charles,,Phillips,1723237,4,poor,2.4
+Computer Science,Charles Edward,,Phillips Jr,1794951,2,average,2.8
+Mechanical Engineering,Olivier,,Pierron,1386012,10,good,4.6
+German,Frank,,Pilipp,1342075,6,good,3.9
+Modern Languages,Frank,,Pilipp,2182108,1,poor,2.0
+Modern Languages,Melissa,,Pilkington,660000,15,good,4.8
+Biomedical Engineering,Manu,,Platt,1720513,6,average,3.3
+Industrial Engineering,Sebastian,,Pokutta,1899883,1,poor,1.0
+Public Policy,Michael,Charles,Polak,2556086,0,zero,N/A
+Chemistry,Pamela,,Pollet,1922514,28,good,4.3
+English,Ann,,Pollock,1590315,2,good,4.8
+Mathematics,Ionel,,Popescu,1806120,6,poor,2.3
+Technology,Ruth,,Poproski,2446628,4,poor,2.0
+Architecture,Rick,,Porter,1020548,0,zero,N/A
+Communication/Journalism,Seth,,Porter,2311487,1,good,5.0
+Computer Science,Colin,,Potts,162721,12,good,4.3
+Mathematics,Thomas,,Prag,2179748,8,average,2.6
+Aerospace Engineering,J.V.R.,,Prasad,2190756,1,good,5.0
+Architecture,Robin,,Prater,2455770,3,average,2.7
+Biomedical Engineering,Mark,,Prausnitz,2022719,1,poor,1.0
+Chemical Engineering,Mark,,Prausnitz,2323079,3,good,4.7
+Sociology,Kate,,Pride Brown,2224997,3,average,3.3
+Cognitive Science,Amy,,Pritchett,1346710,0,zero,N/A
+Computer Science,Milos,,Prvulovic,1984968,1,good,5.0
+Mathematics,Chris,,Pryby,1582382,3,poor,1.5
+Computer Science,Calton,,PU,1651696,2,good,4.8
+Mechanical Engineering,Raghuram,V.,Pucha,1888017,26,good,3.6
+Biology,Jerry,,Pullman,1412342,1,average,3.0
+Mechanical Engineering,Hang (Jerry),,Qi,2411377,2,good,5.0
+Materials Engineering,Dong,,Qin,2088020,9,good,4.1
+Electrical Engineering,Moinuddin,,Qureshi,1736067,4,good,5.0
+Mathematics,Joe,,Rabinoff,1847656,34,good,4.1
+Mathematics,Seth,,Radman,2057701,1,good,5.0
+Mathematics,Robert,,Rahm,1927459,3,poor,2.3
+Nuclear Engineering,Farzad,,Rahnema,1624295,0,zero,N/A
+Psychology,Dobromir,,Rahnev,2286178,2,good,4.0
+Biomedical Engineering,James,,Rains,2141195,0,zero,N/A
+Management,Koushyar,,Rajavi,2543808,0,zero,N/A
+Aerospace Engineering,Tanmay,,Rajpurohit,2340664,1,good,5.0
+Mathematics,Peter,,Ralli,2100031,4,average,2.9
+Electrical Engineering,Stephen,,Ralph,2336125,0,zero,N/A
+Computer Science,Umakishore,,Ramachandran,1206421,6,good,4.7
+Management,Karthik,,Ramachandran,2564560,0,zero,N/A
+Economics,Juan,Rubio,Ramirez,2355287,1,good,5.0
+Materials Engineering,Rampi,,Ramprasad,2536925,0,zero,N/A
+Computer Science,Dana,,Randall,1579140,4,good,4.3
+History,Sherie,,Randolph,2490413,2,good,4.0
+Computer Science,Harish,,Ravichandar,2551055,0,zero,N/A
+Electrical Engineering,Arijit,,Raychowdhury,1815573,9,good,4.7
+Materials Engineering,Jud,,Ready,619714,13,average,3.2
+Computer Science,Brad,,Reaves,1913465,1,good,5.0
+Political Science,Christopher,,Reeves,1798623,0,zero,N/A
+Chemical Engineering,Elsa,,Reichmanis,2240278,2,good,3.5
+Chemistry,Cecili,,Reid,1489361,0,zero,N/A
+Earth Science,Chris,,Reinhard,2050496,20,good,4.8
+Management,Olga,,Remick,2360573,6,good,3.5
+English,Eric,,Rettberg,1934024,4,good,4.5
+English,Patrick,,Reynolds,1068292,0,zero,N/A
+Chemistry,John,R,Reynolds,2080450,9,average,2.7
+Public Policy,Jason,,Rich,2443205,0,zero,N/A
+Political Science,Jason,,Rich,2363728,13,good,4.3
+Literature,Paulette,,Richards,1885154,1,poor,1.5
+Computer Science,Mark,,Riedl,2199464,7,average,3.4
+Physics,Elisa,,Riedo,1523367,2,poor,1.5
+Economics,Christine,,Ries,1049417,21,poor,1.9
+Mathematics,Philippe,,Rigollet,1042549,0,zero,N/A
+Engineering,George,,Riley,26654,10,good,4.7
+Aerospace Engineering,Julian,,Rimoli,1631004,8,good,4.1
+Architecture,Michelle,,Rinehart,2510075,3,good,4.3
+Spanish,Laura,Star,Rios,2178734,1,good,4.0
+Biology,Lavanya,,Rishishwar,2521762,0,zero,N/A
+English,Brad,,Rittenhouse,2464985,2,average,3.0
+Linguistics,Christopher,,Ritter,1783896,13,good,4.3
+Education,Yelena,,Rivera-Vale,2391187,1,poor,1.0
+Civil Engineering,Glenn,,Rix,1525639,3,good,4.5
+Electrical Engineering,Allen,,Robinson,1696364,3,average,2.5
+Biomedical Engineering,Francisco,,Robles,2454026,2,poor,1.0
+Physics,David,Zebidiah,Rocklin,2365899,10,average,2.9
+Spanish,Juan Carlos,,Rodriguez,1490452,2,good,4.5
+Management,Omar,,Rodriguez,2051328,2,good,4.5
+Public Policy,Juan,,Rogers,2033464,1,average,2.5
+English,Andrea,,Rogers,2276518,1,good,4.0
+Computer Science,Kantwon,,Rogers,2184295,83,good,4.9
+Electrical Engineering,Justin,,Romberg,1811182,4,good,3.9
+Computer Science,Mahdi,,Roozbahani,2464859,2,average,2.5
+Building Construction,Kathy,,Roper,1668586,2,average,3.2
+English,Peter,,Rorabaugh,1555974,1,average,2.5
+Health Science,Michele Lee,,Rosbruck,2394368,0,zero,N/A
+Health Science,Michele,L,Rosbruck,2099778,23,good,3.7
+English,McKenna,,Rose,2291121,15,good,5.0
+Public Policy,Robert,,Rosenberger,1350661,10,good,4.8
+Civil Engineering,Lisa,,Rosenstein,2367337,0,zero,N/A
+Biology,Frank,,Rosenzweig,2434011,0,zero,N/A
+Biology,Raphael,,Rosenzweig,2474784,0,zero,N/A
+Biomedical Engineering,Kyla,Turpin,Ross,2276289,1,good,5.0
+History,Sue,,Rosser,1282146,0,zero,N/A
+Computer Science,Jaroslaw,,Rossignac,1174763,5,good,3.8
+Health Science,Linda,,Rosskopf,435466,17,average,3.4
+Public Policy,Brenda,,Rowe,1519323,5,average,3.0
+English,Michael,,Rowley,1480864,0,zero,N/A
+International Politics,Lawrence,,Rubin,2434817,2,good,5.0
+Management,Arnold,,Rubinoff,1633943,72,good,4.7
+Management,Tatiana,,Rudchenko,2094611,14,good,3.7
+Architecture,Charles,,Rudolph,2565017,1,good,4.0
+Architecture,Andrew,,Ruff,1742868,1,good,4.5
+Engineering,Stephen,,Ruffin,555607,10,average,3.3
+Accounting,Katarzyna,,Rupar,2271496,1,good,5.0
+Aerospace Engineering,Ryan,,Russell,1237925,3,average,2.7
+Chemistry,Cianán,,Russell,1484283,5,good,4.7
+Materials Engineering,Paul,,Russo,2409871,4,average,2.8
+Aerospace Studies,Massimo,,Ruzzene,705308,3,good,3.8
+Engineering,Erica,,Ryherd,1655758,2,good,4.5
+Mechanical Engineering,Karim,,Sabra,1653827,4,good,4.2
+Mechanical Engineering,Nader,,Sadegh,1595087,8,good,3.6
+Electrical Engineering,Usman,,Saeed,1453562,1,good,4.0
+Electrical Engineering,Maryam,,Saeedifard,2010789,1,poor,2.0
+Mechanical Engineering,Sourabh,,Saha,2524855,0,zero,N/A
+Mechanical Engineering,Richard,,Salant,1279804,2,poor,1.8
+Mechanical Engineering,Christopher,J.,Saldana,2373663,2,good,4.5
+Aerospace Engineering,Joseph,,Saleh,1710478,11,good,4.8
+International Politics,Michael,,Salomone,1997629,5,good,5.0
+Electrical Engineering,Brendan,,Saltaformaggio,2356568,2,good,4.5
+English,Andrew,,Salyer,2516121,0,zero,N/A
+English,Joseph,Andrew,Salyer,2526043,3,good,5.0
+Linguistics,Brajesh,,Samarth,2543050,1,good,5.0
+Chemical Engineering,Athanassios,,Sambanis,1657630,1,good,4.5
+Mathematics,Donald,Charles,Sampson,2052554,9,poor,2.3
+Mechanical Engineering,David,,Sanborn,1277344,1,average,3.0
+Engineering,Tom,,Sanders,795264,11,average,2.5
+Materials Engineering,Kenneth,,Sandhage,1849993,2,good,3.5
+Architecture,Jon,,Sanford,853965,1,poor,1.0
+Engineering,Lakshmi,,Sankar,240651,7,good,4.4
+Engineering,Carlos,,Santamarina,143611,8,good,3.9
+Biomedical Engineering,Philip,J,Santangelo,1847985,0,zero,N/A
+Literature,Aaron,,Santesso,1530464,18,good,4.6
+Electrical Engineering,Ali,Fatih,Sarioglu,2217717,4,good,3.7
+"Literature, Media, & Communication",Kathleen,,Schaag,2473244,1,good,4.0
+Physics,Michael,,Schatz,266587,26,average,3.5
+English,Sarah,,Schiff,1676135,1,good,4.5
+Electrical Engineering,David,,Schimmel,1443245,10,average,2.8
+International Politics,Jon,,Schmid,2306403,2,good,4.5
+Environmental Engineering,Britney,,Schmidt,2129521,4,poor,2.4
+History,Jonathan,,Schneer,562215,5,good,4.8
+English,Lisa,,Schneider,978376,2,good,5.0
+Accounting,Arnold,,Schneider,434956,15,average,3.1
+Computer Science,Sarah,,Schoemann,2075582,1,average,3.0
+Mechanical Engineering,Andrew,,Schrader,2418773,0,zero,N/A
+Psychology,Eric,,Schumacher,813493,6,good,4.1
+Chemistry,Kimberly,,Schurmeier,1927849,61,good,4.2
+Chemistry,Gary,,Schuster,1628523,13,average,3.5
+Psychology,Hillary,,Schwarb,1677837,2,good,5.0
+Electrical Engineering,Waymond,,Scott,1432580,0,zero,N/A
+Mathematics,Shane,,Scott,2011048,12,average,3.5
+Civil Engineering,David,,Scott,2407428,2,good,4.5
+English,Aleksander,,Sedzielarz,2525924,2,good,5.0
+English,Rachel,,Seiler-Smith,2405224,11,good,3.5
+Aerospace Engineering,Jerry,,Seitzman,1542959,12,good,4.5
+English & Liberal Studies,Carol,,Senf,2496260,1,average,3.0
+French,Sonia,,Serafin,2382431,2,good,5.0
+Industrial Engineering,Nicoleta,,Serban,1817205,7,average,2.9
+Mathematics,Larissa,,Serdukova,2354791,13,good,4.1
+English,Melissa,Sue,Sexton,2122396,9,good,4.8
+International Politics,Rana,,Shabb,2290383,0,zero,N/A
+Organizational Behavior,David,,Shallenberger,1349299,1,good,5.0
+Mathematics,Chunhua,,Shan,1881957,3,good,5.0
+Industrial Engineering,Alexander,,Shapiro,1875593,2,average,3.0
+Computer Science,Benjamin,,Shapiro,2411376,2,average,3.0
+Management,Andriy,,Shapoval,2564034,0,zero,N/A
+Statistics,Harry,,Sharp,1616434,2,good,5.0
+Industrial Engineering,Gunter,,Sharp,2077142,4,poor,1.5
+Biology,Tonya,,Shearer,1461547,1,good,4.0
+Management,Dan,,Sheehan,1888925,1,good,4.5
+English,Rebekah,,Sheldon,1543119,2,poor,1.8
+Chemistry,May,,Sheldon W.,1580344,1,good,5.0
+"Literature, Media, & Communication",Jonathan,,Shelley,2417613,2,average,3.0
+Economics,Olga,,Shemyakina,1586896,16,average,2.6
+Electrical Engineering,Shyh-Chiang,,Shen,2395683,1,good,5.0
+Engineering,Xianda,,Shen,2509750,1,good,4.0
+Mathematics,Ronald,W,Shenk,2332202,2,poor,1.0
+Chemistry,Carrie,,Shepler,1213939,85,good,4.8
+Chemistry,David,C,Sherrill,2096423,4,good,4.8
+English,Malavika,,Shetty,1469440,2,average,3.2
+Mechanical Engineering,Chengzhi,,Shi,2463703,1,poor,1.0
+History,Allison,,Shimko,2523084,1,good,5.0
+Mathematics,Hyunshik,,Shin,1870159,4,good,4.5
+Political Science,Geiguen,,Shin,2567204,1,poor,1.0
+History,Alison,,Shinzo,2525988,0,zero,N/A
+Physics,Deirdre,,Shoemaker,1422952,11,good,3.9
+Materials Engineering,Meisha,,Shofner,1936072,4,good,4.0
+Spanish,David,,Shook,1592740,4,good,4.5
+Mathematics,Martin,,Short,2045884,18,good,4.0
+Management,Pian,,Shu,2415407,0,zero,N/A
+Mathematics,Avram,,Sidi,891430,3,poor,1.5
+Chemistry,Carlos,,Silva,2291850,13,poor,2.4
+Management,Reemon,,Silverman,2411609,2,good,4.5
+Management,Peter,,Simasek,2350523,1,good,5.0
+Computer Science,Christopher,L,Simpkins,1842796,63,good,3.7
+Materials Engineering,Preet,,Singh,787047,4,good,4.0
+Mechanical Engineering,William,,Singhose,1789685,3,good,3.5
+Psychology,Jenny,,Singleton,2292667,4,good,4.3
+Mathematics,Rainer,,Sinn,2043114,9,poor,1.7
+Nuclear Engineering,Glenn,,Sjoden,1624307,0,zero,N/A
+Education,Esther,,Skelley,1228913,9,good,3.9
+Management,Sandra,,Slaughter,1197760,0,zero,N/A
+English,Molly,,Slavin,2396594,5,good,4.6
+English,Kendra,,Slayton,2532605,4,good,4.8
+Public Policy,Chad,Frederick,Slieper,2507653,0,zero,N/A
+Mathematics,Craig,,Sloane,1517368,2,good,4.2
+Computer Science,David,,Smith,162807,109,average,2.6
+Engineering,Marilyn,,Smith,488401,9,average,3.4
+English  Liberal Studies,Jennifer,Leigh,Smith,1994401,0,zero,N/A
+Literature,Julia,,Smith,2129731,1,poor,2.0
+Mathematics,Heather,,Smith,2175530,6,good,4.3
+Physics,Mark,,Smith,2253585,0,zero,N/A
+Electrical Engineering,William,Whit,Smith,2376680,1,poor,1.0
+Management,Marc,,Smith,2423192,0,zero,N/A
+History,John,M.,Smith,1915429,18,good,4.7
+Mechanical Engineering,David,Alpha,Smith,2440507,5,good,4.6
+Psychology,Anderson,,Smith,2283503,9,average,2.5
+Management,Michael,,Smith,2229059,15,poor,2.1
+Mechanical Engineering,Marc K.,,Smith,1716386,21,average,3.5
+Biology,Terry,,Snell,68222,5,good,4.1
+Health Science,Theresa,,Snow,26048,60,average,3.0
+Management,Eunhee,,Sohn,2350856,1,poor,2.0
+Statistics,Joel,,Sokol,2385181,1,good,5.0
+Biomedical Engineering,Hannah,,Song,2239372,1,average,3.0
+Computer Science,Le,,Song,2198508,2,poor,1.5
+Economics,Carine,,Sonntag,1491130,0,zero,N/A
+Chemistry,Jake,,Soper,946164,44,good,3.5
+Computer Science,Caleb,,Southern,2469725,11,good,3.6
+Mathematics,Andre,,Souza,2190168,10,average,2.5
+Physics,Jim,,Sowell,2085581,3,average,2.5
+Physics,James,,Sowell,2192760,9,good,4.7
+English,Britta,,Spann,1722270,7,good,4.8
+Mathematics,Scott,,Spencer,2164991,9,good,4.4
+Biology,Chrissy,,Spencer,2138150,7,good,4.0
+Materials Engineering,Robert,,Speyer,760456,11,good,3.8
+Russian,Rovoski,,Spicker,2180740,0,zero,N/A
+Psychology,Daniel,,Spieler,482664,19,average,3.0
+Physics,Simon,,Sponberg,1973677,7,good,4.6
+Industrial Design,Stephen,,Sprigle,2119046,1,good,5.0
+Architecture,Lars,,Spuybroek,2334608,0,zero,N/A
+Mathematics,Padmavathi,,Srinivasan,2180358,15,average,2.7
+Materials Engineering,Mohan,,Srinivasarao,2058085,8,poor,2.2
+Science,Jim,,St. John,487211,20,average,2.5
+Nuclear Engineering,Weston,,Stacey,1624303,0,zero,N/A
+Computer Science,Cedric,,Stallworth,906485,21,good,4.3
+Psychology,Christopher,,Stanzione,2049917,36,good,4.3
+Computer Science,Thad,,Starner,10478,5,good,4.1
+Computer Science,John,,Stasko,135530,36,good,4.8
+Mathematics,Garoufalidis,,Stavros,787803,10,poor,2.2
+Mathematics,Enid,,Steinbart,10919,25,average,3.4
+Aerospace Engineering,Adam,Michael,Steinberg,2529353,3,good,4.0
+LiteratureMedia  Com,Anna,,Stenport,2249853,1,good,5.0
+Chemistry,Amanda,,Stephens,2030363,6,average,3.1
+Leadership Studies,Stephen,,Steppe,2364617,0,zero,N/A
+English,Melissa,,Stevenson,767462,4,good,4.5
+Mechanical Engineering,Michael,,Stewart,614613,11,good,4.5
+Civil Engineering,Lauren,,Stewart,2470184,2,good,5.0
+Health Science,Christie,N.,Stewart,2428145,6,good,4.2
+Civil Engineering,Marc,,Stieglitz,2469743,1,poor,1.0
+Urban Planning,Bruce,,Stiftel,1313064,0,zero,N/A
+Computer Science,Mike,,Stilman,1427086,1,good,3.5
+Materials Engineering,Natalie,,Stingelin,2252581,6,poor,1.8
+English,Clint,,Stivers,1841373,21,good,4.8
+English,Ellen,,Stockstill,2096843,2,good,4.5
+Chemistry,Amanda,,Stockton,2257440,1,good,5.0
+Materials Engineering,David,,Stollberg,1237923,3,good,3.8
+English,Jesse,,Stommel,1488576,4,good,5.0
+Mechanical Engineering,Thomas,,Stone,1888025,3,good,3.5
+History,Timothy,,Stoneman,1898022,10,poor,2.5
+Biology,Francesca,,Storici,2116024,0,zero,N/A
+Management,Joycelyn,L,Streator,2179846,4,poor,2.0
+Mechanical Engineering,Jeffrey,,Streator,1365131,21,average,3.4
+Biology,J. Todd,,Streelman,570422,1,good,4.0
+Mathematics,Balazs,,Strenner,2163344,17,good,4.3
+Industrial Engineering,Dawn,,Strickland,2367040,1,good,5.0
+Electrical Engineering,Gordon,,Stuber,1331023,3,good,4.2
+Civil Engineering,Terry,,Sturm,2141589,1,average,3.0
+English,Nicholas,,Sturm,2297121,21,good,4.5
+Chemical Engineering,Mark,P.,Styczynski,1916869,8,good,4.7
+Mathematics,Sneha,,Subramanian,2054163,14,good,4.8
+Mathematics,Jack,,Suen,1467666,0,zero,N/A
+Mechanical Engineering,Todd,,Sulchek,1262906,3,good,3.7
+Computer Science,Jay,,Summet,1195325,49,good,4.1
+Industrial Engineering,Xu Andy,,Sun,2032694,2,good,4.5
+Aerospace Engineering,Wenting,,Sun,2201695,1,good,5.0
+Computer Science,Jimeng,,Sun,2383449,0,zero,N/A
+Electrical Engineering,Suresh,,Sundaram,2480791,2,average,2.5
+Engineering,Phanish,,Suryanarayana,2243195,2,average,3.0
+Mechanical Engineering,Enrique,,Susemihl,2081570,1,average,3.0
+Electrical Engineering,Madhavan,,Swaminathan,1233534,5,good,4.5
+Computer Science,Monica,,Sweat,145977,60,good,3.8
+Engineering,Brian,Paul,Swenson,2405980,1,poor,1.0
+Management,Brian,,Swider,2093074,3,good,4.2
+Mathematics,Andrzej,,Swiech,287968,11,average,3.0
+French,Samba,,Sy,2163471,8,good,4.5
+Nuclear Engineering,Gregory,,Szalkowski,2396169,2,good,5.0
+Physics,Ignacio,,Taboada,1460303,11,average,2.5
+Earth Science,David,,Tan,821936,1,good,4.5
+Materials Engineering,Rina,,Tannenbaum,526778,5,average,2.6
+English,Katherine,V,Tanski,1831220,1,poor,1.5
+Mathematics,Molei,,Tao,1992496,7,good,4.8
+Mathematics,Sergio,Mayorga,Tatarin,2275352,1,poor,1.0
+Mathematics,Reuben,,Tate,2507397,9,good,3.8
+Political Science,Mark Zachary,,Taylor,964513,27,good,4.3
+English,Patricia,,Taylor,1874010,18,average,2.8
+Electrical Engineering,David,,Taylor,2357137,2,average,3.0
+Civil Engineering,John,,Taylor,2533471,0,zero,N/A
+Economics,Laura,,Taylor,2555659,1,good,4.0
+English,John,P,Taylor,2529122,3,good,4.0
+Health Science,Ann,,Teh,2428340,5,good,4.0
+Mechanical Engineering,Coskun,,Tekes,2268134,0,zero,N/A
+Mechanical Engineering,Cassandra,,Telenko,2038597,1,average,3.0
+Electrical Engineering,Manos,,Tentzeris,1104108,2,good,4.5
+Management,Necati,,Tereyagoglu,1990959,1,good,4.5
+Mathematics,Prasad,,Tetali,2199469,2,good,5.0
+Aerospace Engineering,Evangelos,,Theodorou,2324779,3,average,3.0
+Engineering,Yonathan,,Thio,1608511,6,good,4.0
+Mathematics,Robin,,Thomas,406918,5,good,3.6
+Biomedical Engineering,Susan,,Thomas,1789681,3,good,3.8
+Psychology,Rick,,Thomas,2292660,8,good,4.3
+English,George,Porter,Thomas,2445756,4,average,2.8
+Management,Robert,,Thomas,1887889,1,good,5.0
+Computer Science,Andrea,,Thomaz,1751674,2,good,3.8
+Psychology,Vanessa,,Thompson,1393707,1,good,5.0
+Civil Engineering,Iris,,Tien,2470185,1,good,5.0
+English,Julia,,Tigner,2526918,6,poor,1.8
+Mathematics,Konstantin,,Tikhomirov,2447427,0,zero,N/A
+Biomedical Engineering,Lena,,Ting,1798880,2,good,4.8
+Economics,Derek,,Tittle,1283995,8,good,4.2
+Management,Bill,,Todd,1790132,5,good,4.7
+Mathematics,Russell,,Todres,1050643,0,zero,N/A
+Psychology,Yonca,,Toker,1271760,4,good,3.5
+Industrial Engineering,Gamze,,Tokol-Goldsman,2329830,0,zero,N/A
+Management,Beril,,Toktay,1109662,2,poor,1.5
+Chemistry,Laren,,Tolbert,1687160,2,average,2.8
+History,John,,Tone,450582,12,good,4.5
+Economics,Tingting,,Tong,2023212,4,good,4.2
+Mechanical Engineering,David,E.,Torello,2295294,3,good,5.0
+Industrial Engineering,Alejandro,,Toriello,1329140,2,average,2.8
+Biology,Matthew,,Torres,2119850,6,good,4.1
+Mathematics,Hagop,,Tossounian,1800178,5,good,5.0
+Industrial Engineering,Craig,A.,Tovey,1985824,13,poor,2.0
+Mathematics,Anh,,Tran,1450320,1,poor,1.0
+Physics,Rick,,Trebino,1744442,3,good,3.9
+Industrial Engineering,Moe,,Trebuchon,2171214,2,good,5.0
+Architecture,Dawn,,Trimble,1274084,3,poor,2.3
+American Studies,Nirmal,,Trivedi,1340447,8,good,3.8
+Mathematics,William,,Trotter,749904,10,good,4.3
+Computer Science,Khai,,Truong,656422,2,good,4.5
+English,Wendy,,Truran,2533702,2,good,4.5
+Civil Engineering,Yi-Chang,,Tsai,2527478,0,zero,N/A
+English,Tiffany,,Tsao,1348368,6,good,4.6
+Aerospace Engineering,Panagiotis,,Tsiotras,2310285,1,good,5.0
+Biomedical Engineering,Denis,,Tsygankov,2330363,3,poor,2.0
+Industrial Engineering,Rui,,Tuo,2329784,1,poor,2.0
+Computer Science,Greg,,Turk,2455279,2,good,4.0
+Management,James,,Turner,1671987,9,good,3.7
+Management,Deborah,,Turner,775874,28,good,4.7
+Spanish,Delia,,Tyler,1489362,15,good,3.5
+Chemistry,Cameron,,Tyson,1154405,5,good,4.7
+Mechanical Engineering,Jun,,Ueda,1530300,5,good,3.7
+German,Jan,,Uelzmann,1632446,5,good,4.9
+Management,Francis,,Ulgado,2004925,5,average,2.5
+Mathematics,Douglas,,Ulmer,2142249,3,good,4.3
+Music,Jerry,,Ulrich,299999,8,good,4.8
+Engineering,Charles,,Ume,211778,5,poor,1.4
+Electrical Engineering,Muhammad,,Umer,1314271,0,zero,N/A
+Economics,Aselia,,Urmanbetova,2315810,15,good,4.1
+History,Steven,,Usselman,514630,2,good,3.8
+Nuclear Engineering,Tristan,,Utschig,1624296,2,good,4.5
+Science,Ahmet,,Uzer,117650,16,good,4.5
+Mathematics,Ranjini,,Vaidyanathan,1683919,5,average,2.8
+Electrical Engineering,Christopher,,Valenta,2471982,3,good,4.0
+Engineering,Christine,,Valle,990547,19,good,4.8
+ROTC,James,,Vangel,2290845,5,good,4.6
+Biology,Fredrik,,Vannberg,1953574,1,poor,1.0
+Marketing,Peter,,Vantine,153447,15,average,3.5
+Mechanical Engineering,Michael,,Varenberg,2335243,2,good,4.5
+Industrial Engineering,John,Vande,Vate,2471787,0,zero,N/A
+Chemistry,Lisa,,Vaughan,1437845,5,poor,1.5
+Computer Science,Vijay,,Vazirani,388866,6,good,4.8
+Electrical Engineering,Patricio,,Vela,1445248,6,poor,2.0
+Computer Science,Santosh,,Vempala,2512113,1,good,5.0
+Industrial Engineering,Roshan,Joseph,Vengazhiyil,1815227,5,good,3.8
+Accounting,Shankar,,Venkataraman,2362549,2,good,4.5
+Sociology,Matthew,,Ventresca,2225249,2,good,5.0
+Sociology,German,,Vergara,2500361,0,zero,N/A
+Psychology,Paul,,Verhaeghen,1796790,10,good,4.8
+Electrical Engineering,Erik,,Verriest,1082134,13,average,2.7
+Mathematics,Mikel,,Viana,2179604,3,good,4.0
+Industrial Engineering,Branislav,,Vidakovic,2225271,3,poor,1.0
+History,Dana,Juliana,Viezure,2554700,2,good,4.0
+Computer Science,Eric,,Vigoda,2348000,3,good,5.0
+Management,Adam,,Vitalis,1977433,6,good,3.5
+Aerospace Engineering,Mitchell,,Walker,1840598,5,good,3.8
+Computer Science,Kristi,,Walker,2473248,0,zero,N/A
+Industrial Engineering,Alisha,,Waller,1608180,29,poor,2.5
+Public Policy,John,P,Walsh,2033463,1,good,3.5
+Mathematics,Yang,,Wang,187595,9,good,4.2
+Engineering,Youjiang,,Wang,1130744,8,poor,1.3
+Nuclear Engineering,Ck Chris,,Wang,1624306,5,average,3.1
+Mathematics,Xiaolin,,Wang,1873777,1,average,3.0
+Mathematics,Chunmei,,Wang,1916094,2,good,4.8
+Mathematics,Chi-Jen,,Wang,1971919,4,poor,2.4
+Mathematics,Xuan,,Wang,2053830,5,good,4.8
+Mechanical Engineering,Youjiang,,Wang,2054617,3,poor,1.5
+Electrical Engineering,Hua,,Wang,2257542,1,poor,2.0
+Chinese,Wei,,Wang,2277338,1,good,4.0
+Materials Engineering,Youjiang,,Wang,2303574,3,poor,1.3
+"Literature, Media, & Communication",Qi,,Wang,2319834,1,good,5.0
+Civil Engineering,Yang,,Wang,2442638,0,zero,N/A
+Computer Science,Di,,Wang,2473251,1,poor,2.0
+Engineering,Jason,,Wang,2393770,6,good,4.8
+International Politics,Fei-Ling,,Wang,2309972,3,good,4.0
+Electrical Engineering,Yorai,,Wardi,2506700,0,zero,N/A
+Mathematics,Lutz,,Warnke,2512046,0,zero,N/A
+Computer Science,Bob,,Waters,1360383,26,good,4.0
+Computer Science,Susan,,Watson-Phillips,2459415,45,poor,1.4
+Computer Science,Suzy,,Watson-Phillips,2460426,19,poor,1.8
+Civil Engineering,Donald,R,Webster,2053113,2,good,4.8
+English,Christopher,,Weedman,1618239,4,good,5.0
+Electrical Engineering,Taimour,,Wehbe,2276294,0,zero,N/A
+Biology,Emily,,Weigel,2204457,16,good,4.4
+"Literature, Media, & Communication",Anna,,Weisling,2558177,1,good,4.0
+Mathematics,Howie,,Weiss,1508535,4,average,3.0
+Electrical Engineering,Mary Ann,,Weitnauer,1909460,1,poor,2.0
+Public Policy,Jennifer,,Weizenecker,2425768,2,good,5.0
+Literature,Candice,,Welhausen,1516756,1,good,4.0
+Health Science,Karen,B.,Wells,2428144,0,zero,N/A
+Electrical Engineering,Joshua,,Wells,2445269,1,poor,2.0
+English,Julie,McCormick,Weng,2296649,1,good,4.0
+Mathematics,Michael,,Westdickenberg,1323863,9,poor,1.4
+Mathematics,Maria,,Westdickenberg,1329016,9,poor,2.0
+Aerospace Engineering,Neil,R,Weston,1916147,3,average,3.0
+Engineering,Jane,,Weyant,1684824,1,average,3.0
+English,Robin,,Wharton,1318917,9,good,3.8
+Biology,Lewis,,Wheaton,2324000,4,good,4.8
+Physics,Robert,,Whetten,220073,9,poor,1.7
+English,Roger,,Whiston,1351959,6,average,3.3
+Civil Engineering,Donald,,White,1856946,4,good,3.5
+Public Policy,Jenna,Morgan,White,2434351,1,good,5.0
+Mechanical Engineering,Wayne,,Whiteman,1667825,11,good,4.4
+International Politics,Rachel,,Whitlark,2249897,1,good,5.0
+Computer Science,Jennifer,,Whitlow,2473252,0,zero,N/A
+Mathematics,Brett,,Wick,1416952,2,good,5.0
+Mathematics,Kirsten,,Wickelgren,1992833,0,zero,N/A
+French,Michael,,Wiedorn,2099709,5,good,4.9
+Physics,Kurt,,Wiesenfeld,1248984,8,good,3.8
+Education,James,,Wilburn,2293081,0,zero,N/A
+Aerospace Engineering,Alan,,Wilhite,1411446,1,poor,2.0
+Chemistry,Jeremy,,Wilhoyte,1197545,1,average,3.0
+Chemistry,Angus,,Wilkinson,437336,20,good,3.7
+Chemistry,Loren,,Williams,794684,12,average,3.4
+Industrial Engineering,Damon,P.,Williams,2275353,12,average,3.3
+Architecture,Danielle,,Willkens,2516803,0,zero,N/A
+Electrical Engineering,Linda,,Wills,1741237,7,good,4.7
+English,Casey,Alane,Wilson,2289955,3,good,4.7
+CommunicationJournalism,Joycelyn,,Wilson,2300814,1,good,4.0
+Chemical Engineering,Corey,,Wilson,2421667,2,average,2.5
+Industrial Design,Wendell,,Wilson,2334387,3,average,3.0
+Earth Science,Samantha,,Wilson,2481691,6,good,5.0
+English,Tobias,,Wilson-Bates,2141092,7,average,2.7
+Mathematics,Rebecca,,Winarski,1652938,3,good,4.3
+History,William,,Winders,915955,19,good,4.3
+History,Bill,,Winders,2530582,0,zero,N/A
+Chemistry,Paul,,Wine,865853,11,average,2.5
+Industrial Design,Claudia,,Winegarden,1505542,1,poor,1.0
+Mechanical Engineering,Kathryn,,Wingate,1921769,4,good,5.0
+Physics,John,,Wise,1676854,4,good,4.5
+Electrical Engineering,Marilyn,,Wolf,1489204,4,average,2.6
+Mathematics,Lilian,,Wong,1670659,1,good,5.0
+Physics,John,,Wood,431496,4,good,4.6
+English,Andrea,,Wood,1328533,11,poor,1.9
+English,Robert,,Wood,2122625,3,average,3.2
+Mechanical Engineering,Levi,,Wood,2099422,14,good,4.4
+International Politics,Brian,,Woodall,2526226,3,good,4.7
+Science,James,,Wray,2404948,4,good,5.0
+Earth Science,James,,Wray,2432356,5,average,3.4
+Industrial Engineering,Jeff,,WU,1543139,0,zero,N/A
+Statistics,Hongwei,,WU,1730623,1,poor,1.5
+Chemistry,Ronghu,,Wu,2098944,6,good,3.8
+Leadership Studies,Wesley,,Wynens,2053848,5,good,3.5
+Chemistry,Younan,,Xia,1758433,9,average,2.7
+Mechanical Engineering,Shuman,,Xia,2309042,5,good,4.8
+Mathematics,YE,,Xiaojing,1739138,1,poor,1.0
+Mathematics,Qiqin,,Xie,2257038,6,good,3.7
+Industrial Engineering,Yao,,Xie,2367053,6,good,4.5
+Mathematics,LU,,XU,1749127,1,poor,1.5
+Accounting,Hui,,XU,1898008,2,good,3.5
+Industrial Engineering,Huan,,Xu,2328874,3,average,2.7
+Management,Lizhen,,XU,1790755,6,good,4.7
+Computer Science,Jun,,Xu,2354670,2,good,4.5
+Electrical Engineering,Sudhakar,,Yalamanchili,2356565,2,average,2.5
+Japanese,Kimiaki,,Yamaguchi,1571552,8,good,4.1
+Mathematics,Yukai,,Yan,2562902,1,average,3.0
+Mathematics,Xukai,,Yan,2357506,9,average,3.1
+Management,Di,,Yang,2100577,0,zero,N/A
+Electrical Engineering,Benjamin,,Yang,2147325,6,good,5.0
+Mathematics,Jiaqi,,Yang,2453616,1,poor,2.0
+Computer Science,Diyi,,Yang,2571096,0,zero,N/A
+Mathematics,Yian,,Yao,2394470,3,good,3.7
+Mathematics,Yao,,Yao,2323073,11,good,4.6
+Materials Engineering,Donggang,,Yao,2563880,1,good,5.0
+Mathematics,Maryam,,Yashtini,2033387,10,average,3.3
+English & Liberal Studies,Lisa,,Yaszek,866732,4,good,4.9
+Civil Engineering,Arash,,Yavari,2237913,9,average,3.1
+Mechanical Engineering,Shannon,,Yee,1915562,7,average,3.4
+Biology,Jeannette,,Yen,2354138,3,poor,2.3
+Mechanical Engineering,Woonhong,,Yeo,2566961,0,zero,N/A
+Aerospace Engineering,P.K.,,Yeung,1346711,5,good,4.0
+Electrical Engineering,Tony,,Yezzi,1445249,2,good,3.8
+Mathematics,Yingfei,,Yi,200404,2,poor,2.2
+Biology,Soojin,,YI,1262542,2,good,3.5
+Civil Engineering,Sotira,,Yiacoumi,1463488,3,good,4.8
+Computer Science,Sungshik,,Yim,1789682,1,poor,2.0
+Mechanical Engineering,Minami,,Yoda,608139,14,poor,1.9
+Electrical Engineering,Doug,,Yoder,1133216,11,average,3.5
+Electrical Engineering,Paul,Douglas,Yoder,2034115,1,good,3.5
+Biomedical Engineering,Ajit,,Yoganathan,1711899,0,zero,N/A
+Mathematics,Turkay,,Yolcu,845846,5,good,4.1
+Mathematics,Iris,,Yoon,2419829,2,good,5.0
+Industrial Engineering,Donovan,,Young,656863,0,zero,N/A
+Mathematics,Stephen,,Young,1299218,0,zero,N/A
+Accounting,Donnie,,Young,1985030,2,good,4.5
+English,Caroline,,Young,2053667,11,average,3.5
+Mechanical Engineering,Aaron,,Young,2469324,0,zero,N/A
+Industrial Design,Andrew,,Young,2394381,1,poor,1.0
+"Literature, Media, & Communication",David,,Young,2472909,3,good,5.0
+English,Ruth,,Yow,2055436,4,good,5.0
+English,Ruthie,,Yow,2123875,0,zero,N/A
+Mathematics,Xingxing,,Yu,880547,5,good,4.0
+Mathematics,Josephine,,Yu,1986798,11,average,3.5
+Aerospace Engineering,Min-Feng,,Yu,2332759,5,good,3.6
+Aerospace Engineering,Zhangxian,,Yuan,2519893,0,zero,N/A
+Physics,Peter,,Yunker,2218288,12,good,4.6
+Materials Engineering,Gleb,,Yushin,1606556,13,good,3.9
+Aerospace Engineering,Turab,,Zaidi,2291485,6,good,4.3
+Physics,Andrew,,Zangwill,475459,10,good,3.6
+Management,Cindy,,Zapata-Phelan,1254485,3,average,3.2
+Industrial Design,Clint,,Zeagler,1790412,2,good,4.5
+Mathematics,Chongchun,,Zeng,1344919,17,poor,2.1
+Management,Kate,,Zepernick,2364303,1,average,3.0
+Earth Science,Qiushi,,Zhai,2539328,1,good,5.0
+Science,John,,Zhang,572474,11,average,2.6
+Industrial Engineering,Chuck,,Zhang,1806556,7,poor,1.6
+Chemistry,John,,Zhang,1948905,2,average,2.8
+Mathematics,Lei,,Zhang,2088430,2,average,3.0
+Management,Laurina,,Zhang,2365708,0,zero,N/A
+Electrical Engineering,Fumin,,Zhang,2482609,1,poor,2.0
+Mechanical Engineering,Zhuomin,,Zhang,2551741,0,zero,N/A
+Electrical Engineering,Ying,,Zhang,2034172,6,good,4.5
+Computer Science,Xiuwei,,Zhang,2526755,1,poor,1.0
+Mechanical Engineering,Ye,,Zhao,2485279,2,good,4.5
+Mathematics,Haomin,,Zhou,1580069,10,average,3.1
+Industrial Engineering,Enlu,,Zhou,1854731,4,average,3.4
+Management,Ji,,Zhou,2040752,0,zero,N/A
+Chemical Engineering,Erkang,,Zhou,2131422,3,good,5.0
+Mechanical Engineering,Min,,Zhou,2222566,9,good,4.5
+Industrial Engineering,Chen,,Zhou,2558172,1,poor,2.0
+Biomedical Engineering,Cheng,,Zhu,1720519,1,average,3.0
+Mechanical Engineering,Ting,,Zhu,2475439,1,good,4.0
+Chemistry,Hui,,Zhu,2510123,2,good,4.0
+Architecture,Craig,,Zimring,2113576,1,good,5.0
+English  Liberal Studies,Gregory,,Zinman,2237972,4,good,5.0
+Aerospace Engineering,Ben,,Zinn,1001598,3,good,4.2
+Mathematics,Haiyu,,Zou,1882580,18,good,4.2
+Chemistry,AJ,,Zucchero,915494,3,good,4.3
+Civil Engineering,Abdul,,Zureick,2470183,0,zero,N/A
+Biomedical Engineering,Chiaraq,,Zurla,2216313,0,zero,N/A

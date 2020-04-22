@@ -1,0 +1,29 @@
+[
+    {
+        "GPA":3.77,
+        "A%":79,
+        "B%":19,
+        "C%":2,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.82,
+        "A%":83,
+        "B%":15,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"Dass, Nishant"
+    },
+    {
+        "GPA":3.76,
+        "A%":77,
+        "B%":21,
+        "C%":2,
+        "D%":0,
+        "F%":0,
+        "Professor":"Jayaraman, Narayanan"
+    }
+]

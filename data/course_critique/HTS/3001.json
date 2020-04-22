@@ -1,0 +1,29 @@
+[
+    {
+        "GPA":3.14,
+        "A%":25,
+        "B%":48,
+        "C%":10,
+        "D%":1,
+        "F%":1,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.16,
+        "A%":29,
+        "B%":41,
+        "C%":11,
+        "D%":1,
+        "F%":1,
+        "Professor":"Giebelhaus Jr, August"
+    },
+    {
+        "GPA":3.0,
+        "A%":0,
+        "B%":100,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Nobles, Gregory"
+    }
+]

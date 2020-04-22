@@ -1,0 +1,56 @@
+[
+    {
+        "GPA":3.59,
+        "A%":61,
+        "B%":28,
+        "C%":5,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.6,
+        "A%":61,
+        "B%":34,
+        "C%":2,
+        "D%":0,
+        "F%":0,
+        "Professor":"Johnson, William"
+    },
+    {
+        "GPA":3.38,
+        "A%":37,
+        "B%":48,
+        "C%":2,
+        "D%":0,
+        "F%":0,
+        "Professor":"McDowell, David"
+    },
+    {
+        "GPA":3.65,
+        "A%":67,
+        "B%":17,
+        "C%":8,
+        "D%":0,
+        "F%":0,
+        "Professor":"Neu, Richard"
+    },
+    {
+        "GPA":3.56,
+        "A%":58,
+        "B%":35,
+        "C%":3,
+        "D%":0,
+        "F%":1,
+        "Professor":"Pierron, Olivier"
+    },
+    {
+        "GPA":3.87,
+        "A%":87,
+        "B%":13,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Saxena, Ashok"
+    }
+]

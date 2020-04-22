@@ -1,0 +1,101 @@
+[
+    {
+        "GPA":3.55,
+        "A%":61,
+        "B%":29,
+        "C%":6,
+        "D%":1,
+        "F%":1,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.64,
+        "A%":59,
+        "B%":33,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Gavrilovska Habl, Ada"
+    },
+    {
+        "GPA":3.49,
+        "A%":54,
+        "B%":33,
+        "C%":8,
+        "D%":0,
+        "F%":0,
+        "Professor":"Gayler, Richard"
+    },
+    {
+        "GPA":3.38,
+        "A%":50,
+        "B%":37,
+        "C%":9,
+        "D%":1,
+        "F%":0,
+        "Professor":"McCracken, W"
+    },
+    {
+        "GPA":3.9,
+        "A%":85,
+        "B%":9,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Moss, Mark"
+    },
+    {
+        "GPA":3.68,
+        "A%":66,
+        "B%":31,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Musaev, Aibek"
+    },
+    {
+        "GPA":3.52,
+        "A%":65,
+        "B%":25,
+        "C%":6,
+        "D%":0,
+        "F%":3,
+        "Professor":"Orso, Alessandro"
+    },
+    {
+        "GPA":3.38,
+        "A%":41,
+        "B%":54,
+        "C%":3,
+        "D%":0,
+        "F%":0,
+        "Professor":"Potts, Colin"
+    },
+    {
+        "GPA":3.75,
+        "A%":71,
+        "B%":19,
+        "C%":3,
+        "D%":0,
+        "F%":0,
+        "Professor":"Roy Choudhary, Shauvik"
+    },
+    {
+        "GPA":3.24,
+        "A%":42,
+        "B%":38,
+        "C%":15,
+        "D%":0,
+        "F%":2,
+        "Professor":"Rugaber, Jon"
+    },
+    {
+        "GPA":3.92,
+        "A%":87,
+        "B%":8,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Waters Jr, Robert"
+    }
+]

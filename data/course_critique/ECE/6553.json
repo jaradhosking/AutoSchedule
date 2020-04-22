@@ -1,0 +1,47 @@
+[
+    {
+        "GPA":3.32,
+        "A%":40,
+        "B%":51,
+        "C%":6,
+        "D%":1,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.35,
+        "A%":35,
+        "B%":63,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"Egerstedt, Magnus"
+    },
+    {
+        "GPA":3.5,
+        "A%":50,
+        "B%":50,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Fan, Ko-Hui"
+    },
+    {
+        "GPA":2.95,
+        "A%":22,
+        "B%":46,
+        "C%":21,
+        "D%":3,
+        "F%":0,
+        "Professor":"Verriest, Erik"
+    },
+    {
+        "GPA":3.52,
+        "A%":58,
+        "B%":37,
+        "C%":2,
+        "D%":0,
+        "F%":1,
+        "Professor":"Wardi, Yorai"
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "GPA":3.45,
+        "A%":53,
+        "B%":40,
+        "C%":7,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.37,
+        "A%":45,
+        "B%":47,
+        "C%":8,
+        "D%":0,
+        "F%":0,
+        "Professor":"Bartholdi III, John"
+    },
+    {
+        "GPA":3.86,
+        "A%":89,
+        "B%":8,
+        "C%":3,
+        "D%":0,
+        "F%":0,
+        "Professor":"Bartholdi, John"
+    }
+]

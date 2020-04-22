@@ -1,0 +1,29 @@
+[
+    {
+        "GPA":3.36,
+        "A%":39,
+        "B%":58,
+        "C%":3,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.33,
+        "A%":33,
+        "B%":67,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Elbousty, Moulay"
+    },
+    {
+        "GPA":3.46,
+        "A%":59,
+        "B%":29,
+        "C%":13,
+        "D%":0,
+        "F%":0,
+        "Professor":"Nassereddine, Ragheda"
+    }
+]

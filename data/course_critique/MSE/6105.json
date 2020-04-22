@@ -1,0 +1,38 @@
+[
+    {
+        "GPA":3.44,
+        "A%":45,
+        "B%":35,
+        "C%":3,
+        "D%":0,
+        "F%":2,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.42,
+        "A%":42,
+        "B%":58,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Cochran Jr, Joe"
+    },
+    {
+        "GPA":3.4,
+        "A%":47,
+        "B%":27,
+        "C%":6,
+        "D%":0,
+        "F%":4,
+        "Professor":"Garmestani, Hamid"
+    },
+    {
+        "GPA":3.56,
+        "A%":45,
+        "B%":36,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Stock, Stuart"
+    }
+]

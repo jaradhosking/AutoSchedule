@@ -1,0 +1,38 @@
+[
+    {
+        "GPA":2.86,
+        "A%":22,
+        "B%":44,
+        "C%":29,
+        "D%":1,
+        "F%":1,
+        "Professor":"All"
+    },
+    {
+        "GPA":2.84,
+        "A%":20,
+        "B%":44,
+        "C%":30,
+        "D%":1,
+        "F%":1,
+        "Professor":"Brewer, Thomas"
+    },
+    {
+        "GPA":2.5,
+        "A%":0,
+        "B%":50,
+        "C%":50,
+        "D%":0,
+        "F%":0,
+        "Professor":"McGahey, Christopher"
+    },
+    {
+        "GPA":3.48,
+        "A%":56,
+        "B%":36,
+        "C%":8,
+        "D%":0,
+        "F%":0,
+        "Professor":"Sands, Jean"
+    }
+]

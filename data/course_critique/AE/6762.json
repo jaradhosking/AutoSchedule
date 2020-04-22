@@ -1,0 +1,38 @@
+[
+    {
+        "GPA":3.89,
+        "A%":78,
+        "B%":11,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Berthelot, Yves"
+    },
+    {
+        "GPA":4.0,
+        "A%":67,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Cunefare, Kenneth"
+    },
+    {
+        "GPA":3.67,
+        "A%":67,
+        "B%":33,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Jarzynski, Jacek"
+    }
+]

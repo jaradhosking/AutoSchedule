@@ -1,0 +1,83 @@
+[
+    {
+        "GPA":3.25,
+        "A%":37,
+        "B%":50,
+        "C%":9,
+        "D%":1,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.14,
+        "A%":40,
+        "B%":41,
+        "C%":11,
+        "D%":4,
+        "F%":2,
+        "Professor":"Bellamkonda, Ravi"
+    },
+    {
+        "GPA":3.64,
+        "A%":68,
+        "B%":27,
+        "C%":4,
+        "D%":0,
+        "F%":0,
+        "Professor":"Benkeser, Paul"
+    },
+    {
+        "GPA":3.29,
+        "A%":41,
+        "B%":48,
+        "C%":9,
+        "D%":1,
+        "F%":1,
+        "Professor":"Bost, Lewis"
+    },
+    {
+        "GPA":3.79,
+        "A%":79,
+        "B%":21,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Newstetter, Wendy"
+    },
+    {
+        "GPA":3.15,
+        "A%":29,
+        "B%":55,
+        "C%":11,
+        "D%":2,
+        "F%":0,
+        "Professor":"Rains, James"
+    },
+    {
+        "GPA":3.71,
+        "A%":65,
+        "B%":27,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Ting, Lena"
+    },
+    {
+        "GPA":3.93,
+        "A%":93,
+        "B%":7,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Vidakovic, Branislav"
+    },
+    {
+        "GPA":3.31,
+        "A%":45,
+        "B%":43,
+        "C%":5,
+        "D%":5,
+        "F%":0,
+        "Professor":"Wang, Dongmei"
+    }
+]

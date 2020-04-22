@@ -1,0 +1,38 @@
+[
+    {
+        "GPA":3.35,
+        "A%":43,
+        "B%":26,
+        "C%":14,
+        "D%":0,
+        "F%":2,
+        "Professor":"All"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Augenbroe, Godfried"
+    },
+    {
+        "GPA":3.21,
+        "A%":31,
+        "B%":32,
+        "C%":17,
+        "D%":0,
+        "F%":2,
+        "Professor":"Gentry, T"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Park, Cheol-Soo"
+    }
+]

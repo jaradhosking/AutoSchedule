@@ -1,0 +1,146 @@
+[
+    {
+        "GPA":3.76,
+        "A%":79,
+        "B%":12,
+        "C%":3,
+        "D%":0,
+        "F%":1,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.78,
+        "A%":77,
+        "B%":4,
+        "C%":0,
+        "D%":0,
+        "F%":4,
+        "Professor":"Alley, Nicholas"
+    },
+    {
+        "GPA":3.84,
+        "A%":84,
+        "B%":17,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Bradford, John"
+    },
+    {
+        "GPA":3.36,
+        "A%":49,
+        "B%":26,
+        "C%":8,
+        "D%":6,
+        "F%":0,
+        "Professor":"Broughton, Adam"
+    },
+    {
+        "GPA":4.0,
+        "A%":99,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Clarke, John-Paul"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Costello, Mark"
+    },
+    {
+        "GPA":4.0,
+        "A%":75,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Dancila, Dragos"
+    },
+    {
+        "GPA":4.0,
+        "A%":84,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Gaeta, Richard"
+    },
+    {
+        "GPA":3.85,
+        "A%":81,
+        "B%":14,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Glasgow, Bruce"
+    },
+    {
+        "GPA":3.95,
+        "A%":95,
+        "B%":4,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Johnson, Carl"
+    },
+    {
+        "GPA":4.0,
+        "A%":75,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Johnson, Eric"
+    },
+    {
+        "GPA":3.5,
+        "A%":62,
+        "B%":17,
+        "C%":10,
+        "D%":0,
+        "F%":1,
+        "Professor":"Mavris, Dimitri"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Mavris, Dimitrios"
+    },
+    {
+        "GPA":3.29,
+        "A%":47,
+        "B%":36,
+        "C%":10,
+        "D%":0,
+        "F%":3,
+        "Professor":"Olds, John"
+    },
+    {
+        "GPA":3.0,
+        "A%":0,
+        "B%":100,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Schrage, Daniel"
+    },
+    {
+        "GPA":3.5,
+        "A%":50,
+        "B%":50,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Spencer, David"
+    }
+]

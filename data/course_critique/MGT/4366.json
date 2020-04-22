@@ -1,0 +1,65 @@
+[
+    {
+        "GPA":3.5,
+        "A%":54,
+        "B%":37,
+        "C%":4,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.44,
+        "A%":50,
+        "B%":39,
+        "C%":6,
+        "D%":0,
+        "F%":0,
+        "Professor":"Burgess, Robert"
+    },
+    {
+        "GPA":3.34,
+        "A%":40,
+        "B%":50,
+        "C%":7,
+        "D%":0,
+        "F%":0,
+        "Professor":"Daniels, Richard"
+    },
+    {
+        "GPA":3.62,
+        "A%":62,
+        "B%":32,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"Hora, Manpreet"
+    },
+    {
+        "GPA":3.76,
+        "A%":86,
+        "B%":10,
+        "C%":0,
+        "D%":0,
+        "F%":3,
+        "Professor":"Martin, Tim"
+    },
+    {
+        "GPA":3.41,
+        "A%":47,
+        "B%":47,
+        "C%":6,
+        "D%":0,
+        "F%":0,
+        "Professor":"Venkateswaran, Venkat"
+    },
+    {
+        "GPA":3.44,
+        "A%":56,
+        "B%":33,
+        "C%":11,
+        "D%":0,
+        "F%":0,
+        "Professor":"Venkateswaran, Venkatasubramanian"
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "GPA":3.14,
+        "A%":34,
+        "B%":47,
+        "C%":14,
+        "D%":2,
+        "F%":1,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.52,
+        "A%":65,
+        "B%":23,
+        "C%":13,
+        "D%":0,
+        "F%":0,
+        "Professor":"Chen, Chia"
+    },
+    {
+        "GPA":3.14,
+        "A%":38,
+        "B%":34,
+        "C%":22,
+        "D%":1,
+        "F%":1,
+        "Professor":"Georgakakos, Aris"
+    },
+    {
+        "GPA":3.28,
+        "A%":47,
+        "B%":40,
+        "C%":10,
+        "D%":3,
+        "F%":1,
+        "Professor":"Peters-Lidard, Christa"
+    },
+    {
+        "GPA":2.97,
+        "A%":14,
+        "B%":69,
+        "C%":11,
+        "D%":2,
+        "F%":0,
+        "Professor":"Stieglitz, Marc"
+    },
+    {
+        "GPA":3.54,
+        "A%":61,
+        "B%":31,
+        "C%":5,
+        "D%":2,
+        "F%":0,
+        "Professor":"Wang, Jingfeng"
+    },
+    {
+        "GPA":2.97,
+        "A%":30,
+        "B%":43,
+        "C%":21,
+        "D%":2,
+        "F%":2,
+        "Professor":"Work, Paul"
+    }
+]

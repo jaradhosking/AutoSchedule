@@ -1,0 +1,47 @@
+[
+    {
+        "GPA":3.47,
+        "A%":43,
+        "B%":42,
+        "C%":3,
+        "D%":1,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.61,
+        "A%":70,
+        "B%":27,
+        "C%":0,
+        "D%":0,
+        "F%":3,
+        "Professor":"Benkeser, Paul"
+    },
+    {
+        "GPA":3.28,
+        "A%":34,
+        "B%":52,
+        "C%":6,
+        "D%":2,
+        "F%":0,
+        "Professor":"Skrinjar, Oskar"
+    },
+    {
+        "GPA":3.57,
+        "A%":43,
+        "B%":38,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"Wang, Dongmei"
+    },
+    {
+        "GPA":3.54,
+        "A%":57,
+        "B%":42,
+        "C%":3,
+        "D%":0,
+        "F%":0,
+        "Professor":"Yezzi, Anthony"
+    }
+]

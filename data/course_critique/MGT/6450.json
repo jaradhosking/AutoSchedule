@@ -1,0 +1,38 @@
+[
+    {
+        "GPA":3.69,
+        "A%":67,
+        "B%":28,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.84,
+        "A%":88,
+        "B%":0,
+        "C%":9,
+        "D%":0,
+        "F%":0,
+        "Professor":"Lin, Mingfeng"
+    },
+    {
+        "GPA":3.66,
+        "A%":64,
+        "B%":33,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Slaughter, Sandra"
+    },
+    {
+        "GPA":3.76,
+        "A%":76,
+        "B%":16,
+        "C%":3,
+        "D%":0,
+        "F%":0,
+        "Professor":"Smith, Michael"
+    }
+]

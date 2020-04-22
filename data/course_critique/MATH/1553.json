@@ -1,0 +1,281 @@
+[
+    {
+        "GPA":3.08,
+        "A%":37,
+        "B%":37,
+        "C%":16,
+        "D%":4,
+        "F%":2,
+        "Professor":"All"
+    },
+    {
+        "GPA":2.8,
+        "A%":34,
+        "B%":26,
+        "C%":24,
+        "D%":10,
+        "F%":3,
+        "Professor":"Attarchi, Hassan"
+    },
+    {
+        "GPA":2.98,
+        "A%":36,
+        "B%":34,
+        "C%":17,
+        "D%":6,
+        "F%":3,
+        "Professor":"Barone, Salvador"
+    },
+    {
+        "GPA":3.03,
+        "A%":38,
+        "B%":32,
+        "C%":13,
+        "D%":9,
+        "F%":2,
+        "Professor":"Blekherman, Grigoriy"
+    },
+    {
+        "GPA":3.12,
+        "A%":42,
+        "B%":35,
+        "C%":13,
+        "D%":7,
+        "F%":1,
+        "Professor":"Bonetto, Federico"
+    },
+    {
+        "GPA":3.14,
+        "A%":39,
+        "B%":37,
+        "C%":16,
+        "D%":2,
+        "F%":2,
+        "Professor":"Brito, Gerandy"
+    },
+    {
+        "GPA":2.98,
+        "A%":34,
+        "B%":36,
+        "C%":19,
+        "D%":3,
+        "F%":4,
+        "Professor":"Corsi, Livia"
+    },
+    {
+        "GPA":3.12,
+        "A%":40,
+        "B%":35,
+        "C%":16,
+        "D%":4,
+        "F%":2,
+        "Professor":"Duan, Jun"
+    },
+    {
+        "GPA":3.09,
+        "A%":39,
+        "B%":32,
+        "C%":16,
+        "D%":3,
+        "F%":2,
+        "Professor":"Eslava, Laura"
+    },
+    {
+        "GPA":3.1,
+        "A%":37,
+        "B%":38,
+        "C%":16,
+        "D%":2,
+        "F%":2,
+        "Professor":"Fathi, Albert"
+    },
+    {
+        "GPA":3.01,
+        "A%":33,
+        "B%":38,
+        "C%":18,
+        "D%":5,
+        "F%":1,
+        "Professor":"Frederick, Christina"
+    },
+    {
+        "GPA":2.95,
+        "A%":36,
+        "B%":32,
+        "C%":19,
+        "D%":2,
+        "F%":6,
+        "Professor":"Ghanta, Rohan"
+    },
+    {
+        "GPA":3.47,
+        "A%":63,
+        "B%":23,
+        "C%":6,
+        "D%":2,
+        "F%":3,
+        "Professor":"Grodzinsky, Klara"
+    },
+    {
+        "GPA":3.33,
+        "A%":45,
+        "B%":42,
+        "C%":10,
+        "D%":2,
+        "F%":0,
+        "Professor":"Hani, Zaher"
+    },
+    {
+        "GPA":3.25,
+        "A%":39,
+        "B%":44,
+        "C%":12,
+        "D%":1,
+        "F%":0,
+        "Professor":"Ide, Benjamin"
+    },
+    {
+        "GPA":3.18,
+        "A%":40,
+        "B%":37,
+        "C%":15,
+        "D%":2,
+        "F%":1,
+        "Professor":"Jankowski, Christopher"
+    },
+    {
+        "GPA":3.01,
+        "A%":35,
+        "B%":34,
+        "C%":18,
+        "D%":1,
+        "F%":4,
+        "Professor":"Jell, Philipp"
+    },
+    {
+        "GPA":3.06,
+        "A%":37,
+        "B%":37,
+        "C%":15,
+        "D%":4,
+        "F%":3,
+        "Professor":"Kordek, Kevin"
+    },
+    {
+        "GPA":3.08,
+        "A%":36,
+        "B%":40,
+        "C%":15,
+        "D%":4,
+        "F%":2,
+        "Professor":"Li, Wing"
+    },
+    {
+        "GPA":3.25,
+        "A%":43,
+        "B%":36,
+        "C%":15,
+        "D%":2,
+        "F%":0,
+        "Professor":"Margalit, Dan"
+    },
+    {
+        "GPA":2.91,
+        "A%":17,
+        "B%":65,
+        "C%":11,
+        "D%":4,
+        "F%":3,
+        "Professor":"Mayer, Gregory"
+    },
+    {
+        "GPA":2.97,
+        "A%":30,
+        "B%":41,
+        "C%":19,
+        "D%":3,
+        "F%":3,
+        "Professor":"Northington V, Michael"
+    },
+    {
+        "GPA":3.0,
+        "A%":37,
+        "B%":32,
+        "C%":23,
+        "D%":4,
+        "F%":2,
+        "Professor":"Prag, Thomas"
+    },
+    {
+        "GPA":3.11,
+        "A%":37,
+        "B%":38,
+        "C%":13,
+        "D%":5,
+        "F%":1,
+        "Professor":"Rabinoff, Joseph"
+    },
+    {
+        "GPA":2.72,
+        "A%":13,
+        "B%":53,
+        "C%":25,
+        "D%":5,
+        "F%":2,
+        "Professor":"Shenk, Ronald"
+    },
+    {
+        "GPA":2.99,
+        "A%":36,
+        "B%":35,
+        "C%":21,
+        "D%":6,
+        "F%":1,
+        "Professor":"Short, Martin"
+    },
+    {
+        "GPA":3.02,
+        "A%":32,
+        "B%":39,
+        "C%":18,
+        "D%":5,
+        "F%":1,
+        "Professor":"Souza, Andre"
+    },
+    {
+        "GPA":3.12,
+        "A%":41,
+        "B%":35,
+        "C%":13,
+        "D%":6,
+        "F%":1,
+        "Professor":"Srinivasan, Padmavathi"
+    },
+    {
+        "GPA":3.06,
+        "A%":36,
+        "B%":37,
+        "C%":16,
+        "D%":3,
+        "F%":2,
+        "Professor":"Strenner, Balazs"
+    },
+    {
+        "GPA":2.73,
+        "A%":30,
+        "B%":35,
+        "C%":15,
+        "D%":6,
+        "F%":10,
+        "Professor":"Vela-Arevalo, Luz"
+    },
+    {
+        "GPA":2.92,
+        "A%":36,
+        "B%":35,
+        "C%":12,
+        "D%":7,
+        "F%":6,
+        "Professor":"Yan, Xukai"
+    }
+]

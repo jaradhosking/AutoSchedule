@@ -1,0 +1,101 @@
+[
+    {
+        "GPA":3.41,
+        "A%":52,
+        "B%":34,
+        "C%":8,
+        "D%":1,
+        "F%":1,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.31,
+        "A%":43,
+        "B%":40,
+        "C%":9,
+        "D%":1,
+        "F%":1,
+        "Professor":"Belyavsky, Julia"
+    },
+    {
+        "GPA":3.25,
+        "A%":38,
+        "B%":46,
+        "C%":12,
+        "D%":1,
+        "F%":0,
+        "Professor":"Bond, Samuel"
+    },
+    {
+        "GPA":3.8,
+        "A%":79,
+        "B%":19,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Hair, Michael"
+    },
+    {
+        "GPA":3.65,
+        "A%":67,
+        "B%":17,
+        "C%":6,
+        "D%":1,
+        "F%":0,
+        "Professor":"He, Xihao"
+    },
+    {
+        "GPA":3.57,
+        "A%":61,
+        "B%":34,
+        "C%":3,
+        "D%":0,
+        "F%":0,
+        "Professor":"Kantak, Donna"
+    },
+    {
+        "GPA":2.66,
+        "A%":20,
+        "B%":31,
+        "C%":32,
+        "D%":8,
+        "F%":1,
+        "Professor":"Malhotra, Naresh"
+    },
+    {
+        "GPA":2.87,
+        "A%":26,
+        "B%":37,
+        "C%":21,
+        "D%":5,
+        "F%":3,
+        "Professor":"Ulgado, Francis"
+    },
+    {
+        "GPA":3.25,
+        "A%":40,
+        "B%":43,
+        "C%":10,
+        "D%":1,
+        "F%":2,
+        "Professor":"Van Ittersum, Koert"
+    },
+    {
+        "GPA":3.32,
+        "A%":50,
+        "B%":33,
+        "C%":13,
+        "D%":2,
+        "F%":1,
+        "Professor":"Wen, Na"
+    },
+    {
+        "GPA":3.11,
+        "A%":31,
+        "B%":44,
+        "C%":16,
+        "D%":2,
+        "F%":1,
+        "Professor":"Wu, Lan"
+    }
+]

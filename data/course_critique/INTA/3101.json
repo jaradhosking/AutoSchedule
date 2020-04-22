@@ -1,0 +1,47 @@
+[
+    {
+        "GPA":3.59,
+        "A%":62,
+        "B%":30,
+        "C%":3,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":2.49,
+        "A%":15,
+        "B%":26,
+        "C%":32,
+        "D%":6,
+        "F%":4,
+        "Professor":"Keene, Edward"
+    },
+    {
+        "GPA":3.97,
+        "A%":96,
+        "B%":3,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Pedicino, Joseph"
+    },
+    {
+        "GPA":3.58,
+        "A%":50,
+        "B%":36,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Petricevic, Vanja"
+    },
+    {
+        "GPA":3.53,
+        "A%":55,
+        "B%":37,
+        "C%":3,
+        "D%":0,
+        "F%":0,
+        "Professor":"Weber, Katja"
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "GPA":3.47,
+        "A%":53,
+        "B%":24,
+        "C%":7,
+        "D%":1,
+        "F%":2,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.49,
+        "A%":52,
+        "B%":30,
+        "C%":8,
+        "D%":0,
+        "F%":0,
+        "Professor":"Cothran, Bettina"
+    },
+    {
+        "GPA":3.85,
+        "A%":61,
+        "B%":11,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Fritsch, Claudia"
+    },
+    {
+        "GPA":3.47,
+        "A%":53,
+        "B%":25,
+        "C%":6,
+        "D%":0,
+        "F%":2,
+        "Professor":"Kallin, Britta"
+    },
+    {
+        "GPA":3.29,
+        "A%":64,
+        "B%":21,
+        "C%":0,
+        "D%":7,
+        "F%":7,
+        "Professor":"Koppe, Kathrin"
+    },
+    {
+        "GPA":3.22,
+        "A%":36,
+        "B%":32,
+        "C%":12,
+        "D%":0,
+        "F%":2,
+        "Professor":"Pilipp, Frank"
+    },
+    {
+        "GPA":4.0,
+        "A%":89,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Rockwood, Heidi"
+    }
+]

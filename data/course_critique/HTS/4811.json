@@ -1,0 +1,47 @@
+[
+    {
+        "GPA":3.79,
+        "A%":70,
+        "B%":15,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Flamming, Douglas"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Knoespel, Kenneth"
+    },
+    {
+        "GPA":3.5,
+        "A%":40,
+        "B%":40,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Krige, Gerhard"
+    },
+    {
+        "GPA":3.67,
+        "A%":40,
+        "B%":20,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"McMath Jr, Robert"
+    }
+]

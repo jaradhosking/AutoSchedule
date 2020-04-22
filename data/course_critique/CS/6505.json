@@ -1,0 +1,119 @@
+[
+    {
+        "GPA":3.45,
+        "A%":52,
+        "B%":31,
+        "C%":7,
+        "D%":0,
+        "F%":1,
+        "Professor":"All"
+    },
+    {
+        "GPA":2.24,
+        "A%":17,
+        "B%":24,
+        "C%":41,
+        "D%":0,
+        "F%":17,
+        "Professor":"Apostolico, Alberto"
+    },
+    {
+        "GPA":3.2,
+        "A%":41,
+        "B%":31,
+        "C%":15,
+        "D%":0,
+        "F%":3,
+        "Professor":"Bader, David"
+    },
+    {
+        "GPA":3.63,
+        "A%":56,
+        "B%":33,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Basu, Saugata"
+    },
+    {
+        "GPA":2.94,
+        "A%":24,
+        "B%":16,
+        "C%":6,
+        "D%":4,
+        "F%":4,
+        "Professor":"Brubaker, Spencer"
+    },
+    {
+        "GPA":3.35,
+        "A%":50,
+        "B%":33,
+        "C%":13,
+        "D%":0,
+        "F%":2,
+        "Professor":"Ding, Yan"
+    },
+    {
+        "GPA":3.82,
+        "A%":80,
+        "B%":15,
+        "C%":2,
+        "D%":0,
+        "F%":0,
+        "Professor":"Lipton, Richard"
+    },
+    {
+        "GPA":3.72,
+        "A%":72,
+        "B%":23,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"Mihail, Kalomire-Eleni"
+    },
+    {
+        "GPA":3.92,
+        "A%":90,
+        "B%":8,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Mihail, Kolomira-Elini"
+    },
+    {
+        "GPA":3.4,
+        "A%":42,
+        "B%":33,
+        "C%":3,
+        "D%":0,
+        "F%":0,
+        "Professor":"Pryby, Christopher"
+    },
+    {
+        "GPA":3.48,
+        "A%":47,
+        "B%":33,
+        "C%":4,
+        "D%":1,
+        "F%":1,
+        "Professor":"Vempala, Santosh"
+    },
+    {
+        "GPA":3.37,
+        "A%":44,
+        "B%":37,
+        "C%":9,
+        "D%":1,
+        "F%":0,
+        "Professor":"Venkateswaran, H"
+    },
+    {
+        "GPA":3.44,
+        "A%":44,
+        "B%":33,
+        "C%":4,
+        "D%":0,
+        "F%":1,
+        "Professor":"Vigoda, Eric"
+    }
+]

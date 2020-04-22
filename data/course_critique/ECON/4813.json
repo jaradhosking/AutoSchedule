@@ -1,0 +1,173 @@
+[
+    {
+        "GPA":3.44,
+        "A%":53,
+        "B%":26,
+        "C%":8,
+        "D%":0,
+        "F%":1,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.36,
+        "A%":42,
+        "B%":31,
+        "C%":11,
+        "D%":0,
+        "F%":0,
+        "Professor":"Dodd Jr, Parks"
+    },
+    {
+        "GPA":3.34,
+        "A%":46,
+        "B%":42,
+        "C%":13,
+        "D%":0,
+        "F%":0,
+        "Professor":"Dodd, Parks"
+    },
+    {
+        "GPA":3.3,
+        "A%":44,
+        "B%":22,
+        "C%":18,
+        "D%":0,
+        "F%":0,
+        "Professor":"Ghosal, Vivek"
+    },
+    {
+        "GPA":3.6,
+        "A%":58,
+        "B%":16,
+        "C%":3,
+        "D%":3,
+        "F%":0,
+        "Professor":"Gick, Wolfgang"
+    },
+    {
+        "GPA":3.0,
+        "A%":0,
+        "B%":50,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Hoadley, James"
+    },
+    {
+        "GPA":3.33,
+        "A%":43,
+        "B%":29,
+        "C%":14,
+        "D%":0,
+        "F%":0,
+        "Professor":"Iacopetta, Maurizio"
+    },
+    {
+        "GPA":3.14,
+        "A%":41,
+        "B%":24,
+        "C%":12,
+        "D%":0,
+        "F%":6,
+        "Professor":"Kim, Byung-Cheol"
+    },
+    {
+        "GPA":3.69,
+        "A%":68,
+        "B%":21,
+        "C%":3,
+        "D%":0,
+        "F%":0,
+        "Professor":"Klimenko, Mikhail"
+    },
+    {
+        "GPA":3.03,
+        "A%":29,
+        "B%":50,
+        "C%":14,
+        "D%":0,
+        "F%":4,
+        "Professor":"Laband, David"
+    },
+    {
+        "GPA":3.79,
+        "A%":80,
+        "B%":7,
+        "C%":4,
+        "D%":0,
+        "F%":0,
+        "Professor":"Li, Haizheng"
+    },
+    {
+        "GPA":3.67,
+        "A%":67,
+        "B%":33,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Meenan, Peter"
+    },
+    {
+        "GPA":3.51,
+        "A%":53,
+        "B%":34,
+        "C%":6,
+        "D%":0,
+        "F%":0,
+        "Professor":"Moreno-Cruz, Juan"
+    },
+    {
+        "GPA":3.86,
+        "A%":71,
+        "B%":12,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Nair-Reichert, Usha"
+    },
+    {
+        "GPA":3.75,
+        "A%":85,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":5,
+        "Professor":"Ries, Christine"
+    },
+    {
+        "GPA":3.79,
+        "A%":75,
+        "B%":11,
+        "C%":4,
+        "D%":0,
+        "F%":0,
+        "Professor":"Shemyakina, Olga"
+    },
+    {
+        "GPA":2.52,
+        "A%":11,
+        "B%":15,
+        "C%":15,
+        "D%":3,
+        "F%":5,
+        "Professor":"Silva, Emilson"
+    },
+    {
+        "GPA":3.43,
+        "A%":63,
+        "B%":13,
+        "C%":0,
+        "D%":13,
+        "F%":0,
+        "Professor":"Song, Minjae"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Teach, Richard"
+    }
+]

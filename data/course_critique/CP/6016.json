@@ -1,0 +1,56 @@
+[
+    {
+        "GPA":3.55,
+        "A%":60,
+        "B%":33,
+        "C%":3,
+        "D%":0,
+        "F%":1,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.58,
+        "A%":64,
+        "B%":32,
+        "C%":0,
+        "D%":0,
+        "F%":3,
+        "Professor":"Contant, Cheryl"
+    },
+    {
+        "GPA":3.37,
+        "A%":54,
+        "B%":25,
+        "C%":12,
+        "D%":1,
+        "F%":2,
+        "Professor":"Nelson, Arthur"
+    },
+    {
+        "GPA":3.68,
+        "A%":68,
+        "B%":32,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Reuter, Daniel"
+    },
+    {
+        "GPA":3.6,
+        "A%":63,
+        "B%":33,
+        "C%":3,
+        "D%":0,
+        "F%":0,
+        "Professor":"Weissman, Seth"
+    },
+    {
+        "GPA":3.41,
+        "A%":49,
+        "B%":45,
+        "C%":3,
+        "D%":1,
+        "F%":2,
+        "Professor":"Weitz Jr, John"
+    }
+]

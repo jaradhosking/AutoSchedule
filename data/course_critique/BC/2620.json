@@ -1,0 +1,56 @@
+[
+    {
+        "GPA":3.34,
+        "A%":51,
+        "B%":36,
+        "C%":9,
+        "D%":1,
+        "F%":2,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.82,
+        "A%":86,
+        "B%":10,
+        "C%":4,
+        "D%":0,
+        "F%":0,
+        "Professor":"Irizarry, Javier"
+    },
+    {
+        "GPA":2.94,
+        "A%":41,
+        "B%":41,
+        "C%":0,
+        "D%":6,
+        "F%":12,
+        "Professor":"Keel, Thomas"
+    },
+    {
+        "GPA":2.82,
+        "A%":21,
+        "B%":53,
+        "C%":14,
+        "D%":5,
+        "F%":5,
+        "Professor":"Rouhi, Soheil"
+    },
+    {
+        "GPA":3.34,
+        "A%":51,
+        "B%":31,
+        "C%":13,
+        "D%":0,
+        "F%":2,
+        "Professor":"Thomas-Mobley, Linda"
+    },
+    {
+        "GPA":3.08,
+        "A%":28,
+        "B%":55,
+        "C%":13,
+        "D%":1,
+        "F%":1,
+        "Professor":"Uhlik, Felix"
+    }
+]

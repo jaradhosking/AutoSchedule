@@ -1,0 +1,47 @@
+[
+    {
+        "GPA":3.39,
+        "A%":46,
+        "B%":34,
+        "C%":5,
+        "D%":1,
+        "F%":1,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.32,
+        "A%":48,
+        "B%":32,
+        "C%":10,
+        "D%":5,
+        "F%":0,
+        "Professor":"Borkman, Raymond"
+    },
+    {
+        "GPA":3.4,
+        "A%":48,
+        "B%":34,
+        "C%":2,
+        "D%":0,
+        "F%":5,
+        "Professor":"El-Sayed, Mostafa"
+    },
+    {
+        "GPA":3.42,
+        "A%":35,
+        "B%":48,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Perry, Joseph"
+    },
+    {
+        "GPA":3.5,
+        "A%":62,
+        "B%":15,
+        "C%":15,
+        "D%":0,
+        "F%":0,
+        "Professor":"Sherrill, Charles"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "GPA":3.65,
+        "A%":66,
+        "B%":24,
+        "C%":4,
+        "D%":0,
+        "F%":1,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.69,
+        "A%":69,
+        "B%":20,
+        "C%":5,
+        "D%":0,
+        "F%":0,
+        "Professor":"Lanterman, Aaron"
+    },
+    {
+        "GPA":3.56,
+        "A%":59,
+        "B%":34,
+        "C%":0,
+        "D%":0,
+        "F%":2,
+        "Professor":"Medda, Alessio"
+    },
+    {
+        "GPA":3.56,
+        "A%":65,
+        "B%":23,
+        "C%":10,
+        "D%":0,
+        "F%":0,
+        "Professor":"Williams, Douglas"
+    }
+]

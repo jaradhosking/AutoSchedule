@@ -1,0 +1,65 @@
+[
+    {
+        "GPA":3.6,
+        "A%":72,
+        "B%":20,
+        "C%":3,
+        "D%":0,
+        "F%":3,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.59,
+        "A%":81,
+        "B%":12,
+        "C%":0,
+        "D%":0,
+        "F%":7,
+        "Professor":"Dixon, James"
+    },
+    {
+        "GPA":3.64,
+        "A%":81,
+        "B%":11,
+        "C%":4,
+        "D%":0,
+        "F%":4,
+        "Professor":"Guldberg, Robert"
+    },
+    {
+        "GPA":3.67,
+        "A%":50,
+        "B%":25,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Karlsson, Jens"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Kim, YongTae"
+    },
+    {
+        "GPA":3.34,
+        "A%":42,
+        "B%":48,
+        "C%":8,
+        "D%":0,
+        "F%":0,
+        "Professor":"Ku, David"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Kwong, Gabriel"
+    }
+]

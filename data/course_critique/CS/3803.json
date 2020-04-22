@@ -1,0 +1,65 @@
+[
+    {
+        "GPA":3.72,
+        "A%":72,
+        "B%":14,
+        "C%":4,
+        "D%":1,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.58,
+        "A%":45,
+        "B%":5,
+        "C%":10,
+        "D%":0,
+        "F%":0,
+        "Professor":"Balch, Tucker"
+    },
+    {
+        "GPA":4.0,
+        "A%":90,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Furst, Merrick"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"McCracken, W"
+    },
+    {
+        "GPA":3.5,
+        "A%":50,
+        "B%":50,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Newstetter, Wendy"
+    },
+    {
+        "GPA":4.0,
+        "A%":95,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Rehg, James"
+    },
+    {
+        "GPA":3.21,
+        "A%":50,
+        "B%":29,
+        "C%":14,
+        "D%":7,
+        "F%":0,
+        "Professor":"Zegura, Ellen"
+    }
+]

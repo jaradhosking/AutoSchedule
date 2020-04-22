@@ -1,0 +1,29 @@
+[
+    {
+        "GPA":3.7,
+        "A%":74,
+        "B%":14,
+        "C%":7,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.91,
+        "A%":91,
+        "B%":9,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Kallin, Britta"
+    },
+    {
+        "GPA":3.6,
+        "A%":65,
+        "B%":17,
+        "C%":10,
+        "D%":0,
+        "F%":0,
+        "Professor":"McKnight, Phillip"
+    }
+]

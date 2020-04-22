@@ -1,0 +1,92 @@
+[
+    {
+        "GPA":3.76,
+        "A%":79,
+        "B%":12,
+        "C%":5,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.41,
+        "A%":51,
+        "B%":30,
+        "C%":14,
+        "D%":0,
+        "F%":0,
+        "Professor":"Bottomley, Leigh"
+    },
+    {
+        "GPA":4.0,
+        "A%":93,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Collard, David"
+    },
+    {
+        "GPA":4.0,
+        "A%":91,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Evans, Michael"
+    },
+    {
+        "GPA":3.94,
+        "A%":74,
+        "B%":5,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Jenson, David"
+    },
+    {
+        "GPA":3.84,
+        "A%":80,
+        "B%":15,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"La Pierre, Henry"
+    },
+    {
+        "GPA":3.8,
+        "A%":80,
+        "B%":20,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Leavey, Jennifer"
+    },
+    {
+        "GPA":3.31,
+        "A%":51,
+        "B%":28,
+        "C%":14,
+        "D%":0,
+        "F%":2,
+        "Professor":"Payne, Christine"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Tyson, J"
+    },
+    {
+        "GPA":3.74,
+        "A%":75,
+        "B%":19,
+        "C%":0,
+        "D%":2,
+        "F%":0,
+        "Professor":"Wilkinson, Angus"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "GPA":3.92,
+        "A%":94,
+        "B%":2,
+        "C%":1,
+        "D%":0,
+        "F%":1,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.91,
+        "A%":91,
+        "B%":4,
+        "C%":2,
+        "D%":0,
+        "F%":0,
+        "Professor":"Chininis, Stephen"
+    },
+    {
+        "GPA":3.9,
+        "A%":93,
+        "B%":1,
+        "C%":1,
+        "D%":0,
+        "F%":1,
+        "Professor":"Harris, Samuel"
+    },
+    {
+        "GPA":3.94,
+        "A%":97,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":1,
+        "Professor":"Vollmer, Florian"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "GPA":3.73,
+        "A%":76,
+        "B%":17,
+        "C%":4,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.64,
+        "A%":70,
+        "B%":22,
+        "C%":7,
+        "D%":0,
+        "F%":0,
+        "Professor":"Ezer, Neta"
+    },
+    {
+        "GPA":3.86,
+        "A%":86,
+        "B%":14,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Justice, Lorraine"
+    },
+    {
+        "GPA":3.62,
+        "A%":62,
+        "B%":25,
+        "C%":4,
+        "D%":1,
+        "F%":0,
+        "Professor":"Laurenceau, Terri"
+    },
+    {
+        "GPA":3.22,
+        "A%":42,
+        "B%":38,
+        "C%":20,
+        "D%":0,
+        "F%":0,
+        "Professor":"Mullick, Abir"
+    },
+    {
+        "GPA":3.97,
+        "A%":98,
+        "B%":1,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Rebola, Claudia"
+    },
+    {
+        "GPA":3.48,
+        "A%":56,
+        "B%":34,
+        "C%":6,
+        "D%":1,
+        "F%":1,
+        "Professor":"Ringholz, David"
+    },
+    {
+        "GPA":3.69,
+        "A%":68,
+        "B%":30,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Winegarden, Claudia"
+    }
+]

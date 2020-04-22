@@ -1,0 +1,38 @@
+[
+    {
+        "GPA":3.14,
+        "A%":32,
+        "B%":47,
+        "C%":3,
+        "D%":10,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.08,
+        "A%":32,
+        "B%":46,
+        "C%":3,
+        "D%":12,
+        "F%":0,
+        "Professor":"Abelew, Thomas"
+    },
+    {
+        "GPA":3.4,
+        "A%":33,
+        "B%":50,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Chang, Young-Hui"
+    },
+    {
+        "GPA":3.33,
+        "A%":29,
+        "B%":57,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Hass, Christopher"
+    }
+]

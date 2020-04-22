@@ -1,0 +1,74 @@
+[
+    {
+        "GPA":3.77,
+        "A%":79,
+        "B%":12,
+        "C%":3,
+        "D%":1,
+        "F%":1,
+        "Professor":"All"
+    },
+    {
+        "GPA":4.0,
+        "A%":95,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Asad, Mariam"
+    },
+    {
+        "GPA":4.0,
+        "A%":96,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Bolter, Jay"
+    },
+    {
+        "GPA":3.84,
+        "A%":96,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":4,
+        "Professor":"Chu, Jean"
+    },
+    {
+        "GPA":3.58,
+        "A%":71,
+        "B%":17,
+        "C%":8,
+        "D%":3,
+        "F%":0,
+        "Professor":"Fisher, Joshua"
+    },
+    {
+        "GPA":3.68,
+        "A%":65,
+        "B%":31,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Kozubaev, Sandjar"
+    },
+    {
+        "GPA":4.0,
+        "A%":88,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Leibert, Mark"
+    },
+    {
+        "GPA":3.66,
+        "A%":71,
+        "B%":16,
+        "C%":5,
+        "D%":1,
+        "F%":1,
+        "Professor":"Peer, Firaz"
+    }
+]

@@ -1,0 +1,146 @@
+[
+    {
+        "GPA":3.65,
+        "A%":67,
+        "B%":15,
+        "C%":3,
+        "D%":0,
+        "F%":2,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.83,
+        "A%":72,
+        "B%":7,
+        "C%":2,
+        "D%":1,
+        "F%":0,
+        "Professor":"Cai, Wei"
+    },
+    {
+        "GPA":3.44,
+        "A%":48,
+        "B%":12,
+        "C%":10,
+        "D%":0,
+        "F%":2,
+        "Professor":"Deng, Dan"
+    },
+    {
+        "GPA":4.0,
+        "A%":63,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Fan, Zhewei"
+    },
+    {
+        "GPA":3.84,
+        "A%":72,
+        "B%":4,
+        "C%":2,
+        "D%":0,
+        "F%":2,
+        "Professor":"Fang, Chin"
+    },
+    {
+        "GPA":3.52,
+        "A%":61,
+        "B%":15,
+        "C%":8,
+        "D%":2,
+        "F%":2,
+        "Professor":"Fields, Andrew"
+    },
+    {
+        "GPA":3.59,
+        "A%":69,
+        "B%":9,
+        "C%":4,
+        "D%":1,
+        "F%":4,
+        "Professor":"Foster, Paul"
+    },
+    {
+        "GPA":3.94,
+        "A%":94,
+        "B%":7,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Gao, Yan"
+    },
+    {
+        "GPA":3.81,
+        "A%":74,
+        "B%":7,
+        "C%":3,
+        "D%":0,
+        "F%":1,
+        "Professor":"Ho, Yi-Hsien"
+    },
+    {
+        "GPA":3.92,
+        "A%":89,
+        "B%":6,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"Huang, Hsin"
+    },
+    {
+        "GPA":3.79,
+        "A%":78,
+        "B%":12,
+        "C%":1,
+        "D%":0,
+        "F%":1,
+        "Professor":"Huang, Hsin-Wei"
+    },
+    {
+        "GPA":3.58,
+        "A%":61,
+        "B%":17,
+        "C%":3,
+        "D%":0,
+        "F%":3,
+        "Professor":"Li, Chao"
+    },
+    {
+        "GPA":3.65,
+        "A%":64,
+        "B%":23,
+        "C%":3,
+        "D%":1,
+        "F%":0,
+        "Professor":"Li, Xiaoliang"
+    },
+    {
+        "GPA":3.74,
+        "A%":56,
+        "B%":20,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Tang, Yanbing"
+    },
+    {
+        "GPA":3.53,
+        "A%":68,
+        "B%":7,
+        "C%":6,
+        "D%":1,
+        "F%":5,
+        "Professor":"Wang, Lunlun"
+    },
+    {
+        "GPA":3.06,
+        "A%":36,
+        "B%":23,
+        "C%":18,
+        "D%":0,
+        "F%":5,
+        "Professor":"Zhang, Wenxian"
+    }
+]

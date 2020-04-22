@@ -1,0 +1,65 @@
+[
+    {
+        "GPA":3.31,
+        "A%":38,
+        "B%":35,
+        "C%":9,
+        "D%":1,
+        "F%":1,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.12,
+        "A%":31,
+        "B%":32,
+        "C%":21,
+        "D%":0,
+        "F%":0,
+        "Professor":"Casinovi, Giorgio"
+    },
+    {
+        "GPA":3.05,
+        "A%":31,
+        "B%":31,
+        "C%":18,
+        "D%":2,
+        "F%":2,
+        "Professor":"Ghovanloo, Maysam"
+    },
+    {
+        "GPA":3.5,
+        "A%":38,
+        "B%":40,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Hasler, Jennifer"
+    },
+    {
+        "GPA":3.24,
+        "A%":34,
+        "B%":46,
+        "C%":7,
+        "D%":2,
+        "F%":0,
+        "Professor":"Lanterman, Aaron"
+    },
+    {
+        "GPA":3.35,
+        "A%":36,
+        "B%":39,
+        "C%":7,
+        "D%":0,
+        "F%":0,
+        "Professor":"Maxwell, Erick"
+    },
+    {
+        "GPA":3.56,
+        "A%":59,
+        "B%":32,
+        "C%":2,
+        "D%":2,
+        "F%":0,
+        "Professor":"Wang, Hua"
+    }
+]

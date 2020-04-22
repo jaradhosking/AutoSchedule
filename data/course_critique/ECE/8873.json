@@ -1,0 +1,101 @@
+[
+    {
+        "GPA":3.73,
+        "A%":73,
+        "B%":22,
+        "C%":1,
+        "D%":0,
+        "F%":1,
+        "Professor":"All"
+    },
+    {
+        "GPA":4.0,
+        "A%":83,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Barnes, Christopher"
+    },
+    {
+        "GPA":3.64,
+        "A%":64,
+        "B%":36,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Blough, Douglas"
+    },
+    {
+        "GPA":4.0,
+        "A%":86,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Citrin, David"
+    },
+    {
+        "GPA":3.92,
+        "A%":93,
+        "B%":8,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Cohen, Morris"
+    },
+    {
+        "GPA":3.42,
+        "A%":42,
+        "B%":58,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Ferri, Bonnie"
+    },
+    {
+        "GPA":3.68,
+        "A%":72,
+        "B%":26,
+        "C%":3,
+        "D%":0,
+        "F%":0,
+        "Professor":"Jayant, Nikil"
+    },
+    {
+        "GPA":3.56,
+        "A%":60,
+        "B%":36,
+        "C%":4,
+        "D%":0,
+        "F%":0,
+        "Professor":"Juang, Biing"
+    },
+    {
+        "GPA":3.5,
+        "A%":55,
+        "B%":27,
+        "C%":9,
+        "D%":0,
+        "F%":0,
+        "Professor":"Mooney, Vincent"
+    },
+    {
+        "GPA":3.68,
+        "A%":72,
+        "B%":23,
+        "C%":0,
+        "D%":0,
+        "F%":2,
+        "Professor":"Qureshi, Moinuddin"
+    },
+    {
+        "GPA":3.81,
+        "A%":80,
+        "B%":19,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Voss, Paul"
+    }
+]

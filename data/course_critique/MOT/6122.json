@@ -1,0 +1,56 @@
+[
+    {
+        "GPA":3.84,
+        "A%":85,
+        "B%":13,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.96,
+        "A%":96,
+        "B%":5,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Bennett, Nathan"
+    },
+    {
+        "GPA":3.94,
+        "A%":94,
+        "B%":6,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Ku, David"
+    },
+    {
+        "GPA":3.97,
+        "A%":98,
+        "B%":2,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"McGreggor, Brian"
+    },
+    {
+        "GPA":3.72,
+        "A%":75,
+        "B%":22,
+        "C%":2,
+        "D%":0,
+        "F%":0,
+        "Professor":"McIntyre, John"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Zhang, Han"
+    }
+]

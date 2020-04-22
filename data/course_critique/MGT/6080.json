@@ -1,0 +1,65 @@
+[
+    {
+        "GPA":3.68,
+        "A%":55,
+        "B%":24,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.55,
+        "A%":47,
+        "B%":34,
+        "C%":0,
+        "D%":0,
+        "F%":1,
+        "Professor":"Chakrabarti, Rajesh"
+    },
+    {
+        "GPA":3.17,
+        "A%":16,
+        "B%":54,
+        "C%":6,
+        "D%":0,
+        "F%":0,
+        "Professor":"Khorana, Ajay"
+    },
+    {
+        "GPA":3.67,
+        "A%":47,
+        "B%":25,
+        "C%":2,
+        "D%":0,
+        "F%":0,
+        "Professor":"Lee, Seo"
+    },
+    {
+        "GPA":3.6,
+        "A%":56,
+        "B%":32,
+        "C%":3,
+        "D%":0,
+        "F%":0,
+        "Professor":"Narayanaswamy, Canchepuram"
+    },
+    {
+        "GPA":3.86,
+        "A%":77,
+        "B%":12,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Wang, Qinghai"
+    },
+    {
+        "GPA":3.74,
+        "A%":64,
+        "B%":22,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Weagley, Daniel"
+    }
+]

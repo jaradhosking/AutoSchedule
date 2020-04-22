@@ -1,0 +1,38 @@
+[
+    {
+        "GPA":3.68,
+        "A%":71,
+        "B%":27,
+        "C%":1,
+        "D%":0,
+        "F%":1,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.76,
+        "A%":78,
+        "B%":20,
+        "C%":2,
+        "D%":0,
+        "F%":0,
+        "Professor":"Cebula, Richard"
+    },
+    {
+        "GPA":3.7,
+        "A%":72,
+        "B%":26,
+        "C%":1,
+        "D%":0,
+        "F%":1,
+        "Professor":"Nagao, Dennis"
+    },
+    {
+        "GPA":3.54,
+        "A%":59,
+        "B%":34,
+        "C%":2,
+        "D%":0,
+        "F%":2,
+        "Professor":"Parsons, Charles"
+    }
+]

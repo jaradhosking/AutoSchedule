@@ -1,0 +1,29 @@
+[
+    {
+        "GPA":3.78,
+        "A%":71,
+        "B%":20,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.93,
+        "A%":82,
+        "B%":6,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Garrow, Laurie"
+    },
+    {
+        "GPA":3.64,
+        "A%":60,
+        "B%":33,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Macfarlane, Gregory"
+    }
+]

@@ -1,0 +1,83 @@
+[
+    {
+        "GPA":3.15,
+        "A%":46,
+        "B%":24,
+        "C%":12,
+        "D%":5,
+        "F%":3,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.67,
+        "A%":50,
+        "B%":25,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Gardner, Christina"
+    },
+    {
+        "GPA":3.0,
+        "A%":38,
+        "B%":15,
+        "C%":20,
+        "D%":6,
+        "F%":2,
+        "Professor":"Goda Jr, John"
+    },
+    {
+        "GPA":3.5,
+        "A%":25,
+        "B%":25,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"McCracken, W"
+    },
+    {
+        "GPA":3.0,
+        "A%":0,
+        "B%":100,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Newstetter, Wendy"
+    },
+    {
+        "GPA":2.37,
+        "A%":26,
+        "B%":24,
+        "C%":19,
+        "D%":7,
+        "F%":17,
+        "Professor":"Riley, George"
+    },
+    {
+        "GPA":2.6,
+        "A%":30,
+        "B%":21,
+        "C%":28,
+        "D%":6,
+        "F%":9,
+        "Professor":"Smith, David"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Stallworth, Cedric"
+    },
+    {
+        "GPA":2.78,
+        "A%":30,
+        "B%":34,
+        "C%":18,
+        "D%":9,
+        "F%":6,
+        "Professor":"Summet, Jay"
+    }
+]

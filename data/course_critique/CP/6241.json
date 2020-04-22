@@ -1,0 +1,38 @@
+[
+    {
+        "GPA":3.7,
+        "A%":71,
+        "B%":27,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.71,
+        "A%":71,
+        "B%":29,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Bethea, Sally"
+    },
+    {
+        "GPA":3.69,
+        "A%":68,
+        "B%":30,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Debo, Thomas"
+    },
+    {
+        "GPA":3.73,
+        "A%":80,
+        "B%":13,
+        "C%":7,
+        "D%":0,
+        "F%":0,
+        "Professor":"Steinemann, Anne"
+    }
+]

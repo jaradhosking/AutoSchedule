@@ -1,0 +1,38 @@
+[
+    {
+        "GPA":3.45,
+        "A%":46,
+        "B%":49,
+        "C%":2,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.44,
+        "A%":50,
+        "B%":27,
+        "C%":11,
+        "D%":0,
+        "F%":0,
+        "Professor":"Anderson, David"
+    },
+    {
+        "GPA":3.45,
+        "A%":45,
+        "B%":52,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"Clements, Mark"
+    },
+    {
+        "GPA":3.46,
+        "A%":46,
+        "B%":50,
+        "C%":1,
+        "D%":1,
+        "F%":0,
+        "Professor":"Moore II, Elliot"
+    }
+]

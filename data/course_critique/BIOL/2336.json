@@ -1,0 +1,92 @@
+[
+    {
+        "GPA":3.41,
+        "A%":50,
+        "B%":40,
+        "C%":6,
+        "D%":1,
+        "F%":1,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.62,
+        "A%":60,
+        "B%":36,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Adams, Lisa"
+    },
+    {
+        "GPA":3.24,
+        "A%":39,
+        "B%":48,
+        "C%":9,
+        "D%":1,
+        "F%":1,
+        "Professor":"Green, Linda"
+    },
+    {
+        "GPA":3.5,
+        "A%":48,
+        "B%":48,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Hoskinson, Anne-Marie"
+    },
+    {
+        "GPA":3.63,
+        "A%":68,
+        "B%":26,
+        "C%":0,
+        "D%":3,
+        "F%":0,
+        "Professor":"Jones, Brande"
+    },
+    {
+        "GPA":3.57,
+        "A%":62,
+        "B%":32,
+        "C%":0,
+        "D%":1,
+        "F%":1,
+        "Professor":"Lasley, Rachel"
+    },
+    {
+        "GPA":3.36,
+        "A%":46,
+        "B%":42,
+        "C%":7,
+        "D%":0,
+        "F%":2,
+        "Professor":"Rogers, Bruce"
+    },
+    {
+        "GPA":3.53,
+        "A%":64,
+        "B%":31,
+        "C%":2,
+        "D%":2,
+        "F%":2,
+        "Professor":"Schoeppner, Nancy"
+    },
+    {
+        "GPA":3.56,
+        "A%":52,
+        "B%":37,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"Snell, Terry"
+    },
+    {
+        "GPA":3.73,
+        "A%":75,
+        "B%":20,
+        "C%":2,
+        "D%":0,
+        "F%":1,
+        "Professor":"Weigel, Emily"
+    }
+]

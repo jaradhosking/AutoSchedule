@@ -1,0 +1,38 @@
+[
+    {
+        "GPA":3.58,
+        "A%":67,
+        "B%":20,
+        "C%":8,
+        "D%":1,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.63,
+        "A%":68,
+        "B%":24,
+        "C%":6,
+        "D%":0,
+        "F%":0,
+        "Professor":"Chang, Yih-Long"
+    },
+    {
+        "GPA":3.16,
+        "A%":49,
+        "B%":8,
+        "C%":22,
+        "D%":5,
+        "F%":0,
+        "Professor":"Palit, Shubhobrata"
+    },
+    {
+        "GPA":3.67,
+        "A%":72,
+        "B%":21,
+        "C%":5,
+        "D%":0,
+        "F%":0,
+        "Professor":"Rudchenko, Tatiana"
+    }
+]

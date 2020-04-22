@@ -1,0 +1,56 @@
+[
+    {
+        "GPA":3.65,
+        "A%":62,
+        "B%":27,
+        "C%":2,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.7,
+        "A%":69,
+        "B%":25,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"Clarke, John-Paul"
+    },
+    {
+        "GPA":3.95,
+        "A%":82,
+        "B%":4,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Feron, Eric"
+    },
+    {
+        "GPA":3.53,
+        "A%":57,
+        "B%":33,
+        "C%":5,
+        "D%":0,
+        "F%":0,
+        "Professor":"Johnson, Eric"
+    },
+    {
+        "GPA":3.38,
+        "A%":38,
+        "B%":53,
+        "C%":2,
+        "D%":0,
+        "F%":0,
+        "Professor":"Prasad, J"
+    },
+    {
+        "GPA":3.64,
+        "A%":53,
+        "B%":22,
+        "C%":3,
+        "D%":0,
+        "F%":0,
+        "Professor":"Prasad, Jonnalagadda"
+    }
+]

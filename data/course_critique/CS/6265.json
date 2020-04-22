@@ -1,0 +1,56 @@
+[
+    {
+        "GPA":3.78,
+        "A%":79,
+        "B%":13,
+        "C%":2,
+        "D%":1,
+        "F%":1,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.76,
+        "A%":76,
+        "B%":23,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Ahamad, Mustaque"
+    },
+    {
+        "GPA":3.86,
+        "A%":76,
+        "B%":3,
+        "C%":3,
+        "D%":0,
+        "F%":0,
+        "Professor":"Dos Santos, Andre"
+    },
+    {
+        "GPA":2.41,
+        "A%":36,
+        "B%":9,
+        "C%":27,
+        "D%":14,
+        "F%":14,
+        "Professor":"Giffin, Jonathon"
+    },
+    {
+        "GPA":3.74,
+        "A%":71,
+        "B%":20,
+        "C%":2,
+        "D%":0,
+        "F%":0,
+        "Professor":"Kim, Taesoo"
+    },
+    {
+        "GPA":3.92,
+        "A%":88,
+        "B%":8,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Royal, Paul"
+    }
+]

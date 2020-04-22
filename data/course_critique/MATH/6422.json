@@ -1,0 +1,29 @@
+[
+    {
+        "GPA":3.94,
+        "A%":65,
+        "B%":5,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.88,
+        "A%":70,
+        "B%":10,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Baker, Matthew"
+    },
+    {
+        "GPA":4.0,
+        "A%":60,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Blekherman, Grigoriy"
+    }
+]

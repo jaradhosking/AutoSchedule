@@ -1,0 +1,83 @@
+[
+    {
+        "GPA":3.9,
+        "A%":82,
+        "B%":8,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.97,
+        "A%":92,
+        "B%":3,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Bennett, Nathan"
+    },
+    {
+        "GPA":3.92,
+        "A%":90,
+        "B%":6,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Blum, Terry"
+    },
+    {
+        "GPA":4.0,
+        "A%":97,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Daloisio, Anthony"
+    },
+    {
+        "GPA":3.55,
+        "A%":48,
+        "B%":39,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Fedor, Donald"
+    },
+    {
+        "GPA":3.91,
+        "A%":72,
+        "B%":5,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Herndon, Benjamin"
+    },
+    {
+        "GPA":3.9,
+        "A%":83,
+        "B%":10,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Herold, David"
+    },
+    {
+        "GPA":3.76,
+        "A%":76,
+        "B%":24,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Martins, Luis"
+    },
+    {
+        "GPA":3.9,
+        "A%":90,
+        "B%":10,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Thomas, Robert"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "GPA":3.63,
+        "A%":66,
+        "B%":23,
+        "C%":6,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.9,
+        "A%":93,
+        "B%":4,
+        "C%":4,
+        "D%":0,
+        "F%":0,
+        "Professor":"Kikuchi, Masato"
+    },
+    {
+        "GPA":3.5,
+        "A%":54,
+        "B%":31,
+        "C%":8,
+        "D%":0,
+        "F%":0,
+        "Professor":"Simonds, Rumiko"
+    },
+    {
+        "GPA":3.75,
+        "A%":75,
+        "B%":25,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Weiss, Amanda"
+    }
+]

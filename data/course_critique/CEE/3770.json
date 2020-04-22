@@ -1,0 +1,137 @@
+[
+    {
+        "GPA":2.97,
+        "A%":36,
+        "B%":30,
+        "C%":18,
+        "D%":5,
+        "F%":3,
+        "Professor":"All"
+    },
+    {
+        "GPA":2.88,
+        "A%":34,
+        "B%":37,
+        "C%":14,
+        "D%":7,
+        "F%":6,
+        "Professor":"Coogan, Samuel"
+    },
+    {
+        "GPA":2.72,
+        "A%":23,
+        "B%":30,
+        "C%":24,
+        "D%":8,
+        "F%":3,
+        "Professor":"Ellingwood, Bruce"
+    },
+    {
+        "GPA":3.3,
+        "A%":49,
+        "B%":31,
+        "C%":17,
+        "D%":2,
+        "F%":0,
+        "Professor":"Fedele, Francesco"
+    },
+    {
+        "GPA":3.29,
+        "A%":44,
+        "B%":41,
+        "C%":10,
+        "D%":3,
+        "F%":0,
+        "Professor":"Garrow, Laurie"
+    },
+    {
+        "GPA":2.99,
+        "A%":34,
+        "B%":36,
+        "C%":16,
+        "D%":8,
+        "F%":1,
+        "Professor":"Haas, Kevin"
+    },
+    {
+        "GPA":2.94,
+        "A%":31,
+        "B%":33,
+        "C%":19,
+        "D%":4,
+        "F%":4,
+        "Professor":"Kemenova, Olga"
+    },
+    {
+        "GPA":3.16,
+        "A%":43,
+        "B%":24,
+        "C%":15,
+        "D%":4,
+        "F%":2,
+        "Professor":"Laval, Jorge"
+    },
+    {
+        "GPA":3.42,
+        "A%":45,
+        "B%":45,
+        "C%":5,
+        "D%":0,
+        "F%":0,
+        "Professor":"Lee, Misuk"
+    },
+    {
+        "GPA":2.45,
+        "A%":22,
+        "B%":35,
+        "C%":16,
+        "D%":13,
+        "F%":11,
+        "Professor":"Mokhtarian, Patricia"
+    },
+    {
+        "GPA":2.85,
+        "A%":33,
+        "B%":31,
+        "C%":25,
+        "D%":6,
+        "F%":4,
+        "Professor":"Moore II, Elliot"
+    },
+    {
+        "GPA":2.87,
+        "A%":37,
+        "B%":31,
+        "C%":19,
+        "D%":4,
+        "F%":8,
+        "Professor":"Muhanna, Rafi"
+    },
+    {
+        "GPA":2.65,
+        "A%":26,
+        "B%":31,
+        "C%":14,
+        "D%":7,
+        "F%":10,
+        "Professor":"Nielson, Bryant"
+    },
+    {
+        "GPA":3.02,
+        "A%":30,
+        "B%":38,
+        "C%":15,
+        "D%":6,
+        "F%":0,
+        "Professor":"Shafieezadeh, Abdollah"
+    },
+    {
+        "GPA":2.41,
+        "A%":13,
+        "B%":20,
+        "C%":25,
+        "D%":11,
+        "F%":4,
+        "Professor":"Wu, Hongwei"
+    }
+]

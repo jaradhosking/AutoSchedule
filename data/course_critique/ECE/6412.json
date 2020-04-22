@@ -1,0 +1,47 @@
+[
+    {
+        "GPA":3.28,
+        "A%":44,
+        "B%":27,
+        "C%":11,
+        "D%":4,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.12,
+        "A%":36,
+        "B%":34,
+        "C%":22,
+        "D%":1,
+        "F%":1,
+        "Professor":"Allen, Phillip"
+    },
+    {
+        "GPA":2.8,
+        "A%":23,
+        "B%":26,
+        "C%":41,
+        "D%":1,
+        "F%":1,
+        "Professor":"Ayazi, Farrokh"
+    },
+    {
+        "GPA":3.45,
+        "A%":42,
+        "B%":24,
+        "C%":5,
+        "D%":1,
+        "F%":0,
+        "Professor":"Rincon, Gabriel"
+    },
+    {
+        "GPA":3.32,
+        "A%":49,
+        "B%":27,
+        "C%":7,
+        "D%":7,
+        "F%":0,
+        "Professor":"Rincon-Mora, Gabriel"
+    }
+]

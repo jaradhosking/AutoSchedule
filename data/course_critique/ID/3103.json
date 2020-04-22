@@ -1,0 +1,47 @@
+[
+    {
+        "GPA":3.55,
+        "A%":63,
+        "B%":26,
+        "C%":3,
+        "D%":1,
+        "F%":2,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.31,
+        "A%":46,
+        "B%":42,
+        "C%":9,
+        "D%":2,
+        "F%":1,
+        "Professor":"Boyden, Suzanne"
+    },
+    {
+        "GPA":3.65,
+        "A%":75,
+        "B%":15,
+        "C%":3,
+        "D%":0,
+        "F%":4,
+        "Professor":"Laurenceau, Terri"
+    },
+    {
+        "GPA":3.59,
+        "A%":66,
+        "B%":24,
+        "C%":2,
+        "D%":2,
+        "F%":2,
+        "Professor":"Purdy, Timothy"
+    },
+    {
+        "GPA":3.47,
+        "A%":74,
+        "B%":12,
+        "C%":9,
+        "D%":0,
+        "F%":6,
+        "Professor":"Ringholz, David"
+    }
+]

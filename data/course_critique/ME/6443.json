@@ -1,0 +1,38 @@
+[
+    {
+        "GPA":3.47,
+        "A%":55,
+        "B%":37,
+        "C%":3,
+        "D%":0,
+        "F%":2,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.63,
+        "A%":64,
+        "B%":26,
+        "C%":5,
+        "D%":0,
+        "F%":0,
+        "Professor":"Ferri, Aldo"
+    },
+    {
+        "GPA":3.84,
+        "A%":83,
+        "B%":15,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Fulton, Robert"
+    },
+    {
+        "GPA":3.36,
+        "A%":47,
+        "B%":44,
+        "C%":4,
+        "D%":0,
+        "F%":3,
+        "Professor":"Papastavridis, John"
+    }
+]

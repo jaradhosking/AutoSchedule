@@ -1,0 +1,56 @@
+[
+    {
+        "GPA":3.67,
+        "A%":83,
+        "B%":0,
+        "C%":17,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Andreotti, Libero"
+    },
+    {
+        "GPA":2.0,
+        "A%":0,
+        "B%":0,
+        "C%":100,
+        "D%":0,
+        "F%":0,
+        "Professor":"Duncan, Lane"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Jarrett, Christopher"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Lesniewski, Anatoliusz"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Sledge, David"
+    }
+]

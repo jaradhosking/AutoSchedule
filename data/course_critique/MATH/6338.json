@@ -1,0 +1,101 @@
+[
+    {
+        "GPA":3.68,
+        "A%":59,
+        "B%":21,
+        "C%":2,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":4.0,
+        "A%":83,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Bonetto, Federico"
+    },
+    {
+        "GPA":3.67,
+        "A%":59,
+        "B%":29,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"De la Llave, Rafael"
+    },
+    {
+        "GPA":3.8,
+        "A%":69,
+        "B%":13,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Gangbo, Wilfred"
+    },
+    {
+        "GPA":3.74,
+        "A%":64,
+        "B%":20,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Heil, Christopher"
+    },
+    {
+        "GPA":3.58,
+        "A%":58,
+        "B%":43,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Iliev, Plamen"
+    },
+    {
+        "GPA":4.0,
+        "A%":60,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Lacey, Michael"
+    },
+    {
+        "GPA":3.5,
+        "A%":17,
+        "B%":17,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Lubinsky, Doron"
+    },
+    {
+        "GPA":3.8,
+        "A%":50,
+        "B%":13,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Matzinger, Heinrich"
+    },
+    {
+        "GPA":3.13,
+        "A%":34,
+        "B%":41,
+        "C%":22,
+        "D%":0,
+        "F%":0,
+        "Professor":"Westdickenberg, Michael"
+    },
+    {
+        "GPA":3.75,
+        "A%":69,
+        "B%":23,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Wick, Brett"
+    }
+]

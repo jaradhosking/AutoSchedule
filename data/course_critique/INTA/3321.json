@@ -1,0 +1,38 @@
+[
+    {
+        "GPA":3.65,
+        "A%":64,
+        "B%":21,
+        "C%":5,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.64,
+        "A%":61,
+        "B%":19,
+        "C%":6,
+        "D%":0,
+        "F%":0,
+        "Professor":"Birchfield, Vicki"
+    },
+    {
+        "GPA":3.91,
+        "A%":88,
+        "B%":9,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Bowman, Kirk"
+    },
+    {
+        "GPA":3.14,
+        "A%":25,
+        "B%":50,
+        "C%":13,
+        "D%":0,
+        "F%":0,
+        "Professor":"Taylor, Adrian"
+    }
+]

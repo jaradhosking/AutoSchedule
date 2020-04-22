@@ -1,0 +1,38 @@
+[
+    {
+        "GPA":3.99,
+        "A%":99,
+        "B%":1,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Gemmell, Robert"
+    },
+    {
+        "GPA":3.98,
+        "A%":98,
+        "B%":2,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Giuliano, Jonathan"
+    },
+    {
+        "GPA":3.99,
+        "A%":98,
+        "B%":1,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Thursby, Marie"
+    }
+]

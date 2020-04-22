@@ -1,0 +1,38 @@
+[
+    {
+        "GPA":3.96,
+        "A%":96,
+        "B%":4,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.95,
+        "A%":95,
+        "B%":5,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Ahamad, Mustaque"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Giffin, Jonathon"
+    },
+    {
+        "GPA":3.96,
+        "A%":96,
+        "B%":4,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Royal, Paul"
+    }
+]

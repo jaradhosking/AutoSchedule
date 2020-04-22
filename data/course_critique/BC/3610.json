@@ -1,0 +1,47 @@
+[
+    {
+        "GPA":3.38,
+        "A%":44,
+        "B%":48,
+        "C%":5,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.52,
+        "A%":54,
+        "B%":40,
+        "C%":3,
+        "D%":0,
+        "F%":0,
+        "Professor":"Butler III, James"
+    },
+    {
+        "GPA":3.27,
+        "A%":42,
+        "B%":42,
+        "C%":11,
+        "D%":0,
+        "F%":1,
+        "Professor":"Cahalan, Scott"
+    },
+    {
+        "GPA":3.17,
+        "A%":17,
+        "B%":83,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Keel, Thomas"
+    },
+    {
+        "GPA":3.82,
+        "A%":83,
+        "B%":15,
+        "C%":0,
+        "D%":1,
+        "F%":0,
+        "Professor":"Oberle, Rita"
+    }
+]

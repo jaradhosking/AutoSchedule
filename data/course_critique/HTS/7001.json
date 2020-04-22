@@ -1,0 +1,47 @@
+[
+    {
+        "GPA":3.75,
+        "A%":72,
+        "B%":22,
+        "C%":0,
+        "D%":0,
+        "F%":1,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.67,
+        "A%":67,
+        "B%":33,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Bullard, Alice"
+    },
+    {
+        "GPA":3.88,
+        "A%":79,
+        "B%":13,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Singh, Jennifer"
+    },
+    {
+        "GPA":3.67,
+        "A%":67,
+        "B%":33,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Tone, Andrea"
+    },
+    {
+        "GPA":3.74,
+        "A%":71,
+        "B%":21,
+        "C%":0,
+        "D%":0,
+        "F%":1,
+        "Professor":"Winders, William"
+    }
+]

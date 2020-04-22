@@ -1,0 +1,83 @@
+[
+    {
+        "GPA":3.29,
+        "A%":45,
+        "B%":41,
+        "C%":12,
+        "D%":1,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.0,
+        "A%":38,
+        "B%":26,
+        "C%":32,
+        "D%":3,
+        "F%":0,
+        "Professor":"Bommarius, Andreas"
+    },
+    {
+        "GPA":3.43,
+        "A%":54,
+        "B%":36,
+        "C%":11,
+        "D%":0,
+        "F%":0,
+        "Professor":"Cuba-Torres, Christian"
+    },
+    {
+        "GPA":3.36,
+        "A%":40,
+        "B%":56,
+        "C%":4,
+        "D%":0,
+        "F%":0,
+        "Professor":"Kawajiri, Yoshiaki"
+    },
+    {
+        "GPA":3.32,
+        "A%":49,
+        "B%":37,
+        "C%":12,
+        "D%":3,
+        "F%":0,
+        "Professor":"Ludovice, Peter"
+    },
+    {
+        "GPA":3.18,
+        "A%":35,
+        "B%":49,
+        "C%":17,
+        "D%":0,
+        "F%":0,
+        "Professor":"Luettgen, Christopher"
+    },
+    {
+        "GPA":3.13,
+        "A%":33,
+        "B%":50,
+        "C%":15,
+        "D%":3,
+        "F%":0,
+        "Professor":"Realff, Matthew"
+    },
+    {
+        "GPA":3.39,
+        "A%":53,
+        "B%":34,
+        "C%":10,
+        "D%":2,
+        "F%":0,
+        "Professor":"Schork, Francis"
+    },
+    {
+        "GPA":3.29,
+        "A%":42,
+        "B%":47,
+        "C%":10,
+        "D%":0,
+        "F%":1,
+        "Professor":"Thio, Yonathan"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "GPA":3.39,
+        "A%":38,
+        "B%":41,
+        "C%":5,
+        "D%":0,
+        "F%":1,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.4,
+        "A%":38,
+        "B%":37,
+        "C%":6,
+        "D%":0,
+        "F%":0,
+        "Professor":"Hud, Nicholas"
+    },
+    {
+        "GPA":3.41,
+        "A%":36,
+        "B%":48,
+        "C%":1,
+        "D%":0,
+        "F%":1,
+        "Professor":"Lieberman, Raquel"
+    },
+    {
+        "GPA":3.25,
+        "A%":44,
+        "B%":40,
+        "C%":8,
+        "D%":0,
+        "F%":4,
+        "Professor":"Williams, Loren"
+    }
+]

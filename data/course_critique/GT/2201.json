@@ -1,0 +1,56 @@
+[
+    {
+        "GPA":3.98,
+        "A%":95,
+        "B%":1,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":4.0,
+        "A%":98,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Barchers, Camille"
+    },
+    {
+        "GPA":3.97,
+        "A%":80,
+        "B%":2,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Brotherton, Terrell"
+    },
+    {
+        "GPA":3.96,
+        "A%":93,
+        "B%":3,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Butera, Robert"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Davis, Jeffrey"
+    },
+    {
+        "GPA":3.99,
+        "A%":97,
+        "B%":1,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Wynens, John"
+    }
+]

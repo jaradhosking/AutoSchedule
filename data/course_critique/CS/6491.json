@@ -1,0 +1,38 @@
+[
+    {
+        "GPA":3.79,
+        "A%":70,
+        "B%":12,
+        "C%":1,
+        "D%":0,
+        "F%":1,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.81,
+        "A%":70,
+        "B%":12,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"Rossignac, Jaroslaw"
+    },
+    {
+        "GPA":3.78,
+        "A%":64,
+        "B%":18,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Szymczak, Andrzej"
+    },
+    {
+        "GPA":3.67,
+        "A%":67,
+        "B%":13,
+        "C%":2,
+        "D%":2,
+        "F%":1,
+        "Professor":"Turk, Gregory"
+    }
+]

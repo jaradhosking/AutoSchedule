@@ -1,0 +1,38 @@
+[
+    {
+        "GPA":3.61,
+        "A%":60,
+        "B%":33,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.71,
+        "A%":69,
+        "B%":25,
+        "C%":2,
+        "D%":0,
+        "F%":0,
+        "Professor":"Ahamad, Mustaque"
+    },
+    {
+        "GPA":3.88,
+        "A%":79,
+        "B%":11,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Gavrilovska, Ada"
+    },
+    {
+        "GPA":3.56,
+        "A%":55,
+        "B%":38,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"Schwans, Karsten"
+    }
+]

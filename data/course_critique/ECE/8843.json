@@ -1,0 +1,74 @@
+[
+    {
+        "GPA":3.75,
+        "A%":77,
+        "B%":18,
+        "C%":1,
+        "D%":0,
+        "F%":1,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.84,
+        "A%":83,
+        "B%":12,
+        "C%":2,
+        "D%":0,
+        "F%":0,
+        "Professor":"Ayazi, Farrokh"
+    },
+    {
+        "GPA":3.88,
+        "A%":87,
+        "B%":12,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Copeland, John"
+    },
+    {
+        "GPA":3.92,
+        "A%":93,
+        "B%":8,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Harley, Ronald"
+    },
+    {
+        "GPA":3.81,
+        "A%":82,
+        "B%":14,
+        "C%":2,
+        "D%":0,
+        "F%":0,
+        "Professor":"Howard, Ayanna"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Ji, Chuanyi"
+    },
+    {
+        "GPA":3.42,
+        "A%":52,
+        "B%":35,
+        "C%":0,
+        "D%":0,
+        "F%":4,
+        "Professor":"Naeemi, Azad"
+    },
+    {
+        "GPA":3.7,
+        "A%":67,
+        "B%":28,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Romberg, Justin"
+    }
+]

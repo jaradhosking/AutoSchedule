@@ -1,0 +1,38 @@
+[
+    {
+        "GPA":3.47,
+        "A%":48,
+        "B%":31,
+        "C%":2,
+        "D%":0,
+        "F%":2,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.29,
+        "A%":33,
+        "B%":56,
+        "C%":6,
+        "D%":0,
+        "F%":0,
+        "Professor":"Cothran, Bettina"
+    },
+    {
+        "GPA":3.81,
+        "A%":72,
+        "B%":17,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Joo, Hyoun-A"
+    },
+    {
+        "GPA":3.3,
+        "A%":40,
+        "B%":20,
+        "C%":0,
+        "D%":0,
+        "F%":7,
+        "Professor":"Rockwood, Heidi"
+    }
+]

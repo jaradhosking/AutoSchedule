@@ -1,0 +1,56 @@
+[
+    {
+        "GPA":3.83,
+        "A%":79,
+        "B%":15,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.67,
+        "A%":65,
+        "B%":20,
+        "C%":5,
+        "D%":0,
+        "F%":0,
+        "Professor":"Bobick, Aaron"
+    },
+    {
+        "GPA":3.79,
+        "A%":78,
+        "B%":19,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"Dellaert, Frank"
+    },
+    {
+        "GPA":3.98,
+        "A%":98,
+        "B%":3,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Pradalier, Cedric"
+    },
+    {
+        "GPA":3.87,
+        "A%":76,
+        "B%":13,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Rehg, James"
+    },
+    {
+        "GPA":3.64,
+        "A%":50,
+        "B%":30,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Starner, Thad"
+    }
+]

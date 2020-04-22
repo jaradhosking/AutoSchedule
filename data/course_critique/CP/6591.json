@@ -1,0 +1,29 @@
+[
+    {
+        "GPA":3.64,
+        "A%":86,
+        "B%":7,
+        "C%":0,
+        "D%":0,
+        "F%":7,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.29,
+        "A%":71,
+        "B%":14,
+        "C%":0,
+        "D%":0,
+        "F%":14,
+        "Professor":"Giarrusso, Anthony"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Sivakumar, Ramachandramurt"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "GPA":3.35,
+        "A%":41,
+        "B%":43,
+        "C%":4,
+        "D%":2,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.1,
+        "A%":28,
+        "B%":47,
+        "C%":9,
+        "D%":3,
+        "F%":1,
+        "Professor":"Mark, Leo"
+    },
+    {
+        "GPA":3.52,
+        "A%":49,
+        "B%":41,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"Navathe, Shamkant"
+    },
+    {
+        "GPA":3.28,
+        "A%":44,
+        "B%":36,
+        "C%":10,
+        "D%":2,
+        "F%":1,
+        "Professor":"Omiecinski, Edward"
+    },
+    {
+        "GPA":3.29,
+        "A%":38,
+        "B%":44,
+        "C%":5,
+        "D%":3,
+        "F%":1,
+        "Professor":"Summet, Jay"
+    }
+]

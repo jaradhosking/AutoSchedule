@@ -1,0 +1,38 @@
+[
+    {
+        "GPA":3.88,
+        "A%":79,
+        "B%":12,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.78,
+        "A%":78,
+        "B%":22,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Danis, Andras"
+    },
+    {
+        "GPA":3.75,
+        "A%":58,
+        "B%":25,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Jayaraman, Narayanan"
+    },
+    {
+        "GPA":4.0,
+        "A%":96,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Nanda, Vikram"
+    }
+]

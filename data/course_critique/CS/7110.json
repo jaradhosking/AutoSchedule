@@ -1,0 +1,29 @@
+[
+    {
+        "GPA":3.88,
+        "A%":50,
+        "B%":9,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":4.0,
+        "A%":50,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Mackenzie, Kenneth"
+    },
+    {
+        "GPA":3.75,
+        "A%":50,
+        "B%":17,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Ramachandran, Umakishore"
+    }
+]

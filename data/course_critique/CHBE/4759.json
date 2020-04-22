@@ -1,0 +1,47 @@
+[
+    {
+        "GPA":3.45,
+        "A%":52,
+        "B%":37,
+        "C%":7,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.38,
+        "A%":44,
+        "B%":33,
+        "C%":11,
+        "D%":0,
+        "F%":0,
+        "Professor":"Chen, Hailong"
+    },
+    {
+        "GPA":3.74,
+        "A%":73,
+        "B%":25,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Hatzell, Marta"
+    },
+    {
+        "GPA":3.43,
+        "A%":50,
+        "B%":41,
+        "C%":6,
+        "D%":0,
+        "F%":1,
+        "Professor":"Kohl, Paul"
+    },
+    {
+        "GPA":3.31,
+        "A%":44,
+        "B%":44,
+        "C%":13,
+        "D%":0,
+        "F%":0,
+        "Professor":"McDowell, Matthew"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "GPA":3.86,
+        "A%":82,
+        "B%":13,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.59,
+        "A%":53,
+        "B%":37,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Ellingwood, Bruce"
+    },
+    {
+        "GPA":3.95,
+        "A%":93,
+        "B%":5,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Emkin, Leroy"
+    },
+    {
+        "GPA":3.92,
+        "A%":85,
+        "B%":7,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"White, Donald"
+    }
+]

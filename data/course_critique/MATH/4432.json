@@ -1,0 +1,74 @@
+[
+    {
+        "GPA":3.46,
+        "A%":57,
+        "B%":25,
+        "C%":5,
+        "D%":0,
+        "F%":4,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.56,
+        "A%":50,
+        "B%":40,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Belegradek, Igor"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Cain Jr, George"
+    },
+    {
+        "GPA":3.68,
+        "A%":67,
+        "B%":17,
+        "C%":4,
+        "D%":0,
+        "F%":1,
+        "Professor":"Etnyre, John"
+    },
+    {
+        "GPA":3.18,
+        "A%":57,
+        "B%":12,
+        "C%":12,
+        "D%":0,
+        "F%":9,
+        "Professor":"Ghomi, Mohammad"
+    },
+    {
+        "GPA":3.38,
+        "A%":36,
+        "B%":59,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Margalit, Dan"
+    },
+    {
+        "GPA":3.34,
+        "A%":54,
+        "B%":24,
+        "C%":4,
+        "D%":0,
+        "F%":8,
+        "Professor":"Mischaikow, Konstantin"
+    },
+    {
+        "GPA":2.67,
+        "A%":17,
+        "B%":33,
+        "C%":17,
+        "D%":0,
+        "F%":8,
+        "Professor":"Symington, Margaret"
+    }
+]

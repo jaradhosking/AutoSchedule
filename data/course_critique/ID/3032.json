@@ -1,0 +1,38 @@
+[
+    {
+        "GPA":3.64,
+        "A%":69,
+        "B%":28,
+        "C%":3,
+        "D%":0,
+        "F%":1,
+        "Professor":"All"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Sanford, Jon"
+    },
+    {
+        "GPA":3.79,
+        "A%":85,
+        "B%":13,
+        "C%":0,
+        "D%":0,
+        "F%":2,
+        "Professor":"Velazquez, Herb"
+    },
+    {
+        "GPA":3.51,
+        "A%":56,
+        "B%":40,
+        "C%":4,
+        "D%":0,
+        "F%":0,
+        "Professor":"Wilson, Wendell"
+    }
+]

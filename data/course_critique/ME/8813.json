@@ -1,0 +1,83 @@
+[
+    {
+        "GPA":3.74,
+        "A%":85,
+        "B%":8,
+        "C%":1,
+        "D%":0,
+        "F%":4,
+        "Professor":"All"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Bras, Berdinus"
+    },
+    {
+        "GPA":3.8,
+        "A%":80,
+        "B%":20,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Choi, Seung"
+    },
+    {
+        "GPA":3.58,
+        "A%":86,
+        "B%":3,
+        "C%":0,
+        "D%":0,
+        "F%":10,
+        "Professor":"Choi, Seung-Kyum"
+    },
+    {
+        "GPA":4.0,
+        "A%":93,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Cook, Harry"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Leamy, Michael"
+    },
+    {
+        "GPA":3.7,
+        "A%":70,
+        "B%":24,
+        "C%":3,
+        "D%":0,
+        "F%":0,
+        "Professor":"Paredis, Christiaan"
+    },
+    {
+        "GPA":3.33,
+        "A%":67,
+        "B%":0,
+        "C%":33,
+        "D%":0,
+        "F%":0,
+        "Professor":"Telenko, Cassandra"
+    },
+    {
+        "GPA":3.91,
+        "A%":88,
+        "B%":9,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Wang, Yan"
+    }
+]

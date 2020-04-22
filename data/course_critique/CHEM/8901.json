@@ -1,0 +1,65 @@
+[
+    {
+        "GPA":3.77,
+        "A%":68,
+        "B%":5,
+        "C%":9,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Brown, Kenneth"
+    },
+    {
+        "GPA":3.99,
+        "A%":68,
+        "B%":1,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Collard, David"
+    },
+    {
+        "GPA":3.88,
+        "A%":61,
+        "B%":13,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Harvey, Stephen"
+    },
+    {
+        "GPA":2.0,
+        "A%":0,
+        "B%":0,
+        "C%":100,
+        "D%":0,
+        "F%":0,
+        "Professor":"Kroger, Nils"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Sadighi, Joseph"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Sherrill, Charles"
+    }
+]

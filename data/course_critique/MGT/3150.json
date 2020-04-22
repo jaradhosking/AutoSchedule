@@ -1,0 +1,155 @@
+[
+    {
+        "GPA":3.4,
+        "A%":51,
+        "B%":33,
+        "C%":10,
+        "D%":1,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.48,
+        "A%":51,
+        "B%":28,
+        "C%":4,
+        "D%":0,
+        "F%":2,
+        "Professor":"Anak Agung Istri, Shanti"
+    },
+    {
+        "GPA":3.48,
+        "A%":56,
+        "B%":32,
+        "C%":5,
+        "D%":1,
+        "F%":1,
+        "Professor":"Byars, Lloyd"
+    },
+    {
+        "GPA":3.46,
+        "A%":50,
+        "B%":39,
+        "C%":4,
+        "D%":0,
+        "F%":1,
+        "Professor":"Caldwell, Lee"
+    },
+    {
+        "GPA":3.32,
+        "A%":36,
+        "B%":59,
+        "C%":5,
+        "D%":0,
+        "F%":0,
+        "Professor":"DEyrames, Stanislas"
+    },
+    {
+        "GPA":3.7,
+        "A%":70,
+        "B%":31,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Dunn, Robert"
+    },
+    {
+        "GPA":3.13,
+        "A%":34,
+        "B%":41,
+        "C%":19,
+        "D%":1,
+        "F%":0,
+        "Professor":"Flury, Alan"
+    },
+    {
+        "GPA":3.4,
+        "A%":49,
+        "B%":33,
+        "C%":5,
+        "D%":0,
+        "F%":3,
+        "Professor":"Hawkins, Tracy"
+    },
+    {
+        "GPA":3.58,
+        "A%":54,
+        "B%":33,
+        "C%":2,
+        "D%":0,
+        "F%":0,
+        "Professor":"Jiang, Lin"
+    },
+    {
+        "GPA":3.69,
+        "A%":69,
+        "B%":31,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Li, Congshan"
+    },
+    {
+        "GPA":3.19,
+        "A%":36,
+        "B%":45,
+        "C%":13,
+        "D%":2,
+        "F%":0,
+        "Professor":"Milne, Stuart"
+    },
+    {
+        "GPA":3.94,
+        "A%":91,
+        "B%":7,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Nair-Reichert, Usha"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Rubinoff, Arnold"
+    },
+    {
+        "GPA":3.82,
+        "A%":82,
+        "B%":16,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"Todd, William"
+    },
+    {
+        "GPA":3.87,
+        "A%":87,
+        "B%":13,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Turner, James"
+    },
+    {
+        "GPA":3.22,
+        "A%":36,
+        "B%":46,
+        "C%":12,
+        "D%":1,
+        "F%":1,
+        "Professor":"Vantine, Peter"
+    },
+    {
+        "GPA":2.96,
+        "A%":22,
+        "B%":53,
+        "C%":21,
+        "D%":2,
+        "F%":0,
+        "Professor":"Welch, H"
+    }
+]

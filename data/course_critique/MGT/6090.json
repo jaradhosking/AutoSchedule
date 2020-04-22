@@ -1,0 +1,47 @@
+[
+    {
+        "GPA":3.65,
+        "A%":63,
+        "B%":27,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.7,
+        "A%":68,
+        "B%":25,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Chava, Sudheer"
+    },
+    {
+        "GPA":3.37,
+        "A%":33,
+        "B%":47,
+        "C%":1,
+        "D%":1,
+        "F%":0,
+        "Professor":"Khorana, Ajay"
+    },
+    {
+        "GPA":3.66,
+        "A%":62,
+        "B%":27,
+        "C%":2,
+        "D%":0,
+        "F%":0,
+        "Professor":"Marchman, Barry"
+    },
+    {
+        "GPA":3.45,
+        "A%":44,
+        "B%":34,
+        "C%":4,
+        "D%":0,
+        "F%":1,
+        "Professor":"Nayak, Subhankar"
+    }
+]

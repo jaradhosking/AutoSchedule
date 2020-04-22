@@ -1,0 +1,38 @@
+[
+    {
+        "GPA":3.6,
+        "A%":66,
+        "B%":21,
+        "C%":9,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.62,
+        "A%":71,
+        "B%":17,
+        "C%":11,
+        "D%":0,
+        "F%":0,
+        "Professor":"Kostka, Joel"
+    },
+    {
+        "GPA":3.57,
+        "A%":57,
+        "B%":43,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Parks, Samantha"
+    },
+    {
+        "GPA":3.58,
+        "A%":64,
+        "B%":20,
+        "C%":10,
+        "D%":0,
+        "F%":0,
+        "Professor":"Sobecky, Patricia"
+    }
+]

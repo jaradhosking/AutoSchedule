@@ -1,0 +1,47 @@
+[
+    {
+        "GPA":3.37,
+        "A%":46,
+        "B%":39,
+        "C%":10,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.74,
+        "A%":78,
+        "B%":15,
+        "C%":4,
+        "D%":0,
+        "F%":1,
+        "Professor":"Brown, Joseph"
+    },
+    {
+        "GPA":3.19,
+        "A%":30,
+        "B%":57,
+        "C%":11,
+        "D%":0,
+        "F%":0,
+        "Professor":"Loeffler, Frank"
+    },
+    {
+        "GPA":3.38,
+        "A%":49,
+        "B%":30,
+        "C%":13,
+        "D%":0,
+        "F%":0,
+        "Professor":"Pavlostathis, Spyros"
+    },
+    {
+        "GPA":3.3,
+        "A%":40,
+        "B%":48,
+        "C%":9,
+        "D%":0,
+        "F%":1,
+        "Professor":"Spain, Jim"
+    }
+]

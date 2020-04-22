@@ -1,0 +1,65 @@
+[
+    {
+        "GPA":3.27,
+        "A%":45,
+        "B%":29,
+        "C%":14,
+        "D%":1,
+        "F%":1,
+        "Professor":"All"
+    },
+    {
+        "GPA":2.89,
+        "A%":27,
+        "B%":28,
+        "C%":34,
+        "D%":2,
+        "F%":0,
+        "Professor":"Allen, Phillip"
+    },
+    {
+        "GPA":3.14,
+        "A%":29,
+        "B%":41,
+        "C%":15,
+        "D%":0,
+        "F%":1,
+        "Professor":"Ghovanloo, Maysam"
+    },
+    {
+        "GPA":3.5,
+        "A%":47,
+        "B%":47,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Hasler, Jennifer"
+    },
+    {
+        "GPA":3.12,
+        "A%":32,
+        "B%":34,
+        "C%":18,
+        "D%":1,
+        "F%":1,
+        "Professor":"Hasler, Paul"
+    },
+    {
+        "GPA":3.71,
+        "A%":85,
+        "B%":7,
+        "C%":4,
+        "D%":0,
+        "F%":4,
+        "Professor":"Hunt, William"
+    },
+    {
+        "GPA":3.12,
+        "A%":39,
+        "B%":27,
+        "C%":17,
+        "D%":6,
+        "F%":0,
+        "Professor":"Rincon-Mora, Gabriel"
+    }
+]

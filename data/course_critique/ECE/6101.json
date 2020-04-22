@@ -1,0 +1,83 @@
+[
+    {
+        "GPA":3.66,
+        "A%":69,
+        "B%":25,
+        "C%":3,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.44,
+        "A%":46,
+        "B%":41,
+        "C%":5,
+        "D%":0,
+        "F%":1,
+        "Professor":"Blough, Douglas"
+    },
+    {
+        "GPA":3.76,
+        "A%":79,
+        "B%":18,
+        "C%":3,
+        "D%":0,
+        "F%":0,
+        "Professor":"Hong, Bo"
+    },
+    {
+        "GPA":3.09,
+        "A%":19,
+        "B%":69,
+        "C%":7,
+        "D%":2,
+        "F%":0,
+        "Professor":"Jain, Ramesh"
+    },
+    {
+        "GPA":3.7,
+        "A%":71,
+        "B%":30,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Kim, Jongman"
+    },
+    {
+        "GPA":3.75,
+        "A%":75,
+        "B%":25,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Loper, Margaret"
+    },
+    {
+        "GPA":3.71,
+        "A%":70,
+        "B%":27,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"Poovey, Jason"
+    },
+    {
+        "GPA":3.76,
+        "A%":76,
+        "B%":16,
+        "C%":2,
+        "D%":0,
+        "F%":1,
+        "Professor":"Schimmel, David"
+    },
+    {
+        "GPA":3.94,
+        "A%":94,
+        "B%":6,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Wolf, Wayne"
+    }
+]

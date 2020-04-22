@@ -1,0 +1,47 @@
+[
+    {
+        "GPA":3.32,
+        "A%":36,
+        "B%":45,
+        "C%":7,
+        "D%":1,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.38,
+        "A%":63,
+        "B%":25,
+        "C%":0,
+        "D%":13,
+        "F%":0,
+        "Professor":"Abdelfattah, Heba"
+    },
+    {
+        "GPA":3.0,
+        "A%":14,
+        "B%":71,
+        "C%":14,
+        "D%":0,
+        "F%":0,
+        "Professor":"Elbousty, Moulay"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Marcus, David"
+    },
+    {
+        "GPA":3.62,
+        "A%":46,
+        "B%":21,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Nassereddine, Ragheda"
+    }
+]

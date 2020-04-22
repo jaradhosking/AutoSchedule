@@ -1,0 +1,56 @@
+[
+    {
+        "GPA":3.72,
+        "A%":72,
+        "B%":22,
+        "C%":2,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.81,
+        "A%":77,
+        "B%":19,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Garrow, Laurie"
+    },
+    {
+        "GPA":3.71,
+        "A%":71,
+        "B%":18,
+        "C%":4,
+        "D%":0,
+        "F%":0,
+        "Professor":"Laval, Jorge"
+    },
+    {
+        "GPA":3.73,
+        "A%":66,
+        "B%":24,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Mokhtarian, Patricia"
+    },
+    {
+        "GPA":3.59,
+        "A%":63,
+        "B%":31,
+        "C%":3,
+        "D%":0,
+        "F%":1,
+        "Professor":"Rodgers, Michael"
+    },
+    {
+        "GPA":3.76,
+        "A%":76,
+        "B%":24,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Washington, Simon"
+    }
+]

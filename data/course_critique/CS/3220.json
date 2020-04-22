@@ -1,0 +1,74 @@
+[
+    {
+        "GPA":3.3,
+        "A%":57,
+        "B%":21,
+        "C%":11,
+        "D%":3,
+        "F%":3,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.92,
+        "A%":93,
+        "B%":3,
+        "C%":0,
+        "D%":0,
+        "F%":2,
+        "Professor":"Conte, Thomas"
+    },
+    {
+        "GPA":3.79,
+        "A%":84,
+        "B%":7,
+        "C%":5,
+        "D%":0,
+        "F%":1,
+        "Professor":"Esmaeilzadeh, Hadi"
+    },
+    {
+        "GPA":3.76,
+        "A%":80,
+        "B%":15,
+        "C%":4,
+        "D%":0,
+        "F%":1,
+        "Professor":"Kim, Hyesoon"
+    },
+    {
+        "GPA":3.3,
+        "A%":45,
+        "B%":39,
+        "C%":11,
+        "D%":0,
+        "F%":2,
+        "Professor":"Loh, Gabriel"
+    },
+    {
+        "GPA":3.57,
+        "A%":62,
+        "B%":19,
+        "C%":10,
+        "D%":0,
+        "F%":0,
+        "Professor":"Mackenzie, Kenneth"
+    },
+    {
+        "GPA":2.5,
+        "A%":12,
+        "B%":32,
+        "C%":21,
+        "D%":6,
+        "F%":6,
+        "Professor":"Manolios, Panagiotis"
+    },
+    {
+        "GPA":2.92,
+        "A%":41,
+        "B%":25,
+        "C%":18,
+        "D%":6,
+        "F%":6,
+        "Professor":"Prvulovic, Milos"
+    }
+]

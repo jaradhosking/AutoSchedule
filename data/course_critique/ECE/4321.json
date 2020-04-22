@@ -1,0 +1,65 @@
+[
+    {
+        "GPA":3.4,
+        "A%":52,
+        "B%":34,
+        "C%":9,
+        "D%":0,
+        "F%":1,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.1,
+        "A%":39,
+        "B%":31,
+        "C%":27,
+        "D%":0,
+        "F%":0,
+        "Professor":"Begovic, Miroslav"
+    },
+    {
+        "GPA":3.5,
+        "A%":65,
+        "B%":15,
+        "C%":0,
+        "D%":0,
+        "F%":5,
+        "Professor":"Graber, Lukas"
+    },
+    {
+        "GPA":3.73,
+        "A%":76,
+        "B%":19,
+        "C%":4,
+        "D%":0,
+        "F%":0,
+        "Professor":"Grijalva, Carlos"
+    },
+    {
+        "GPA":3.35,
+        "A%":52,
+        "B%":30,
+        "C%":15,
+        "D%":0,
+        "F%":1,
+        "Professor":"Harley, Ronald"
+    },
+    {
+        "GPA":3.34,
+        "A%":46,
+        "B%":43,
+        "C%":6,
+        "D%":1,
+        "F%":2,
+        "Professor":"Meliopoulos, A"
+    },
+    {
+        "GPA":2.96,
+        "A%":10,
+        "B%":77,
+        "C%":14,
+        "D%":0,
+        "F%":0,
+        "Professor":"Molzahn, Daniel"
+    }
+]

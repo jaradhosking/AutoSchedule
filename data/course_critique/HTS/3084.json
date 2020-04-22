@@ -1,0 +1,47 @@
+[
+    {
+        "GPA":3.11,
+        "A%":31,
+        "B%":39,
+        "C%":11,
+        "D%":3,
+        "F%":2,
+        "Professor":"All"
+    },
+    {
+        "GPA":2.98,
+        "A%":26,
+        "B%":37,
+        "C%":22,
+        "D%":4,
+        "F%":0,
+        "Professor":"Allen, Michael"
+    },
+    {
+        "GPA":3.26,
+        "A%":37,
+        "B%":40,
+        "C%":7,
+        "D%":2,
+        "F%":2,
+        "Professor":"Macrakis, Kristie"
+    },
+    {
+        "GPA":3.02,
+        "A%":33,
+        "B%":33,
+        "C%":13,
+        "D%":2,
+        "F%":6,
+        "Professor":"Usselman, Steven"
+    },
+    {
+        "GPA":2.95,
+        "A%":15,
+        "B%":56,
+        "C%":4,
+        "D%":7,
+        "F%":0,
+        "Professor":"Zeller, Thomas"
+    }
+]

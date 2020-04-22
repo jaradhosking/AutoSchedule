@@ -1,0 +1,38 @@
+[
+    {
+        "GPA":3.29,
+        "A%":59,
+        "B%":18,
+        "C%":14,
+        "D%":6,
+        "F%":2,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.3,
+        "A%":58,
+        "B%":21,
+        "C%":11,
+        "D%":7,
+        "F%":1,
+        "Professor":"Grodzinsky, Klara"
+    },
+    {
+        "GPA":3.52,
+        "A%":71,
+        "B%":10,
+        "C%":19,
+        "D%":0,
+        "F%":0,
+        "Professor":"Hoyer, Alexander"
+    },
+    {
+        "GPA":3.04,
+        "A%":50,
+        "B%":19,
+        "C%":19,
+        "D%":8,
+        "F%":4,
+        "Professor":"Tate, Reuben"
+    }
+]

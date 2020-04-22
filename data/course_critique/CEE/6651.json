@@ -1,0 +1,29 @@
+[
+    {
+        "GPA":3.55,
+        "A%":61,
+        "B%":29,
+        "C%":2,
+        "D%":0,
+        "F%":1,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.5,
+        "A%":59,
+        "B%":30,
+        "C%":2,
+        "D%":0,
+        "F%":2,
+        "Professor":"Amekudzi, Adjo"
+    },
+    {
+        "GPA":3.66,
+        "A%":67,
+        "B%":26,
+        "C%":3,
+        "D%":0,
+        "F%":0,
+        "Professor":"Amekudzi-Kennedy, Adjo"
+    }
+]

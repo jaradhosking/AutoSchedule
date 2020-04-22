@@ -1,0 +1,38 @@
+[
+    {
+        "GPA":3.49,
+        "A%":54,
+        "B%":32,
+        "C%":7,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.8,
+        "A%":80,
+        "B%":20,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Cardelino, Carlos"
+    },
+    {
+        "GPA":3.51,
+        "A%":53,
+        "B%":27,
+        "C%":6,
+        "D%":0,
+        "F%":0,
+        "Professor":"Russell, Armistead"
+    },
+    {
+        "GPA":3.45,
+        "A%":53,
+        "B%":35,
+        "C%":8,
+        "D%":1,
+        "F%":0,
+        "Professor":"Weber, Rodney"
+    }
+]

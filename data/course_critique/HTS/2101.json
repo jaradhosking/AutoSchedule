@@ -1,0 +1,47 @@
+[
+    {
+        "GPA":3.34,
+        "A%":59,
+        "B%":22,
+        "C%":10,
+        "D%":3,
+        "F%":3,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.62,
+        "A%":76,
+        "B%":7,
+        "C%":10,
+        "D%":0,
+        "F%":3,
+        "Professor":"Amsterdam, Daniel"
+    },
+    {
+        "GPA":3.71,
+        "A%":75,
+        "B%":0,
+        "C%":13,
+        "D%":0,
+        "F%":0,
+        "Professor":"Bier, Laura"
+    },
+    {
+        "GPA":3.45,
+        "A%":60,
+        "B%":27,
+        "C%":5,
+        "D%":2,
+        "F%":2,
+        "Professor":"Flamming, Douglas"
+    },
+    {
+        "GPA":3.06,
+        "A%":49,
+        "B%":25,
+        "C%":16,
+        "D%":6,
+        "F%":5,
+        "Professor":"Winders, William"
+    }
+]

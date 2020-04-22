@@ -1,0 +1,56 @@
+[
+    {
+        "GPA":3.44,
+        "A%":49,
+        "B%":44,
+        "C%":5,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.38,
+        "A%":38,
+        "B%":62,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Agrawal, Pradeep"
+    },
+    {
+        "GPA":3.29,
+        "A%":43,
+        "B%":44,
+        "C%":9,
+        "D%":2,
+        "F%":1,
+        "Professor":"Filler, Michael"
+    },
+    {
+        "GPA":3.45,
+        "A%":49,
+        "B%":44,
+        "C%":5,
+        "D%":0,
+        "F%":0,
+        "Professor":"Jones, Christopher"
+    },
+    {
+        "GPA":3.47,
+        "A%":51,
+        "B%":43,
+        "C%":5,
+        "D%":0,
+        "F%":0,
+        "Professor":"Sievers, Carsten"
+    },
+    {
+        "GPA":3.59,
+        "A%":58,
+        "B%":39,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"White, Mark"
+    }
+]

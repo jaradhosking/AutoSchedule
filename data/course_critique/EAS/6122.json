@@ -1,0 +1,74 @@
+[
+    {
+        "GPA":3.54,
+        "A%":60,
+        "B%":28,
+        "C%":3,
+        "D%":1,
+        "F%":1,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.75,
+        "A%":60,
+        "B%":20,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Chameides, William"
+    },
+    {
+        "GPA":3.83,
+        "A%":83,
+        "B%":17,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Dickinson, Robert"
+    },
+    {
+        "GPA":3.8,
+        "A%":93,
+        "B%":0,
+        "C%":0,
+        "D%":7,
+        "F%":0,
+        "Professor":"Glass, Jennifer"
+    },
+    {
+        "GPA":3.71,
+        "A%":71,
+        "B%":29,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Ito, Takamitsu"
+    },
+    {
+        "GPA":3.25,
+        "A%":17,
+        "B%":42,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Perdue, E"
+    },
+    {
+        "GPA":3.69,
+        "A%":77,
+        "B%":17,
+        "C%":0,
+        "D%":0,
+        "F%":3,
+        "Professor":"Tan, David"
+    },
+    {
+        "GPA":2.93,
+        "A%":26,
+        "B%":44,
+        "C%":17,
+        "D%":3,
+        "F%":3,
+        "Professor":"Van Cappellen, Philippe"
+    }
+]

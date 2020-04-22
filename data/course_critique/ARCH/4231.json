@@ -1,0 +1,74 @@
+[
+    {
+        "GPA":3.3,
+        "A%":47,
+        "B%":33,
+        "C%":12,
+        "D%":2,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.29,
+        "A%":48,
+        "B%":28,
+        "C%":16,
+        "D%":1,
+        "F%":0,
+        "Professor":"Brown, Jason"
+    },
+    {
+        "GPA":3.46,
+        "A%":53,
+        "B%":36,
+        "C%":5,
+        "D%":2,
+        "F%":0,
+        "Professor":"Choudhary, Ruchi"
+    },
+    {
+        "GPA":3.6,
+        "A%":59,
+        "B%":39,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Jarrett, Christopher"
+    },
+    {
+        "GPA":3.16,
+        "A%":25,
+        "B%":50,
+        "C%":11,
+        "D%":0,
+        "F%":0,
+        "Professor":"Lewis, Stuart"
+    },
+    {
+        "GPA":3.14,
+        "A%":33,
+        "B%":50,
+        "C%":15,
+        "D%":2,
+        "F%":0,
+        "Professor":"Messadi, Tahar"
+    },
+    {
+        "GPA":2.5,
+        "A%":33,
+        "B%":0,
+        "C%":0,
+        "D%":33,
+        "F%":0,
+        "Professor":"Rakha, Tarek"
+    },
+    {
+        "GPA":3.71,
+        "A%":71,
+        "B%":29,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Sami, Vikram"
+    }
+]

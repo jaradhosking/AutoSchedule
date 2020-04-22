@@ -1,0 +1,47 @@
+[
+    {
+        "GPA":3.53,
+        "A%":60,
+        "B%":12,
+        "C%":7,
+        "D%":4,
+        "F%":1,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.47,
+        "A%":54,
+        "B%":35,
+        "C%":6,
+        "D%":2,
+        "F%":0,
+        "Professor":"German, Brian"
+    },
+    {
+        "GPA":2.0,
+        "A%":0,
+        "B%":25,
+        "C%":50,
+        "D%":25,
+        "F%":0,
+        "Professor":"Jagoda, Jechiel"
+    },
+    {
+        "GPA":2.56,
+        "A%":27,
+        "B%":7,
+        "C%":7,
+        "D%":13,
+        "F%":7,
+        "Professor":"Ruffin, Stephen"
+    },
+    {
+        "GPA":3.97,
+        "A%":77,
+        "B%":2,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Saleh, Joseph"
+    }
+]

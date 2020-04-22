@@ -1,0 +1,65 @@
+[
+    {
+        "GPA":3.18,
+        "A%":48,
+        "B%":29,
+        "C%":15,
+        "D%":1,
+        "F%":5,
+        "Professor":"All"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Bauchspies, Wenda"
+    },
+    {
+        "GPA":3.13,
+        "A%":47,
+        "B%":33,
+        "C%":13,
+        "D%":0,
+        "F%":7,
+        "Professor":"Giebelhaus Jr, August"
+    },
+    {
+        "GPA":3.46,
+        "A%":54,
+        "B%":38,
+        "C%":8,
+        "D%":0,
+        "F%":0,
+        "Professor":"Macrakis, Kristie"
+    },
+    {
+        "GPA":4.0,
+        "A%":80,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Tone, John"
+    },
+    {
+        "GPA":3.0,
+        "A%":39,
+        "B%":33,
+        "C%":20,
+        "D%":2,
+        "F%":6,
+        "Professor":"Usselman, Steven"
+    },
+    {
+        "GPA":3.17,
+        "A%":46,
+        "B%":31,
+        "C%":8,
+        "D%":0,
+        "F%":8,
+        "Professor":"Zeller, Thomas"
+    }
+]

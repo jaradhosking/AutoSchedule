@@ -1,0 +1,47 @@
+[
+    {
+        "GPA":3.56,
+        "A%":56,
+        "B%":20,
+        "C%":4,
+        "D%":1,
+        "F%":1,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.56,
+        "A%":64,
+        "B%":17,
+        "C%":12,
+        "D%":0,
+        "F%":0,
+        "Professor":"Dellaert, Frank"
+    },
+    {
+        "GPA":3.52,
+        "A%":54,
+        "B%":26,
+        "C%":6,
+        "D%":1,
+        "F%":1,
+        "Professor":"Goel, Ashok"
+    },
+    {
+        "GPA":3.53,
+        "A%":52,
+        "B%":21,
+        "C%":4,
+        "D%":1,
+        "F%":1,
+        "Professor":"Starner, Thad"
+    },
+    {
+        "GPA":3.96,
+        "A%":96,
+        "B%":4,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Zha, Hongyuan"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "GPA":3.94,
+        "A%":75,
+        "B%":5,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":4.0,
+        "A%":67,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Augenbroe, Godfried"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Case, James"
+    },
+    {
+        "GPA":3.9,
+        "A%":75,
+        "B%":9,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Gentry, T"
+    },
+    {
+        "GPA":3.9,
+        "A%":60,
+        "B%":7,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Park, Cheol-Soo"
+    }
+]

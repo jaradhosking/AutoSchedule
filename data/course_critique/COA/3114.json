@@ -1,0 +1,29 @@
+[
+    {
+        "GPA":3.69,
+        "A%":70,
+        "B%":30,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.82,
+        "A%":82,
+        "B%":19,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Dowling, Elizabeth"
+    },
+    {
+        "GPA":3.68,
+        "A%":69,
+        "B%":31,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Economou, Athanassios"
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "GPA":3.48,
+        "A%":56,
+        "B%":36,
+        "C%":8,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.54,
+        "A%":63,
+        "B%":26,
+        "C%":10,
+        "D%":0,
+        "F%":0,
+        "Professor":"Montreuil, Benoit"
+    },
+    {
+        "GPA":3.17,
+        "A%":17,
+        "B%":83,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Rey-Marston, Maria"
+    }
+]

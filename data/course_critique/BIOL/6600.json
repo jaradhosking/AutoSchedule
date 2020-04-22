@@ -1,0 +1,47 @@
+[
+    {
+        "GPA":3.72,
+        "A%":69,
+        "B%":24,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.6,
+        "A%":60,
+        "B%":40,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Brockett, Mirjana"
+    },
+    {
+        "GPA":4.0,
+        "A%":90,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Brown, Samuel"
+    },
+    {
+        "GPA":3.57,
+        "A%":57,
+        "B%":43,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Milosevic-Brockett, Mirjana"
+    },
+    {
+        "GPA":3.64,
+        "A%":63,
+        "B%":27,
+        "C%":3,
+        "D%":0,
+        "F%":0,
+        "Professor":"Streelman, Jeffrey"
+    }
+]

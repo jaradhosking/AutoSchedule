@@ -1,0 +1,29 @@
+[
+    {
+        "GPA":2.94,
+        "A%":10,
+        "B%":74,
+        "C%":17,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":2.67,
+        "A%":0,
+        "B%":67,
+        "C%":33,
+        "D%":0,
+        "F%":0,
+        "Professor":"Ferrier, Kenneth"
+    },
+    {
+        "GPA":3.2,
+        "A%":20,
+        "B%":80,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Taillefert, Martial"
+    }
+]

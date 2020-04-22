@@ -1,0 +1,65 @@
+[
+    {
+        "GPA":3.47,
+        "A%":48,
+        "B%":28,
+        "C%":3,
+        "D%":0,
+        "F%":2,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.48,
+        "A%":42,
+        "B%":35,
+        "C%":4,
+        "D%":0,
+        "F%":0,
+        "Professor":"Bredas, Jean-Luc"
+    },
+    {
+        "GPA":3.61,
+        "A%":54,
+        "B%":30,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Brown, Kenneth"
+    },
+    {
+        "GPA":3.33,
+        "A%":52,
+        "B%":18,
+        "C%":4,
+        "D%":0,
+        "F%":8,
+        "Professor":"Dickson, Robert"
+    },
+    {
+        "GPA":3.71,
+        "A%":63,
+        "B%":25,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Hernandez, Rigoberto"
+    },
+    {
+        "GPA":3.5,
+        "A%":36,
+        "B%":23,
+        "C%":5,
+        "D%":0,
+        "F%":0,
+        "Professor":"Orlando, Thomas"
+    },
+    {
+        "GPA":3.39,
+        "A%":39,
+        "B%":42,
+        "C%":6,
+        "D%":0,
+        "F%":0,
+        "Professor":"Sherrill, Charles"
+    }
+]

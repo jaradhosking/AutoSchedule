@@ -1,0 +1,29 @@
+[
+    {
+        "GPA":3.83,
+        "A%":85,
+        "B%":14,
+        "C%":2,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.96,
+        "A%":96,
+        "B%":4,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Chininis, Stephen"
+    },
+    {
+        "GPA":3.43,
+        "A%":50,
+        "B%":44,
+        "C%":7,
+        "D%":0,
+        "F%":0,
+        "Professor":"Velazquez, Herb"
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "GPA":3.38,
+        "A%":52,
+        "B%":34,
+        "C%":8,
+        "D%":2,
+        "F%":1,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.5,
+        "A%":58,
+        "B%":37,
+        "C%":3,
+        "D%":1,
+        "F%":1,
+        "Professor":"Di Leo, Claudio"
+    },
+    {
+        "GPA":3.47,
+        "A%":57,
+        "B%":36,
+        "C%":6,
+        "D%":1,
+        "F%":1,
+        "Professor":"Jagoda, Jechiel"
+    },
+    {
+        "GPA":3.17,
+        "A%":36,
+        "B%":47,
+        "C%":14,
+        "D%":0,
+        "F%":2,
+        "Professor":"Kennedy, Graeme"
+    },
+    {
+        "GPA":3.37,
+        "A%":53,
+        "B%":26,
+        "C%":8,
+        "D%":5,
+        "F%":1,
+        "Professor":"Seitzman, Jerry"
+    },
+    {
+        "GPA":3.42,
+        "A%":52,
+        "B%":36,
+        "C%":7,
+        "D%":0,
+        "F%":1,
+        "Professor":"Walker II, Mitchell"
+    }
+]

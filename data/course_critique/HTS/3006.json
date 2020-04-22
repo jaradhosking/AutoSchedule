@@ -1,0 +1,38 @@
+[
+    {
+        "GPA":3.68,
+        "A%":67,
+        "B%":25,
+        "C%":1,
+        "D%":0,
+        "F%":1,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.73,
+        "A%":73,
+        "B%":25,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"Flamming, Douglas"
+    },
+    {
+        "GPA":3.51,
+        "A%":54,
+        "B%":31,
+        "C%":2,
+        "D%":0,
+        "F%":2,
+        "Professor":"Hild, Matthew"
+    },
+    {
+        "GPA":3.82,
+        "A%":69,
+        "B%":15,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Michney, Todd"
+    }
+]

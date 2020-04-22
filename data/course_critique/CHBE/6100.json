@@ -1,0 +1,47 @@
+[
+    {
+        "GPA":3.38,
+        "A%":42,
+        "B%":51,
+        "C%":4,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.4,
+        "A%":44,
+        "B%":49,
+        "C%":5,
+        "D%":0,
+        "F%":0,
+        "Professor":"Eckert, Charles"
+    },
+    {
+        "GPA":3.54,
+        "A%":56,
+        "B%":37,
+        "C%":4,
+        "D%":0,
+        "F%":0,
+        "Professor":"Fuller, Thomas"
+    },
+    {
+        "GPA":3.53,
+        "A%":57,
+        "B%":39,
+        "C%":4,
+        "D%":0,
+        "F%":0,
+        "Professor":"Meredith, James"
+    },
+    {
+        "GPA":3.27,
+        "A%":32,
+        "B%":63,
+        "C%":4,
+        "D%":0,
+        "F%":1,
+        "Professor":"Teja, Amyn"
+    }
+]

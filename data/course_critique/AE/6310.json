@@ -1,0 +1,38 @@
+[
+    {
+        "GPA":3.64,
+        "A%":64,
+        "B%":27,
+        "C%":4,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.66,
+        "A%":64,
+        "B%":30,
+        "C%":2,
+        "D%":0,
+        "F%":0,
+        "Professor":"Kennedy, Graeme"
+    },
+    {
+        "GPA":3.41,
+        "A%":48,
+        "B%":31,
+        "C%":11,
+        "D%":0,
+        "F%":0,
+        "Professor":"Lightsey, Edgar"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Lim, Dongwook"
+    }
+]

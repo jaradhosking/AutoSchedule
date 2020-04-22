@@ -1,0 +1,47 @@
+[
+    {
+        "GPA":3.76,
+        "A%":66,
+        "B%":22,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":4.0,
+        "A%":63,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Chang, Yih-Long"
+    },
+    {
+        "GPA":3.71,
+        "A%":71,
+        "B%":29,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Kavadias, Stylianos"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Subramanian, Ravi"
+    },
+    {
+        "GPA":3.33,
+        "A%":29,
+        "B%":57,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Toktay-Tsiotras, Latife"
+    }
+]

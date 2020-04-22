@@ -1,0 +1,38 @@
+[
+    {
+        "GPA":3.66,
+        "A%":66,
+        "B%":34,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.54,
+        "A%":54,
+        "B%":46,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Blough, Douglas"
+    },
+    {
+        "GPA":3.88,
+        "A%":88,
+        "B%":13,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Koblasz, Arthur"
+    },
+    {
+        "GPA":3.57,
+        "A%":57,
+        "B%":43,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Malassenet, Francois"
+    }
+]

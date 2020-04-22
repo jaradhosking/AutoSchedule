@@ -1,0 +1,56 @@
+[
+    {
+        "GPA":3.26,
+        "A%":38,
+        "B%":45,
+        "C%":13,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.33,
+        "A%":56,
+        "B%":22,
+        "C%":22,
+        "D%":0,
+        "F%":0,
+        "Professor":"Butera, Robert"
+    },
+    {
+        "GPA":3.29,
+        "A%":44,
+        "B%":43,
+        "C%":15,
+        "D%":0,
+        "F%":0,
+        "Professor":"DeWeerth, Stephen"
+    },
+    {
+        "GPA":3.14,
+        "A%":29,
+        "B%":57,
+        "C%":14,
+        "D%":0,
+        "F%":0,
+        "Professor":"Furman, Michael"
+    },
+    {
+        "GPA":3.31,
+        "A%":30,
+        "B%":68,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Inan, Omer"
+    },
+    {
+        "GPA":3.22,
+        "A%":41,
+        "B%":32,
+        "C%":21,
+        "D%":0,
+        "F%":0,
+        "Professor":"Koblasz, Arthur"
+    }
+]

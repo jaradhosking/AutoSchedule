@@ -1,0 +1,47 @@
+[
+    {
+        "GPA":3.64,
+        "A%":65,
+        "B%":33,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.59,
+        "A%":59,
+        "B%":41,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Ceccagnoli, Marco"
+    },
+    {
+        "GPA":3.98,
+        "A%":98,
+        "B%":3,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Giuliano, Jonathan"
+    },
+    {
+        "GPA":3.49,
+        "A%":49,
+        "B%":49,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Lee, Jeongsik"
+    },
+    {
+        "GPA":3.66,
+        "A%":68,
+        "B%":29,
+        "C%":2,
+        "D%":0,
+        "F%":0,
+        "Professor":"Rothaermel, Frank"
+    }
+]

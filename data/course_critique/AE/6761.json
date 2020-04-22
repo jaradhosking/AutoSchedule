@@ -1,0 +1,47 @@
+[
+    {
+        "GPA":3.86,
+        "A%":59,
+        "B%":14,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.33,
+        "A%":33,
+        "B%":67,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Berthelot, Yves"
+    },
+    {
+        "GPA":3.75,
+        "A%":75,
+        "B%":25,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Ginsberg, Jerry"
+    },
+    {
+        "GPA":3.84,
+        "A%":75,
+        "B%":13,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Hastings, Mardi"
+    },
+    {
+        "GPA":3.96,
+        "A%":52,
+        "B%":4,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Sabra, Karim"
+    }
+]

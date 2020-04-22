@@ -1,0 +1,38 @@
+[
+    {
+        "GPA":3.36,
+        "A%":36,
+        "B%":50,
+        "C%":3,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.4,
+        "A%":39,
+        "B%":48,
+        "C%":3,
+        "D%":0,
+        "F%":0,
+        "Professor":"Ferri, Aldo"
+    },
+    {
+        "GPA":3.29,
+        "A%":32,
+        "B%":54,
+        "C%":3,
+        "D%":1,
+        "F%":0,
+        "Professor":"Ginsberg, Jerry"
+    },
+    {
+        "GPA":3.29,
+        "A%":36,
+        "B%":57,
+        "C%":7,
+        "D%":0,
+        "F%":0,
+        "Professor":"Papastavridis, John"
+    }
+]

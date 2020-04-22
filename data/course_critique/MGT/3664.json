@@ -1,0 +1,29 @@
+[
+    {
+        "GPA":3.66,
+        "A%":61,
+        "B%":32,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.67,
+        "A%":67,
+        "B%":33,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Venkataraman, Vijayaraghavan"
+    },
+    {
+        "GPA":3.64,
+        "A%":54,
+        "B%":31,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Zhang, Laurina"
+    }
+]

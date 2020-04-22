@@ -1,0 +1,47 @@
+[
+    {
+        "GPA":3.28,
+        "A%":42,
+        "B%":36,
+        "C%":10,
+        "D%":2,
+        "F%":1,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.2,
+        "A%":37,
+        "B%":42,
+        "C%":10,
+        "D%":2,
+        "F%":1,
+        "Professor":"Clarke, Jonathan"
+    },
+    {
+        "GPA":3.31,
+        "A%":44,
+        "B%":33,
+        "C%":11,
+        "D%":2,
+        "F%":0,
+        "Professor":"Dass, Nishant"
+    },
+    {
+        "GPA":3.37,
+        "A%":45,
+        "B%":32,
+        "C%":9,
+        "D%":1,
+        "F%":0,
+        "Professor":"Marchman, Barry"
+    },
+    {
+        "GPA":3.48,
+        "A%":52,
+        "B%":22,
+        "C%":4,
+        "D%":1,
+        "F%":3,
+        "Professor":"Narayanaswamy, Canchepuram"
+    }
+]

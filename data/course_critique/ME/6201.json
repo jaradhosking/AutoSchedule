@@ -1,0 +1,92 @@
+[
+    {
+        "GPA":3.64,
+        "A%":66,
+        "B%":24,
+        "C%":4,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Berthelot, Yves"
+    },
+    {
+        "GPA":3.87,
+        "A%":91,
+        "B%":4,
+        "C%":2,
+        "D%":1,
+        "F%":0,
+        "Professor":"Cherkaoui, Mohammed"
+    },
+    {
+        "GPA":3.41,
+        "A%":48,
+        "B%":28,
+        "C%":12,
+        "D%":0,
+        "F%":0,
+        "Professor":"Lynch, Christopher"
+    },
+    {
+        "GPA":3.42,
+        "A%":50,
+        "B%":37,
+        "C%":10,
+        "D%":0,
+        "F%":0,
+        "Professor":"McDowell, David"
+    },
+    {
+        "GPA":3.74,
+        "A%":78,
+        "B%":17,
+        "C%":4,
+        "D%":0,
+        "F%":0,
+        "Professor":"Patoor, Etienne"
+    },
+    {
+        "GPA":3.83,
+        "A%":80,
+        "B%":14,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"Qi, Hang"
+    },
+    {
+        "GPA":3.42,
+        "A%":41,
+        "B%":41,
+        "C%":4,
+        "D%":0,
+        "F%":0,
+        "Professor":"Qu, Jianmin"
+    },
+    {
+        "GPA":3.64,
+        "A%":61,
+        "B%":30,
+        "C%":1,
+        "D%":0,
+        "F%":1,
+        "Professor":"Zhou, Min"
+    },
+    {
+        "GPA":3.37,
+        "A%":53,
+        "B%":36,
+        "C%":5,
+        "D%":0,
+        "F%":4,
+        "Professor":"Zhu, Ting"
+    }
+]

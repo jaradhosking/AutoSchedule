@@ -1,0 +1,47 @@
+[
+    {
+        "GPA":3.46,
+        "A%":54,
+        "B%":14,
+        "C%":14,
+        "D%":1,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":2.75,
+        "A%":20,
+        "B%":20,
+        "C%":40,
+        "D%":0,
+        "F%":0,
+        "Professor":"Houssami, Rima"
+    },
+    {
+        "GPA":3.73,
+        "A%":63,
+        "B%":9,
+        "C%":4,
+        "D%":0,
+        "F%":0,
+        "Professor":"Marcus, David"
+    },
+    {
+        "GPA":3.43,
+        "A%":54,
+        "B%":13,
+        "C%":16,
+        "D%":1,
+        "F%":0,
+        "Professor":"Nassereddine, Ragheda"
+    },
+    {
+        "GPA":3.58,
+        "A%":58,
+        "B%":42,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Salem, Murad"
+    }
+]

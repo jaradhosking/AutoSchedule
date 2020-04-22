@@ -1,0 +1,65 @@
+[
+    {
+        "GPA":3.41,
+        "A%":47,
+        "B%":44,
+        "C%":3,
+        "D%":0,
+        "F%":1,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.57,
+        "A%":51,
+        "B%":39,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"Coogan, Samuel"
+    },
+    {
+        "GPA":3.22,
+        "A%":28,
+        "B%":65,
+        "C%":3,
+        "D%":2,
+        "F%":0,
+        "Professor":"Egerstedt, Magnus"
+    },
+    {
+        "GPA":3.34,
+        "A%":47,
+        "B%":35,
+        "C%":10,
+        "D%":3,
+        "F%":0,
+        "Professor":"Ferri, Bonnie"
+    },
+    {
+        "GPA":3.4,
+        "A%":50,
+        "B%":39,
+        "C%":2,
+        "D%":0,
+        "F%":3,
+        "Professor":"Taylor, David"
+    },
+    {
+        "GPA":3.48,
+        "A%":51,
+        "B%":43,
+        "C%":4,
+        "D%":0,
+        "F%":0,
+        "Professor":"Wardi, Yorai"
+    },
+    {
+        "GPA":3.59,
+        "A%":58,
+        "B%":40,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Zhang, Fumin"
+    }
+]

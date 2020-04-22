@@ -1,0 +1,38 @@
+[
+    {
+        "GPA":3.65,
+        "A%":59,
+        "B%":26,
+        "C%":1,
+        "D%":0,
+        "F%":1,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.5,
+        "A%":50,
+        "B%":42,
+        "C%":3,
+        "D%":0,
+        "F%":0,
+        "Professor":"Besedes, Tibor"
+    },
+    {
+        "GPA":3.0,
+        "A%":0,
+        "B%":100,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Klimenko, Mikhail"
+    },
+    {
+        "GPA":3.74,
+        "A%":66,
+        "B%":16,
+        "C%":0,
+        "D%":0,
+        "F%":1,
+        "Professor":"Nair-Reichert, Usha"
+    }
+]

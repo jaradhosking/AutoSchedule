@@ -1,0 +1,56 @@
+[
+    {
+        "GPA":2.88,
+        "A%":32,
+        "B%":36,
+        "C%":15,
+        "D%":9,
+        "F%":4,
+        "Professor":"All"
+    },
+    {
+        "GPA":2.57,
+        "A%":24,
+        "B%":33,
+        "C%":22,
+        "D%":12,
+        "F%":7,
+        "Professor":"Bottomley, Lawrence"
+    },
+    {
+        "GPA":2.95,
+        "A%":26,
+        "B%":43,
+        "C%":26,
+        "D%":3,
+        "F%":0,
+        "Professor":"Fernandez, Facundo"
+    },
+    {
+        "GPA":2.98,
+        "A%":37,
+        "B%":36,
+        "C%":12,
+        "D%":8,
+        "F%":4,
+        "Professor":"Janata, Jiri"
+    },
+    {
+        "GPA":3.26,
+        "A%":42,
+        "B%":41,
+        "C%":9,
+        "D%":2,
+        "F%":1,
+        "Professor":"Mizaikoff, Boris"
+    },
+    {
+        "GPA":2.75,
+        "A%":32,
+        "B%":28,
+        "C%":13,
+        "D%":19,
+        "F%":2,
+        "Professor":"Stockton, Amanda"
+    }
+]

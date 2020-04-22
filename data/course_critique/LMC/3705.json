@@ -1,0 +1,65 @@
+[
+    {
+        "GPA":3.54,
+        "A%":59,
+        "B%":34,
+        "C%":4,
+        "D%":1,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.42,
+        "A%":45,
+        "B%":49,
+        "C%":4,
+        "D%":0,
+        "F%":0,
+        "Professor":"Jafarinaimi, Nassim"
+    },
+    {
+        "GPA":3.37,
+        "A%":47,
+        "B%":42,
+        "C%":11,
+        "D%":0,
+        "F%":0,
+        "Professor":"Le Dantec, Christopher"
+    },
+    {
+        "GPA":3.39,
+        "A%":56,
+        "B%":33,
+        "C%":6,
+        "D%":6,
+        "F%":0,
+        "Professor":"Leibert, Mark"
+    },
+    {
+        "GPA":3.82,
+        "A%":78,
+        "B%":17,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Loukissas, Yanni"
+    },
+    {
+        "GPA":3.37,
+        "A%":40,
+        "B%":50,
+        "C%":5,
+        "D%":0,
+        "F%":0,
+        "Professor":"Nooney, Erica"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Schoemann, Sarah"
+    }
+]

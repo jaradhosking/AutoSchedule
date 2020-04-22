@@ -1,0 +1,29 @@
+[
+    {
+        "GPA":3.49,
+        "A%":65,
+        "B%":17,
+        "C%":17,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.33,
+        "A%":57,
+        "B%":17,
+        "C%":25,
+        "D%":0,
+        "F%":0,
+        "Professor":"Rozell, Chrisopher"
+    },
+    {
+        "GPA":3.82,
+        "A%":82,
+        "B%":18,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Rozell, Christopher"
+    }
+]

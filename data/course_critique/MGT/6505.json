@@ -1,0 +1,29 @@
+[
+    {
+        "GPA":3.64,
+        "A%":66,
+        "B%":33,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.56,
+        "A%":58,
+        "B%":40,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"Halloran, Timothy"
+    },
+    {
+        "GPA":3.92,
+        "A%":91,
+        "B%":9,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Rodriguez Vila, Omar"
+    }
+]

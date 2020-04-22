@@ -1,0 +1,38 @@
+[
+    {
+        "GPA":3.61,
+        "A%":59,
+        "B%":34,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.58,
+        "A%":54,
+        "B%":39,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Desai, Prateen"
+    },
+    {
+        "GPA":3.61,
+        "A%":59,
+        "B%":33,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"Ghiaasiaan, Seyed"
+    },
+    {
+        "GPA":3.75,
+        "A%":69,
+        "B%":23,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Mahan, James"
+    }
+]

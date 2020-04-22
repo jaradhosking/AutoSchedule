@@ -1,0 +1,29 @@
+[
+    {
+        "GPA":3.09,
+        "A%":18,
+        "B%":69,
+        "C%":10,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.05,
+        "A%":16,
+        "B%":70,
+        "C%":11,
+        "D%":0,
+        "F%":0,
+        "Professor":"Balog, Edward"
+    },
+    {
+        "GPA":3.22,
+        "A%":25,
+        "B%":67,
+        "C%":4,
+        "D%":0,
+        "F%":0,
+        "Professor":"Millard-Stafford, Melinda"
+    }
+]

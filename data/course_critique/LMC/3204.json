@@ -1,0 +1,56 @@
+[
+    {
+        "GPA":3.96,
+        "A%":93,
+        "B%":2,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.86,
+        "A%":87,
+        "B%":0,
+        "C%":7,
+        "D%":0,
+        "F%":0,
+        "Professor":"Denton, Travis"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Farris, Kathryn"
+    },
+    {
+        "GPA":3.91,
+        "A%":80,
+        "B%":7,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Leland, Blake"
+    },
+    {
+        "GPA":3.98,
+        "A%":96,
+        "B%":1,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Lux, Jennifer"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Lux, Thomas"
+    }
+]

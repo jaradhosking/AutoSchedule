@@ -1,0 +1,65 @@
+[
+    {
+        "GPA":3.23,
+        "A%":34,
+        "B%":48,
+        "C%":12,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.14,
+        "A%":28,
+        "B%":53,
+        "C%":15,
+        "D%":0,
+        "F%":0,
+        "Professor":"Deng, Shijie"
+    },
+    {
+        "GPA":2.98,
+        "A%":20,
+        "B%":56,
+        "C%":18,
+        "D%":2,
+        "F%":0,
+        "Professor":"Dieker, Antonius"
+    },
+    {
+        "GPA":3.9,
+        "A%":87,
+        "B%":10,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Goldsman, David"
+    },
+    {
+        "GPA":3.3,
+        "A%":19,
+        "B%":44,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Houdre, Christian"
+    },
+    {
+        "GPA":3.8,
+        "A%":67,
+        "B%":17,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Kertz, Robert"
+    },
+    {
+        "GPA":3.57,
+        "A%":57,
+        "B%":43,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Koltchinskii, Vladimir"
+    }
+]

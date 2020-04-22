@@ -1,0 +1,38 @@
+[
+    {
+        "GPA":3.59,
+        "A%":61,
+        "B%":34,
+        "C%":2,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.7,
+        "A%":72,
+        "B%":23,
+        "C%":1,
+        "D%":0,
+        "F%":1,
+        "Professor":"Contant, Cheryl"
+    },
+    {
+        "GPA":3.6,
+        "A%":60,
+        "B%":33,
+        "C%":2,
+        "D%":0,
+        "F%":0,
+        "Professor":"Drummond, William"
+    },
+    {
+        "GPA":3.38,
+        "A%":42,
+        "B%":54,
+        "C%":3,
+        "D%":1,
+        "F%":0,
+        "Professor":"Stiftel, Bruce"
+    }
+]

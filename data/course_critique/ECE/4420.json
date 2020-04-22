@@ -1,0 +1,56 @@
+[
+    {
+        "GPA":3.32,
+        "A%":44,
+        "B%":37,
+        "C%":10,
+        "D%":1,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":2.94,
+        "A%":27,
+        "B%":37,
+        "C%":31,
+        "D%":2,
+        "F%":0,
+        "Professor":"Allen, Phillip"
+    },
+    {
+        "GPA":3.38,
+        "A%":47,
+        "B%":28,
+        "C%":9,
+        "D%":1,
+        "F%":0,
+        "Professor":"Davis, Jeffrey"
+    },
+    {
+        "GPA":3.44,
+        "A%":44,
+        "B%":56,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Hasler, Paul"
+    },
+    {
+        "GPA":3.43,
+        "A%":47,
+        "B%":42,
+        "C%":6,
+        "D%":0,
+        "F%":0,
+        "Professor":"Mukhopadhyay, Saibal"
+    },
+    {
+        "GPA":3.07,
+        "A%":40,
+        "B%":30,
+        "C%":15,
+        "D%":4,
+        "F%":4,
+        "Professor":"Uyemura, John"
+    }
+]

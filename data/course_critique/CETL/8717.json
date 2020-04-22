@@ -1,0 +1,65 @@
+[
+    {
+        "GPA":4.0,
+        "A%":79,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":4.0,
+        "A%":87,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Jordan, Esther"
+    },
+    {
+        "GPA":4.0,
+        "A%":68,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"McCoy, Tammy"
+    },
+    {
+        "GPA":4.0,
+        "A%":44,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Poproski, Ruth"
+    },
+    {
+        "GPA":4.0,
+        "A%":50,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Sullivan, Carol"
+    },
+    {
+        "GPA":4.0,
+        "A%":93,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Williams, Damon"
+    },
+    {
+        "GPA":4.0,
+        "A%":54,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Williams, Katherine"
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "GPA":3.31,
+        "A%":41,
+        "B%":38,
+        "C%":6,
+        "D%":1,
+        "F%":2,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.14,
+        "A%":36,
+        "B%":40,
+        "C%":0,
+        "D%":0,
+        "F%":8,
+        "Professor":"Arocena, Felipe"
+    },
+    {
+        "GPA":3.34,
+        "A%":48,
+        "B%":24,
+        "C%":10,
+        "D%":2,
+        "F%":2,
+        "Professor":"Bowman, Kirk"
+    },
+    {
+        "GPA":3.36,
+        "A%":48,
+        "B%":36,
+        "C%":5,
+        "D%":0,
+        "F%":3,
+        "Professor":"Dion, Michelle"
+    },
+    {
+        "GPA":3.33,
+        "A%":38,
+        "B%":46,
+        "C%":4,
+        "D%":1,
+        "F%":1,
+        "Professor":"Lincoln, Jennie"
+    },
+    {
+        "GPA":3.14,
+        "A%":36,
+        "B%":34,
+        "C%":10,
+        "D%":3,
+        "F%":3,
+        "Professor":"Lynch, Barbara"
+    }
+]

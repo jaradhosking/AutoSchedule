@@ -1,0 +1,65 @@
+[
+    {
+        "GPA":3.64,
+        "A%":63,
+        "B%":27,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.87,
+        "A%":81,
+        "B%":13,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Decker, Adam"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Jang, Young"
+    },
+    {
+        "GPA":3.16,
+        "A%":17,
+        "B%":71,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Priloutski, Boris"
+    },
+    {
+        "GPA":3.8,
+        "A%":67,
+        "B%":17,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Prilutsky, Boris"
+    },
+    {
+        "GPA":3.7,
+        "A%":74,
+        "B%":12,
+        "C%":4,
+        "D%":1,
+        "F%":1,
+        "Professor":"Rosbruck, Michele"
+    },
+    {
+        "GPA":3.67,
+        "A%":67,
+        "B%":33,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Shinohara, Minoru"
+    }
+]

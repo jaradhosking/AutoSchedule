@@ -1,0 +1,38 @@
+[
+    {
+        "GPA":3.67,
+        "A%":57,
+        "B%":21,
+        "C%":3,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":4.0,
+        "A%":98,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Birchfield, Vicki"
+    },
+    {
+        "GPA":3.17,
+        "A%":20,
+        "B%":54,
+        "C%":7,
+        "D%":0,
+        "F%":0,
+        "Professor":"Brown, Scott"
+    },
+    {
+        "GPA":4.0,
+        "A%":50,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Young, Alasdair"
+    }
+]

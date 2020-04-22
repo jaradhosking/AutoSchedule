@@ -1,0 +1,56 @@
+[
+    {
+        "GPA":3.41,
+        "A%":45,
+        "B%":40,
+        "C%":4,
+        "D%":2,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.75,
+        "A%":67,
+        "B%":23,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Bunz, Uwe"
+    },
+    {
+        "GPA":3.32,
+        "A%":30,
+        "B%":65,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Fahrni, Christoph"
+    },
+    {
+        "GPA":3.46,
+        "A%":49,
+        "B%":36,
+        "C%":2,
+        "D%":2,
+        "F%":0,
+        "Professor":"Marder, Seth"
+    },
+    {
+        "GPA":3.38,
+        "A%":50,
+        "B%":41,
+        "C%":0,
+        "D%":0,
+        "F%":5,
+        "Professor":"Seley, Katherine"
+    },
+    {
+        "GPA":2.98,
+        "A%":19,
+        "B%":52,
+        "C%":15,
+        "D%":1,
+        "F%":1,
+        "Professor":"Weck, Marcus"
+    }
+]

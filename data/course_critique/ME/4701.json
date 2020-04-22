@@ -1,0 +1,29 @@
+[
+    {
+        "GPA":3.59,
+        "A%":71,
+        "B%":17,
+        "C%":4,
+        "D%":1,
+        "F%":4,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.53,
+        "A%":69,
+        "B%":19,
+        "C%":4,
+        "D%":1,
+        "F%":4,
+        "Professor":"Sankar, Lakshmi"
+    },
+    {
+        "GPA":4.0,
+        "A%":84,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Sankar, Narayanamoorthy"
+    }
+]

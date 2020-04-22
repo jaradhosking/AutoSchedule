@@ -1,0 +1,110 @@
+[
+    {
+        "GPA":3.46,
+        "A%":56,
+        "B%":27,
+        "C%":2,
+        "D%":0,
+        "F%":4,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.6,
+        "A%":64,
+        "B%":14,
+        "C%":4,
+        "D%":0,
+        "F%":4,
+        "Professor":"Adrian, John-Paul"
+    },
+    {
+        "GPA":3.14,
+        "A%":65,
+        "B%":2,
+        "C%":0,
+        "D%":0,
+        "F%":18,
+        "Professor":"Clark, Michael"
+    },
+    {
+        "GPA":3.79,
+        "A%":77,
+        "B%":10,
+        "C%":0,
+        "D%":0,
+        "F%":2,
+        "Professor":"Figueroa, Manolito"
+    },
+    {
+        "GPA":3.49,
+        "A%":51,
+        "B%":41,
+        "C%":5,
+        "D%":0,
+        "F%":0,
+        "Professor":"Helmbold, Adam"
+    },
+    {
+        "GPA":3.1,
+        "A%":23,
+        "B%":58,
+        "C%":4,
+        "D%":0,
+        "F%":4,
+        "Professor":"Meredith, Wesley"
+    },
+    {
+        "GPA":3.98,
+        "A%":94,
+        "B%":2,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Murray, Carlleen"
+    },
+    {
+        "GPA":3.48,
+        "A%":55,
+        "B%":12,
+        "C%":2,
+        "D%":1,
+        "F%":5,
+        "Professor":"Perera, Arthur"
+    },
+    {
+        "GPA":3.67,
+        "A%":75,
+        "B%":14,
+        "C%":1,
+        "D%":1,
+        "F%":3,
+        "Professor":"Smith, Marcus"
+    },
+    {
+        "GPA":3.58,
+        "A%":74,
+        "B%":15,
+        "C%":2,
+        "D%":0,
+        "F%":6,
+        "Professor":"Swanier, Aaron"
+    },
+    {
+        "GPA":3.26,
+        "A%":47,
+        "B%":35,
+        "C%":6,
+        "D%":0,
+        "F%":6,
+        "Professor":"Wade, Trevor"
+    },
+    {
+        "GPA":3.52,
+        "A%":51,
+        "B%":28,
+        "C%":2,
+        "D%":0,
+        "F%":2,
+        "Professor":"Watson, John"
+    }
+]

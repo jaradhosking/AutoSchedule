@@ -1,0 +1,92 @@
+[
+    {
+        "GPA":3.57,
+        "A%":63,
+        "B%":20,
+        "C%":10,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.66,
+        "A%":69,
+        "B%":18,
+        "C%":3,
+        "D%":2,
+        "F%":0,
+        "Professor":"Blunck, Ryan"
+    },
+    {
+        "GPA":3.61,
+        "A%":60,
+        "B%":30,
+        "C%":2,
+        "D%":0,
+        "F%":0,
+        "Professor":"Church, Bryan"
+    },
+    {
+        "GPA":3.56,
+        "A%":54,
+        "B%":41,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Comiskey, Eugene"
+    },
+    {
+        "GPA":3.28,
+        "A%":44,
+        "B%":22,
+        "C%":24,
+        "D%":0,
+        "F%":0,
+        "Professor":"Hales, Jeffrey"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Herath, Siriyama"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Johnson, Joseph"
+    },
+    {
+        "GPA":3.58,
+        "A%":59,
+        "B%":42,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Kilgore, Michael"
+    },
+    {
+        "GPA":3.99,
+        "A%":97,
+        "B%":1,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Turner, Deborah"
+    },
+    {
+        "GPA":3.5,
+        "A%":67,
+        "B%":0,
+        "C%":17,
+        "D%":0,
+        "F%":0,
+        "Professor":"Young, Donald"
+    }
+]

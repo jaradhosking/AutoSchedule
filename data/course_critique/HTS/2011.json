@@ -1,0 +1,38 @@
+[
+    {
+        "GPA":3.14,
+        "A%":34,
+        "B%":32,
+        "C%":12,
+        "D%":2,
+        "F%":2,
+        "Professor":"All"
+    },
+    {
+        "GPA":2.76,
+        "A%":10,
+        "B%":50,
+        "C%":17,
+        "D%":7,
+        "F%":0,
+        "Professor":"Giebelhaus Jr, August"
+    },
+    {
+        "GPA":3.71,
+        "A%":66,
+        "B%":11,
+        "C%":0,
+        "D%":0,
+        "F%":3,
+        "Professor":"Hild, Matthew"
+    },
+    {
+        "GPA":3.04,
+        "A%":30,
+        "B%":34,
+        "C%":15,
+        "D%":0,
+        "F%":3,
+        "Professor":"McMath Jr, Robert"
+    }
+]

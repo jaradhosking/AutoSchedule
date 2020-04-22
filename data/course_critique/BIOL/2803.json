@@ -1,0 +1,65 @@
+[
+    {
+        "GPA":3.59,
+        "A%":69,
+        "B%":19,
+        "C%":9,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Choi, Jung"
+    },
+    {
+        "GPA":3.04,
+        "A%":39,
+        "B%":27,
+        "C%":33,
+        "D%":2,
+        "F%":0,
+        "Professor":"Dunn, E"
+    },
+    {
+        "GPA":3.02,
+        "A%":21,
+        "B%":29,
+        "C%":14,
+        "D%":3,
+        "F%":0,
+        "Professor":"Dusenbery, David"
+    },
+    {
+        "GPA":3.31,
+        "A%":39,
+        "B%":38,
+        "C%":9,
+        "D%":0,
+        "F%":0,
+        "Professor":"Garton, David"
+    },
+    {
+        "GPA":3.93,
+        "A%":93,
+        "B%":7,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Leavey, Jennifer"
+    },
+    {
+        "GPA":3.56,
+        "A%":56,
+        "B%":45,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Snell, Terry"
+    }
+]

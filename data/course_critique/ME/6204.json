@@ -1,0 +1,56 @@
+[
+    {
+        "GPA":3.91,
+        "A%":90,
+        "B%":5,
+        "C%":1,
+        "D%":0,
+        "F%":1,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.49,
+        "A%":58,
+        "B%":34,
+        "C%":8,
+        "D%":0,
+        "F%":0,
+        "Professor":"Berbenni, Stephane"
+    },
+    {
+        "GPA":3.94,
+        "A%":96,
+        "B%":1,
+        "C%":0,
+        "D%":0,
+        "F%":1,
+        "Professor":"Cherkaoui, Mohammed"
+    },
+    {
+        "GPA":3.83,
+        "A%":83,
+        "B%":17,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Jasiuk, Iwona"
+    },
+    {
+        "GPA":3.92,
+        "A%":76,
+        "B%":6,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Qu, Jianmin"
+    },
+    {
+        "GPA":3.96,
+        "A%":91,
+        "B%":4,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Zhu, Ting"
+    }
+]

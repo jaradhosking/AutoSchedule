@@ -1,0 +1,101 @@
+[
+    {
+        "GPA":3.26,
+        "A%":34,
+        "B%":22,
+        "C%":10,
+        "D%":0,
+        "F%":2,
+        "Professor":"All"
+    },
+    {
+        "GPA":2.0,
+        "A%":0,
+        "B%":0,
+        "C%":50,
+        "D%":0,
+        "F%":0,
+        "Professor":"Andradottir, Sigrun"
+    },
+    {
+        "GPA":3.18,
+        "A%":33,
+        "B%":26,
+        "C%":11,
+        "D%":0,
+        "F%":3,
+        "Professor":"Ayhan, Hayriye"
+    },
+    {
+        "GPA":2.75,
+        "A%":20,
+        "B%":30,
+        "C%":10,
+        "D%":0,
+        "F%":10,
+        "Professor":"Dai, Jiangang"
+    },
+    {
+        "GPA":3.0,
+        "A%":20,
+        "B%":20,
+        "C%":20,
+        "D%":0,
+        "F%":0,
+        "Professor":"Dieker, Antonius"
+    },
+    {
+        "GPA":3.72,
+        "A%":42,
+        "B%":20,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Foley, Robert"
+    },
+    {
+        "GPA":3.08,
+        "A%":20,
+        "B%":47,
+        "C%":13,
+        "D%":0,
+        "F%":0,
+        "Professor":"Goldsman, David"
+    },
+    {
+        "GPA":3.0,
+        "A%":16,
+        "B%":0,
+        "C%":15,
+        "D%":0,
+        "F%":7,
+        "Professor":"Kleywegt, Anton"
+    },
+    {
+        "GPA":3.19,
+        "A%":23,
+        "B%":47,
+        "C%":0,
+        "D%":0,
+        "F%":4,
+        "Professor":"Maguluri, Siva"
+    },
+    {
+        "GPA":3.94,
+        "A%":94,
+        "B%":6,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Matzinger, Heinrich"
+    },
+    {
+        "GPA":3.0,
+        "A%":43,
+        "B%":0,
+        "C%":43,
+        "D%":0,
+        "F%":0,
+        "Professor":"Ward, Amy"
+    }
+]

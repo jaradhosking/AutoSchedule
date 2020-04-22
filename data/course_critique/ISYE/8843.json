@@ -1,0 +1,38 @@
+[
+    {
+        "GPA":3.94,
+        "A%":76,
+        "B%":6,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.77,
+        "A%":77,
+        "B%":23,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Romberg, Justin"
+    },
+    {
+        "GPA":4.0,
+        "A%":71,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Vidakovic, Branislav"
+    },
+    {
+        "GPA":4.0,
+        "A%":86,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Yuan, Ming"
+    }
+]

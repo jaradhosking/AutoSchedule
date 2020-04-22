@@ -1,0 +1,56 @@
+[
+    {
+        "GPA":3.86,
+        "A%":82,
+        "B%":9,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.83,
+        "A%":77,
+        "B%":14,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"Abowd, Gregory"
+    },
+    {
+        "GPA":3.78,
+        "A%":75,
+        "B%":15,
+        "C%":2,
+        "D%":0,
+        "F%":0,
+        "Professor":"Mynatt, Elizabeth"
+    },
+    {
+        "GPA":3.98,
+        "A%":92,
+        "B%":2,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Ploetz, Thomas"
+    },
+    {
+        "GPA":3.81,
+        "A%":81,
+        "B%":10,
+        "C%":2,
+        "D%":0,
+        "F%":1,
+        "Professor":"Starner, Thad"
+    },
+    {
+        "GPA":4.0,
+        "A%":93,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Zeagler, Charles"
+    }
+]

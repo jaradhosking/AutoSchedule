@@ -1,0 +1,74 @@
+[
+    {
+        "GPA":2.93,
+        "A%":36,
+        "B%":30,
+        "C%":17,
+        "D%":6,
+        "F%":4,
+        "Professor":"All"
+    },
+    {
+        "GPA":2.93,
+        "A%":35,
+        "B%":31,
+        "C%":17,
+        "D%":8,
+        "F%":3,
+        "Professor":"Bottomley, Lawrence"
+    },
+    {
+        "GPA":3.17,
+        "A%":46,
+        "B%":19,
+        "C%":25,
+        "D%":0,
+        "F%":2,
+        "Professor":"Braga, Robert"
+    },
+    {
+        "GPA":2.98,
+        "A%":37,
+        "B%":28,
+        "C%":17,
+        "D%":7,
+        "F%":3,
+        "Professor":"Fernandez, Facundo"
+    },
+    {
+        "GPA":2.68,
+        "A%":21,
+        "B%":38,
+        "C%":21,
+        "D%":8,
+        "F%":4,
+        "Professor":"Janata, Jiri"
+    },
+    {
+        "GPA":2.92,
+        "A%":37,
+        "B%":23,
+        "C%":21,
+        "D%":5,
+        "F%":5,
+        "Professor":"Lyon, Louis"
+    },
+    {
+        "GPA":3.72,
+        "A%":73,
+        "B%":19,
+        "C%":4,
+        "D%":0,
+        "F%":0,
+        "Professor":"Shepler, Carrie"
+    },
+    {
+        "GPA":2.76,
+        "A%":30,
+        "B%":36,
+        "C%":16,
+        "D%":5,
+        "F%":10,
+        "Professor":"Wu, Ronghu"
+    }
+]

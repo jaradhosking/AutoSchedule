@@ -1,0 +1,29 @@
+[
+    {
+        "GPA":3.64,
+        "A%":77,
+        "B%":12,
+        "C%":0,
+        "D%":0,
+        "F%":6,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.57,
+        "A%":69,
+        "B%":13,
+        "C%":0,
+        "D%":0,
+        "F%":6,
+        "Professor":"Cottille-Foley, Nora"
+    },
+    {
+        "GPA":3.7,
+        "A%":85,
+        "B%":10,
+        "C%":0,
+        "D%":0,
+        "F%":5,
+        "Professor":"Wiedorn, Michael"
+    }
+]

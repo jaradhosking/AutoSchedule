@@ -1,0 +1,38 @@
+[
+    {
+        "GPA":3.54,
+        "A%":55,
+        "B%":35,
+        "C%":3,
+        "D%":1,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.54,
+        "A%":54,
+        "B%":36,
+        "C%":3,
+        "D%":0,
+        "F%":0,
+        "Professor":"Dagenhart, Richard"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Gamble, Michael"
+    },
+    {
+        "GPA":3.14,
+        "A%":43,
+        "B%":43,
+        "C%":0,
+        "D%":14,
+        "F%":0,
+        "Professor":"LeBlanc, William"
+    }
+]

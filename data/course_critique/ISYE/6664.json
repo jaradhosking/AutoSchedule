@@ -1,0 +1,38 @@
+[
+    {
+        "GPA":3.42,
+        "A%":42,
+        "B%":23,
+        "C%":8,
+        "D%":0,
+        "F%":1,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.52,
+        "A%":50,
+        "B%":33,
+        "C%":4,
+        "D%":0,
+        "F%":1,
+        "Professor":"Ayhan, Hayriye"
+    },
+    {
+        "GPA":3.73,
+        "A%":67,
+        "B%":25,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Dai, Jiangang"
+    },
+    {
+        "GPA":3.27,
+        "A%":30,
+        "B%":11,
+        "C%":13,
+        "D%":1,
+        "F%":1,
+        "Professor":"Kleywegt, Anton"
+    }
+]

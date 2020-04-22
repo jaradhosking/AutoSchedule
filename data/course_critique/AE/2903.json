@@ -1,0 +1,56 @@
+[
+    {
+        "GPA":3.75,
+        "A%":75,
+        "B%":12,
+        "C%":2,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.0,
+        "A%":0,
+        "B%":50,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Dancila, Dragos"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Mavris, Dimitri"
+    },
+    {
+        "GPA":3.73,
+        "A%":75,
+        "B%":8,
+        "C%":8,
+        "D%":0,
+        "F%":0,
+        "Professor":"Olds, John"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Sankar, Lakshmi"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Yeung, Pui-Kuen"
+    }
+]

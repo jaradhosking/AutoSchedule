@@ -1,0 +1,38 @@
+[
+    {
+        "GPA":3.77,
+        "A%":78,
+        "B%":21,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.5,
+        "A%":54,
+        "B%":43,
+        "C%":4,
+        "D%":0,
+        "F%":0,
+        "Professor":"Childers, Walter"
+    },
+    {
+        "GPA":3.8,
+        "A%":80,
+        "B%":19,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"Kistenberg, Robert"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Stark, Gerald"
+    }
+]

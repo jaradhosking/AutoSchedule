@@ -1,0 +1,38 @@
+[
+    {
+        "GPA":3.08,
+        "A%":30,
+        "B%":37,
+        "C%":14,
+        "D%":0,
+        "F%":3,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.06,
+        "A%":27,
+        "B%":38,
+        "C%":10,
+        "D%":0,
+        "F%":4,
+        "Professor":"Goldberg, Madina"
+    },
+    {
+        "GPA":2.92,
+        "A%":20,
+        "B%":46,
+        "C%":22,
+        "D%":0,
+        "F%":2,
+        "Professor":"Moore, Carole"
+    },
+    {
+        "GPA":3.7,
+        "A%":80,
+        "B%":10,
+        "C%":10,
+        "D%":0,
+        "F%":0,
+        "Professor":"Shimko, Alison"
+    }
+]

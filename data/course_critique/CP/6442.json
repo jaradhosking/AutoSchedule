@@ -1,0 +1,38 @@
+[
+    {
+        "GPA":3.73,
+        "A%":72,
+        "B%":19,
+        "C%":1,
+        "D%":0,
+        "F%":1,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.63,
+        "A%":66,
+        "B%":29,
+        "C%":0,
+        "D%":0,
+        "F%":2,
+        "Professor":"Etienne, Harley"
+    },
+    {
+        "GPA":3.8,
+        "A%":80,
+        "B%":10,
+        "C%":5,
+        "D%":0,
+        "F%":0,
+        "Professor":"Immergluck, Daniel"
+    },
+    {
+        "GPA":4.0,
+        "A%":80,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Kim, Anna"
+    }
+]

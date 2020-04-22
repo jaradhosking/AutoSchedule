@@ -1,0 +1,56 @@
+[
+    {
+        "GPA":3.88,
+        "A%":85,
+        "B%":5,
+        "C%":1,
+        "D%":0,
+        "F%":1,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.68,
+        "A%":72,
+        "B%":17,
+        "C%":2,
+        "D%":1,
+        "F%":2,
+        "Professor":"Chakraborty, Arpan"
+    },
+    {
+        "GPA":3.94,
+        "A%":92,
+        "B%":1,
+        "C%":0,
+        "D%":0,
+        "F%":1,
+        "Professor":"Chau, Duen"
+    },
+    {
+        "GPA":3.91,
+        "A%":84,
+        "B%":3,
+        "C%":2,
+        "D%":0,
+        "F%":0,
+        "Professor":"Chau, Duenhorng"
+    },
+    {
+        "GPA":3.76,
+        "A%":72,
+        "B%":11,
+        "C%":1,
+        "D%":0,
+        "F%":2,
+        "Professor":"Joyner, David"
+    },
+    {
+        "GPA":3.64,
+        "A%":65,
+        "B%":14,
+        "C%":3,
+        "D%":2,
+        "F%":2,
+        "Professor":"Levanon, Guy"
+    }
+]

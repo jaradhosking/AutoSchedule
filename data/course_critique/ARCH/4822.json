@@ -1,0 +1,137 @@
+[
+    {
+        "GPA":3.5,
+        "A%":55,
+        "B%":35,
+        "C%":3,
+        "D%":1,
+        "F%":1,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.4,
+        "A%":45,
+        "B%":44,
+        "C%":5,
+        "D%":0,
+        "F%":1,
+        "Professor":"Andreotti, Libero"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Cottle, Mark"
+    },
+    {
+        "GPA":3.76,
+        "A%":83,
+        "B%":7,
+        "C%":0,
+        "D%":0,
+        "F%":3,
+        "Professor":"Dowling, Elizabeth"
+    },
+    {
+        "GPA":3.39,
+        "A%":42,
+        "B%":53,
+        "C%":3,
+        "D%":0,
+        "F%":0,
+        "Professor":"Dunham-Jones, Ellen"
+    },
+    {
+        "GPA":3.65,
+        "A%":65,
+        "B%":35,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Dye, Wanda"
+    },
+    {
+        "GPA":3.94,
+        "A%":95,
+        "B%":1,
+        "C%":2,
+        "D%":0,
+        "F%":0,
+        "Professor":"Flowers, Benjamin"
+    },
+    {
+        "GPA":3.15,
+        "A%":44,
+        "B%":42,
+        "C%":3,
+        "D%":0,
+        "F%":8,
+        "Professor":"Hsu, Frances"
+    },
+    {
+        "GPA":3.5,
+        "A%":50,
+        "B%":50,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Johnston, George"
+    },
+    {
+        "GPA":3.5,
+        "A%":41,
+        "B%":42,
+        "C%":3,
+        "D%":0,
+        "F%":0,
+        "Professor":"Khan, Sabir"
+    },
+    {
+        "GPA":3.86,
+        "A%":75,
+        "B%":13,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Leblanc, W"
+    },
+    {
+        "GPA":3.8,
+        "A%":67,
+        "B%":17,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Rudolph, Charles"
+    },
+    {
+        "GPA":3.03,
+        "A%":33,
+        "B%":44,
+        "C%":2,
+        "D%":10,
+        "F%":4,
+        "Professor":"Sledge, David"
+    },
+    {
+        "GPA":4.0,
+        "A%":85,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Watkins, Michael"
+    },
+    {
+        "GPA":3.0,
+        "A%":0,
+        "B%":100,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Williamson, June"
+    }
+]

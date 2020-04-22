@@ -1,0 +1,56 @@
+[
+    {
+        "GPA":3.73,
+        "A%":86,
+        "B%":9,
+        "C%":0,
+        "D%":0,
+        "F%":5,
+        "Professor":"All"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Blackbourn-Jansma, Barbara"
+    },
+    {
+        "GPA":3.5,
+        "A%":88,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":13,
+        "Professor":"Cottille-Foley, Nora"
+    },
+    {
+        "GPA":3.67,
+        "A%":67,
+        "B%":33,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Ippolito, Jean"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Lemarchand, Lionel"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Marin, Catherine"
+    }
+]

@@ -1,0 +1,110 @@
+[
+    {
+        "GPA":3.08,
+        "A%":37,
+        "B%":39,
+        "C%":19,
+        "D%":4,
+        "F%":1,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.02,
+        "A%":19,
+        "B%":67,
+        "C%":12,
+        "D%":2,
+        "F%":0,
+        "Professor":"Behrens, Sven"
+    },
+    {
+        "GPA":3.02,
+        "A%":36,
+        "B%":35,
+        "C%":23,
+        "D%":4,
+        "F%":1,
+        "Professor":"Cuba-Torres, Christian"
+    },
+    {
+        "GPA":2.89,
+        "A%":30,
+        "B%":34,
+        "C%":29,
+        "D%":7,
+        "F%":0,
+        "Professor":"Deng, Yulin"
+    },
+    {
+        "GPA":3.22,
+        "A%":33,
+        "B%":56,
+        "C%":11,
+        "D%":0,
+        "F%":0,
+        "Professor":"Fuller, Thomas"
+    },
+    {
+        "GPA":2.8,
+        "A%":22,
+        "B%":42,
+        "C%":27,
+        "D%":4,
+        "F%":2,
+        "Professor":"Lively, Ryan"
+    },
+    {
+        "GPA":3.25,
+        "A%":45,
+        "B%":38,
+        "C%":12,
+        "D%":2,
+        "F%":1,
+        "Professor":"Meredith, James"
+    },
+    {
+        "GPA":2.12,
+        "A%":17,
+        "B%":14,
+        "C%":34,
+        "D%":10,
+        "F%":14,
+        "Professor":"Rousseau, Ronald"
+    },
+    {
+        "GPA":3.36,
+        "A%":43,
+        "B%":50,
+        "C%":7,
+        "D%":0,
+        "F%":0,
+        "Professor":"Schork, Francis"
+    },
+    {
+        "GPA":3.41,
+        "A%":49,
+        "B%":43,
+        "C%":6,
+        "D%":1,
+        "F%":0,
+        "Professor":"Stingelin, Natalie"
+    },
+    {
+        "GPA":2.76,
+        "A%":23,
+        "B%":36,
+        "C%":31,
+        "D%":8,
+        "F%":0,
+        "Professor":"Teja, Amyn"
+    },
+    {
+        "GPA":3.29,
+        "A%":46,
+        "B%":38,
+        "C%":14,
+        "D%":2,
+        "F%":0,
+        "Professor":"Wilson, Corey"
+    }
+]

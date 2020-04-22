@@ -1,0 +1,92 @@
+[
+    {
+        "GPA":3.82,
+        "A%":82,
+        "B%":16,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.75,
+        "A%":76,
+        "B%":23,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"Alcaidinho, Joelle"
+    },
+    {
+        "GPA":3.76,
+        "A%":77,
+        "B%":22,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"Forsyth, Daniel"
+    },
+    {
+        "GPA":3.63,
+        "A%":63,
+        "B%":37,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"McDaniel, Melinda"
+    },
+    {
+        "GPA":4.0,
+        "A%":99,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Moss, Mark"
+    },
+    {
+        "GPA":3.88,
+        "A%":89,
+        "B%":9,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"Omojokun, Olufisayo"
+    },
+    {
+        "GPA":3.9,
+        "A%":90,
+        "B%":9,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"Southern, Caleb"
+    },
+    {
+        "GPA":3.69,
+        "A%":70,
+        "B%":29,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"Stallworth, Cedric"
+    },
+    {
+        "GPA":3.89,
+        "A%":88,
+        "B%":11,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Waters Jr, Robert"
+    },
+    {
+        "GPA":3.88,
+        "A%":91,
+        "B%":7,
+        "C%":1,
+        "D%":1,
+        "F%":0,
+        "Professor":"Waters, Robert"
+    }
+]

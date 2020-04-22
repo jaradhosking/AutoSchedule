@@ -1,0 +1,38 @@
+[
+    {
+        "GPA":3.72,
+        "A%":73,
+        "B%":14,
+        "C%":0,
+        "D%":0,
+        "F%":3,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.9,
+        "A%":75,
+        "B%":8,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Hodges, Larry"
+    },
+    {
+        "GPA":3.93,
+        "A%":86,
+        "B%":7,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"MacIntyre, Blair"
+    },
+    {
+        "GPA":3.13,
+        "A%":44,
+        "B%":33,
+        "C%":0,
+        "D%":0,
+        "F%":11,
+        "Professor":"Shaw, Christopher"
+    }
+]

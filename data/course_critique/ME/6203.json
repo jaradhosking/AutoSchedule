@@ -1,0 +1,101 @@
+[
+    {
+        "GPA":3.52,
+        "A%":58,
+        "B%":33,
+        "C%":6,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.62,
+        "A%":62,
+        "B%":39,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Balan, Tudor"
+    },
+    {
+        "GPA":3.8,
+        "A%":67,
+        "B%":17,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Berbenni, Stephane"
+    },
+    {
+        "GPA":3.79,
+        "A%":79,
+        "B%":21,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Capolungo, Laurent"
+    },
+    {
+        "GPA":3.14,
+        "A%":44,
+        "B%":37,
+        "C%":12,
+        "D%":4,
+        "F%":3,
+        "Professor":"Cherkaoui, Mohammed"
+    },
+    {
+        "GPA":3.85,
+        "A%":85,
+        "B%":15,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Jasiuk, Iwona"
+    },
+    {
+        "GPA":3.67,
+        "A%":67,
+        "B%":31,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"Kalidindi, Surya"
+    },
+    {
+        "GPA":3.38,
+        "A%":48,
+        "B%":38,
+        "C%":11,
+        "D%":0,
+        "F%":0,
+        "Professor":"Neu, Richard"
+    },
+    {
+        "GPA":3.49,
+        "A%":60,
+        "B%":27,
+        "C%":9,
+        "D%":2,
+        "F%":0,
+        "Professor":"Patoor, Etienne"
+    },
+    {
+        "GPA":3.57,
+        "A%":71,
+        "B%":14,
+        "C%":14,
+        "D%":0,
+        "F%":0,
+        "Professor":"UNKNOWN"
+    },
+    {
+        "GPA":3.65,
+        "A%":63,
+        "B%":34,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Zhou, Min"
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "GPA":3.85,
+        "A%":81,
+        "B%":11,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.93,
+        "A%":93,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":2,
+        "Professor":"Frost, James"
+    },
+    {
+        "GPA":4.0,
+        "A%":60,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Stoesser, Thorsten"
+    },
+    {
+        "GPA":3.9,
+        "A%":89,
+        "B%":3,
+        "C%":1,
+        "D%":0,
+        "F%":1,
+        "Professor":"Teizer, Jochen"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Wang, Yang"
+    },
+    {
+        "GPA":3.34,
+        "A%":34,
+        "B%":67,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Webster, Donald"
+    }
+]

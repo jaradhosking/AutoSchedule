@@ -1,0 +1,38 @@
+[
+    {
+        "GPA":3.84,
+        "A%":88,
+        "B%":10,
+        "C%":0,
+        "D%":0,
+        "F%":2,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.85,
+        "A%":85,
+        "B%":15,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Cowan, David"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Myrick, Justin"
+    },
+    {
+        "GPA":3.66,
+        "A%":78,
+        "B%":14,
+        "C%":0,
+        "D%":0,
+        "F%":5,
+        "Professor":"Sainfort, Francois"
+    }
+]

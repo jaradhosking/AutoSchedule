@@ -1,0 +1,38 @@
+[
+    {
+        "GPA":2.91,
+        "A%":28,
+        "B%":37,
+        "C%":24,
+        "D%":5,
+        "F%":1,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.32,
+        "A%":42,
+        "B%":48,
+        "C%":9,
+        "D%":1,
+        "F%":0,
+        "Professor":"Braunstein, Richard"
+    },
+    {
+        "GPA":2.91,
+        "A%":19,
+        "B%":66,
+        "C%":5,
+        "D%":3,
+        "F%":5,
+        "Professor":"Justice, Lorraine"
+    },
+    {
+        "GPA":2.78,
+        "A%":24,
+        "B%":33,
+        "C%":29,
+        "D%":6,
+        "F%":2,
+        "Professor":"Leffler, John"
+    }
+]

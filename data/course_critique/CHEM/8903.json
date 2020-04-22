@@ -1,0 +1,101 @@
+[
+    {
+        "GPA":3.64,
+        "A%":62,
+        "B%":33,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.48,
+        "A%":54,
+        "B%":36,
+        "C%":7,
+        "D%":0,
+        "F%":0,
+        "Professor":"Beckham, Suzanne"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Bredas, Jean-Luc"
+    },
+    {
+        "GPA":3.56,
+        "A%":63,
+        "B%":29,
+        "C%":7,
+        "D%":0,
+        "F%":0,
+        "Professor":"Collard, David"
+    },
+    {
+        "GPA":3.59,
+        "A%":62,
+        "B%":36,
+        "C%":3,
+        "D%":0,
+        "F%":0,
+        "Professor":"Hershkovits, Eliezer"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Janata, Jiri"
+    },
+    {
+        "GPA":3.56,
+        "A%":55,
+        "B%":43,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Johnson, Kenyetta"
+    },
+    {
+        "GPA":3.39,
+        "A%":38,
+        "B%":59,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"Kubanek, Julia"
+    },
+    {
+        "GPA":3.9,
+        "A%":90,
+        "B%":9,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"Peek, Mary"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Silva, Carlos"
+    },
+    {
+        "GPA":3.64,
+        "A%":58,
+        "B%":35,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Tyson, J"
+    }
+]

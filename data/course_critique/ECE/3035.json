@@ -1,0 +1,74 @@
+[
+    {
+        "GPA":2.47,
+        "A%":24,
+        "B%":23,
+        "C%":17,
+        "D%":11,
+        "F%":10,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.25,
+        "A%":43,
+        "B%":34,
+        "C%":14,
+        "D%":2,
+        "F%":1,
+        "Professor":"Beall, Christopher"
+    },
+    {
+        "GPA":2.92,
+        "A%":29,
+        "B%":36,
+        "C%":25,
+        "D%":0,
+        "F%":4,
+        "Professor":"Ferri, Bonnie"
+    },
+    {
+        "GPA":2.27,
+        "A%":19,
+        "B%":31,
+        "C%":13,
+        "D%":19,
+        "F%":13,
+        "Professor":"Forsthoefel, Dana"
+    },
+    {
+        "GPA":2.63,
+        "A%":32,
+        "B%":24,
+        "C%":20,
+        "D%":8,
+        "F%":9,
+        "Professor":"Hong, Bo"
+    },
+    {
+        "GPA":2.39,
+        "A%":27,
+        "B%":12,
+        "C%":30,
+        "D%":21,
+        "F%":5,
+        "Professor":"Schimmel, David"
+    },
+    {
+        "GPA":2.39,
+        "A%":18,
+        "B%":20,
+        "C%":18,
+        "D%":13,
+        "F%":10,
+        "Professor":"Wills, Donald"
+    },
+    {
+        "GPA":2.29,
+        "A%":21,
+        "B%":27,
+        "C%":11,
+        "D%":11,
+        "F%":16,
+        "Professor":"Wills, Linda"
+    }
+]

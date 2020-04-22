@@ -1,0 +1,65 @@
+[
+    {
+        "GPA":3.57,
+        "A%":63,
+        "B%":21,
+        "C%":6,
+        "D%":1,
+        "F%":1,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.38,
+        "A%":44,
+        "B%":31,
+        "C%":8,
+        "D%":1,
+        "F%":1,
+        "Professor":"Flury, Alan"
+    },
+    {
+        "GPA":2.99,
+        "A%":20,
+        "B%":58,
+        "C%":14,
+        "D%":0,
+        "F%":3,
+        "Professor":"Hawkins, Robert"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Pap, Dorottya"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Teach, Richard"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Thomas, Robert"
+    },
+    {
+        "GPA":3.49,
+        "A%":60,
+        "B%":20,
+        "C%":7,
+        "D%":2,
+        "F%":1,
+        "Professor":"Voigt, Nicholas"
+    }
+]

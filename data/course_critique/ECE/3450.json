@@ -1,0 +1,65 @@
+[
+    {
+        "GPA":3.02,
+        "A%":40,
+        "B%":28,
+        "C%":15,
+        "D%":11,
+        "F%":1,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.38,
+        "A%":44,
+        "B%":39,
+        "C%":0,
+        "D%":6,
+        "F%":0,
+        "Professor":"Cressler, John"
+    },
+    {
+        "GPA":3.75,
+        "A%":67,
+        "B%":22,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Doolittle, William"
+    },
+    {
+        "GPA":2.81,
+        "A%":36,
+        "B%":22,
+        "C%":26,
+        "D%":12,
+        "F%":2,
+        "Professor":"Dupuis, Russell"
+    },
+    {
+        "GPA":3.04,
+        "A%":40,
+        "B%":36,
+        "C%":11,
+        "D%":13,
+        "F%":0,
+        "Professor":"Klein, Benjamin"
+    },
+    {
+        "GPA":3.0,
+        "A%":36,
+        "B%":21,
+        "C%":29,
+        "D%":4,
+        "F%":0,
+        "Professor":"Naeemi, Azad"
+    },
+    {
+        "GPA":3.1,
+        "A%":40,
+        "B%":30,
+        "C%":8,
+        "D%":12,
+        "F%":0,
+        "Professor":"Shen, Shyh-Chiang"
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "GPA":3.26,
+        "A%":40,
+        "B%":44,
+        "C%":11,
+        "D%":0,
+        "F%":1,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.25,
+        "A%":34,
+        "B%":59,
+        "C%":9,
+        "D%":0,
+        "F%":0,
+        "Professor":"Barnes, Christopher"
+    },
+    {
+        "GPA":3.26,
+        "A%":42,
+        "B%":41,
+        "C%":11,
+        "D%":1,
+        "F%":1,
+        "Professor":"Verriest, Erik"
+    }
+]

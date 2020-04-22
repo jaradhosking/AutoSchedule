@@ -1,0 +1,56 @@
+[
+    {
+        "GPA":3.05,
+        "A%":36,
+        "B%":38,
+        "C%":18,
+        "D%":5,
+        "F%":1,
+        "Professor":"All"
+    },
+    {
+        "GPA":2.84,
+        "A%":26,
+        "B%":41,
+        "C%":21,
+        "D%":7,
+        "F%":2,
+        "Professor":"Cardelino, Carlos"
+    },
+    {
+        "GPA":3.46,
+        "A%":55,
+        "B%":36,
+        "C%":8,
+        "D%":1,
+        "F%":0,
+        "Professor":"Huber, Christian"
+    },
+    {
+        "GPA":3.29,
+        "A%":57,
+        "B%":14,
+        "C%":29,
+        "D%":0,
+        "F%":0,
+        "Professor":"Lowell, Robert"
+    },
+    {
+        "GPA":3.0,
+        "A%":28,
+        "B%":47,
+        "C%":18,
+        "D%":5,
+        "F%":0,
+        "Professor":"Ruppel, Carolyn"
+    },
+    {
+        "GPA":2.57,
+        "A%":18,
+        "B%":28,
+        "C%":32,
+        "D%":13,
+        "F%":0,
+        "Professor":"Simon, Sven"
+    }
+]

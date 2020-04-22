@@ -1,0 +1,65 @@
+[
+    {
+        "GPA":3.24,
+        "A%":38,
+        "B%":44,
+        "C%":11,
+        "D%":0,
+        "F%":1,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.0,
+        "A%":29,
+        "B%":43,
+        "C%":29,
+        "D%":0,
+        "F%":0,
+        "Professor":"Boussert, Bertrand"
+    },
+    {
+        "GPA":3.16,
+        "A%":31,
+        "B%":48,
+        "C%":12,
+        "D%":0,
+        "F%":1,
+        "Professor":"Brewer, Thomas"
+    },
+    {
+        "GPA":3.68,
+        "A%":77,
+        "B%":20,
+        "C%":0,
+        "D%":0,
+        "F%":3,
+        "Professor":"Johnson, Kevin"
+    },
+    {
+        "GPA":2.97,
+        "A%":29,
+        "B%":38,
+        "C%":14,
+        "D%":2,
+        "F%":5,
+        "Professor":"Robinson, Robert"
+    },
+    {
+        "GPA":3.33,
+        "A%":42,
+        "B%":44,
+        "C%":10,
+        "D%":0,
+        "F%":0,
+        "Professor":"Sands, Jean"
+    },
+    {
+        "GPA":3.79,
+        "A%":79,
+        "B%":21,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Sundaram, Suresh"
+    }
+]

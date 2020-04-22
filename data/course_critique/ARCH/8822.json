@@ -1,0 +1,164 @@
+[
+    {
+        "GPA":3.72,
+        "A%":65,
+        "B%":18,
+        "C%":1,
+        "D%":0,
+        "F%":1,
+        "Professor":"All"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Bafna, Sonit"
+    },
+    {
+        "GPA":3.5,
+        "A%":50,
+        "B%":50,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Bedarida, Marc"
+    },
+    {
+        "GPA":3.0,
+        "A%":75,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":25,
+        "Professor":"Cottle, Mark"
+    },
+    {
+        "GPA":3.25,
+        "A%":38,
+        "B%":24,
+        "C%":22,
+        "D%":0,
+        "F%":0,
+        "Professor":"Craig, Robert"
+    },
+    {
+        "GPA":3.99,
+        "A%":86,
+        "B%":1,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Dowling, Elizabeth"
+    },
+    {
+        "GPA":3.71,
+        "A%":65,
+        "B%":28,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Dye, Wanda"
+    },
+    {
+        "GPA":4.0,
+        "A%":90,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Flowers, Benjamin"
+    },
+    {
+        "GPA":3.16,
+        "A%":17,
+        "B%":35,
+        "C%":4,
+        "D%":0,
+        "F%":4,
+        "Professor":"Hsu, Frances"
+    },
+    {
+        "GPA":4.0,
+        "A%":67,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Johnston, George"
+    },
+    {
+        "GPA":3.38,
+        "A%":30,
+        "B%":60,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Khan, Sabir"
+    },
+    {
+        "GPA":3.75,
+        "A%":60,
+        "B%":20,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Leblanc, W"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Lewcock, Ronald"
+    },
+    {
+        "GPA":3.67,
+        "A%":50,
+        "B%":25,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Rudolph, Charles"
+    },
+    {
+        "GPA":3.5,
+        "A%":47,
+        "B%":47,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Sledge, David"
+    },
+    {
+        "GPA":3.67,
+        "A%":40,
+        "B%":20,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Trubiano, Franca"
+    },
+    {
+        "GPA":3.86,
+        "A%":50,
+        "B%":8,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Watkins, Michael"
+    },
+    {
+        "GPA":3.75,
+        "A%":60,
+        "B%":20,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Williamson, June"
+    }
+]

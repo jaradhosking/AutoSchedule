@@ -1,0 +1,56 @@
+[
+    {
+        "GPA":3.61,
+        "A%":66,
+        "B%":28,
+        "C%":4,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.86,
+        "A%":90,
+        "B%":5,
+        "C%":5,
+        "D%":0,
+        "F%":0,
+        "Professor":"Ashuri, Baabak"
+    },
+    {
+        "GPA":3.5,
+        "A%":54,
+        "B%":41,
+        "C%":4,
+        "D%":0,
+        "F%":0,
+        "Professor":"Haymaker, John"
+    },
+    {
+        "GPA":3.86,
+        "A%":86,
+        "B%":14,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Kristanto, Andreas"
+    },
+    {
+        "GPA":3.88,
+        "A%":86,
+        "B%":11,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Pishdad-Bozorgi, Pardis"
+    },
+    {
+        "GPA":3.52,
+        "A%":61,
+        "B%":30,
+        "C%":6,
+        "D%":1,
+        "F%":1,
+        "Professor":"Sadri, Saeid"
+    }
+]

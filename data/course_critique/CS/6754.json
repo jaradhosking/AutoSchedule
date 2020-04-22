@@ -1,0 +1,38 @@
+[
+    {
+        "GPA":3.69,
+        "A%":70,
+        "B%":23,
+        "C%":2,
+        "D%":1,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.66,
+        "A%":70,
+        "B%":23,
+        "C%":3,
+        "D%":1,
+        "F%":0,
+        "Professor":"Eastman, Charles"
+    },
+    {
+        "GPA":3.75,
+        "A%":65,
+        "B%":23,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Fulton, Robert"
+    },
+    {
+        "GPA":3.86,
+        "A%":86,
+        "B%":14,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Peak, Russell"
+    }
+]

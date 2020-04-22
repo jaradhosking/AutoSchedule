@@ -1,0 +1,38 @@
+[
+    {
+        "GPA":3.53,
+        "A%":54,
+        "B%":44,
+        "C%":2,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.52,
+        "A%":53,
+        "B%":45,
+        "C%":2,
+        "D%":0,
+        "F%":0,
+        "Professor":"Garton, David"
+    },
+    {
+        "GPA":3.58,
+        "A%":62,
+        "B%":36,
+        "C%":3,
+        "D%":0,
+        "F%":0,
+        "Professor":"Goodisman, Michael"
+    },
+    {
+        "GPA":3.5,
+        "A%":50,
+        "B%":50,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Snell, Terry"
+    }
+]

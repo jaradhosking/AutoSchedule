@@ -1,0 +1,146 @@
+[
+    {
+        "GPA":3.66,
+        "A%":70,
+        "B%":25,
+        "C%":4,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.89,
+        "A%":94,
+        "B%":0,
+        "C%":6,
+        "D%":0,
+        "F%":0,
+        "Professor":"Amirtharajah, Appiah"
+    },
+    {
+        "GPA":3.73,
+        "A%":74,
+        "B%":26,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Drysdale, Jon"
+    },
+    {
+        "GPA":3.72,
+        "A%":72,
+        "B%":28,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Emkin, Leroy"
+    },
+    {
+        "GPA":3.62,
+        "A%":72,
+        "B%":18,
+        "C%":11,
+        "D%":0,
+        "F%":0,
+        "Professor":"Fritz, Hermann"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Haas, Kevin"
+    },
+    {
+        "GPA":3.36,
+        "A%":42,
+        "B%":53,
+        "C%":4,
+        "D%":1,
+        "F%":0,
+        "Professor":"Hughes, Joseph"
+    },
+    {
+        "GPA":3.67,
+        "A%":69,
+        "B%":29,
+        "C%":2,
+        "D%":0,
+        "F%":0,
+        "Professor":"Koon, John"
+    },
+    {
+        "GPA":3.81,
+        "A%":83,
+        "B%":15,
+        "C%":2,
+        "D%":0,
+        "F%":0,
+        "Professor":"Leon, Roberto"
+    },
+    {
+        "GPA":3.94,
+        "A%":94,
+        "B%":6,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Lindsey, Stanley"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Muhanna, Rafi"
+    },
+    {
+        "GPA":3.43,
+        "A%":52,
+        "B%":40,
+        "C%":7,
+        "D%":1,
+        "F%":0,
+        "Professor":"Rodgers, Michael"
+    },
+    {
+        "GPA":3.8,
+        "A%":81,
+        "B%":18,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"Scott, David"
+    },
+    {
+        "GPA":3.51,
+        "A%":61,
+        "B%":29,
+        "C%":7,
+        "D%":1,
+        "F%":0,
+        "Professor":"Watkins, Kari"
+    },
+    {
+        "GPA":3.29,
+        "A%":48,
+        "B%":34,
+        "C%":19,
+        "D%":0,
+        "F%":0,
+        "Professor":"Work, Paul"
+    },
+    {
+        "GPA":4.0,
+        "A%":99,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Zureick, Abdulhamid"
+    }
+]

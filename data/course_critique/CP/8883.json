@@ -1,0 +1,101 @@
+[
+    {
+        "GPA":3.54,
+        "A%":61,
+        "B%":31,
+        "C%":2,
+        "D%":4,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.75,
+        "A%":60,
+        "B%":20,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Botchwey, Nisha"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Douthat, Thomas"
+    },
+    {
+        "GPA":3.88,
+        "A%":84,
+        "B%":11,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Drummond, William"
+    },
+    {
+        "GPA":3.6,
+        "A%":50,
+        "B%":33,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Faga, Barbara"
+    },
+    {
+        "GPA":3.58,
+        "A%":59,
+        "B%":42,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Fuentes, Alberto"
+    },
+    {
+        "GPA":3.14,
+        "A%":29,
+        "B%":57,
+        "C%":15,
+        "D%":0,
+        "F%":0,
+        "Professor":"Leigh, Nancey"
+    },
+    {
+        "GPA":3.8,
+        "A%":78,
+        "B%":19,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Lynch, Barbara"
+    },
+    {
+        "GPA":3.2,
+        "A%":50,
+        "B%":33,
+        "C%":3,
+        "D%":14,
+        "F%":0,
+        "Professor":"Rao, Arthi"
+    },
+    {
+        "GPA":3.69,
+        "A%":69,
+        "B%":31,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Stiftel, Bruce"
+    },
+    {
+        "GPA":3.38,
+        "A%":38,
+        "B%":62,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"West, Benjamin"
+    }
+]

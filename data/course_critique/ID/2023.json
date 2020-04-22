@@ -1,0 +1,47 @@
+[
+    {
+        "GPA":3.38,
+        "A%":49,
+        "B%":44,
+        "C%":1,
+        "D%":2,
+        "F%":2,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.53,
+        "A%":55,
+        "B%":43,
+        "C%":2,
+        "D%":0,
+        "F%":0,
+        "Professor":"Chininis, Stephen"
+    },
+    {
+        "GPA":3.6,
+        "A%":60,
+        "B%":40,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Gomez, Erika"
+    },
+    {
+        "GPA":3.17,
+        "A%":42,
+        "B%":50,
+        "C%":0,
+        "D%":0,
+        "F%":8,
+        "Professor":"Marks, Lisa"
+    },
+    {
+        "GPA":3.21,
+        "A%":40,
+        "B%":45,
+        "C%":0,
+        "D%":7,
+        "F%":3,
+        "Professor":"Velazquez, Herb"
+    }
+]

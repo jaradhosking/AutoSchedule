@@ -1,0 +1,38 @@
+[
+    {
+        "GPA":3.44,
+        "A%":45,
+        "B%":50,
+        "C%":2,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.42,
+        "A%":41,
+        "B%":54,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"Blough, Douglas"
+    },
+    {
+        "GPA":3.41,
+        "A%":44,
+        "B%":51,
+        "C%":2,
+        "D%":0,
+        "F%":1,
+        "Professor":"Owen III, Henry"
+    },
+    {
+        "GPA":3.57,
+        "A%":57,
+        "B%":40,
+        "C%":2,
+        "D%":0,
+        "F%":0,
+        "Professor":"Riley, George"
+    }
+]

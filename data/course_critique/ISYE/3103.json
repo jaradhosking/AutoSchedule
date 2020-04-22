@@ -1,0 +1,344 @@
+[
+    {
+        "GPA":3.07,
+        "A%":35,
+        "B%":39,
+        "C%":17,
+        "D%":4,
+        "F%":1,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.32,
+        "A%":54,
+        "B%":28,
+        "C%":13,
+        "D%":2,
+        "F%":2,
+        "Professor":"Abercrombie, Kathleen"
+    },
+    {
+        "GPA":3.34,
+        "A%":50,
+        "B%":36,
+        "C%":11,
+        "D%":3,
+        "F%":0,
+        "Professor":"Al-Khayyal, Faiz"
+    },
+    {
+        "GPA":3.07,
+        "A%":34,
+        "B%":40,
+        "C%":21,
+        "D%":3,
+        "F%":0,
+        "Professor":"Alev, Isil"
+    },
+    {
+        "GPA":3.27,
+        "A%":46,
+        "B%":40,
+        "C%":8,
+        "D%":3,
+        "F%":2,
+        "Professor":"Bennett, Ashlea"
+    },
+    {
+        "GPA":2.94,
+        "A%":47,
+        "B%":24,
+        "C%":18,
+        "D%":0,
+        "F%":12,
+        "Professor":"Bishop, Robert"
+    },
+    {
+        "GPA":3.15,
+        "A%":42,
+        "B%":34,
+        "C%":15,
+        "D%":6,
+        "F%":0,
+        "Professor":"Butler, Renee"
+    },
+    {
+        "GPA":2.98,
+        "A%":31,
+        "B%":43,
+        "C%":15,
+        "D%":7,
+        "F%":2,
+        "Professor":"Carbajal Orozco, Jose"
+    },
+    {
+        "GPA":3.17,
+        "A%":37,
+        "B%":49,
+        "C%":12,
+        "D%":0,
+        "F%":2,
+        "Professor":"Charoensiriwath, Chayakrit"
+    },
+    {
+        "GPA":3.28,
+        "A%":53,
+        "B%":28,
+        "C%":12,
+        "D%":7,
+        "F%":0,
+        "Professor":"Choi, Shuk-Yin"
+    },
+    {
+        "GPA":3.25,
+        "A%":36,
+        "B%":51,
+        "C%":11,
+        "D%":0,
+        "F%":0,
+        "Professor":"Chung, Jennifer"
+    },
+    {
+        "GPA":2.96,
+        "A%":20,
+        "B%":59,
+        "C%":18,
+        "D%":0,
+        "F%":2,
+        "Professor":"Daugherty, Stephen"
+    },
+    {
+        "GPA":2.81,
+        "A%":30,
+        "B%":28,
+        "C%":24,
+        "D%":9,
+        "F%":2,
+        "Professor":"Drake, Matthew"
+    },
+    {
+        "GPA":3.15,
+        "A%":39,
+        "B%":40,
+        "C%":16,
+        "D%":4,
+        "F%":0,
+        "Professor":"Erera, Alan"
+    },
+    {
+        "GPA":3.29,
+        "A%":46,
+        "B%":37,
+        "C%":14,
+        "D%":1,
+        "F%":1,
+        "Professor":"Ergun, Ozlem"
+    },
+    {
+        "GPA":2.99,
+        "A%":32,
+        "B%":41,
+        "C%":17,
+        "D%":8,
+        "F%":0,
+        "Professor":"Garcia, Erin"
+    },
+    {
+        "GPA":2.67,
+        "A%":20,
+        "B%":27,
+        "C%":22,
+        "D%":8,
+        "F%":3,
+        "Professor":"Goetschalckx, Marc"
+    },
+    {
+        "GPA":3.07,
+        "A%":33,
+        "B%":37,
+        "C%":18,
+        "D%":4,
+        "F%":0,
+        "Professor":"Griffin, Jacqueline"
+    },
+    {
+        "GPA":3.27,
+        "A%":38,
+        "B%":43,
+        "C%":13,
+        "D%":0,
+        "F%":0,
+        "Professor":"Gutierrez, Marco"
+    },
+    {
+        "GPA":3.16,
+        "A%":37,
+        "B%":47,
+        "C%":13,
+        "D%":4,
+        "F%":0,
+        "Professor":"Islam, Md"
+    },
+    {
+        "GPA":3.82,
+        "A%":85,
+        "B%":12,
+        "C%":3,
+        "D%":0,
+        "F%":0,
+        "Professor":"Keha, Ahmet"
+    },
+    {
+        "GPA":2.79,
+        "A%":30,
+        "B%":29,
+        "C%":23,
+        "D%":8,
+        "F%":4,
+        "Professor":"Kleywegt, Anton"
+    },
+    {
+        "GPA":3.11,
+        "A%":32,
+        "B%":53,
+        "C%":11,
+        "D%":5,
+        "F%":0,
+        "Professor":"Kwon, Ky"
+    },
+    {
+        "GPA":3.46,
+        "A%":62,
+        "B%":22,
+        "C%":13,
+        "D%":2,
+        "F%":0,
+        "Professor":"Lassiter, William"
+    },
+    {
+        "GPA":3.35,
+        "A%":52,
+        "B%":33,
+        "C%":13,
+        "D%":2,
+        "F%":0,
+        "Professor":"Lindsey, Kathleen"
+    },
+    {
+        "GPA":3.92,
+        "A%":92,
+        "B%":8,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Lu, Jye-Chyi"
+    },
+    {
+        "GPA":3.33,
+        "A%":50,
+        "B%":34,
+        "C%":10,
+        "D%":4,
+        "F%":0,
+        "Professor":"Malladi, Satya"
+    },
+    {
+        "GPA":3.07,
+        "A%":35,
+        "B%":35,
+        "C%":19,
+        "D%":0,
+        "F%":3,
+        "Professor":"Mintz, Yonatan"
+    },
+    {
+        "GPA":3.02,
+        "A%":39,
+        "B%":26,
+        "C%":26,
+        "D%":3,
+        "F%":2,
+        "Professor":"Ortiz, Olga"
+    },
+    {
+        "GPA":3.03,
+        "A%":27,
+        "B%":49,
+        "C%":22,
+        "D%":2,
+        "F%":0,
+        "Professor":"Reveliotis, Spiridon"
+    },
+    {
+        "GPA":3.27,
+        "A%":36,
+        "B%":50,
+        "C%":11,
+        "D%":0,
+        "F%":0,
+        "Professor":"Robinson, Christina"
+    },
+    {
+        "GPA":3.25,
+        "A%":50,
+        "B%":36,
+        "C%":8,
+        "D%":0,
+        "F%":6,
+        "Professor":"Savasaneril, Secil"
+    },
+    {
+        "GPA":3.4,
+        "A%":60,
+        "B%":20,
+        "C%":20,
+        "D%":0,
+        "F%":0,
+        "Professor":"Sharp, Gunter"
+    },
+    {
+        "GPA":3.42,
+        "A%":54,
+        "B%":33,
+        "C%":10,
+        "D%":1,
+        "F%":0,
+        "Professor":"Sokol, Joel"
+    },
+    {
+        "GPA":2.99,
+        "A%":32,
+        "B%":38,
+        "C%":22,
+        "D%":4,
+        "F%":1,
+        "Professor":"Toriello, Alejandro"
+    },
+    {
+        "GPA":3.31,
+        "A%":34,
+        "B%":62,
+        "C%":3,
+        "D%":0,
+        "F%":0,
+        "Professor":"Tsui, Kwok-Leung"
+    },
+    {
+        "GPA":3.03,
+        "A%":31,
+        "B%":40,
+        "C%":21,
+        "D%":1,
+        "F%":2,
+        "Professor":"Vande Vate, John"
+    },
+    {
+        "GPA":3.22,
+        "A%":36,
+        "B%":51,
+        "C%":12,
+        "D%":1,
+        "F%":0,
+        "Professor":"Zhou, Chen"
+    }
+]

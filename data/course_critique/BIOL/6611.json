@@ -1,0 +1,38 @@
+[
+    {
+        "GPA":3.65,
+        "A%":64,
+        "B%":27,
+        "C%":0,
+        "D%":0,
+        "F%":1,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.66,
+        "A%":68,
+        "B%":24,
+        "C%":0,
+        "D%":0,
+        "F%":2,
+        "Professor":"DiChristina, Thomas"
+    },
+    {
+        "GPA":3.7,
+        "A%":68,
+        "B%":29,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Kirby, John"
+    },
+    {
+        "GPA":3.5,
+        "A%":40,
+        "B%":40,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Tornabene, Thomas"
+    }
+]

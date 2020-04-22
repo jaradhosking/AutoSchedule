@@ -1,0 +1,29 @@
+[
+    {
+        "GPA":3.51,
+        "A%":55,
+        "B%":42,
+        "C%":1,
+        "D%":1,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.57,
+        "A%":58,
+        "B%":42,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Hsieh, Jeffery"
+    },
+    {
+        "GPA":2.33,
+        "A%":0,
+        "B%":50,
+        "C%":20,
+        "D%":20,
+        "F%":0,
+        "Professor":"Luettgen, Christopher"
+    }
+]

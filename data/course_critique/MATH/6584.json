@@ -1,0 +1,47 @@
+[
+    {
+        "GPA":3.72,
+        "A%":62,
+        "B%":22,
+        "C%":2,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.57,
+        "A%":50,
+        "B%":38,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Geronimo, Jeffrey"
+    },
+    {
+        "GPA":3.57,
+        "A%":53,
+        "B%":24,
+        "C%":6,
+        "D%":0,
+        "F%":0,
+        "Professor":"Lubinsky, Doron"
+    },
+    {
+        "GPA":3.75,
+        "A%":75,
+        "B%":25,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Stallybrass, Michael"
+    },
+    {
+        "GPA":4.0,
+        "A%":71,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Vandervorst, Robert"
+    }
+]

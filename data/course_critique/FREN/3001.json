@@ -1,0 +1,47 @@
+[
+    {
+        "GPA":3.5,
+        "A%":51,
+        "B%":25,
+        "C%":2,
+        "D%":4,
+        "F%":1,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.76,
+        "A%":61,
+        "B%":18,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Blackbourn-Jansma, Barbara"
+    },
+    {
+        "GPA":3.45,
+        "A%":46,
+        "B%":25,
+        "C%":3,
+        "D%":5,
+        "F%":0,
+        "Professor":"Boulard, Stephanie"
+    },
+    {
+        "GPA":3.28,
+        "A%":42,
+        "B%":42,
+        "C%":5,
+        "D%":5,
+        "F%":0,
+        "Professor":"Haroux, Marilene"
+    },
+    {
+        "GPA":3.31,
+        "A%":56,
+        "B%":22,
+        "C%":0,
+        "D%":6,
+        "F%":6,
+        "Professor":"Lemarchand, Lionel"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "GPA":3.28,
+        "A%":45,
+        "B%":30,
+        "C%":12,
+        "D%":2,
+        "F%":1,
+        "Professor":"All"
+    },
+    {
+        "GPA":2.94,
+        "A%":31,
+        "B%":25,
+        "C%":22,
+        "D%":4,
+        "F%":2,
+        "Professor":"Besedes, Tibor"
+    },
+    {
+        "GPA":2.97,
+        "A%":29,
+        "B%":34,
+        "C%":18,
+        "D%":2,
+        "F%":3,
+        "Professor":"Chung, Chul"
+    },
+    {
+        "GPA":3.63,
+        "A%":64,
+        "B%":33,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"Hunt, Brian"
+    },
+    {
+        "GPA":3.02,
+        "A%":27,
+        "B%":38,
+        "C%":13,
+        "D%":5,
+        "F%":1,
+        "Professor":"Kellenberg, Derek"
+    },
+    {
+        "GPA":3.43,
+        "A%":63,
+        "B%":18,
+        "C%":15,
+        "D%":2,
+        "F%":1,
+        "Professor":"Klimenko, Mikhail"
+    },
+    {
+        "GPA":3.67,
+        "A%":67,
+        "B%":21,
+        "C%":5,
+        "D%":1,
+        "F%":0,
+        "Professor":"Lugovskyy, Volodymyr"
+    },
+    {
+        "GPA":3.33,
+        "A%":44,
+        "B%":36,
+        "C%":10,
+        "D%":1,
+        "F%":1,
+        "Professor":"Nair-Reichert, Usha"
+    }
+]

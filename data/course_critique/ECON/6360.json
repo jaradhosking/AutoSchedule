@@ -1,0 +1,56 @@
+[
+    {
+        "GPA":3.53,
+        "A%":51,
+        "B%":29,
+        "C%":1,
+        "D%":2,
+        "F%":1,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.3,
+        "A%":39,
+        "B%":46,
+        "C%":0,
+        "D%":7,
+        "F%":0,
+        "Professor":"Duncan, Roderick"
+    },
+    {
+        "GPA":3.67,
+        "A%":40,
+        "B%":20,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Iacopetta, Maurizio"
+    },
+    {
+        "GPA":3.6,
+        "A%":58,
+        "B%":25,
+        "C%":2,
+        "D%":0,
+        "F%":2,
+        "Professor":"Shemyakina, Olga"
+    },
+    {
+        "GPA":4.0,
+        "A%":91,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Silva, Emilson"
+    },
+    {
+        "GPA":3.38,
+        "A%":40,
+        "B%":34,
+        "C%":0,
+        "D%":0,
+        "F%":4,
+        "Professor":"Uwaifo, Ruth"
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "GPA":3.67,
+        "A%":73,
+        "B%":24,
+        "C%":2,
+        "D%":2,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Berthelot, Yves"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Leamy, Michael"
+    },
+    {
+        "GPA":3.83,
+        "A%":83,
+        "B%":17,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Meaud, Julien"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Papastavridis, John"
+    },
+    {
+        "GPA":3.29,
+        "A%":42,
+        "B%":50,
+        "C%":4,
+        "D%":4,
+        "F%":0,
+        "Professor":"Ryherd, Erica"
+    }
+]

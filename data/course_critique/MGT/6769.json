@@ -1,0 +1,47 @@
+[
+    {
+        "GPA":3.35,
+        "A%":39,
+        "B%":47,
+        "C%":6,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.6,
+        "A%":60,
+        "B%":40,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Demko, Stephen"
+    },
+    {
+        "GPA":3.37,
+        "A%":43,
+        "B%":48,
+        "C%":7,
+        "D%":0,
+        "F%":0,
+        "Professor":"Hsu, Alex"
+    },
+    {
+        "GPA":3.17,
+        "A%":21,
+        "B%":52,
+        "C%":5,
+        "D%":0,
+        "F%":0,
+        "Professor":"Kertz, Robert"
+    },
+    {
+        "GPA":3.58,
+        "A%":59,
+        "B%":31,
+        "C%":4,
+        "D%":0,
+        "F%":0,
+        "Professor":"Ornthanalai, Chayawat"
+    }
+]

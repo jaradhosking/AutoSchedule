@@ -1,0 +1,47 @@
+[
+    {
+        "GPA":3.36,
+        "A%":45,
+        "B%":39,
+        "C%":7,
+        "D%":0,
+        "F%":2,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.54,
+        "A%":60,
+        "B%":31,
+        "C%":8,
+        "D%":0,
+        "F%":0,
+        "Professor":"Barry, John"
+    },
+    {
+        "GPA":3.38,
+        "A%":46,
+        "B%":46,
+        "C%":8,
+        "D%":0,
+        "F%":0,
+        "Professor":"Bloch, Matthieu"
+    },
+    {
+        "GPA":3.45,
+        "A%":45,
+        "B%":55,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Bloch, Mattieu"
+    },
+    {
+        "GPA":3.35,
+        "A%":44,
+        "B%":39,
+        "C%":8,
+        "D%":0,
+        "F%":2,
+        "Professor":"Stuber, Gordon"
+    }
+]

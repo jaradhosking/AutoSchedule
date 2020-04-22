@@ -1,0 +1,56 @@
+[
+    {
+        "GPA":3.54,
+        "A%":56,
+        "B%":43,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.42,
+        "A%":43,
+        "B%":56,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"Allen, Douglas"
+    },
+    {
+        "GPA":3.8,
+        "A%":82,
+        "B%":16,
+        "C%":1,
+        "D%":1,
+        "F%":0,
+        "Professor":"Dowling, Elizabeth"
+    },
+    {
+        "GPA":3.32,
+        "A%":32,
+        "B%":68,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Economou, Athanassios"
+    },
+    {
+        "GPA":3.71,
+        "A%":73,
+        "B%":25,
+        "C%":2,
+        "D%":0,
+        "F%":0,
+        "Professor":"Hollengreen, Laura"
+    },
+    {
+        "GPA":3.69,
+        "A%":69,
+        "B%":31,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Ligler, Heather"
+    }
+]

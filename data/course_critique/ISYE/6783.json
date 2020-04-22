@@ -1,0 +1,74 @@
+[
+    {
+        "GPA":3.65,
+        "A%":66,
+        "B%":26,
+        "C%":2,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Elton, John"
+    },
+    {
+        "GPA":3.62,
+        "A%":63,
+        "B%":38,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Goldsman, David"
+    },
+    {
+        "GPA":3.66,
+        "A%":68,
+        "B%":28,
+        "C%":2,
+        "D%":0,
+        "F%":0,
+        "Professor":"Huo, Xiaoming"
+    },
+    {
+        "GPA":3.79,
+        "A%":83,
+        "B%":13,
+        "C%":0,
+        "D%":0,
+        "F%":2,
+        "Professor":"Lu, Jye-Chyi"
+    },
+    {
+        "GPA":3.54,
+        "A%":50,
+        "B%":30,
+        "C%":5,
+        "D%":0,
+        "F%":0,
+        "Professor":"Mei, Yajun"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Peng, Liang"
+    },
+    {
+        "GPA":3.38,
+        "A%":37,
+        "B%":44,
+        "C%":4,
+        "D%":0,
+        "F%":0,
+        "Professor":"Spruill, Marcus"
+    }
+]

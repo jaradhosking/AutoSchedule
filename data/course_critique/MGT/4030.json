@@ -1,0 +1,47 @@
+[
+    {
+        "GPA":3.39,
+        "A%":53,
+        "B%":27,
+        "C%":11,
+        "D%":1,
+        "F%":1,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.52,
+        "A%":61,
+        "B%":14,
+        "C%":11,
+        "D%":2,
+        "F%":0,
+        "Professor":"Blunck, Ryan"
+    },
+    {
+        "GPA":3.32,
+        "A%":49,
+        "B%":34,
+        "C%":10,
+        "D%":1,
+        "F%":2,
+        "Professor":"Ely, Kirsten"
+    },
+    {
+        "GPA":2.95,
+        "A%":30,
+        "B%":34,
+        "C%":28,
+        "D%":0,
+        "F%":2,
+        "Professor":"Glazman, Aubrey"
+    },
+    {
+        "GPA":3.59,
+        "A%":65,
+        "B%":25,
+        "C%":5,
+        "D%":2,
+        "F%":0,
+        "Professor":"Turner, Deborah"
+    }
+]

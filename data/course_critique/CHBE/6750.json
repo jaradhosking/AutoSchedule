@@ -1,0 +1,38 @@
+[
+    {
+        "GPA":3.54,
+        "A%":45,
+        "B%":38,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.63,
+        "A%":61,
+        "B%":35,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Griffin III, Anselm"
+    },
+    {
+        "GPA":3.25,
+        "A%":25,
+        "B%":75,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Gutekunst, Will"
+    },
+    {
+        "GPA":3.53,
+        "A%":41,
+        "B%":36,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"Reynolds, John"
+    }
+]

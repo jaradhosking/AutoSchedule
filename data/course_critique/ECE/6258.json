@@ -1,0 +1,92 @@
+[
+    {
+        "GPA":3.68,
+        "A%":66,
+        "B%":25,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.76,
+        "A%":73,
+        "B%":21,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"Al-Regib, Ghassan"
+    },
+    {
+        "GPA":3.76,
+        "A%":71,
+        "B%":16,
+        "C%":1,
+        "D%":1,
+        "F%":0,
+        "Professor":"AlRegib, Ghassan"
+    },
+    {
+        "GPA":3.69,
+        "A%":68,
+        "B%":30,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Altunbasak, Yucel"
+    },
+    {
+        "GPA":3.38,
+        "A%":50,
+        "B%":38,
+        "C%":13,
+        "D%":0,
+        "F%":0,
+        "Professor":"Hayes III, Monson"
+    },
+    {
+        "GPA":3.48,
+        "A%":47,
+        "B%":50,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Jamrozik, Michele"
+    },
+    {
+        "GPA":3.75,
+        "A%":75,
+        "B%":25,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Kuruoglu, Ercan"
+    },
+    {
+        "GPA":3.56,
+        "A%":58,
+        "B%":38,
+        "C%":3,
+        "D%":0,
+        "F%":0,
+        "Professor":"Malassenet, Francois"
+    },
+    {
+        "GPA":3.39,
+        "A%":48,
+        "B%":41,
+        "C%":1,
+        "D%":0,
+        "F%":3,
+        "Professor":"Mersereau, Russell"
+    },
+    {
+        "GPA":3.62,
+        "A%":61,
+        "B%":29,
+        "C%":3,
+        "D%":0,
+        "F%":0,
+        "Professor":"Smith, Mark"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "GPA":3.56,
+        "A%":43,
+        "B%":24,
+        "C%":4,
+        "D%":0,
+        "F%":1,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.56,
+        "A%":53,
+        "B%":27,
+        "C%":5,
+        "D%":0,
+        "F%":0,
+        "Professor":"Etnyre, John"
+    },
+    {
+        "GPA":2.99,
+        "A%":19,
+        "B%":47,
+        "C%":7,
+        "D%":0,
+        "F%":5,
+        "Professor":"Garoufalidis, Stavros"
+    },
+    {
+        "GPA":3.89,
+        "A%":50,
+        "B%":7,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Ghomi, Mohammad"
+    },
+    {
+        "GPA":4.0,
+        "A%":50,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Symington, Margaret"
+    }
+]

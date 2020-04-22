@@ -1,0 +1,38 @@
+[
+    {
+        "GPA":3.56,
+        "A%":58,
+        "B%":13,
+        "C%":11,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.9,
+        "A%":79,
+        "B%":3,
+        "C%":3,
+        "D%":0,
+        "F%":0,
+        "Professor":"Hull, Rebecca"
+    },
+    {
+        "GPA":3.18,
+        "A%":40,
+        "B%":20,
+        "C%":25,
+        "D%":0,
+        "F%":0,
+        "Professor":"Michney, Todd"
+    },
+    {
+        "GPA":3.27,
+        "A%":33,
+        "B%":27,
+        "C%":13,
+        "D%":0,
+        "F%":0,
+        "Professor":"Rozwadowski, Helen"
+    }
+]

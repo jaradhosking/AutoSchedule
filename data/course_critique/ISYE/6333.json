@@ -1,0 +1,38 @@
+[
+    {
+        "GPA":3.42,
+        "A%":52,
+        "B%":36,
+        "C%":10,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.73,
+        "A%":73,
+        "B%":27,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Erera, Alan"
+    },
+    {
+        "GPA":3.67,
+        "A%":72,
+        "B%":23,
+        "C%":3,
+        "D%":0,
+        "F%":0,
+        "Professor":"Savelsbergh, Mathieu"
+    },
+    {
+        "GPA":3.26,
+        "A%":41,
+        "B%":43,
+        "C%":15,
+        "D%":0,
+        "F%":0,
+        "Professor":"Swann, Julie"
+    }
+]

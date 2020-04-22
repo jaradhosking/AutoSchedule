@@ -1,0 +1,173 @@
+[
+    {
+        "GPA":3.75,
+        "A%":74,
+        "B%":16,
+        "C%":2,
+        "D%":0,
+        "F%":1,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.25,
+        "A%":20,
+        "B%":60,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Ball, Roger"
+    },
+    {
+        "GPA":3.88,
+        "A%":88,
+        "B%":12,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Choi, Young-Mi"
+    },
+    {
+        "GPA":3.83,
+        "A%":83,
+        "B%":17,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Diana, Carla"
+    },
+    {
+        "GPA":3.67,
+        "A%":71,
+        "B%":0,
+        "C%":14,
+        "D%":0,
+        "F%":0,
+        "Professor":"Ezer, Neta"
+    },
+    {
+        "GPA":3.53,
+        "A%":56,
+        "B%":31,
+        "C%":6,
+        "D%":0,
+        "F%":0,
+        "Professor":"Glaser, Michael"
+    },
+    {
+        "GPA":4.0,
+        "A%":96,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Khan, Sabir"
+    },
+    {
+        "GPA":4.0,
+        "A%":57,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Lau, John"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Lewcock, Ronald"
+    },
+    {
+        "GPA":3.77,
+        "A%":78,
+        "B%":12,
+        "C%":4,
+        "D%":0,
+        "F%":1,
+        "Professor":"Medina, Joyce"
+    },
+    {
+        "GPA":3.88,
+        "A%":88,
+        "B%":13,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Melgen, Sarah"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Pearsall, Frederick"
+    },
+    {
+        "GPA":3.2,
+        "A%":14,
+        "B%":57,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Reeder, Kevin"
+    },
+    {
+        "GPA":3.46,
+        "A%":49,
+        "B%":40,
+        "C%":3,
+        "D%":2,
+        "F%":0,
+        "Professor":"Ringholz, David"
+    },
+    {
+        "GPA":3.45,
+        "A%":49,
+        "B%":38,
+        "C%":7,
+        "D%":0,
+        "F%":0,
+        "Professor":"Sanford, Jon"
+    },
+    {
+        "GPA":4.0,
+        "A%":60,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Schaar, Raja"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Stehle, Craig"
+    },
+    {
+        "GPA":3.32,
+        "A%":28,
+        "B%":45,
+        "C%":3,
+        "D%":0,
+        "F%":0,
+        "Professor":"Winegarden, Claudia"
+    },
+    {
+        "GPA":3.67,
+        "A%":83,
+        "B%":11,
+        "C%":0,
+        "D%":0,
+        "F%":6,
+        "Professor":"Zimring, Craig"
+    }
+]

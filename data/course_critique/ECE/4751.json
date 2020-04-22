@@ -1,0 +1,74 @@
+[
+    {
+        "GPA":3.18,
+        "A%":38,
+        "B%":42,
+        "C%":14,
+        "D%":2,
+        "F%":1,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.21,
+        "A%":41,
+        "B%":37,
+        "C%":16,
+        "D%":0,
+        "F%":2,
+        "Professor":"Adibi, Ali"
+    },
+    {
+        "GPA":3.5,
+        "A%":63,
+        "B%":25,
+        "C%":13,
+        "D%":0,
+        "F%":0,
+        "Professor":"Boussert, Bertrand"
+    },
+    {
+        "GPA":3.24,
+        "A%":33,
+        "B%":52,
+        "C%":4,
+        "D%":4,
+        "F%":0,
+        "Professor":"Cai, Wenshan"
+    },
+    {
+        "GPA":3.46,
+        "A%":55,
+        "B%":34,
+        "C%":9,
+        "D%":1,
+        "F%":0,
+        "Professor":"Callen Jr, William"
+    },
+    {
+        "GPA":3.03,
+        "A%":29,
+        "B%":46,
+        "C%":18,
+        "D%":4,
+        "F%":0,
+        "Professor":"Klein, Benjamin"
+    },
+    {
+        "GPA":3.5,
+        "A%":50,
+        "B%":50,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Ougazzaden, Abdallah"
+    },
+    {
+        "GPA":3.34,
+        "A%":40,
+        "B%":50,
+        "C%":7,
+        "D%":0,
+        "F%":0,
+        "Professor":"Rhodes, William"
+    }
+]

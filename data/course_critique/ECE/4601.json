@@ -1,0 +1,65 @@
+[
+    {
+        "GPA":3.19,
+        "A%":37,
+        "B%":36,
+        "C%":12,
+        "D%":3,
+        "F%":1,
+        "Professor":"All"
+    },
+    {
+        "GPA":2.96,
+        "A%":26,
+        "B%":45,
+        "C%":29,
+        "D%":0,
+        "F%":0,
+        "Professor":"Altunbasak, Yucel"
+    },
+    {
+        "GPA":3.02,
+        "A%":43,
+        "B%":25,
+        "C%":19,
+        "D%":5,
+        "F%":4,
+        "Professor":"Barry, John"
+    },
+    {
+        "GPA":3.15,
+        "A%":40,
+        "B%":38,
+        "C%":18,
+        "D%":4,
+        "F%":0,
+        "Professor":"Fekri, Faramarz"
+    },
+    {
+        "GPA":3.5,
+        "A%":57,
+        "B%":14,
+        "C%":14,
+        "D%":0,
+        "F%":0,
+        "Professor":"Ingram, Mary"
+    },
+    {
+        "GPA":3.25,
+        "A%":37,
+        "B%":38,
+        "C%":8,
+        "D%":2,
+        "F%":1,
+        "Professor":"Stuber, Gordon"
+    },
+    {
+        "GPA":2.65,
+        "A%":19,
+        "B%":29,
+        "C%":24,
+        "D%":5,
+        "F%":5,
+        "Professor":"Verriest, Erik"
+    }
+]

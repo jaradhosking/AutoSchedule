@@ -1,0 +1,92 @@
+[
+    {
+        "GPA":3.26,
+        "A%":43,
+        "B%":40,
+        "C%":15,
+        "D%":1,
+        "F%":1,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.14,
+        "A%":40,
+        "B%":31,
+        "C%":22,
+        "D%":2,
+        "F%":0,
+        "Professor":"Ferguson, Ian"
+    },
+    {
+        "GPA":3.33,
+        "A%":43,
+        "B%":46,
+        "C%":9,
+        "D%":0,
+        "F%":0,
+        "Professor":"Frazier, Albert"
+    },
+    {
+        "GPA":3.13,
+        "A%":35,
+        "B%":48,
+        "C%":11,
+        "D%":2,
+        "F%":2,
+        "Professor":"Kenney, James"
+    },
+    {
+        "GPA":3.31,
+        "A%":36,
+        "B%":57,
+        "C%":6,
+        "D%":0,
+        "F%":0,
+        "Professor":"Koblasz, Arthur"
+    },
+    {
+        "GPA":3.05,
+        "A%":38,
+        "B%":28,
+        "C%":33,
+        "D%":0,
+        "F%":0,
+        "Professor":"Michaels, Thomas"
+    },
+    {
+        "GPA":3.22,
+        "A%":43,
+        "B%":37,
+        "C%":15,
+        "D%":2,
+        "F%":1,
+        "Professor":"Milor, Linda"
+    },
+    {
+        "GPA":3.27,
+        "A%":45,
+        "B%":32,
+        "C%":19,
+        "D%":0,
+        "F%":0,
+        "Professor":"Mooney, Vincent"
+    },
+    {
+        "GPA":3.64,
+        "A%":64,
+        "B%":36,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Sands, Jean"
+    },
+    {
+        "GPA":3.23,
+        "A%":35,
+        "B%":53,
+        "C%":8,
+        "D%":2,
+        "F%":0,
+        "Professor":"Wolf, Marilyn"
+    }
+]

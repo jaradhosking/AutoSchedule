@@ -1,0 +1,74 @@
+[
+    {
+        "GPA":3.84,
+        "A%":69,
+        "B%":9,
+        "C%":2,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.75,
+        "A%":75,
+        "B%":25,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Bonetto, Federico"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Harrell II, Evans"
+    },
+    {
+        "GPA":3.76,
+        "A%":75,
+        "B%":15,
+        "C%":3,
+        "D%":0,
+        "F%":0,
+        "Professor":"Loss, Michael"
+    },
+    {
+        "GPA":4.0,
+        "A%":68,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"McCuan, John"
+    },
+    {
+        "GPA":4.0,
+        "A%":75,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Pan, Ronghua"
+    },
+    {
+        "GPA":3.44,
+        "A%":45,
+        "B%":24,
+        "C%":9,
+        "D%":0,
+        "F%":0,
+        "Professor":"Swiech, Andrzej"
+    },
+    {
+        "GPA":4.0,
+        "A%":73,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Yao, Yao"
+    }
+]

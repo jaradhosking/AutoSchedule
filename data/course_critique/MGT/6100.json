@@ -1,0 +1,65 @@
+[
+    {
+        "GPA":3.6,
+        "A%":63,
+        "B%":34,
+        "C%":3,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.52,
+        "A%":56,
+        "B%":40,
+        "C%":4,
+        "D%":0,
+        "F%":0,
+        "Professor":"Bennett, Nathan"
+    },
+    {
+        "GPA":3.64,
+        "A%":64,
+        "B%":36,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Grace, Kelly"
+    },
+    {
+        "GPA":3.22,
+        "A%":29,
+        "B%":65,
+        "C%":6,
+        "D%":0,
+        "F%":0,
+        "Professor":"Herold, David"
+    },
+    {
+        "GPA":3.5,
+        "A%":52,
+        "B%":45,
+        "C%":3,
+        "D%":0,
+        "F%":0,
+        "Professor":"Martins, Luis"
+    },
+    {
+        "GPA":3.73,
+        "A%":72,
+        "B%":26,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Nagao, Dennis"
+    },
+    {
+        "GPA":3.71,
+        "A%":73,
+        "B%":24,
+        "C%":2,
+        "D%":0,
+        "F%":0,
+        "Professor":"Sluss, David"
+    }
+]

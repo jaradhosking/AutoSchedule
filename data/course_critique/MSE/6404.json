@@ -1,0 +1,29 @@
+[
+    {
+        "GPA":3.66,
+        "A%":62,
+        "B%":30,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.42,
+        "A%":44,
+        "B%":47,
+        "C%":4,
+        "D%":0,
+        "F%":0,
+        "Professor":"Carter, William"
+    },
+    {
+        "GPA":3.77,
+        "A%":69,
+        "B%":22,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Garmestani, Hamid"
+    }
+]

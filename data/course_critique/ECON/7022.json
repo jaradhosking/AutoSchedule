@@ -1,0 +1,38 @@
+[
+    {
+        "GPA":3.4,
+        "A%":58,
+        "B%":25,
+        "C%":14,
+        "D%":0,
+        "F%":2,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.38,
+        "A%":53,
+        "B%":27,
+        "C%":17,
+        "D%":0,
+        "F%":0,
+        "Professor":"Kummer, Michael"
+    },
+    {
+        "GPA":3.37,
+        "A%":57,
+        "B%":26,
+        "C%":14,
+        "D%":0,
+        "F%":2,
+        "Professor":"Kutlu, Levent"
+    },
+    {
+        "GPA":3.67,
+        "A%":73,
+        "B%":20,
+        "C%":7,
+        "D%":0,
+        "F%":0,
+        "Professor":"Raymond, Jennie"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "GPA":3.75,
+        "A%":70,
+        "B%":23,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.4,
+        "A%":38,
+        "B%":57,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Drummond, William"
+    },
+    {
+        "GPA":3.89,
+        "A%":82,
+        "B%":9,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"Garcia, Jairo"
+    },
+    {
+        "GPA":3.81,
+        "A%":76,
+        "B%":18,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Lanza, Kevin"
+    }
+]

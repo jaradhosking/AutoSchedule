@@ -1,0 +1,65 @@
+[
+    {
+        "GPA":2.7,
+        "A%":25,
+        "B%":33,
+        "C%":19,
+        "D%":9,
+        "F%":5,
+        "Professor":"All"
+    },
+    {
+        "GPA":2.63,
+        "A%":23,
+        "B%":32,
+        "C%":21,
+        "D%":10,
+        "F%":5,
+        "Professor":"Babensee, Julia"
+    },
+    {
+        "GPA":2.4,
+        "A%":21,
+        "B%":28,
+        "C%":19,
+        "D%":12,
+        "F%":11,
+        "Professor":"Ethier, Christopher"
+    },
+    {
+        "GPA":2.85,
+        "A%":27,
+        "B%":34,
+        "C%":17,
+        "D%":7,
+        "F%":3,
+        "Professor":"Kemp, Melissa"
+    },
+    {
+        "GPA":2.67,
+        "A%":21,
+        "B%":34,
+        "C%":13,
+        "D%":11,
+        "F%":3,
+        "Professor":"Lee, Robert"
+    },
+    {
+        "GPA":2.38,
+        "A%":19,
+        "B%":31,
+        "C%":22,
+        "D%":11,
+        "F%":11,
+        "Professor":"Molony, David"
+    },
+    {
+        "GPA":3.1,
+        "A%":33,
+        "B%":41,
+        "C%":20,
+        "D%":2,
+        "F%":0,
+        "Professor":"Murthy, Niren"
+    }
+]

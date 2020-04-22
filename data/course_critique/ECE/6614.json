@@ -1,0 +1,47 @@
+[
+    {
+        "GPA":3.68,
+        "A%":70,
+        "B%":29,
+        "C%":0,
+        "D%":1,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.62,
+        "A%":62,
+        "B%":38,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Anderson, David"
+    },
+    {
+        "GPA":3.64,
+        "A%":64,
+        "B%":36,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Hayes III, Monson"
+    },
+    {
+        "GPA":3.86,
+        "A%":84,
+        "B%":14,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Jayant, Nikil"
+    },
+    {
+        "GPA":3.6,
+        "A%":68,
+        "B%":28,
+        "C%":0,
+        "D%":4,
+        "F%":0,
+        "Professor":"Kumar, Rajnish"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "GPA":2.98,
+        "A%":37,
+        "B%":30,
+        "C%":20,
+        "D%":7,
+        "F%":2,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.36,
+        "A%":58,
+        "B%":21,
+        "C%":17,
+        "D%":3,
+        "F%":0,
+        "Professor":"Bolding, Mark"
+    },
+    {
+        "GPA":3.13,
+        "A%":33,
+        "B%":44,
+        "C%":12,
+        "D%":3,
+        "F%":1,
+        "Professor":"Eslava, Laura"
+    },
+    {
+        "GPA":2.98,
+        "A%":34,
+        "B%":31,
+        "C%":23,
+        "D%":2,
+        "F%":3,
+        "Professor":"Leykin, Anton"
+    },
+    {
+        "GPA":3.07,
+        "A%":43,
+        "B%":26,
+        "C%":19,
+        "D%":7,
+        "F%":2,
+        "Professor":"Mayer, Gregory"
+    },
+    {
+        "GPA":2.76,
+        "A%":21,
+        "B%":44,
+        "C%":23,
+        "D%":10,
+        "F%":0,
+        "Professor":"Melikyan, Arik"
+    },
+    {
+        "GPA":2.51,
+        "A%":23,
+        "B%":20,
+        "C%":35,
+        "D%":13,
+        "F%":3,
+        "Professor":"Ngai, Sze-Man"
+    },
+    {
+        "GPA":2.0,
+        "A%":10,
+        "B%":20,
+        "C%":38,
+        "D%":20,
+        "F%":10,
+        "Professor":"Vandervorst, Robert"
+    }
+]

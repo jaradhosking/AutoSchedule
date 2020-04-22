@@ -1,0 +1,272 @@
+[
+    {
+        "GPA":3.85,
+        "A%":81,
+        "B%":10,
+        "C%":2,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":4.0,
+        "A%":92,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Al-Haddad, Tristan"
+    },
+    {
+        "GPA":3.89,
+        "A%":96,
+        "B%":2,
+        "C%":0,
+        "D%":0,
+        "F%":2,
+        "Professor":"Baerlecken, Daniel"
+    },
+    {
+        "GPA":3.5,
+        "A%":50,
+        "B%":50,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Brown, Jason"
+    },
+    {
+        "GPA":3.75,
+        "A%":75,
+        "B%":25,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Bushehri, Yousef"
+    },
+    {
+        "GPA":3.36,
+        "A%":51,
+        "B%":38,
+        "C%":11,
+        "D%":1,
+        "F%":0,
+        "Professor":"Case, James"
+    },
+    {
+        "GPA":3.81,
+        "A%":80,
+        "B%":10,
+        "C%":5,
+        "D%":0,
+        "F%":0,
+        "Professor":"Cottle, Mark"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Dessi-Olive, Jonathan"
+    },
+    {
+        "GPA":3.62,
+        "A%":71,
+        "B%":19,
+        "C%":10,
+        "D%":0,
+        "F%":0,
+        "Professor":"Dimitropoulos, Harris"
+    },
+    {
+        "GPA":3.44,
+        "A%":50,
+        "B%":37,
+        "C%":8,
+        "D%":0,
+        "F%":0,
+        "Professor":"Duncan, Lane"
+    },
+    {
+        "GPA":4.0,
+        "A%":93,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Gokmen, Sabri"
+    },
+    {
+        "GPA":3.88,
+        "A%":78,
+        "B%":11,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Goodman, Joseph"
+    },
+    {
+        "GPA":4.0,
+        "A%":73,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Haymaker, John"
+    },
+    {
+        "GPA":3.73,
+        "A%":68,
+        "B%":23,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Kaseman, Keith"
+    },
+    {
+        "GPA":3.8,
+        "A%":80,
+        "B%":20,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Khan, Sabir"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"LeBlanc, W"
+    },
+    {
+        "GPA":4.0,
+        "A%":97,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"LeBlanc, William"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Marble, Richard"
+    },
+    {
+        "GPA":3.89,
+        "A%":86,
+        "B%":2,
+        "C%":3,
+        "D%":0,
+        "F%":0,
+        "Professor":"Maulion, Geoffrey"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Noel, Vernelle"
+    },
+    {
+        "GPA":3.84,
+        "A%":84,
+        "B%":13,
+        "C%":0,
+        "D%":1,
+        "F%":0,
+        "Professor":"Park, James"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Peponis, John"
+    },
+    {
+        "GPA":3.92,
+        "A%":93,
+        "B%":8,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Riether, Gernot"
+    },
+    {
+        "GPA":4.0,
+        "A%":90,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Sharif, Shani"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Shelden, Dennis"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Spuijbroek, Lars"
+    },
+    {
+        "GPA":3.67,
+        "A%":67,
+        "B%":33,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Swarts, Matthew"
+    },
+    {
+        "GPA":4.0,
+        "A%":75,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Tehrani, Nader"
+    },
+    {
+        "GPA":3.72,
+        "A%":62,
+        "B%":25,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Wright, Katherine"
+    },
+    {
+        "GPA":3.0,
+        "A%":0,
+        "B%":100,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Zimring, Craig"
+    }
+]

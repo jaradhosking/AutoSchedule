@@ -1,0 +1,47 @@
+[
+    {
+        "GPA":3.95,
+        "A%":95,
+        "B%":1,
+        "C%":2,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Goodisman, Michael"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Green, Linda"
+    },
+    {
+        "GPA":3.88,
+        "A%":90,
+        "B%":3,
+        "C%":4,
+        "D%":0,
+        "F%":0,
+        "Professor":"Snell, Terry"
+    },
+    {
+        "GPA":4.0,
+        "A%":98,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Weigel, Emily"
+    }
+]

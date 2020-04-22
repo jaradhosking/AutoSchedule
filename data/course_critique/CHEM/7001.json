@@ -1,0 +1,56 @@
+[
+    {
+        "GPA":3.96,
+        "A%":96,
+        "B%":3,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.99,
+        "A%":99,
+        "B%":1,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Collard, David"
+    },
+    {
+        "GPA":3.5,
+        "A%":67,
+        "B%":17,
+        "C%":17,
+        "D%":0,
+        "F%":0,
+        "Professor":"Fahrni, Christoph"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"France, Stefan"
+    },
+    {
+        "GPA":3.84,
+        "A%":81,
+        "B%":16,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Johnson, Kenyetta"
+    },
+    {
+        "GPA":3.97,
+        "A%":97,
+        "B%":2,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Tyson, J"
+    }
+]

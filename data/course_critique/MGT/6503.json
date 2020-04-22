@@ -1,0 +1,29 @@
+[
+    {
+        "GPA":3.76,
+        "A%":77,
+        "B%":22,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.72,
+        "A%":74,
+        "B%":25,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"Mitra, Sabyasachi"
+    },
+    {
+        "GPA":3.78,
+        "A%":79,
+        "B%":19,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"Niculescu, Marius"
+    }
+]

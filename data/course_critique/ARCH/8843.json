@@ -1,0 +1,65 @@
+[
+    {
+        "GPA":3.73,
+        "A%":74,
+        "B%":24,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.77,
+        "A%":77,
+        "B%":23,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Bafna, Sonit"
+    },
+    {
+        "GPA":3.6,
+        "A%":64,
+        "B%":35,
+        "C%":0,
+        "D%":2,
+        "F%":0,
+        "Professor":"Gamble, Michael"
+    },
+    {
+        "GPA":3.75,
+        "A%":74,
+        "B%":24,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Green, David"
+    },
+    {
+        "GPA":3.53,
+        "A%":59,
+        "B%":35,
+        "C%":6,
+        "D%":0,
+        "F%":0,
+        "Professor":"Rodgers, Richard"
+    },
+    {
+        "GPA":3.91,
+        "A%":91,
+        "B%":9,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Romm, Stuart"
+    },
+    {
+        "GPA":3.67,
+        "A%":67,
+        "B%":22,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Sanford, Jon"
+    }
+]

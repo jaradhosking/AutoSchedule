@@ -1,0 +1,56 @@
+[
+    {
+        "GPA":3.85,
+        "A%":80,
+        "B%":11,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Chow, Shui-Nee"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Demko, Stephen"
+    },
+    {
+        "GPA":3.4,
+        "A%":41,
+        "B%":41,
+        "C%":6,
+        "D%":0,
+        "F%":0,
+        "Professor":"Kertz, Robert"
+    },
+    {
+        "GPA":3.89,
+        "A%":80,
+        "B%":10,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Spruill, Marcus"
+    },
+    {
+        "GPA":3.8,
+        "A%":57,
+        "B%":14,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Villani, Cedric"
+    }
+]

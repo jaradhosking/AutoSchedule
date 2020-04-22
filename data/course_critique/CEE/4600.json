@@ -1,0 +1,110 @@
+[
+    {
+        "GPA":3.34,
+        "A%":46,
+        "B%":42,
+        "C%":9,
+        "D%":1,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.24,
+        "A%":42,
+        "B%":38,
+        "C%":15,
+        "D%":2,
+        "F%":0,
+        "Professor":"Dixon, Karen"
+    },
+    {
+        "GPA":3.36,
+        "A%":45,
+        "B%":43,
+        "C%":10,
+        "D%":0,
+        "F%":0,
+        "Professor":"Greenwood, Aaron"
+    },
+    {
+        "GPA":3.58,
+        "A%":64,
+        "B%":31,
+        "C%":6,
+        "D%":0,
+        "F%":0,
+        "Professor":"Guin, Angshuman"
+    },
+    {
+        "GPA":3.36,
+        "A%":46,
+        "B%":42,
+        "C%":8,
+        "D%":1,
+        "F%":0,
+        "Professor":"Hunter, Michael"
+    },
+    {
+        "GPA":3.89,
+        "A%":92,
+        "B%":6,
+        "C%":3,
+        "D%":0,
+        "F%":0,
+        "Professor":"Liu, Haobing"
+    },
+    {
+        "GPA":3.25,
+        "A%":38,
+        "B%":50,
+        "C%":9,
+        "D%":2,
+        "F%":0,
+        "Professor":"Luh, John"
+    },
+    {
+        "GPA":3.42,
+        "A%":54,
+        "B%":31,
+        "C%":13,
+        "D%":0,
+        "F%":0,
+        "Professor":"Ogle, Jennifer"
+    },
+    {
+        "GPA":3.14,
+        "A%":38,
+        "B%":36,
+        "C%":19,
+        "D%":3,
+        "F%":0,
+        "Professor":"Parsonson, Peter"
+    },
+    {
+        "GPA":3.5,
+        "A%":57,
+        "B%":37,
+        "C%":6,
+        "D%":0,
+        "F%":0,
+        "Professor":"Wall, Thomas"
+    },
+    {
+        "GPA":3.76,
+        "A%":77,
+        "B%":21,
+        "C%":2,
+        "D%":0,
+        "F%":0,
+        "Professor":"Williams, Billy"
+    },
+    {
+        "GPA":3.16,
+        "A%":39,
+        "B%":41,
+        "C%":18,
+        "D%":3,
+        "F%":0,
+        "Professor":"Xu, Yanzhi"
+    }
+]

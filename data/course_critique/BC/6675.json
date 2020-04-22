@@ -1,0 +1,38 @@
+[
+    {
+        "GPA":3.58,
+        "A%":58,
+        "B%":31,
+        "C%":3,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Irizarry, Javier"
+    },
+    {
+        "GPA":3.44,
+        "A%":43,
+        "B%":43,
+        "C%":3,
+        "D%":0,
+        "F%":0,
+        "Professor":"Porter, Richard"
+    },
+    {
+        "GPA":3.8,
+        "A%":82,
+        "B%":10,
+        "C%":5,
+        "D%":0,
+        "F%":0,
+        "Professor":"Wickstead, Frank"
+    }
+]

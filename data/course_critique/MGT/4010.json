@@ -1,0 +1,119 @@
+[
+    {
+        "GPA":3.32,
+        "A%":49,
+        "B%":32,
+        "C%":11,
+        "D%":2,
+        "F%":1,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.06,
+        "A%":31,
+        "B%":37,
+        "C%":18,
+        "D%":4,
+        "F%":0,
+        "Professor":"Comiskey, Eugene"
+    },
+    {
+        "GPA":3.89,
+        "A%":89,
+        "B%":11,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Covert, Harold"
+    },
+    {
+        "GPA":3.8,
+        "A%":76,
+        "B%":19,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Davis-Nozemack, Karie"
+    },
+    {
+        "GPA":2.51,
+        "A%":10,
+        "B%":33,
+        "C%":45,
+        "D%":6,
+        "F%":0,
+        "Professor":"Dunn, Robert"
+    },
+    {
+        "GPA":3.64,
+        "A%":76,
+        "B%":13,
+        "C%":5,
+        "D%":0,
+        "F%":3,
+        "Professor":"Frazier Jr, James"
+    },
+    {
+        "GPA":3.6,
+        "A%":69,
+        "B%":19,
+        "C%":8,
+        "D%":1,
+        "F%":0,
+        "Professor":"Frazier, James"
+    },
+    {
+        "GPA":2.89,
+        "A%":22,
+        "B%":36,
+        "C%":23,
+        "D%":3,
+        "F%":1,
+        "Professor":"Kilgore, Michael"
+    },
+    {
+        "GPA":3.98,
+        "A%":86,
+        "B%":2,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Nickell, Christopher"
+    },
+    {
+        "GPA":3.69,
+        "A%":60,
+        "B%":27,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Poyan, Zack"
+    },
+    {
+        "GPA":3.35,
+        "A%":48,
+        "B%":32,
+        "C%":10,
+        "D%":0,
+        "F%":2,
+        "Professor":"Turner, Deborah"
+    },
+    {
+        "GPA":3.26,
+        "A%":44,
+        "B%":42,
+        "C%":10,
+        "D%":2,
+        "F%":1,
+        "Professor":"Turner, James"
+    },
+    {
+        "GPA":3.71,
+        "A%":79,
+        "B%":14,
+        "C%":7,
+        "D%":0,
+        "F%":0,
+        "Professor":"Young, Donald"
+    }
+]

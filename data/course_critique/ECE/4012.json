@@ -1,0 +1,38 @@
+[
+    {
+        "GPA":3.85,
+        "A%":86,
+        "B%":13,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.86,
+        "A%":86,
+        "B%":13,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"Frazier, Albert"
+    },
+    {
+        "GPA":3.83,
+        "A%":85,
+        "B%":14,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"Michaels, Thomas"
+    },
+    {
+        "GPA":3.87,
+        "A%":88,
+        "B%":12,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Smith, William"
+    }
+]

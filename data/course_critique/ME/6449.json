@@ -1,0 +1,38 @@
+[
+    {
+        "GPA":3.7,
+        "A%":69,
+        "B%":24,
+        "C%":2,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.72,
+        "A%":69,
+        "B%":23,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"Berthelot, Yves"
+    },
+    {
+        "GPA":3.67,
+        "A%":69,
+        "B%":26,
+        "C%":3,
+        "D%":0,
+        "F%":0,
+        "Professor":"Declercq, Nico"
+    },
+    {
+        "GPA":3.71,
+        "A%":69,
+        "B%":22,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"Degertekin, F"
+    }
+]

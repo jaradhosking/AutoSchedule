@@ -1,0 +1,47 @@
+[
+    {
+        "GPA":3.63,
+        "A%":80,
+        "B%":3,
+        "C%":17,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Chernova, Sonia"
+    },
+    {
+        "GPA":3.58,
+        "A%":77,
+        "B%":4,
+        "C%":19,
+        "D%":0,
+        "F%":0,
+        "Professor":"Christensen, Henrik"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Howard, Ayanna"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Sawicki, Gregory"
+    }
+]

@@ -1,0 +1,236 @@
+[
+    {
+        "GPA":2.93,
+        "A%":30,
+        "B%":40,
+        "C%":16,
+        "D%":6,
+        "F%":3,
+        "Professor":"All"
+    },
+    {
+        "GPA":2.9,
+        "A%":13,
+        "B%":68,
+        "C%":14,
+        "D%":3,
+        "F%":1,
+        "Professor":"Barefield, E"
+    },
+    {
+        "GPA":3.07,
+        "A%":39,
+        "B%":32,
+        "C%":17,
+        "D%":6,
+        "F%":2,
+        "Professor":"Baron, William"
+    },
+    {
+        "GPA":2.71,
+        "A%":19,
+        "B%":44,
+        "C%":20,
+        "D%":7,
+        "F%":3,
+        "Professor":"Beckham, Suzanne"
+    },
+    {
+        "GPA":3.0,
+        "A%":26,
+        "B%":44,
+        "C%":13,
+        "D%":1,
+        "F%":4,
+        "Professor":"Bunz, Uwe"
+    },
+    {
+        "GPA":2.89,
+        "A%":30,
+        "B%":47,
+        "C%":9,
+        "D%":9,
+        "F%":5,
+        "Professor":"Caran, Kevin"
+    },
+    {
+        "GPA":2.84,
+        "A%":27,
+        "B%":41,
+        "C%":16,
+        "D%":7,
+        "F%":4,
+        "Professor":"Collard, David"
+    },
+    {
+        "GPA":3.18,
+        "A%":40,
+        "B%":40,
+        "C%":10,
+        "D%":3,
+        "F%":3,
+        "Professor":"Davis, Tina"
+    },
+    {
+        "GPA":2.72,
+        "A%":19,
+        "B%":44,
+        "C%":21,
+        "D%":7,
+        "F%":3,
+        "Professor":"Deutsch, Howard"
+    },
+    {
+        "GPA":3.21,
+        "A%":42,
+        "B%":40,
+        "C%":12,
+        "D%":0,
+        "F%":3,
+        "Professor":"Doyle, Donald"
+    },
+    {
+        "GPA":2.94,
+        "A%":36,
+        "B%":34,
+        "C%":13,
+        "D%":12,
+        "F%":1,
+        "Professor":"Evans, Michael"
+    },
+    {
+        "GPA":2.95,
+        "A%":30,
+        "B%":39,
+        "C%":19,
+        "D%":6,
+        "F%":1,
+        "Professor":"France, Stefan"
+    },
+    {
+        "GPA":2.25,
+        "A%":12,
+        "B%":31,
+        "C%":28,
+        "D%":25,
+        "F%":3,
+        "Professor":"Lee-Joyner, JoAnn"
+    },
+    {
+        "GPA":3.16,
+        "A%":43,
+        "B%":35,
+        "C%":13,
+        "D%":5,
+        "F%":2,
+        "Professor":"Liotta, Charles"
+    },
+    {
+        "GPA":3.24,
+        "A%":32,
+        "B%":56,
+        "C%":6,
+        "D%":1,
+        "F%":1,
+        "Professor":"Marder, Seth"
+    },
+    {
+        "GPA":2.31,
+        "A%":12,
+        "B%":27,
+        "C%":31,
+        "D%":8,
+        "F%":8,
+        "Professor":"McCloskey, Candice"
+    },
+    {
+        "GPA":2.79,
+        "A%":27,
+        "B%":39,
+        "C%":11,
+        "D%":13,
+        "F%":3,
+        "Professor":"Morris, James"
+    },
+    {
+        "GPA":3.11,
+        "A%":42,
+        "B%":33,
+        "C%":15,
+        "D%":5,
+        "F%":2,
+        "Professor":"Pollet, Pamela"
+    },
+    {
+        "GPA":2.72,
+        "A%":22,
+        "B%":32,
+        "C%":27,
+        "D%":7,
+        "F%":3,
+        "Professor":"Reynolds, John"
+    },
+    {
+        "GPA":3.1,
+        "A%":32,
+        "B%":43,
+        "C%":16,
+        "D%":2,
+        "F%":1,
+        "Professor":"Sadighi, Joseph"
+    },
+    {
+        "GPA":2.97,
+        "A%":39,
+        "B%":31,
+        "C%":14,
+        "D%":4,
+        "F%":7,
+        "Professor":"Sanhueza-Chavez, Carlos"
+    },
+    {
+        "GPA":2.79,
+        "A%":30,
+        "B%":28,
+        "C%":23,
+        "D%":7,
+        "F%":3,
+        "Professor":"Schuster, Gary"
+    },
+    {
+        "GPA":2.99,
+        "A%":12,
+        "B%":70,
+        "C%":9,
+        "D%":2,
+        "F%":0,
+        "Professor":"Stephens, Amanda"
+    },
+    {
+        "GPA":3.2,
+        "A%":32,
+        "B%":39,
+        "C%":13,
+        "D%":1,
+        "F%":1,
+        "Professor":"Tolbert, Laren"
+    },
+    {
+        "GPA":3.05,
+        "A%":33,
+        "B%":43,
+        "C%":11,
+        "D%":5,
+        "F%":2,
+        "Professor":"Tyson, J"
+    },
+    {
+        "GPA":2.91,
+        "A%":33,
+        "B%":32,
+        "C%":14,
+        "D%":11,
+        "F%":2,
+        "Professor":"Zhu, Hui"
+    }
+]

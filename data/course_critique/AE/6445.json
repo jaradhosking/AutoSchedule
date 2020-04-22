@@ -1,0 +1,29 @@
+[
+    {
+        "GPA":3.67,
+        "A%":64,
+        "B%":25,
+        "C%":2,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.6,
+        "A%":59,
+        "B%":29,
+        "C%":3,
+        "D%":0,
+        "F%":0,
+        "Professor":"Gaeta, Richard"
+    },
+    {
+        "GPA":3.79,
+        "A%":73,
+        "B%":18,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Scarborough, David"
+    }
+]

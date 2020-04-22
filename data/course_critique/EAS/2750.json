@@ -1,0 +1,101 @@
+[
+    {
+        "GPA":3.14,
+        "A%":32,
+        "B%":30,
+        "C%":11,
+        "D%":3,
+        "F%":1,
+        "Professor":"All"
+    },
+    {
+        "GPA":2.77,
+        "A%":11,
+        "B%":5,
+        "C%":18,
+        "D%":0,
+        "F%":0,
+        "Professor":"Cardelino, Carlos"
+    },
+    {
+        "GPA":3.06,
+        "A%":32,
+        "B%":21,
+        "C%":9,
+        "D%":6,
+        "F%":2,
+        "Professor":"Chimonas, George"
+    },
+    {
+        "GPA":3.08,
+        "A%":36,
+        "B%":30,
+        "C%":9,
+        "D%":7,
+        "F%":2,
+        "Professor":"Collins, Dan"
+    },
+    {
+        "GPA":3.08,
+        "A%":35,
+        "B%":37,
+        "C%":16,
+        "D%":3,
+        "F%":3,
+        "Professor":"Handlos, Zachary"
+    },
+    {
+        "GPA":3.23,
+        "A%":34,
+        "B%":53,
+        "C%":2,
+        "D%":2,
+        "F%":2,
+        "Professor":"Hartley, Dana"
+    },
+    {
+        "GPA":3.2,
+        "A%":35,
+        "B%":35,
+        "C%":11,
+        "D%":2,
+        "F%":1,
+        "Professor":"Huey, Lewis"
+    },
+    {
+        "GPA":3.37,
+        "A%":35,
+        "B%":22,
+        "C%":5,
+        "D%":2,
+        "F%":1,
+        "Professor":"Lahaise, William"
+    },
+    {
+        "GPA":3.08,
+        "A%":31,
+        "B%":38,
+        "C%":23,
+        "D%":0,
+        "F%":0,
+        "Professor":"Lawrimore, Scott"
+    },
+    {
+        "GPA":3.26,
+        "A%":30,
+        "B%":31,
+        "C%":10,
+        "D%":1,
+        "F%":0,
+        "Professor":"Roper, Robert"
+    },
+    {
+        "GPA":2.99,
+        "A%":24,
+        "B%":29,
+        "C%":18,
+        "D%":2,
+        "F%":2,
+        "Professor":"Tan, David"
+    }
+]

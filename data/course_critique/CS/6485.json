@@ -1,0 +1,29 @@
+[
+    {
+        "GPA":3.64,
+        "A%":63,
+        "B%":27,
+        "C%":3,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.67,
+        "A%":67,
+        "B%":21,
+        "C%":4,
+        "D%":0,
+        "F%":0,
+        "Professor":"Ribarsky, Martin"
+    },
+    {
+        "GPA":3.5,
+        "A%":50,
+        "B%":50,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Rossignac, Jaroslaw"
+    }
+]

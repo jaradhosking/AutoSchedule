@@ -1,0 +1,38 @@
+[
+    {
+        "GPA":3.1,
+        "A%":41,
+        "B%":24,
+        "C%":5,
+        "D%":4,
+        "F%":7,
+        "Professor":"All"
+    },
+    {
+        "GPA":2.71,
+        "A%":41,
+        "B%":15,
+        "C%":7,
+        "D%":8,
+        "F%":15,
+        "Professor":"Furman, Michael"
+    },
+    {
+        "GPA":3.5,
+        "A%":43,
+        "B%":43,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Mooney, Vincent"
+    },
+    {
+        "GPA":3.47,
+        "A%":38,
+        "B%":21,
+        "C%":7,
+        "D%":0,
+        "F%":0,
+        "Professor":"Yezzi, Anthony"
+    }
+]

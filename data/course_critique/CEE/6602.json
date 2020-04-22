@@ -1,0 +1,29 @@
+[
+    {
+        "GPA":3.89,
+        "A%":87,
+        "B%":10,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.8,
+        "A%":79,
+        "B%":19,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Guensler, Randall"
+    },
+    {
+        "GPA":3.96,
+        "A%":93,
+        "B%":4,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Ross, Catherine"
+    }
+]

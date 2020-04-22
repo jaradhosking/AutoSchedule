@@ -1,0 +1,38 @@
+[
+    {
+        "GPA":3.45,
+        "A%":52,
+        "B%":35,
+        "C%":1,
+        "D%":1,
+        "F%":3,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.52,
+        "A%":42,
+        "B%":24,
+        "C%":0,
+        "D%":6,
+        "F%":0,
+        "Professor":"Goldberg, Madina"
+    },
+    {
+        "GPA":3.57,
+        "A%":57,
+        "B%":43,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Koposov, Nikolay"
+    },
+    {
+        "GPA":3.32,
+        "A%":53,
+        "B%":34,
+        "C%":3,
+        "D%":0,
+        "F%":7,
+        "Professor":"Smith, Jennifer"
+    }
+]

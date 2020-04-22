@@ -1,0 +1,110 @@
+[
+    {
+        "GPA":3.21,
+        "A%":42,
+        "B%":37,
+        "C%":18,
+        "D%":2,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.46,
+        "A%":60,
+        "B%":24,
+        "C%":14,
+        "D%":1,
+        "F%":0,
+        "Professor":"Agrawal, Pradeep"
+    },
+    {
+        "GPA":3.0,
+        "A%":22,
+        "B%":57,
+        "C%":20,
+        "D%":2,
+        "F%":0,
+        "Professor":"Banerjee, Sujit"
+    },
+    {
+        "GPA":3.26,
+        "A%":45,
+        "B%":35,
+        "C%":19,
+        "D%":0,
+        "F%":0,
+        "Professor":"Breedveld, Laurens"
+    },
+    {
+        "GPA":3.0,
+        "A%":31,
+        "B%":41,
+        "C%":26,
+        "D%":2,
+        "F%":0,
+        "Professor":"Empie, Howard"
+    },
+    {
+        "GPA":3.9,
+        "A%":82,
+        "B%":9,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Lively, Ryan"
+    },
+    {
+        "GPA":3.24,
+        "A%":44,
+        "B%":36,
+        "C%":18,
+        "D%":1,
+        "F%":0,
+        "Professor":"Ludovice, Peter"
+    },
+    {
+        "GPA":2.87,
+        "A%":27,
+        "B%":40,
+        "C%":27,
+        "D%":7,
+        "F%":0,
+        "Professor":"Luettgen, Christopher"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Realff, Matthew"
+    },
+    {
+        "GPA":3.91,
+        "A%":91,
+        "B%":9,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Schork, Francis"
+    },
+    {
+        "GPA":3.08,
+        "A%":33,
+        "B%":43,
+        "C%":19,
+        "D%":3,
+        "F%":0,
+        "Professor":"Thio, Yonathan"
+    },
+    {
+        "GPA":3.57,
+        "A%":61,
+        "B%":35,
+        "C%":4,
+        "D%":0,
+        "F%":0,
+        "Professor":"Walton, Krista"
+    }
+]

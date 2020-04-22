@@ -1,0 +1,56 @@
+[
+    {
+        "GPA":3.64,
+        "A%":60,
+        "B%":26,
+        "C%":3,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.5,
+        "A%":75,
+        "B%":0,
+        "C%":25,
+        "D%":0,
+        "F%":0,
+        "Professor":"Bauchspies, Wenda"
+    },
+    {
+        "GPA":3.62,
+        "A%":56,
+        "B%":31,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Fox, Mary"
+    },
+    {
+        "GPA":3.88,
+        "A%":64,
+        "B%":9,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Krige, Gerhard"
+    },
+    {
+        "GPA":3.57,
+        "A%":57,
+        "B%":43,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Pearson Jr, Willie"
+    },
+    {
+        "GPA":3.67,
+        "A%":57,
+        "B%":29,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Usselman, Steven"
+    }
+]

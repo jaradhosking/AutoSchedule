@@ -1,0 +1,38 @@
+[
+    {
+        "GPA":3.76,
+        "A%":68,
+        "B%":13,
+        "C%":2,
+        "D%":0,
+        "F%":1,
+        "Professor":"All"
+    },
+    {
+        "GPA":4.0,
+        "A%":56,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Shapiro, Alexander"
+    },
+    {
+        "GPA":3.7,
+        "A%":60,
+        "B%":22,
+        "C%":2,
+        "D%":0,
+        "F%":0,
+        "Professor":"Vengazhiyil, Roshan"
+    },
+    {
+        "GPA":3.78,
+        "A%":83,
+        "B%":4,
+        "C%":2,
+        "D%":0,
+        "F%":4,
+        "Professor":"Wu, Chien-Fu"
+    }
+]

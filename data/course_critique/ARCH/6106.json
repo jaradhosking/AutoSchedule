@@ -1,0 +1,29 @@
+[
+    {
+        "GPA":3.27,
+        "A%":41,
+        "B%":27,
+        "C%":14,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.23,
+        "A%":39,
+        "B%":26,
+        "C%":16,
+        "D%":0,
+        "F%":0,
+        "Professor":"Flowers, Benjamin"
+    },
+    {
+        "GPA":3.63,
+        "A%":56,
+        "B%":33,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Marratt, Marisabel"
+    }
+]

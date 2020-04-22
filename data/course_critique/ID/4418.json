@@ -1,0 +1,47 @@
+[
+    {
+        "GPA":3.73,
+        "A%":76,
+        "B%":14,
+        "C%":3,
+        "D%":0,
+        "F%":2,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.25,
+        "A%":29,
+        "B%":29,
+        "C%":12,
+        "D%":0,
+        "F%":0,
+        "Professor":"Anderson, Kyle"
+    },
+    {
+        "GPA":3.86,
+        "A%":87,
+        "B%":5,
+        "C%":2,
+        "D%":0,
+        "F%":2,
+        "Professor":"Lau, John"
+    },
+    {
+        "GPA":3.22,
+        "A%":46,
+        "B%":37,
+        "C%":11,
+        "D%":0,
+        "F%":4,
+        "Professor":"Shankwiler, Kevin"
+    },
+    {
+        "GPA":3.3,
+        "A%":38,
+        "B%":51,
+        "C%":5,
+        "D%":0,
+        "F%":2,
+        "Professor":"Wilson, Wendell"
+    }
+]

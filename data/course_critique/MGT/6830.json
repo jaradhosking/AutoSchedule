@@ -1,0 +1,38 @@
+[
+    {
+        "GPA":3.93,
+        "A%":93,
+        "B%":6,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.88,
+        "A%":90,
+        "B%":9,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"Ceccagnoli, Marco"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Giuliano, Jonathan"
+    },
+    {
+        "GPA":3.94,
+        "A%":93,
+        "B%":6,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Thursby, Marie"
+    }
+]

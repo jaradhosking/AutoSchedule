@@ -1,0 +1,74 @@
+[
+    {
+        "GPA":3.59,
+        "A%":59,
+        "B%":26,
+        "C%":5,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.29,
+        "A%":41,
+        "B%":34,
+        "C%":16,
+        "D%":0,
+        "F%":0,
+        "Professor":"Abayomi, Kobi"
+    },
+    {
+        "GPA":3.56,
+        "A%":49,
+        "B%":27,
+        "C%":4,
+        "D%":0,
+        "F%":0,
+        "Professor":"Huo, Xiaoming"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Kvam, Paul"
+    },
+    {
+        "GPA":3.78,
+        "A%":76,
+        "B%":19,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"Lu, Jye-Chyi"
+    },
+    {
+        "GPA":3.66,
+        "A%":63,
+        "B%":33,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Tsui, Kwok-Leung"
+    },
+    {
+        "GPA":3.32,
+        "A%":40,
+        "B%":46,
+        "C%":8,
+        "D%":1,
+        "F%":0,
+        "Professor":"Vengazhiyil, Roshan"
+    },
+    {
+        "GPA":3.61,
+        "A%":59,
+        "B%":24,
+        "C%":5,
+        "D%":1,
+        "F%":0,
+        "Professor":"Wu, Chien-Fu"
+    }
+]

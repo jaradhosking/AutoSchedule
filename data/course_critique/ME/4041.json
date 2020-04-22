@@ -1,0 +1,92 @@
+[
+    {
+        "GPA":3.46,
+        "A%":58,
+        "B%":30,
+        "C%":7,
+        "D%":1,
+        "F%":1,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.54,
+        "A%":59,
+        "B%":37,
+        "C%":5,
+        "D%":0,
+        "F%":0,
+        "Professor":"Carnell, Peter"
+    },
+    {
+        "GPA":3.94,
+        "A%":94,
+        "B%":7,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Dorozhkin, Denis"
+    },
+    {
+        "GPA":3.62,
+        "A%":67,
+        "B%":28,
+        "C%":1,
+        "D%":0,
+        "F%":2,
+        "Professor":"Fulton, Robert"
+    },
+    {
+        "GPA":3.1,
+        "A%":38,
+        "B%":29,
+        "C%":21,
+        "D%":4,
+        "F%":0,
+        "Professor":"Mehaffey, Kristi"
+    },
+    {
+        "GPA":3.79,
+        "A%":79,
+        "B%":21,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Panchal, Jitesh"
+    },
+    {
+        "GPA":3.37,
+        "A%":58,
+        "B%":26,
+        "C%":8,
+        "D%":3,
+        "F%":3,
+        "Professor":"Pucha, Raghuram"
+    },
+    {
+        "GPA":3.22,
+        "A%":40,
+        "B%":41,
+        "C%":13,
+        "D%":2,
+        "F%":1,
+        "Professor":"Rosen, David"
+    },
+    {
+        "GPA":3.33,
+        "A%":49,
+        "B%":37,
+        "C%":11,
+        "D%":2,
+        "F%":0,
+        "Professor":"Sitaraman, Suresh"
+    },
+    {
+        "GPA":3.73,
+        "A%":75,
+        "B%":23,
+        "C%":2,
+        "D%":0,
+        "F%":0,
+        "Professor":"Wang, Yan"
+    }
+]

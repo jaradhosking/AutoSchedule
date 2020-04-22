@@ -1,0 +1,29 @@
+[
+    {
+        "GPA":3.72,
+        "A%":66,
+        "B%":25,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.73,
+        "A%":70,
+        "B%":23,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"Banerjee, Sujit"
+    },
+    {
+        "GPA":3.66,
+        "A%":42,
+        "B%":34,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Luettgen, Christopher"
+    }
+]

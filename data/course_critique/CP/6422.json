@@ -1,0 +1,65 @@
+[
+    {
+        "GPA":3.73,
+        "A%":75,
+        "B%":19,
+        "C%":1,
+        "D%":1,
+        "F%":1,
+        "Professor":"All"
+    },
+    {
+        "GPA":4.0,
+        "A%":93,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Andreason, Stuart"
+    },
+    {
+        "GPA":3.13,
+        "A%":13,
+        "B%":88,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Cassidy, Glenn"
+    },
+    {
+        "GPA":3.71,
+        "A%":77,
+        "B%":19,
+        "C%":1,
+        "D%":1,
+        "F%":1,
+        "Professor":"Clark, Jennifer"
+    },
+    {
+        "GPA":3.82,
+        "A%":78,
+        "B%":17,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Sawicki, David"
+    },
+    {
+        "GPA":3.79,
+        "A%":67,
+        "B%":17,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Shapira, Philip"
+    },
+    {
+        "GPA":3.5,
+        "A%":57,
+        "B%":14,
+        "C%":14,
+        "D%":0,
+        "F%":0,
+        "Professor":"Youtie, Jan"
+    }
+]

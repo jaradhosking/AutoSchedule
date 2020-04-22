@@ -1,0 +1,101 @@
+[
+    {
+        "GPA":3.8,
+        "A%":69,
+        "B%":15,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.58,
+        "A%":49,
+        "B%":34,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Comiskey, Eugene"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Covert, Harold"
+    },
+    {
+        "GPA":3.88,
+        "A%":64,
+        "B%":9,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Davis-Nozemack, Karie"
+    },
+    {
+        "GPA":3.84,
+        "A%":50,
+        "B%":13,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Frazier Jr, James"
+    },
+    {
+        "GPA":3.95,
+        "A%":80,
+        "B%":5,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Frazier, James"
+    },
+    {
+        "GPA":3.65,
+        "A%":54,
+        "B%":27,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"Kilgore, Michael"
+    },
+    {
+        "GPA":4.0,
+        "A%":89,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Nickell, Christopher"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Poyan, Zack"
+    },
+    {
+        "GPA":3.82,
+        "A%":81,
+        "B%":16,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"Turner, Deborah"
+    },
+    {
+        "GPA":4.0,
+        "A%":88,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Turner, James"
+    }
+]

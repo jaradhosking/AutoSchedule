@@ -1,0 +1,65 @@
+[
+    {
+        "GPA":3.23,
+        "A%":42,
+        "B%":39,
+        "C%":11,
+        "D%":2,
+        "F%":1,
+        "Professor":"All"
+    },
+    {
+        "GPA":2.9,
+        "A%":30,
+        "B%":34,
+        "C%":18,
+        "D%":6,
+        "F%":4,
+        "Professor":"Brilakis, Ioannis"
+    },
+    {
+        "GPA":3.13,
+        "A%":25,
+        "B%":54,
+        "C%":14,
+        "D%":0,
+        "F%":0,
+        "Professor":"Castro-Lacouture, Daniel"
+    },
+    {
+        "GPA":3.27,
+        "A%":51,
+        "B%":25,
+        "C%":17,
+        "D%":2,
+        "F%":2,
+        "Professor":"Cheng, Tao"
+    },
+    {
+        "GPA":3.3,
+        "A%":54,
+        "B%":30,
+        "C%":9,
+        "D%":4,
+        "F%":2,
+        "Professor":"Cho, Yong"
+    },
+    {
+        "GPA":3.31,
+        "A%":56,
+        "B%":27,
+        "C%":11,
+        "D%":5,
+        "F%":2,
+        "Professor":"Cho, Yong-Kwon"
+    },
+    {
+        "GPA":3.46,
+        "A%":52,
+        "B%":40,
+        "C%":5,
+        "D%":1,
+        "F%":1,
+        "Professor":"Vanegas, Jorge"
+    }
+]

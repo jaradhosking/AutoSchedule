@@ -1,0 +1,29 @@
+[
+    {
+        "GPA":3.3,
+        "A%":48,
+        "B%":35,
+        "C%":18,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.5,
+        "A%":75,
+        "B%":0,
+        "C%":25,
+        "D%":0,
+        "F%":0,
+        "Professor":"Guhathakurta, Subhrajit"
+    },
+    {
+        "GPA":3.1,
+        "A%":20,
+        "B%":70,
+        "C%":10,
+        "D%":0,
+        "F%":0,
+        "Professor":"Leigh, Nancey"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "GPA":3.44,
+        "A%":63,
+        "B%":22,
+        "C%":6,
+        "D%":1,
+        "F%":5,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.47,
+        "A%":63,
+        "B%":19,
+        "C%":5,
+        "D%":0,
+        "F%":5,
+        "Professor":"Freeman, William"
+    },
+    {
+        "GPA":3.43,
+        "A%":66,
+        "B%":21,
+        "C%":6,
+        "D%":0,
+        "F%":6,
+        "Professor":"Nitsche, Michael"
+    },
+    {
+        "GPA":3.25,
+        "A%":26,
+        "B%":53,
+        "C%":5,
+        "D%":0,
+        "F%":0,
+        "Professor":"Penk, Erica"
+    },
+    {
+        "GPA":3.5,
+        "A%":71,
+        "B%":14,
+        "C%":7,
+        "D%":3,
+        "F%":3,
+        "Professor":"Wilson, Devin"
+    }
+]

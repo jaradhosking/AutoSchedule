@@ -1,0 +1,74 @@
+[
+    {
+        "GPA":3.56,
+        "A%":58,
+        "B%":34,
+        "C%":2,
+        "D%":1,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.33,
+        "A%":40,
+        "B%":47,
+        "C%":1,
+        "D%":5,
+        "F%":0,
+        "Professor":"Chen, Victoria"
+    },
+    {
+        "GPA":3.8,
+        "A%":76,
+        "B%":20,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Hayter, Anthony"
+    },
+    {
+        "GPA":3.58,
+        "A%":59,
+        "B%":35,
+        "C%":3,
+        "D%":0,
+        "F%":0,
+        "Professor":"Huo, Xiaoming"
+    },
+    {
+        "GPA":3.56,
+        "A%":55,
+        "B%":34,
+        "C%":3,
+        "D%":0,
+        "F%":0,
+        "Professor":"Shapiro, Alexander"
+    },
+    {
+        "GPA":3.66,
+        "A%":65,
+        "B%":31,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"Tsui, Kwok-Leung"
+    },
+    {
+        "GPA":3.6,
+        "A%":64,
+        "B%":32,
+        "C%":4,
+        "D%":0,
+        "F%":0,
+        "Professor":"Vengazhiyil, Roshan"
+    },
+    {
+        "GPA":3.88,
+        "A%":79,
+        "B%":11,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Vidakovic, Branislav"
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "GPA":3.05,
+        "A%":35,
+        "B%":37,
+        "C%":11,
+        "D%":5,
+        "F%":4,
+        "Professor":"All"
+    },
+    {
+        "GPA":2.95,
+        "A%":33,
+        "B%":42,
+        "C%":12,
+        "D%":6,
+        "F%":5,
+        "Professor":"Collard, David"
+    },
+    {
+        "GPA":3.56,
+        "A%":56,
+        "B%":44,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Fahrni, Christoph"
+    },
+    {
+        "GPA":3.33,
+        "A%":48,
+        "B%":24,
+        "C%":10,
+        "D%":5,
+        "F%":0,
+        "Professor":"Gelbaum, Leslie"
+    },
+    {
+        "GPA":2.23,
+        "A%":11,
+        "B%":22,
+        "C%":17,
+        "D%":17,
+        "F%":6,
+        "Professor":"Kubanek, Julia"
+    },
+    {
+        "GPA":3.42,
+        "A%":47,
+        "B%":35,
+        "C%":0,
+        "D%":3,
+        "F%":3,
+        "Professor":"Ragauskas, Arthur"
+    },
+    {
+        "GPA":3.15,
+        "A%":35,
+        "B%":32,
+        "C%":16,
+        "D%":1,
+        "F%":1,
+        "Professor":"Tolbert, Laren"
+    }
+]

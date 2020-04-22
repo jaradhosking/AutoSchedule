@@ -1,0 +1,56 @@
+[
+    {
+        "GPA":3.88,
+        "A%":59,
+        "B%":8,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":4.0,
+        "A%":61,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"McCoy, Tammy"
+    },
+    {
+        "GPA":3.67,
+        "A%":47,
+        "B%":23,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Newstetter, Wendy"
+    },
+    {
+        "GPA":4.0,
+        "A%":63,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Sekayi, Dia"
+    },
+    {
+        "GPA":4.0,
+        "A%":64,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Sullivan, Carol"
+    },
+    {
+        "GPA":3.97,
+        "A%":69,
+        "B%":1,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"Williams, Katherine"
+    }
+]

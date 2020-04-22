@@ -1,0 +1,47 @@
+[
+    {
+        "GPA":3.61,
+        "A%":60,
+        "B%":28,
+        "C%":2,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Krige, Gerhard"
+    },
+    {
+        "GPA":3.5,
+        "A%":50,
+        "B%":50,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Schneer, Jonathan"
+    },
+    {
+        "GPA":3.75,
+        "A%":75,
+        "B%":25,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Smith, Jennifer"
+    },
+    {
+        "GPA":3.47,
+        "A%":45,
+        "B%":31,
+        "C%":5,
+        "D%":0,
+        "F%":0,
+        "Professor":"Tone, John"
+    }
+]

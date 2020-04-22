@@ -1,0 +1,101 @@
+[
+    {
+        "GPA":3.73,
+        "A%":72,
+        "B%":12,
+        "C%":3,
+        "D%":1,
+        "F%":1,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.5,
+        "A%":67,
+        "B%":17,
+        "C%":17,
+        "D%":0,
+        "F%":0,
+        "Professor":"Gentle, James"
+    },
+    {
+        "GPA":3.52,
+        "A%":59,
+        "B%":21,
+        "C%":13,
+        "D%":0,
+        "F%":0,
+        "Professor":"Gray, Alexander"
+    },
+    {
+        "GPA":3.78,
+        "A%":75,
+        "B%":12,
+        "C%":4,
+        "D%":0,
+        "F%":0,
+        "Professor":"Haaland, Benjamin"
+    },
+    {
+        "GPA":3.94,
+        "A%":90,
+        "B%":3,
+        "C%":2,
+        "D%":0,
+        "F%":0,
+        "Professor":"Kiyavash, Negar"
+    },
+    {
+        "GPA":2.8,
+        "A%":40,
+        "B%":20,
+        "C%":20,
+        "D%":20,
+        "F%":0,
+        "Professor":"Lebanon, Guy"
+    },
+    {
+        "GPA":3.92,
+        "A%":75,
+        "B%":6,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Levanon, Guy"
+    },
+    {
+        "GPA":3.7,
+        "A%":70,
+        "B%":14,
+        "C%":0,
+        "D%":0,
+        "F%":3,
+        "Professor":"Song, Le"
+    },
+    {
+        "GPA":3.85,
+        "A%":75,
+        "B%":10,
+        "C%":2,
+        "D%":0,
+        "F%":0,
+        "Professor":"Xie, Yao"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Zha, Hongyuan"
+    },
+    {
+        "GPA":3.89,
+        "A%":69,
+        "B%":9,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Zhao, Tuo"
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "GPA":3.61,
+        "A%":61,
+        "B%":21,
+        "C%":1,
+        "D%":0,
+        "F%":3,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.44,
+        "A%":56,
+        "B%":33,
+        "C%":11,
+        "D%":0,
+        "F%":0,
+        "Professor":"Prasad, Jonnalagadda"
+    },
+    {
+        "GPA":3.63,
+        "A%":62,
+        "B%":19,
+        "C%":0,
+        "D%":0,
+        "F%":4,
+        "Professor":"Sankar, Lakshmi"
+    }
+]

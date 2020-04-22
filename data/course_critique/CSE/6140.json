@@ -1,0 +1,56 @@
+[
+    {
+        "GPA":3.58,
+        "A%":57,
+        "B%":20,
+        "C%":3,
+        "D%":1,
+        "F%":2,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.65,
+        "A%":69,
+        "B%":25,
+        "C%":5,
+        "D%":0,
+        "F%":0,
+        "Professor":"Apostolico, Alberto"
+    },
+    {
+        "GPA":3.62,
+        "A%":56,
+        "B%":18,
+        "C%":2,
+        "D%":0,
+        "F%":3,
+        "Professor":"Bader, David"
+    },
+    {
+        "GPA":3.37,
+        "A%":59,
+        "B%":26,
+        "C%":2,
+        "D%":11,
+        "F%":0,
+        "Professor":"Benoit, Anne"
+    },
+    {
+        "GPA":3.42,
+        "A%":53,
+        "B%":31,
+        "C%":12,
+        "D%":1,
+        "F%":0,
+        "Professor":"Catalyurek, Umit"
+    },
+    {
+        "GPA":3.54,
+        "A%":54,
+        "B%":22,
+        "C%":9,
+        "D%":0,
+        "F%":0,
+        "Professor":"Dilkina, Bistra"
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "GPA":3.32,
+        "A%":40,
+        "B%":39,
+        "C%":9,
+        "D%":0,
+        "F%":1,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.5,
+        "A%":46,
+        "B%":46,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Burkett, Justin"
+    },
+    {
+        "GPA":4.0,
+        "A%":89,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Kakeu Kengne, Justin"
+    },
+    {
+        "GPA":3.11,
+        "A%":29,
+        "B%":42,
+        "C%":16,
+        "D%":0,
+        "F%":1,
+        "Professor":"Kim, Byung-Cheol"
+    },
+    {
+        "GPA":3.89,
+        "A%":89,
+        "B%":11,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Riezman, Raymond"
+    },
+    {
+        "GPA":3.34,
+        "A%":30,
+        "B%":60,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Silva, Emilson"
+    }
+]

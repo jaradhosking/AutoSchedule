@@ -1,0 +1,56 @@
+[
+    {
+        "GPA":3.69,
+        "A%":73,
+        "B%":24,
+        "C%":2,
+        "D%":1,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.59,
+        "A%":63,
+        "B%":37,
+        "C%":0,
+        "D%":0,
+        "F%":1,
+        "Professor":"Bennett, Nathan"
+    },
+    {
+        "GPA":3.78,
+        "A%":85,
+        "B%":11,
+        "C%":2,
+        "D%":2,
+        "F%":0,
+        "Professor":"Blum, Terry"
+    },
+    {
+        "GPA":3.87,
+        "A%":87,
+        "B%":13,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Daloisio, Anthony"
+    },
+    {
+        "GPA":3.59,
+        "A%":63,
+        "B%":32,
+        "C%":2,
+        "D%":1,
+        "F%":1,
+        "Professor":"Herold, David"
+    },
+    {
+        "GPA":3.92,
+        "A%":94,
+        "B%":5,
+        "C%":2,
+        "D%":0,
+        "F%":0,
+        "Professor":"Sluss, David"
+    }
+]

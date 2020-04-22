@@ -1,0 +1,83 @@
+[
+    {
+        "GPA":3.6,
+        "A%":67,
+        "B%":15,
+        "C%":7,
+        "D%":1,
+        "F%":1,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.54,
+        "A%":60,
+        "B%":31,
+        "C%":0,
+        "D%":2,
+        "F%":2,
+        "Professor":"Anderson, David"
+    },
+    {
+        "GPA":3.36,
+        "A%":56,
+        "B%":19,
+        "C%":6,
+        "D%":0,
+        "F%":6,
+        "Professor":"Dansereau, Richard"
+    },
+    {
+        "GPA":4.0,
+        "A%":100,
+        "B%":0,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Hayes III, Monson"
+    },
+    {
+        "GPA":3.83,
+        "A%":82,
+        "B%":6,
+        "C%":4,
+        "D%":0,
+        "F%":0,
+        "Professor":"Ma, Xiaoli"
+    },
+    {
+        "GPA":3.17,
+        "A%":43,
+        "B%":14,
+        "C%":21,
+        "D%":4,
+        "F%":0,
+        "Professor":"McClellan, James"
+    },
+    {
+        "GPA":3.38,
+        "A%":47,
+        "B%":27,
+        "C%":13,
+        "D%":0,
+        "F%":0,
+        "Professor":"Moore II, Elliot"
+    },
+    {
+        "GPA":3.66,
+        "A%":61,
+        "B%":30,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Richards, Mark"
+    },
+    {
+        "GPA":3.74,
+        "A%":70,
+        "B%":25,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Schafer, Ronald"
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "GPA":3.77,
+        "A%":75,
+        "B%":13,
+        "C%":3,
+        "D%":0,
+        "F%":0,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.87,
+        "A%":84,
+        "B%":10,
+        "C%":1,
+        "D%":0,
+        "F%":0,
+        "Professor":"Sankar, Narayanamoorthy"
+    },
+    {
+        "GPA":3.71,
+        "A%":69,
+        "B%":15,
+        "C%":4,
+        "D%":1,
+        "F%":0,
+        "Professor":"Smith, Marilyn"
+    }
+]

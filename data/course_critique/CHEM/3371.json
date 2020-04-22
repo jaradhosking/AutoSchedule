@@ -1,0 +1,56 @@
+[
+    {
+        "GPA":3.47,
+        "A%":57,
+        "B%":30,
+        "C%":9,
+        "D%":0,
+        "F%":1,
+        "Professor":"All"
+    },
+    {
+        "GPA":3.36,
+        "A%":64,
+        "B%":27,
+        "C%":0,
+        "D%":0,
+        "F%":9,
+        "Professor":"Beckham, Suzanne"
+    },
+    {
+        "GPA":3.55,
+        "A%":63,
+        "B%":26,
+        "C%":9,
+        "D%":0,
+        "F%":0,
+        "Professor":"Braga, Robert"
+    },
+    {
+        "GPA":3.31,
+        "A%":38,
+        "B%":54,
+        "C%":8,
+        "D%":0,
+        "F%":0,
+        "Professor":"Doody, Amanda"
+    },
+    {
+        "GPA":3.21,
+        "A%":36,
+        "B%":43,
+        "C%":14,
+        "D%":0,
+        "F%":1,
+        "Professor":"Morris, James"
+    },
+    {
+        "GPA":3.8,
+        "A%":81,
+        "B%":12,
+        "C%":2,
+        "D%":0,
+        "F%":1,
+        "Professor":"Zhu, Hui"
+    }
+]
