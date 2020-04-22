@@ -45,7 +45,7 @@ class Schedule {
         this.GPA = (this.GPA * this.creditHours + section.course.creditHours * section.GPA) / (this.creditHours + section.course.creditHours)
         // if errors, section.timeSlots.forEach()
         for (let timeSlot of section.timeSlots) {
-            this.occupied.append(timeSlot)
+            this.occupied.push(timeSlot)
         }
     }
 }

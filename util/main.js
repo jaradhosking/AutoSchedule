@@ -141,7 +141,6 @@ function find_valid_schedules(course_list, valid_schedules) {
                 catch (ScheduleError) {
                     // ignore and try the next section
                 }
-                throw "Error in find_rc_options()"
             })
         })
     }
@@ -167,11 +166,11 @@ function find_credit_hour_options(rcl,ocl,ch_range) {
     rcl.forEach(rc =>
         rc_ch += rc.creditHours
     )
-
     valid_combinations = []
-    (d3.range(ocl.length)).forEach (i => {
-        combs = combinations(ocl,i + 1)
-        combs.forEach (comb => {
+    for (let i = 0; i < ocl.length; i++) {
+        combs = new Iter(ocl).combinations(i + 1).toArray()
+        //console.log(combs)
+        combs.forEach(comb => {
             creditHours = 0
             comb.forEach(course => {
                 creditHours += course.creditHours
@@ -180,7 +179,7 @@ function find_credit_hour_options(rcl,ocl,ch_range) {
                 valid_combinations.push(comb)
             }
         })
-    })
+    }
     return valid_combinations
 }
 
