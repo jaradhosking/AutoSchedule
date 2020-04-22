@@ -1,11 +1,12 @@
-from Agenda import Agenda
-from Course import Course
-from CustomErrors import *
-from Professor import Professor
-from Schedule import Schedule
-from Section import Section
-from itertools import combinations
+import Agenda from 'Agenda.js'
+import Course from 'Course.js'
+import * from 'CustomErrors.js'
+import Professor from 'Professor.js'
+import Schedule from 'Schedule.js'
+import Section from 'Section.js'
+import itertools from 'combinations.js'
 import copy
+
 
 
 
