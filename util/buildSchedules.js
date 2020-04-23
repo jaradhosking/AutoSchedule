@@ -27,3 +27,8 @@ function buildSchedule(rcl, ocl, chr) {
     }
 
 }
+
+
+
+//////////////////
+function create
