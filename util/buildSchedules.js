@@ -24,22 +24,23 @@ function buildSchedule(sem, rcl, ocl, chr) {
     let rCourses = []
     let oCourses = []
 
-    for (let i of rcl) {
-        console.log(i)
-        numID = /[0-9]+/g.exec(i)[0]
-        dept = /[A-Z]+/g.exec(i)[0]
-        avgGPA = 0
-        for (j of courseCritiqueCourses[i]) {
-            if (j["Professor"] == "All") {
-                avgGPA = j["GPA"]
-                break
+    if (rcl[0] != "") {
+        for (let i of rcl) {
+            console.log(i)
+            numID = /[0-9]+/g.exec(i)[0]
+            dept = /[A-Z]+/g.exec(i)[0]
+            avgGPA = 0
+            for (j of courseCritiqueCourses[i]) {
+                if (j["Professor"] == "All") {
+                    avgGPA = j["GPA"]
+                    break
+                }
             }
+            chr = parseFloat(oscar["fall"][dept][numID][0]["credits"])
+            rCourses.push(new Course(dept, numID, chr, avgGPA))
         }
-        chr = parseFloat(oscar["fall"][dept][numID][0]["credits"])
-        rCourses.push(new Course(dept, numID, chr, avgGPA))
     }
-    console.log(ocl)
-    if (ocl != null) {
+    if (ocl[0] != "") {
         for (let i of ocl) {
             numID = /[0-9]+/g.exec(i)[0]
             dept = /[A-Z]+/g.exec(i)[0]
@@ -116,13 +117,24 @@ function buildSchedule(sem, rcl, ocl, chr) {
 
     // Creates section objects
     // class Section {
-//     constructor (CRN, course, professor, campus, building, timeSlots) {
+    //     constructor (CRN, course, professor, campus, building, timeSlots) {
+    // class Course {
+    //     constructor(subject, numID, creditHours, avgGPA)
 
-    // let rSects = []
-    // let oSects = []
-
-    // for (i of ) {
-
-    // }
-    
+    let combinedCourses = rCourses.concat(oCourses)
+    let combinedProfs = rProfObjects.concat(oProfObjects)
+    let sectionObjects = []
+    for (let i of combinedCourses) {
+        for (let j of oscar[sem][i.subject][+numID]) {
+            // Finds professor object
+            let inst = j["Instructors"][0] // Only takes 1st instructor
+            for (let k of combinedProfs) {
+                if (k.name == inst) {
+                    let prof = k
+                }
+            }
+            // Make agenda objects
+            // let sec = new Section(j["CRN"], i, k, "Atlanta", j["Where"], )
+        }    
+    } 
 }
