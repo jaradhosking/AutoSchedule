@@ -30,5 +30,5 @@ function buildSchedule(rcl, ocl, chr) {
 
 
 
-//////////////////
+//////////////////JARAD GO DOWN HERE
 function create
