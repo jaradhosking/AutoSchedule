@@ -1,4 +1,6 @@
 
+
+
 function createSchedule(schedule) {
     schedule.forEach(section => {
         createCourseBox(section)
@@ -23,12 +25,6 @@ function createCourseBoxes(section) {
             .append("em")
             .attr("class","cd-schedule__name")
             .enter()
-            .append()
+            .text(section.course.ID)
     })
 }
-
-                <li class="cd-schedule__event">
-                  <a data-start="10:00" data-end="11:00"  data-content="event-isye3103" data-event="event-2" href="#0">
-                    <em class="cd-schedule__name">ISYE 3103</em>
-                  </a>
-                </li>
