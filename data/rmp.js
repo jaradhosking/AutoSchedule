@@ -1,4 +1,4 @@
-[
+rmp = [
     {
         "tDept": "Nuclear Engineering",
         "tFname": "Said",

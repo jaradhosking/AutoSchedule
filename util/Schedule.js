@@ -50,6 +50,6 @@ class Schedule {
         section.timeSlots.forEach(timeSlot => {
             this.occupied.push(timeSlot)
         })
-        this.score = this.GPA/5*70+this.rmpRanking/5*30
+        this.score = this.GPA/4*70+this.rmpRanking/5*30
     }
 }

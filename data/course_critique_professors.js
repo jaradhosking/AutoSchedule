@@ -1,4 +1,4 @@
-{
+courseCritiqueProfessors = {
     "Abayomi, Kobi": [
         {
             "GPA": 3.37,

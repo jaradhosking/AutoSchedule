@@ -1,4 +1,4 @@
-{
+courseCritiqueCourses = {
     "CS2316": [
         {
             "GPA": 3.15,
