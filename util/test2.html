@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<script type="text/javascript" src="https://d3js.org/d3.v5.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script type="text/javascript" src="main.js"></script>
+<script type="text/javascript" src="./Agenda.js"></script>
+<script type="text/javascript" src="./Course.js"></script>
+<script type="text/javascript" src="./CustomErrors.js"></script>
+<script type="text/javascript" src="./Professor.js"></script>
+<script type="text/javascript" src="./Schedule.js"></script>
+<script type="text/javascript" src="./Section.js"></script>
+<script type="text/javascript" src="./Iter.js"></script>
+<script type="text/javascript" src="../data/course_critique_courses.js"></script>
+<script type="text/javascript" src="../data/course_critique_professors.js"></script>
+<script type="text/javascript" src="../data/oscar.js"></script>
+<script type="text/javascript" src="../data/rmp.js"></script>
+<script type="text/javascript" src="./buildSchedules.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/lodash@4.17.15/lodash.min.js"></script>
+<script>
+
+// console.log(courseCritiqueCourses)
+
+
+chau = new Professor("Duen Chao", 3.97, {"CX4242":3.97},1.00,1)
+foley = new Professor("Robert Foley",3.33, {"ISYE2027":2.89},3.8,36)
+CX4242 = new Course("CX",4242,3,3.79)
+ISYE2027 = new Course("ISYE",2027,3,2.86)
+s12345 = new Section(12345,CX4242,chau,'atlanta',"Klaus",[new Agenda("T","1630","1745")])
+s12346 = new Section(12346,CX4242,chau,'atlanta',"Klaus",[new Agenda("T","1748","1749")])
+s12347 = new Section(12347,CX4242,chau,'atlanta',"Klaus",[new Agenda("T","1600","1631")])
+s31564 = new Section(31564,ISYE2027,foley,'atlanta',"MRDC",[new Agenda("T","0800","0915"),new Agenda("R","0800","0915")])
+s80430 = new Section(80430,ISYE2027,foley,'atlanta',"IC",[new Agenda("T","0800","0915"),new Agenda("R","0800","0915")])
+s83339 = new Section(83339,ISYE2027,foley,'atlanta',"IC",[new Agenda("T","1230","1745"),new Agenda("W","1230","1345")])
+rcl = []
+ocl = [CX4242,ISYE2027]
+ch_range = d3.range(0,9)
+
+// console.log(schedulize(rcl,ocl,ch_range))
+
+
+// Section(CRN, course, professor, campus, building, timeSlots)
+// let s = new Section(12345, "CS")
+
+</script>
+<body>t</body>

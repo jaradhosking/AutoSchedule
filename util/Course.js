@@ -7,7 +7,7 @@ class Course {
         this.avgGPA = avgGPA
         this.sections = []
     }
-
+    
     equals(o) {
         return o instanceof Course && this.ID == o.ID
     }
