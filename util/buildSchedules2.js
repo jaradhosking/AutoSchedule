@@ -1,14 +1,12 @@
 
 
 function handleClick() {
-    console.log('yeet')
     resp = ($('form').serializeArray())
     semester = resp[0]["value"]
     req = (resp[1]["value"]).split(",")
     opt = (resp[2]["value"]).split(",")
     ch_min = parseInt(resp[3]["value"],10)
     ch_max = parseInt(resp[4]["value"],10)
-    console.log(req)
     event.preventDefault()
     buildSchedule(semester,req,opt,d3.range(ch_min,ch_max+1))
 }
