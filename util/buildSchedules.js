@@ -25,6 +25,7 @@ function buildSchedule(sem, rcl, ocl, chr) {
     let oCourses = []
 
     for (let i of rcl) {
+        console.log(i)
         numID = /[0-9]+/g.exec(i)[0]
         dept = /[A-Z]+/g.exec(i)[0]
         avgGPA = 0
@@ -37,19 +38,23 @@ function buildSchedule(sem, rcl, ocl, chr) {
         chr = parseFloat(oscar["fall"][dept][numID][0]["credits"])
         rCourses.push(new Course(dept, numID, chr, avgGPA))
     }
-    for (let i of ocl) {
-        numID = /[0-9]+/g.exec(i)[0]
-        dept = /[A-Z]+/g.exec(i)[0]
-        avgGPA = 0
-        for (j of courseCritiqueCourses[i]) {
-            if (j["Professor"] == "All") {
-                avgGPA = j["GPA"]
-                break
+    console.log(ocl)
+    if (ocl != null) {
+        for (let i of ocl) {
+            numID = /[0-9]+/g.exec(i)[0]
+            dept = /[A-Z]+/g.exec(i)[0]
+            avgGPA = 0
+            for (j of courseCritiqueCourses[i]) {
+                if (j["Professor"] == "All") {
+                    avgGPA = j["GPA"]
+                    break
+                }
             }
+            chr = parseFloat(oscar["fall"][dept][numID][0]["credits"])
+            oCourses.push(new Course(dept, numID, chr, avgGPA))
         }
-        chr = parseFloat(oscar["fall"][dept][numID][0]["credits"])
-        oCourses.push(new Course(dept, numID, chr, avgGPA))
     }
+
 
 
     // Finds unique professors
