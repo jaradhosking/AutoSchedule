@@ -1,0 +1,30 @@
+[
+    {
+        "CRN": "50624",
+        "dept": "CS",
+        "course_id": "2340",
+        "section": "A",
+        "credits": "3.000",
+        "Type": "Class",
+        "Time": "12:30 pm - 2:40 pm",
+        "Days": "TR",
+        "Where": "TBA",
+        "Date Range": "May 11, 2020 - Jul 30, 2020",
+        "Schedule Type": "Lecture*",
+        "Instructors": "Aibek Manas  Musaev (P)"
+    },
+    {
+        "CRN": "51017",
+        "dept": "CS",
+        "course_id": "2340",
+        "section": "GR",
+        "credits": "3.000",
+        "Type": "Class",
+        "Time": "12:30 pm - 2:40 pm",
+        "Days": "TR",
+        "Where": "TBA",
+        "Date Range": "May 11, 2020 - Jul 30, 2020",
+        "Schedule Type": "Lecture*",
+        "Instructors": "Aibek Manas  Musaev (P)"
+    }
+]

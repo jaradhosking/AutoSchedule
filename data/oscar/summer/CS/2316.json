@@ -1,0 +1,44 @@
+[
+    {
+        "CRN": "55200",
+        "dept": "CS",
+        "course_id": "2316",
+        "section": "A",
+        "credits": "3.000",
+        "Type": "Class",
+        "Time": "9:30 am - 11:40 am",
+        "Days": "TR",
+        "Where": "Klaus 2456",
+        "Date Range": "May 11, 2020 - Jul 30, 2020",
+        "Schedule Type": "Lecture*",
+        "Instructors": "Aaron Randall  Hansen (P)"
+    },
+    {
+        "CRN": "57314",
+        "dept": "CS",
+        "course_id": "2316",
+        "section": "B",
+        "credits": "3.000",
+        "Type": "Class",
+        "Time": "9:30 am - 11:40 am",
+        "Days": "MW",
+        "Where": "TBA",
+        "Date Range": "May 11, 2020 - Jul 30, 2020",
+        "Schedule Type": "Lecture*",
+        "Instructors": "Melinda Hardy  McDaniel (P)"
+    },
+    {
+        "CRN": "55201",
+        "dept": "CS",
+        "course_id": "2316",
+        "section": "GR",
+        "credits": "3.000",
+        "Type": "Class",
+        "Time": "9:30 am - 11:40 am",
+        "Days": "TR",
+        "Where": "Klaus 2456",
+        "Date Range": "May 11, 2020 - Jul 30, 2020",
+        "Schedule Type": "Lecture*",
+        "Instructors": "Aaron Randall  Hansen (P)"
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "CRN": "84758",
+        "dept": "ECON",
+        "course_id": "2100",
+        "section": "MK",
+        "credits": "3.000",
+        "Type": "Class",
+        "Time": "2:00 pm - 3:15 pm",
+        "Days": "TR",
+        "Where": "Kendeda 152",
+        "Date Range": "Aug 17, 2020 - Dec 10, 2020",
+        "Schedule Type": "Lecture*",
+        "Instructors": "Mikhail M  Klimenko (P)"
+    },
+    {
+        "CRN": "85193",
+        "dept": "ECON",
+        "course_id": "2100",
+        "section": "NP1",
+        "credits": "3.000",
+        "Type": "Class",
+        "Time": "2:00 pm - 3:15 pm",
+        "Days": "MW",
+        "Where": "Klaus 2456",
+        "Date Range": "Aug 17, 2020 - Dec 10, 2020",
+        "Schedule Type": "Lecture*",
+        "Instructors": "Ian T  Helfrich (P)"
+    },
+    {
+        "CRN": "89739",
+        "dept": "ECON",
+        "course_id": "2100",
+        "section": "NP2",
+        "credits": "3.000",
+        "Type": "Class",
+        "Time": "9:30 am - 10:45 am",
+        "Days": "MW",
+        "Where": "Howey (Physics) L5",
+        "Date Range": "Aug 17, 2020 - Dec 10, 2020",
+        "Schedule Type": "Lecture*",
+        "Instructors": "Anthony Rydell  Harding (P)"
+    }
+]

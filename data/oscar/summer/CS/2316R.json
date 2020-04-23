@@ -1,0 +1,44 @@
+[
+    {
+        "CRN": "56550",
+        "dept": "CS",
+        "course_id": "2316R",
+        "section": "A01",
+        "credits": "1.000",
+        "Type": "Class",
+        "Time": "5:00 pm - 6:15 pm",
+        "Days": "R",
+        "Where": "Mason 2117",
+        "Date Range": "May 11, 2020 - Jul 30, 2020",
+        "Schedule Type": "Recitation*",
+        "Instructors": "Aaron Randall  Hansen (P)"
+    },
+    {
+        "CRN": "57315",
+        "dept": "CS",
+        "course_id": "2316R",
+        "section": "B01",
+        "credits": "1.000",
+        "Type": "Class",
+        "Time": "3:30 pm - 4:45 pm",
+        "Days": "W",
+        "Where": "TBA",
+        "Date Range": "May 11, 2020 - Jul 30, 2020",
+        "Schedule Type": "Recitation*",
+        "Instructors": "Melinda Hardy  McDaniel (P)"
+    },
+    {
+        "CRN": "56551",
+        "dept": "CS",
+        "course_id": "2316R",
+        "section": "GR1",
+        "credits": "1.000",
+        "Type": "Class",
+        "Time": "5:00 pm - 6:15 pm",
+        "Days": "R",
+        "Where": "Mason 2117",
+        "Date Range": "May 11, 2020 - Jul 30, 2020",
+        "Schedule Type": "Recitation*",
+        "Instructors": "Aaron Randall  Hansen (P)"
+    }
+]

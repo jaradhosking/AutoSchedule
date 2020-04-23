@@ -1,0 +1,58 @@
+[
+    {
+        "CRN": "55231",
+        "dept": "CS",
+        "course_id": "2110",
+        "section": "A",
+        "credits": "4.000",
+        "Type": "Class",
+        "Time": "9:30 am - 11:40 am",
+        "Days": "TR",
+        "Where": "Klaus 1447",
+        "Date Range": "May 11, 2020 - Jul 30, 2020",
+        "Schedule Type": "Lecture*",
+        "Instructors": "Caleb August  Southern (P)"
+    },
+    {
+        "CRN": "56522",
+        "dept": "CS",
+        "course_id": "2110",
+        "section": "A01",
+        "credits": "4.000",
+        "Type": "Class",
+        "Time": "3:30 pm - 5:40 pm",
+        "Days": "MW",
+        "Where": "Klaus 1447",
+        "Date Range": "May 11, 2020 - Jul 30, 2020",
+        "Schedule Type": "Supervised Laboratory*",
+        "Instructors": "Caleb August  Southern (P)"
+    },
+    {
+        "CRN": "51673",
+        "dept": "CS",
+        "course_id": "2110",
+        "section": "GR",
+        "credits": "4.000",
+        "Type": "Class",
+        "Time": "9:30 am - 11:40 am",
+        "Days": "TR",
+        "Where": "Klaus 1447",
+        "Date Range": "May 11, 2020 - Jul 30, 2020",
+        "Schedule Type": "Lecture*",
+        "Instructors": "Caleb August  Southern (P)"
+    },
+    {
+        "CRN": "56523",
+        "dept": "CS",
+        "course_id": "2110",
+        "section": "GR1",
+        "credits": "4.000",
+        "Type": "Class",
+        "Time": "3:30 pm - 5:40 pm",
+        "Days": "MW",
+        "Where": "Klaus 1447",
+        "Date Range": "May 11, 2020 - Jul 30, 2020",
+        "Schedule Type": "Supervised Laboratory*",
+        "Instructors": "Caleb August  Southern (P)"
+    }
+]

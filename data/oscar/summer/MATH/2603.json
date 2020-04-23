@@ -1,0 +1,72 @@
+[
+    {
+        "CRN": "54631",
+        "dept": "MATH",
+        "course_id": "2603",
+        "section": "A",
+        "credits": "4.000",
+        "Type": "Class",
+        "Time": "12:30 pm - 1:45 pm",
+        "Days": "MWF",
+        "Where": "Instr Center 215",
+        "Date Range": "May 11, 2020 - Jul 30, 2020",
+        "Schedule Type": "Lecture*",
+        "Instructors": "TBA"
+    },
+    {
+        "CRN": "54646",
+        "dept": "MATH",
+        "course_id": "2603",
+        "section": "A01",
+        "credits": "4.000",
+        "Type": "Class",
+        "Time": "12:30 pm - 1:45 pm",
+        "Days": "TR",
+        "Where": "TBA",
+        "Date Range": "May 11, 2020 - Jul 30, 2020",
+        "Schedule Type": "Studio*",
+        "Instructors": "TBA"
+    },
+    {
+        "CRN": "56534",
+        "dept": "MATH",
+        "course_id": "2603",
+        "section": "A02",
+        "credits": "4.000",
+        "Type": "Class",
+        "Time": "12:30 pm - 1:45 pm",
+        "Days": "TR",
+        "Where": "TBA",
+        "Date Range": "May 11, 2020 - Jul 30, 2020",
+        "Schedule Type": "Studio*",
+        "Instructors": "TBA"
+    },
+    {
+        "CRN": "57359",
+        "dept": "MATH",
+        "course_id": "2603",
+        "section": "PAP",
+        "credits": "4.000",
+        "Type": "Class",
+        "Time": "12:30 pm - 1:45 pm",
+        "Days": "MWF",
+        "Where": "TBA",
+        "Date Range": "May 11, 2020 - Jul 30, 2020",
+        "Schedule Type": "Lecture*",
+        "Instructors": "TBA"
+    },
+    {
+        "CRN": "57360",
+        "dept": "MATH",
+        "course_id": "2603",
+        "section": "PS1",
+        "credits": "4.000",
+        "Type": "Class",
+        "Time": "12:30 pm - 1:45 pm",
+        "Days": "TR",
+        "Where": "TBA",
+        "Date Range": "May 11, 2020 - Jul 30, 2020",
+        "Schedule Type": "Studio*",
+        "Instructors": "TBA"
+    }
+]

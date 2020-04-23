@@ -1,0 +1,44 @@
+[
+    {
+        "CRN": "83645",
+        "dept": "ISYE",
+        "course_id": "4031",
+        "section": "M12",
+        "credits": "3.000",
+        "Type": "Class",
+        "Time": "12:30 pm - 1:45 pm",
+        "Days": "MW",
+        "Where": "Mason 5134",
+        "Date Range": "Aug 17, 2020 - Dec 10, 2020",
+        "Schedule Type": "Lecture*",
+        "Instructors": "Gamze   Tokol-Goldsman (P)"
+    },
+    {
+        "CRN": "89792",
+        "dept": "ISYE",
+        "course_id": "4031",
+        "section": "T09",
+        "credits": "3.000",
+        "Type": "Class",
+        "Time": "9:30 am - 10:45 am",
+        "Days": "TR",
+        "Where": "Groseclose 119",
+        "Date Range": "Aug 17, 2020 - Dec 10, 2020",
+        "Schedule Type": "Lecture*",
+        "Instructors": "I-Hsiang   Lee (P)"
+    },
+    {
+        "CRN": "85446",
+        "dept": "ISYE",
+        "course_id": "4031",
+        "section": "T12",
+        "credits": "3.000",
+        "Type": "Class",
+        "Time": "12:30 pm - 1:45 pm",
+        "Days": "TR",
+        "Where": "Instr Center 209",
+        "Date Range": "Aug 17, 2020 - Dec 10, 2020",
+        "Schedule Type": "Lecture*",
+        "Instructors": "I-Hsiang   Lee (P)"
+    }
+]

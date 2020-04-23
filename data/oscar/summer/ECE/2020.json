@@ -1,0 +1,30 @@
+[
+    {
+        "CRN": "53661",
+        "dept": "ECE",
+        "course_id": "2020",
+        "section": "A",
+        "credits": "3.000",
+        "Type": "Class",
+        "Time": "11:00 am - 12:15 pm",
+        "Days": "MWF",
+        "Where": "Van Leer C240",
+        "Date Range": "May 11, 2020 - Jul 30, 2020",
+        "Schedule Type": "Lecture*",
+        "Instructors": "Sung Kyu  Lim (P)"
+    },
+    {
+        "CRN": "53662",
+        "dept": "ECE",
+        "course_id": "2020",
+        "section": "B",
+        "credits": "3.000",
+        "Type": "Class",
+        "Time": "3:30 pm - 5:40 pm",
+        "Days": "TR",
+        "Where": "Van Leer C240",
+        "Date Range": "May 11, 2020 - Jul 30, 2020",
+        "Schedule Type": "Lecture*",
+        "Instructors": "Nivedita   Bhattacharya (P)"
+    }
+]

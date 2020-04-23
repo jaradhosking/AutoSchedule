@@ -1,0 +1,44 @@
+[
+    {
+        "CRN": "56755",
+        "dept": "ISYE",
+        "course_id": "3030",
+        "section": "AQ",
+        "credits": "3.000",
+        "Type": "Class",
+        "Time": "12:30 pm - 2:40 pm",
+        "Days": "MTWR",
+        "Where": "Love (MRDC II) 184",
+        "Date Range": "May 11, 2020 - Jun 16, 2020",
+        "Schedule Type": "Lecture*",
+        "Instructors": "I-Hsiang   Lee (P)"
+    },
+    {
+        "CRN": "57033",
+        "dept": "ISYE",
+        "course_id": "3030",
+        "section": "B",
+        "credits": "3.000",
+        "Type": "Class",
+        "Time": "12:30 pm - 2:40 pm",
+        "Days": "MTWR",
+        "Where": "ISyE Main 126",
+        "Date Range": "Jun 17, 2020 - Jul 30, 2020",
+        "Schedule Type": "Lecture*",
+        "Instructors": "TBA"
+    },
+    {
+        "CRN": "56760",
+        "dept": "ISYE",
+        "course_id": "3030",
+        "section": "QUP",
+        "credits": "3.000",
+        "Type": "Class",
+        "Time": "TBA",
+        "Days": "\u00a0",
+        "Where": "TBA",
+        "Date Range": "May 11, 2020 - Jun 16, 2020",
+        "Schedule Type": "Lecture*",
+        "Instructors": "I-Hsiang   Lee (P)"
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "CRN": "56512",
+        "dept": "CS",
+        "course_id": "1332R",
+        "section": "A01",
+        "credits": "1.000",
+        "Type": "Class",
+        "Time": "5:00 pm - 6:15 pm",
+        "Days": "T",
+        "Where": "TBA",
+        "Date Range": "May 11, 2020 - Jul 30, 2020",
+        "Schedule Type": "Recitation*",
+        "Instructors": "Mary   Hudachek-Buswell (P)"
+    },
+    {
+        "CRN": "56514",
+        "dept": "CS",
+        "course_id": "1332R",
+        "section": "GR1",
+        "credits": "1.000",
+        "Type": "Class",
+        "Time": "5:00 pm - 6:15 pm",
+        "Days": "T",
+        "Where": "TBA",
+        "Date Range": "May 11, 2020 - Jul 30, 2020",
+        "Schedule Type": "Recitation*",
+        "Instructors": "Mary   Hudachek-Buswell (P)"
+    },
+    {
+        "CRN": "56515",
+        "dept": "CS",
+        "course_id": "1332R",
+        "section": "O1R",
+        "credits": "1.000",
+        "Type": "Class",
+        "Time": "3:30 pm - 5:40 pm",
+        "Days": "W",
+        "Where": "Klaus 1456",
+        "Date Range": "May 11, 2020 - Jul 30, 2020",
+        "Schedule Type": "Recitation*",
+        "Instructors": "Mary   Hudachek-Buswell (P)"
+    }
+]

@@ -1,11 +1,74 @@
 [
     {
-        "GPA":null,
-        "A%":null,
-        "B%":null,
-        "C%":null,
-        "D%":null,
-        "F%":null,
+        "GPA":2.92,
+        "A%":37,
+        "B%":28,
+        "C%":17,
+        "D%":6,
+        "F%":5,
         "Professor":"All"
+    },
+    {
+        "GPA":2.94,
+        "A%":35,
+        "B%":31,
+        "C%":18,
+        "D%":5,
+        "F%":4,
+        "Professor":"Hudachek-Buswell, Mary"
+    },
+    {
+        "GPA":3.05,
+        "A%":40,
+        "B%":34,
+        "C%":11,
+        "D%":8,
+        "F%":3,
+        "Professor":"Kim, Joonho"
+    },
+    {
+        "GPA":2.61,
+        "A%":25,
+        "B%":31,
+        "C%":22,
+        "D%":5,
+        "F%":10,
+        "Professor":"Lebanon, Guy"
+    },
+    {
+        "GPA":2.7,
+        "A%":32,
+        "B%":24,
+        "C%":17,
+        "D%":8,
+        "F%":9,
+        "Professor":"Ram, Ashwin"
+    },
+    {
+        "GPA":2.71,
+        "A%":32,
+        "B%":22,
+        "C%":17,
+        "D%":11,
+        "F%":7,
+        "Professor":"Smith, David"
+    },
+    {
+        "GPA":2.89,
+        "A%":31,
+        "B%":33,
+        "C%":17,
+        "D%":4,
+        "F%":5,
+        "Professor":"Sweat, Monica"
+    },
+    {
+        "GPA":3.15,
+        "A%":49,
+        "B%":25,
+        "C%":14,
+        "D%":3,
+        "F%":5,
+        "Professor":"Waters Jr, Robert"
     }
 ]

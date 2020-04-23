@@ -1,0 +1,72 @@
+[
+    {
+        "CRN": "56507",
+        "dept": "CS",
+        "course_id": "1331R",
+        "section": "A01",
+        "credits": "1.000",
+        "Type": "Class",
+        "Time": "5:00 pm - 6:15 pm",
+        "Days": "T",
+        "Where": "Cherry Emerson 320",
+        "Date Range": "May 11, 2020 - Jul 30, 2020",
+        "Schedule Type": "Recitation*",
+        "Instructors": "Olufisayo A  Omojokun (P)"
+    },
+    {
+        "CRN": "56509",
+        "dept": "CS",
+        "course_id": "1331R",
+        "section": "A03",
+        "credits": "1.000",
+        "Type": "Class",
+        "Time": "3:30 pm - 4:45 pm",
+        "Days": "T",
+        "Where": "Van Leer E283",
+        "Date Range": "May 11, 2020 - Jul 30, 2020",
+        "Schedule Type": "Recitation*",
+        "Instructors": "Olufisayo A  Omojokun (P)"
+    },
+    {
+        "CRN": "56673",
+        "dept": "CS",
+        "course_id": "1331R",
+        "section": "B01",
+        "credits": "1.000",
+        "Type": "Class",
+        "Time": "3:30 pm - 4:45 pm",
+        "Days": "T",
+        "Where": "Cherry Emerson 320",
+        "Date Range": "May 11, 2020 - Jul 30, 2020",
+        "Schedule Type": "Recitation*",
+        "Instructors": "Richard   Landry (P)"
+    },
+    {
+        "CRN": "56510",
+        "dept": "CS",
+        "course_id": "1331R",
+        "section": "GR1",
+        "credits": "1.000",
+        "Type": "Class",
+        "Time": "3:30 pm - 4:45 pm",
+        "Days": "T",
+        "Where": "Van Leer E283",
+        "Date Range": "May 11, 2020 - Jul 30, 2020",
+        "Schedule Type": "Recitation*",
+        "Instructors": "Olufisayo A  Omojokun (P)"
+    },
+    {
+        "CRN": "56511",
+        "dept": "CS",
+        "course_id": "1331R",
+        "section": "O1R",
+        "credits": "1.000",
+        "Type": "Class",
+        "Time": "3:30 pm - 5:40 pm",
+        "Days": "W",
+        "Where": "Coll of Computing 17",
+        "Date Range": "May 11, 2020 - Jul 30, 2020",
+        "Schedule Type": "Recitation*",
+        "Instructors": "Olufisayo A  Omojokun (P)"
+    }
+]

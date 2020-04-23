@@ -1,0 +1,72 @@
+[
+    {
+        "CRN": "55187",
+        "dept": "CS",
+        "course_id": "1331",
+        "section": "A",
+        "credits": "3.000",
+        "Type": "Class",
+        "Time": "12:30 pm - 2:40 pm",
+        "Days": "TR",
+        "Where": "Coll of Computing 16",
+        "Date Range": "May 11, 2020 - Jul 30, 2020",
+        "Schedule Type": "Lecture*",
+        "Instructors": "Olufisayo A  Omojokun (P)"
+    },
+    {
+        "CRN": "56670",
+        "dept": "CS",
+        "course_id": "1331",
+        "section": "B",
+        "credits": "3.000",
+        "Type": "Class",
+        "Time": "6:30 pm - 8:40 pm",
+        "Days": "TR",
+        "Where": "Coll of Computing 101",
+        "Date Range": "May 11, 2020 - Jul 30, 2020",
+        "Schedule Type": "Lecture*",
+        "Instructors": "Richard   Landry (P)"
+    },
+    {
+        "CRN": "55190",
+        "dept": "CS",
+        "course_id": "1331",
+        "section": "GR",
+        "credits": "3.000",
+        "Type": "Class",
+        "Time": "12:30 pm - 2:40 pm",
+        "Days": "TR",
+        "Where": "Coll of Computing 16",
+        "Date Range": "May 11, 2020 - Jul 30, 2020",
+        "Schedule Type": "Lecture*",
+        "Instructors": "Olufisayo A  Omojokun (P)"
+    },
+    {
+        "CRN": "55889",
+        "dept": "CS",
+        "course_id": "1331",
+        "section": "O1",
+        "credits": "3.000",
+        "Type": "Class",
+        "Time": "TBA",
+        "Days": "\u00a0",
+        "Where": "TBA",
+        "Date Range": "May 11, 2020 - Jul 30, 2020",
+        "Schedule Type": "Lecture*",
+        "Instructors": "Olufisayo A  Omojokun (P)"
+    },
+    {
+        "CRN": "56827",
+        "dept": "CS",
+        "course_id": "1331",
+        "section": "QUP",
+        "credits": "3.000",
+        "Type": "Class",
+        "Time": "TBA",
+        "Days": "\u00a0",
+        "Where": "TBA",
+        "Date Range": "May 11, 2020 - Jul 30, 2020",
+        "Schedule Type": "Lecture*",
+        "Instructors": "Olufisayo A  Omojokun (P)"
+    }
+]

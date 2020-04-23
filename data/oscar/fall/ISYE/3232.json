@@ -1,0 +1,44 @@
+[
+    {
+        "CRN": "80434",
+        "dept": "ISYE",
+        "course_id": "3232",
+        "section": "A",
+        "credits": "3.000",
+        "Type": "Class",
+        "Time": "11:00 am - 12:15 pm",
+        "Days": "MW",
+        "Where": "Instr Center 109",
+        "Date Range": "Aug 17, 2020 - Dec 10, 2020",
+        "Schedule Type": "Lecture*",
+        "Instructors": "Hayriye   Ayhan (P)"
+    },
+    {
+        "CRN": "80435",
+        "dept": "ISYE",
+        "course_id": "3232",
+        "section": "B",
+        "credits": "3.000",
+        "Type": "Class",
+        "Time": "2:00 pm - 3:15 pm",
+        "Days": "MW",
+        "Where": "Love (MRDC II) 183",
+        "Date Range": "Aug 17, 2020 - Dec 10, 2020",
+        "Schedule Type": "Lecture*",
+        "Instructors": "Lauren Nicole  Steimle (P)"
+    },
+    {
+        "CRN": "85822",
+        "dept": "ISYE",
+        "course_id": "3232",
+        "section": "C",
+        "credits": "3.000",
+        "Type": "Class",
+        "Time": "3:30 pm - 4:45 pm",
+        "Days": "MW",
+        "Where": "Love (MRDC II) 183",
+        "Date Range": "Aug 17, 2020 - Dec 10, 2020",
+        "Schedule Type": "Lecture*",
+        "Instructors": "Lauren Nicole  Steimle (P)"
+    }
+]

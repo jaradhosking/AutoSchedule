@@ -1,11 +1,74 @@
 [
     {
-        "GPA":null,
-        "A%":null,
-        "B%":null,
-        "C%":null,
-        "D%":null,
-        "F%":null,
+        "GPA":2.91,
+        "A%":34,
+        "B%":31,
+        "C%":16,
+        "D%":6,
+        "F%":5,
         "Professor":"All"
+    },
+    {
+        "GPA":3.04,
+        "A%":36,
+        "B%":30,
+        "C%":13,
+        "D%":5,
+        "F%":3,
+        "Professor":"McDaniel, Melinda"
+    },
+    {
+        "GPA":2.87,
+        "A%":33,
+        "B%":33,
+        "C%":18,
+        "D%":6,
+        "F%":5,
+        "Professor":"Omojokun, Olufisayo"
+    },
+    {
+        "GPA":3.7,
+        "A%":70,
+        "B%":30,
+        "C%":0,
+        "D%":0,
+        "F%":0,
+        "Professor":"Qu, Junfeng"
+    },
+    {
+        "GPA":3.02,
+        "A%":38,
+        "B%":29,
+        "C%":14,
+        "D%":5,
+        "F%":4,
+        "Professor":"Simpkins, Christopher"
+    },
+    {
+        "GPA":2.66,
+        "A%":26,
+        "B%":31,
+        "C%":19,
+        "D%":8,
+        "F%":8,
+        "Professor":"Stasko, John"
+    },
+    {
+        "GPA":2.73,
+        "A%":29,
+        "B%":32,
+        "C%":21,
+        "D%":7,
+        "F%":6,
+        "Professor":"Sweat, Monica"
+    },
+    {
+        "GPA":2.91,
+        "A%":29,
+        "B%":37,
+        "C%":16,
+        "D%":5,
+        "F%":4,
+        "Professor":"Watson-Phillips, Susan"
     }
 ]
