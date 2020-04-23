@@ -1,7 +1,7 @@
 
 
 class Section {
-    constructor (CRN, course, professor, campus, building, timeSlots) {
+    constructor (CRN, course, professor, building, timeSlots) {
         this.CRN = CRN // int, the CRN of the section
         this.course = course // Course object
         this.professor = professor // Professor object

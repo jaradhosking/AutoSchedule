@@ -108,7 +108,7 @@ function schedulize(rcl,ocl,ch_range) {
             new_vs.push(new_sched)
         })
     )
-    return new_vs
+    return rank_schedules(new_vs)
 }
 
 
