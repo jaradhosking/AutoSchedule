@@ -1,12 +1,15 @@
 
 function createSchedule(schedule) {
-    schedule.forEach(course => {
-        createCourseBox(course)
+    schedule.forEach(section => {
+        createCourseBox(section)
     })
 }
 
 
 
-function createCourseBox(course) {
-    
+function createCourseBoxes(section) {
+    section.timeSlots.forEach(timeSlot => {
+        timeSlot
+    })
+    d3.select(section.)
 }

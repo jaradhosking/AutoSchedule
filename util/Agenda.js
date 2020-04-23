@@ -1,5 +1,10 @@
 class Agenda {
     constructor(dow, start, end) {
+        //dow single letter.  U,M,T,W,R,F,S
+        //start and end in form 1430
+        this.dow = dow
+        this.startFancy = start.substring(0,2) + ":" + start.substring(2)
+        this.endFancy = end.substring(0,2) + ":" + end.substring(2)
         var days = 0
         if (dow == 'U') {
             days = 0
