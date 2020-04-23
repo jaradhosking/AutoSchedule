@@ -66,13 +66,10 @@
         </div>
 
         <div class="form-group">
-          <form class="form-inline my-2 my-lg-0">
-            <input class="form-control mr-sm-2 col-md-10" style="font-size:14px" type="search" placeholder="Required Courses: MATH2551, CS1332, etc." aria-label="Search">
-          </form>
-        </div> 
-        <div class="form-group">
-          <form class="form-inline my-2 my-lg-0">
-            <input class="form-control mr-sm-2 col-md-10" style="font-size:14px" type="search" placeholder="Optional Courses: AE3610, CX4242, etc." aria-label="Search">
+          <form class="form-inline my-2 my-lg-0" name="myform" onSubmit="return handleClick()">
+            <input class="form-control mr-sm-2 col-md-10" style="font-size:14px" type="text" placeholder="Required Courses: MATH2551, CS1332, etc." aria-label="Search" id="req">
+            <input class="form-control mr-sm-2 col-md-10" style="font-size:14px" type="text" placeholder="Optional Courses: AE3610, CX4242, etc." aria-label="Search" id="opt">
+            <input name="Submit" type="submit" value="Submit">
           </form>
         </div>
 
@@ -129,7 +126,6 @@
               <option>21</option>
             </select>
           </div>
-          <button type="button">Make Schedules!</button>
         </div>
     </div>
 
@@ -303,5 +299,11 @@
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
   <script src="assets/js/util.js"></script> 
   <script src="assets/js/main.js"></script>
+  <script>
+    function handleClick(event) {
+      console.log(document.getElementById("req").value);
+      console.log(document.getElementById("opt").value);
+    }
+  </script>
 </body>
 </html>
