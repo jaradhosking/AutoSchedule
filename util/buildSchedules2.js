@@ -2,29 +2,31 @@
 
 
 function createSchedule(schedule) {
+    var i = 0
     schedule.forEach(section => {
-        createCourseBox(section)
+        createCourseBox(section, i)
     })
 }
 
 
 
-function createCourseBoxes(section) {
+function createCourseBoxes(section, i) {
     section.timeSlots.forEach(timeSlot => {
         d3.select('#'+timeSlot.dow)
-            .enter()
+            //.enter()
             .append("li")
             .attr("class","cd-schedule__event")
-            .enter()
+            //.enter()
             .append("a")
             .attr("data-start",timeSlot.startFancy)
             .attr("data-end",timeSlot.startEnd)
             .attr("data-content","event-"+section.course.ID)
+            .attr("data-event","event-"+i.toString())
             .attr("href","#0")
-            .enter()
+            //.enter()
             .append("em")
             .attr("class","cd-schedule__name")
-            .enter()
+            //.enter()
             .text(section.course.ID)
     })
 }
